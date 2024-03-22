@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appmon_BTXT", "Appmon_BTXT\Appmon_BTXT.csproj", "{3E5048E0-07E1-49AE-B6F5-6BC7B45284FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Appmon.Data.BTXT", "Appmon.Data.BTXT\Appmon.Data.BTXT.csproj", "{7E4F0AFD-4F29-408A-BF68-FE1D28BAD991}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".solution-items", ".solution-items", "{1DFDFED4-3797-4D44-ADC8-15563E14A9F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5048E0-07E1-49AE-B6F5-6BC7B45284FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5048E0-07E1-49AE-B6F5-6BC7B45284FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5048E0-07E1-49AE-B6F5-6BC7B45284FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5048E0-07E1-49AE-B6F5-6BC7B45284FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4F0AFD-4F29-408A-BF68-FE1D28BAD991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4F0AFD-4F29-408A-BF68-FE1D28BAD991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4F0AFD-4F29-408A-BF68-FE1D28BAD991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4F0AFD-4F29-408A-BF68-FE1D28BAD991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0A5803-0C2D-4322-8BBB-640AE394C15C}
+	EndGlobalSection
+EndGlobal
