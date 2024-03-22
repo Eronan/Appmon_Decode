@@ -9,7 +9,7 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
 
     public BtxtFile ReadBtxtFileFromStream(Stream stream)
     {
-        using BinaryReader reader = new BinaryReader(stream);
+        using var reader = new BinaryReader(stream);
         var header = reader.ReadBytes(8);
         if (!header.SequenceEqual(btxtHeader))
         {
@@ -23,11 +23,11 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
 
         // Read label metadata
         var stringsPerLabel = new Dictionary<BtxtLabel, uint>();
-        for (int i = 0; i < labelCount; i++)
+        for (var i = 0; i < labelCount; i++)
         {
             var stringsInLabel = reader.ReadUInt32();
             var values = new List<BtxtString>();
-            for (int j = 0; j < stringsInLabel; j++)
+            for (var j = 0; j < stringsInLabel; j++)
             {
                 var id = reader.ReadUInt32();
                 values.Add(new()
@@ -95,7 +95,7 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
 
     public void WriteBtxtFileToStream(BtxtFile btxtFile, Stream stream)
     {
-        using BinaryWriter writer = new BinaryWriter(stream);
+        using var writer = new BinaryWriter(stream);
 
         // Write header
         writer.Write(btxtHeader);
@@ -123,13 +123,14 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
                 writer.Write((uint)0); // Placeholder for start offset
                 writer.Write((uint)0); // Placeholder for end offset
             }
+
             var labelEndOffset = writer.BaseStream.Position;
 
             // Update start offsets
             foreach (var value in label.Values)
             {
-                writer.Seek((int)(labelStartOffset + value.Id * 8), SeekOrigin.Begin);
-                writer.Write((uint)(labelStartOffset + value.Id * 8 + 4)); // Update start offset
+                writer.Seek((int) (labelStartOffset + (value.Id * 8)), SeekOrigin.Begin);
+                writer.Write((uint) (labelStartOffset + (value.Id * 8) + 4)); // Update start offset
                 writer.Seek(0, SeekOrigin.End);
             }
 
@@ -157,5 +158,4 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
 
         writer.Close();
     }
-
 }
