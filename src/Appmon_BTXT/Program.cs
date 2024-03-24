@@ -12,9 +12,10 @@ internal class Program
 
     private static void Main(string[] args)
     {
-        if (Array.Exists(args, arg => arg is "-h" or "--help"))
+        if (args.Length == 0 || Array.Exists(args, arg => arg is "-h" or "--help"))
         {
             Console.WriteLine("Appmon_BTXT.exe [-o (R|W)] [-b (BTXT File Path)] [-x (XML File Path)]");
+            return;
         }
 
         var operationInput = ReadArgument(args, "-o", "Would you like to read or write to a BTXT File (r/w): ", input =>

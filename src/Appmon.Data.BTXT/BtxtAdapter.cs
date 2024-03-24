@@ -47,37 +47,37 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
 
         // Get length of label Keys
         var labelLengths = new Dictionary<BtxtLabel, int>();
+        var startOffset = reader.ReadUInt32();
         foreach (var label in labels)
         {
-            var startOffset = reader.ReadUInt32();
             var endOffset = reader.ReadUInt32();
-
             var length = (int)endOffset - (int)startOffset;
             labelLengths.Add(label, length);
+            startOffset = endOffset;
         }
 
         // Get length of each string value
         var valueLengths = new Dictionary<BtxtString, int>();
+        int valuesProcessed = 0;
         foreach (var value in labels.SelectMany(label => label.Values))
         {
-            var endOffset = reader.ReadUInt32();
-            var startOffset = reader.ReadUInt32();
+            valuesProcessed++;
+            var endOffset = valuesProcessed != stringCount ? reader.ReadUInt32() : (uint) reader.BaseStream.Length;
             var length = (int)endOffset - (int)startOffset;
             valueLengths.Add(value, length);
+            startOffset = endOffset;
         }
-
-        var remainingBytes = (uint)reader.BaseStream.Length - (uint)reader.BaseStream.Position;
 
         // Populate label keys
         foreach (var label in labels)
         {
-            label.Key = Encoding.ASCII.GetString(reader.ReadBytes(labelLengths[label]));
+            label.Key = Encoding.ASCII.GetString(reader.ReadBytes(labelLengths[label])).Trim('\0');
         }
 
         // Populate values for all labels
         foreach (var value in labels.SelectMany(x => x.Values))
         {
-            value.Value = Encoding.Unicode.GetString(reader.ReadBytes(valueLengths[value]));
+            value.Value = Encoding.Unicode.GetString(reader.ReadBytes(valueLengths[value])).Trim('\0');
         }
 
         reader.Close();
