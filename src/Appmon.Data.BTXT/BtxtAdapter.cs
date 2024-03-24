@@ -1,6 +1,7 @@
 ﻿namespace Appmon.Data.BTXT;
 
 using Appmon.Data.BTXT.Models;
+using System.Reflection.Emit;
 using System.Text;
 
 internal sealed class BtxtAdapter() : IBtxtAdapter
@@ -57,16 +58,12 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
 
         // Get length of each string value
         var valueLengths = new Dictionary<BtxtString, int>();
-        foreach (var label in labels)
+        foreach (var value in labels.SelectMany(label => label.Values))
         {
-            foreach (var value in label.Values)
-            {
-                var startOffset = reader.ReadUInt32();
-                var endOffset = reader.ReadUInt32();
-
-                var length = (int)endOffset - (int)startOffset;
-                valueLengths.Add(value, length);
-            }
+            var endOffset = reader.ReadUInt32();
+            var startOffset = reader.ReadUInt32();
+            var length = (int)endOffset - (int)startOffset;
+            valueLengths.Add(value, length);
         }
 
         var remainingBytes = (uint)reader.BaseStream.Length - (uint)reader.BaseStream.Position;

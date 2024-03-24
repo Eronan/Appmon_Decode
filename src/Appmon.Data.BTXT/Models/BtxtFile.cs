@@ -8,5 +8,5 @@ public sealed class BtxtFile
 
     public uint NumberOfStrings { get; init; }
 
-    public IEnumerable<BtxtLabel> Labels { get; init; } = Array.Empty<BtxtLabel>();
+    public List<BtxtLabel> Labels { get; init; } = new();
 }
