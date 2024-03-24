@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>51</NumberOfLabels>
+  <NumberOfStrings>51</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>CHR_T_HERO</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179918</Id>
+          <Value>ᰏさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_NAOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>18088209</Id>
+          <Value>ナオトさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_MIO</Key>
+      <Values>
+        <BtxtString>
+          <Id>34865424</Id>
+          <Value>ミオさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_MAKOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>51642641</Id>
+          <Value>マコトさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_YUKARI</Key>
+      <Values>
+        <BtxtString>
+          <Id>68419857</Id>
+          <Value>ユカリさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_OUJI</Key>
+      <Values>
+        <BtxtString>
+          <Id>85197073</Id>
+          <Value>オウジさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_KAGEFUMI</Key>
+      <Values>
+        <BtxtString>
+          <Id>102105362</Id>
+          <Value>カゲフミさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_KAYO</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751504</Id>
+          <Value>カヨさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_RYOJI</Key>
+      <Values>
+        <BtxtString>
+          <Id>135659794</Id>
+          <Value>リョウジさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_WAKABA</Key>
+      <Values>
+        <BtxtString>
+          <Id>152305937</Id>
+          <Value>ワカバさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_ONMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>169214226</Id>
+          <Value>オンモンさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_LOGIMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>185991442</Id>
+          <Value>ロギモンさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_T_BOOTMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>202768659</Id>
+          <Value>ブートモンさんが　ᜀ投稿᠀とうこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_HERO</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890506</Id>
+          <Value>ᰏから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_NAOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>235929871</Id>
+          <Value>ナオトさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_MIO</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576014</Id>
+          <Value>ミオさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_MAKOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>269484303</Id>
+          <Value>マコトさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_YUKARI</Key>
+      <Values>
+        <BtxtString>
+          <Id>286261519</Id>
+          <Value>ユカリさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_OUJI</Key>
+      <Values>
+        <BtxtString>
+          <Id>303038735</Id>
+          <Value>オウジさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_KAGEFUMI</Key>
+      <Values>
+        <BtxtString>
+          <Id>319815952</Id>
+          <Value>カゲフミさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_KAYO</Key>
+      <Values>
+        <BtxtString>
+          <Id>336462094</Id>
+          <Value>カヨさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_RYOJI</Key>
+      <Values>
+        <BtxtString>
+          <Id>353370384</Id>
+          <Value>リョウジさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_WAKABA</Key>
+      <Values>
+        <BtxtString>
+          <Id>370147599</Id>
+          <Value>ワカバさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_ONMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>386924816</Id>
+          <Value>オンモンさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_LOGIMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>403702032</Id>
+          <Value>ロギモンさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_BOOTMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>420610321</Id>
+          <Value>ブートモンさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_MCMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>437387538</Id>
+          <Value>エムシーモンさんから　メッセージです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_M_TO_NAOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>454557973</Id>
+          <Value>ナオトさんに　メッセージを　ᜀ送᠀おくᤀりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_HERO</Key>
+      <Values>
+        <BtxtString>
+          <Id>470679820</Id>
+          <Value>ᰏさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_NAOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>487588111</Id>
+          <Value>ナオトさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_MIO</Key>
+      <Values>
+        <BtxtString>
+          <Id>504234254</Id>
+          <Value>ミオさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_MAKOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>521142543</Id>
+          <Value>マコトさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_YUKARI</Key>
+      <Values>
+        <BtxtString>
+          <Id>537919759</Id>
+          <Value>ユカリさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_OUJI</Key>
+      <Values>
+        <BtxtString>
+          <Id>554696975</Id>
+          <Value>オウジさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_KAGEFUMI</Key>
+      <Values>
+        <BtxtString>
+          <Id>571474192</Id>
+          <Value>カゲフミさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_KAYO</Key>
+      <Values>
+        <BtxtString>
+          <Id>588120334</Id>
+          <Value>カヨさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_RYOJI</Key>
+      <Values>
+        <BtxtString>
+          <Id>605028624</Id>
+          <Value>リョウジさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_WAKABA</Key>
+      <Values>
+        <BtxtString>
+          <Id>621805839</Id>
+          <Value>ワカバさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_ONMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>638583056</Id>
+          <Value>オンモンさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_LOGIMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>655360272</Id>
+          <Value>ロギモンさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_BOOTMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>672268561</Id>
+          <Value>ブートモンさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_C_MCMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>689045778</Id>
+          <Value>エムシーモンさんが　コメントしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_NAOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>706085138</Id>
+          <Value>ナオトさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_MIO</Key>
+      <Values>
+        <BtxtString>
+          <Id>722731281</Id>
+          <Value>ミオさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_MAKOTO</Key>
+      <Values>
+        <BtxtString>
+          <Id>739639570</Id>
+          <Value>マコトさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_YUKARI</Key>
+      <Values>
+        <BtxtString>
+          <Id>756416786</Id>
+          <Value>ユカリさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_OUJI</Key>
+      <Values>
+        <BtxtString>
+          <Id>773194002</Id>
+          <Value>オウジさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_KAGEFUMI</Key>
+      <Values>
+        <BtxtString>
+          <Id>789971219</Id>
+          <Value>カゲフミさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_KAYO</Key>
+      <Values>
+        <BtxtString>
+          <Id>806617361</Id>
+          <Value>カヨさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_RYOJI</Key>
+      <Values>
+        <BtxtString>
+          <Id>823525651</Id>
+          <Value>リョウジさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CHR_F_WAKABA</Key>
+      <Values>
+        <BtxtString>
+          <Id>840302866</Id>
+          <Value>ワカバさんと　ᜀ友᠀ともᤀだちになりました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

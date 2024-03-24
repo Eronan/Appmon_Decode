@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>1</NumberOfLabels>
+  <NumberOfStrings>1</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>5243675</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ強᠀つよᤀきᜀ者᠀ものᤀ　サイバーアリーナの　ᜀ頂᠀いただきᤀでᜀ待᠀まᤀつ
+すべてを　ᜀ出᠀だᤀして　ᜀ臨᠀のぞᤀむべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

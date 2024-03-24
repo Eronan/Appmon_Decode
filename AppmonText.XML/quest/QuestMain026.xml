@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786700</Id>
+          <Value>Ｅランクマスターとバトル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432842</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39453466</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987274</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>73007898</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541706</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106562330</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096138</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>140116762</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650570</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173671194</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205002</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>207225626</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759434</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240780058</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313866</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274334490</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868298</Id>
+          <Value>ユカリ先輩に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307888922</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324666138</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ごたごたで　ユカリᜀ先輩᠀せんぱいᤀと
+ランカーバトルするのを　ᜀ忘᠀わすᤀれていた！
+ᜀ先輩᠀せんぱいᤀは　ᜀ学校᠀がっこうᤀの　ᜀ入口᠀いりぐちᤀに　いる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>12</NumberOfLabels>
+  <NumberOfStrings>12</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>786696</Id>
+          <Value>ᜀ負᠀まᤀけちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19268368</Id>
+          <Value>なんだよ
+ここで　ᜀ負᠀まᤀけちゃあ
+ᜀ話᠀はなしᤀに　ならないじゃないか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36045326</Id>
+          <Value>ᜀ次᠀つぎᤀは　ᜀ負᠀まᤀけないように
+しっかり　そなえて　ᜀ来᠀きᤀな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53478163</Id>
+          <Value>おっ　ᜀ来᠀きᤀたᜀ来᠀きᤀた
+それじゃあ　ᜀ試練᠀しれんᤀ　オレとのバトル
+いってみよーか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69075724</Id>
+          <Value>くっ…
+オレに　ᜀ勝᠀かᤀつなんて
+なかなか　やるじゃないか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88605466</Id>
+          <Value>だが　しかし！！
+オレは　ミハマᜀ団᠀だんᤀ　ᜀ最弱᠀さいじゃくᤀの　ᜀ男᠀おとこᤀ！！
+オレにᜀ勝᠀かᤀっても　ᜀ自慢᠀じまんᤀにならないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>104071953</Id>
+          <Value>ええ！　ᜀ最弱᠀さいじゃくᤀᤀなの！？
+だったら　なんで　アプモンバトルを
+ᜀ試練᠀しれんᤀにしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>120455951</Id>
+          <Value>だって　どれだけ　ᜀ弱᠀よわᤀくても
+やっぱり　アプモンバトルが
+ᜀ好᠀すᤀきなんだもーん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>136970772</Id>
+          <Value>いいぜ　ᜀ認᠀みとᤀめてやる！
+オレの　ᜀ試練᠀しれんᤀは　ᜀ合格᠀ごうかくᤀだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152961806</Id>
+          <Value>ᰏは
+ミハマᜀ団᠀だんᤀの　ᜀ試練᠀しれんᤀを
+クリアした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>167903488</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_23_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187564563</Id>
+          <Value>なんだか　テメーのこと　ᜀ気᠀きᤀにいったぜ
+このあとも　ᜀ試練᠀しれんᤀ　がんばれよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

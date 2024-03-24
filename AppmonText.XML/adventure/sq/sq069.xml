@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>1</NumberOfLabels>
+  <NumberOfStrings>1</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_10_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>262404</Id>
+          <Value>テキスト</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

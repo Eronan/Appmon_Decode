@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>8</NumberOfLabels>
+  <NumberOfStrings>8</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>917770</Id>
+          <Value>マコト　ᜀ強᠀つよᤀいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>18612750</Id>
+          <Value>あの　ナオトが
+ずっと　ᜀ押᠀おᤀされᜀ気味᠀ぎみᤀだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>35389965</Id>
+          <Value>これが　Ａランクマスターの
+ᜀ実力᠀じつりょくᤀか…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>53609235</Id>
+          <Value>Ａランクマスター…
+もうᜀ少᠀すこᤀし　ᜀ楽᠀たのᤀしませてもらえると
+ᜀ思᠀おもᤀってたんだがな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>67371268</Id>
+          <Value>………！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_05</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672777</Id>
+          <Value>ᜀ期待᠀きたいᤀはずれだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>102760977</Id>
+          <Value>あの　ナオトが
+ずっと　ᜀ押᠀おᤀされᜀ気味᠀ぎみᤀ　なんて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>119407117</Id>
+          <Value>これが　Aランクマスターの
+ᜀ実力᠀じつりょくᤀなのね…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

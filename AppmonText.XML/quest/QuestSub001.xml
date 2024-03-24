@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786700</Id>
+          <Value>ミオのスマホがおかしいの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694990</Id>
+          <Value>ミオのスマホのARダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880599</Id>
+          <Value>ミオのスマホの　ᜀ電源᠀でんげんᤀがᜀ入᠀はいᤀらないのは
+アプモンのせいかも　しれない！
+ARダンジョンで　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249422</Id>
+          <Value>ミオのスマホのARダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435031</Id>
+          <Value>ミオのスマホの　ᜀ電源᠀でんげんᤀがᜀ入᠀はいᤀらないのは
+アプモンのせいかも　しれない！
+ARダンジョンで　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803854</Id>
+          <Value>ミオのスマホのARダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989459</Id>
+          <Value>ARダンジョンの　ᜀ奥᠀おくᤀにいた
+ガッチモンと　ᜀ協力᠀きょうりょくᤀして
+ᜀ真犯人᠀しんはんにんᤀを　ᜀ見᠀みᤀつけだそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>ミオに報告しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>137626384</Id>
+          <Value>バイラモンは　ミオのスマホから
+ᜀ逃᠀にᤀげていったみたいだ…
+ミオに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>ミオに報告しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171180816</Id>
+          <Value>バイラモンは　ミオのスマホから
+ᜀ逃᠀にᤀげていったみたいだ…
+ミオに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>ミオに報告しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>204735248</Id>
+          <Value>バイラモンは　ミオのスマホから
+ᜀ逃᠀にᤀげていったみたいだ…
+ミオに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>ミオに報告しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238289680</Id>
+          <Value>バイラモンは　ミオのスマホから
+ᜀ逃᠀にᤀげていったみたいだ…
+ミオに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>ミオに報告しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>271844112</Id>
+          <Value>バイラモンは　ミオのスマホから
+ᜀ逃᠀にᤀげていったみたいだ…
+ミオに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>ミオに報告しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305398544</Id>
+          <Value>バイラモンは　ミオのスマホから
+ᜀ逃᠀にᤀげていったみたいだ…
+ミオに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322831128</Id>
+          <Value>ミオの　スマホのᜀ異常᠀いじょうᤀは
+バイラモンのせいだった！
+ちゃんと　ᜀ直᠀なおᤀったみたいで　ひとᜀ安心᠀あんしんᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

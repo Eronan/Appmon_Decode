@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>12</NumberOfLabels>
+  <NumberOfStrings>12</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>APP_HEADER_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179918</Id>
+          <Value>アプᜀ合体選択᠀がったいせんたくᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APP_HEADER_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>18743822</Id>
+          <Value>メインにセットしたアプモンを
+アプᜀ合体᠀がったいᤀさせます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONFIRM_APPLINK</Key>
+      <Values>
+        <BtxtString>
+          <Id>35914253</Id>
+          <Value>ᰁをᬀᜀ個᠀こᤀᜀ使用᠀しようᤀして
+アプᜀ合体᠀がったいᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_APPLINK</Key>
+      <Values>
+        <BtxtString>
+          <Id>52036105</Id>
+          <Value>アプᜀ合体᠀がったいᤀで
+ᰀをᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_ELEMENT_PATCH</Key>
+      <Values>
+        <BtxtString>
+          <Id>68289034</Id>
+          <Value>ᰀを
+×　ᰁ　ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_MAJOR_VER</Key>
+      <Values>
+        <BtxtString>
+          <Id>85459722</Id>
+          <Value>ᰀの
+メジャーバージョンが
+ᬁᜀ上᠀あᤀがった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CANNOT_APPLINK_SAME_RACE</Key>
+      <Values>
+        <BtxtString>
+          <Id>103285265</Id>
+          <Value>ᜀ同᠀おなᤀじᜀ種類᠀しゅるいᤀのアプモンでは
+アプᜀ合体᠀がったいᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CANNOT_APPLINK_NOT_HAVE_APPMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>120324878</Id>
+          <Value>ᜀ必要᠀ひつようᤀなアプモンが
+ᜀ足᠀たᤀりないため
+アプᜀ合体᠀がったいᤀはできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CANNOT_APPLINK_EVO_STONE_NUM</Key>
+      <Values>
+        <BtxtString>
+          <Id>136184333</Id>
+          <Value>ᰁがᜀ足᠀たᤀりないため
+アプᜀ合体᠀がったいᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CANNOT_APPLINK_NO_APPMON_IN_DECK</Key>
+      <Values>
+        <BtxtString>
+          <Id>154010132</Id>
+          <Value>５ᜀ体未満᠀たいみまんᤀになるデッキがあるため
+アプᜀ合体᠀がったいᤀすることができません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>WARNING_APPLINK_JOINED_IN_DECK</Key>
+      <Values>
+        <BtxtString>
+          <Id>171180818</Id>
+          <Value>アプリデッキにᜀ編成中᠀へんせいちゅうᤀの
+アプモンがᜀ選択᠀せんたくᤀされていますが
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>WARNING_APPLINK_COST_OVER</Key>
+      <Values>
+        <BtxtString>
+          <Id>187040524</Id>
+          <Value>コストをオーバーするため
+デッキからᜀ外᠀はずᤀれますが
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

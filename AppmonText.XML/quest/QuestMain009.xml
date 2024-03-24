@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179918</Id>
+          <Value>ᜀ帰᠀かえᤀってきてエムシーモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694990</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404886</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249422</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959318</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803854</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513750</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358286</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068182</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912718</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622614</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467150</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177046</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021582</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731478</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576014</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285910</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130446</Id>
+          <Value>ヒフミが丘・ガソリンスタンド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840342</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323617558</Id>
+          <Value>エムシーモンを　ᜀ探᠀さがᤀしてこよう
+ᜀ彼᠀かれᤀが　サイバーアリーナに　ᜀ戻᠀もどᤀったとき
+ᜀ今度᠀こんどᤀこそ　ハイエンドＧＰが　はじまる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3801879</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「ハイエンドＧＰ　Ｅランク」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841245</Id>
+          <Value>「ハイエンドＧＰ　Ｅランク」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>36438802</Id>
+          <Value>よう　ᰏ！
+サイバーアリーナで　ᜀ会᠀あᤀうなんてな！
+ここでも　１ゲーム　たのむよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>53346837</Id>
+          <Value>ᜀ見᠀みᤀえる…　ᜀ見᠀みᤀえます…
+ワタシの　ᜀ勝利᠀しょうりᤀする　ᜀ未来᠀みらいᤀ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>70648597</Id>
+          <Value>どーも　アタシが　ᜀ対戦相手᠀たいせんあいてᤀね
+まあ　ゆるっと　ごりっと　やるから
+よろしく　ってことで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>86901267</Id>
+          <Value>あなたが　ᜀ対戦相手᠀たいせんあいてᤀですね
+どうぞ　おᜀ手᠀てᤀᜀ合᠀あᤀわせ　ねがいます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>103416587</Id>
+          <Value>あんまり　のぼせてると
+ᜀ痛᠀いたᤀいᜀ目᠀めᤀみるわよ～
+ヤケドさせちゃうから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>121373459</Id>
+          <Value>ふふん　ᜀ計算᠀けいさんᤀによれば
+ボクたちが　ᜀ負᠀まᤀけるᜀ可能性᠀かのうせいᤀは
+１ヨクトグラムも　ありませんね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>138412823</Id>
+          <Value>ゴホッ　ケホッ…　サプリモンを…
+アプリンクすれば　ᜀ状態異常᠀じょうたいいじょうᤀを
+ᜀ受᠀うᤀけなくな…　ゲホッ　ゲホッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

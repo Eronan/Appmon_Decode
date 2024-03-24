@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>10</NumberOfLabels>
+  <NumberOfStrings>10</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>SELECT_APPMON_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917770</Id>
+          <Value>アプモンᜀ選択᠀せんたくᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_APPMON_CAPTION_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>20185871</Id>
+          <Value>ソーシャルᜀ属性᠀ぞくせいᤀから
+ᜀ手伝᠀てつだᤀってもらうアプモンを
+ᜀ選択᠀せんたくᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_APPMON_CAPTION_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>36700943</Id>
+          <Value>ナビᜀ属性᠀ぞくせいᤀから
+ᜀ手伝᠀てつだᤀってもらうアプモンを
+ᜁ選択᠀せんたくᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_APPMON_CAPTION_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>53609231</Id>
+          <Value>システムᜀ属性᠀ぞくせいᤀから
+ᜀ手伝᠀てつだᤀってもらうアプモンを
+ᜂ選択᠀せんたくᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_APPMON_CAPTION_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>70386447</Id>
+          <Value>エンタメᜀ属性᠀ぞくせいᤀから
+ᜀ手伝᠀てつだᤀってもらうアプモンを
+ᜃ選択᠀せんたくᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_APPMON_CAPTION_05</Key>
+      <Values>
+        <BtxtString>
+          <Id>87163663</Id>
+          <Value>ライフᜀ属性᠀ぞくせいᤀから
+ᜀ手伝᠀てつだᤀってもらうアプモンを
+ᜄ選択᠀せんたくᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_APPMON_CAPTION_06</Key>
+      <Values>
+        <BtxtString>
+          <Id>103940879</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀから
+ᜀ手伝᠀てつだᤀってもらうアプモンを
+ᜅ選択᠀せんたくᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_APPMON_CAPTION_07</Key>
+      <Values>
+        <BtxtString>
+          <Id>120718095</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀから
+ᜀ手伝᠀てつだᤀってもらうアプモンを
+ᜆ選択᠀せんたくᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONFIRMATION</Key>
+      <Values>
+        <BtxtString>
+          <Id>135528974</Id>
+          <Value>ᰀに
+ᜀ手伝᠀てつだᤀってもらいますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RETRY</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650567</Id>
+          <Value>やりᜀ直᠀なおᤀす？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

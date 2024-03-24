@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>70</NumberOfLabels>
+  <NumberOfStrings>70</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2229004</Id>
+          <Value>あーっ　もう！
+またᜀ来᠀きᤀた！
+ᜀ困᠀こまᤀったなー　もう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>どうしたんです？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34603276</Id>
+          <Value>これだよ　ᜀ俺᠀おれᤀのスマホ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53609233</Id>
+          <Value>ᜀ見᠀みᤀてくれ
+ᜀ次᠀つぎᤀから　ᜀ次᠀つぎᤀへと
+ニュースᜀ記事᠀きじᤀが　ᜀ届᠀とどᤀくんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69600019</Id>
+          <Value>えっと
+「フロスキーᜀ氏᠀しᤀ
+　ニューヨークで　ᜀ入浴᠀にゅうよくᤀ！？」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87294746</Id>
+          <Value>「どうなんです？
+　ちまたを　さわがす
+　ᜀ東南᠀とうなんᤀエリアの　ᜀ盗難事件᠀とうなんじけんᤀ！？」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103285516</Id>
+          <Value>「ᜀ景気低迷᠀けいきていめいᤀ
+　ᜀ物価᠀ぶっかᤀ　だぶつき
+　ブッカブカ！？」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096137</Id>
+          <Value>なんですか　これ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137888529</Id>
+          <Value>ビジネスᜀ用᠀ようᤀの　ネタをᜀ探᠀さがᤀして
+ᜀ世界᠀せかいᤀのおもしろニュースを
+ᜀ調᠀しらᤀべていたんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>155452185</Id>
+          <Value>ᜀ最初᠀さいしょᤀは　おもしろくて
+ᜀ最新᠀さいしんᤀニュースを　ᜀ自動着信᠀じどうちゃくしんᤀに
+ᜀ設定᠀せっていᤀしていたんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170394382</Id>
+          <Value>なんだか　アプリが
+ツボに　はまっちゃって
+ᜀ止᠀とᤀまらなくなっちゃったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>188875539</Id>
+          <Value>ᜀ読᠀よᤀみきれないから　もう　いらないって
+ᜀ解除᠀かいじょᤀしているんだけど
+ᜀ次々᠀つぎつぎᤀと　ニュースがᜀ届᠀とどᤀくんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>202768909</Id>
+          <Value>ほらね！
+ᜀ今度᠀こんどᤀの　ニュースは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221381396</Id>
+          <Value>あーっ！
+ついつい　ニュースをᜀ読᠀よᤀんじゃう！
+これじゃあ　ᜀ仕事᠀しごとᤀが　できないよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>236454668</Id>
+          <Value>………
+なんだか　おかしなコトに
+なっているな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838413</Id>
+          <Value>これって
+アプモンの　イタズラじゃ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271450645</Id>
+          <Value>「ヘンテコニュースのᜀ謎᠀なぞᤀをᜀ調᠀しらᤀべる？」
+このクエストを　ᜀ受᠀うᤀけますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>285344000</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>302121216</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>322175759</Id>
+          <Value>また　ᜀ今度᠀こんどᤀでいいか
+このᜀ人᠀ひとᤀも　ニュースᜀ読᠀よᤀむの
+キライじゃ　なさそうだし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>338559758</Id>
+          <Value>うん　やっぱり　ᜀ気᠀きᤀになるな
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>356385558</Id>
+          <Value>あーっ　またᜀ来᠀きᤀた！
+ニュースのᜀ着信᠀ちゃくしんᤀが　ᜀ止᠀とᤀまらなくって
+ᜀ仕事᠀しごとᤀが　できないよーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>371458830</Id>
+          <Value>きっと　このＡＲダンジョンに
+イタズラしている　アプモンが
+いるんだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>388498190</Id>
+          <Value>おまえが
+ニュースを　ᜀ次々᠀つぎつぎᤀと
+ᜀ送᠀おくᤀってくるアプモンだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>404488973</Id>
+          <Value>ワッシは
+ニュースアプリの
+ニュースモン　なんだよねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>422445840</Id>
+          <Value>ニュースモン！
+ニュースが　ᜀ多᠀おおᤀすぎて
+このᜀ人᠀ひとᤀが　ᜀ困᠀こまᤀっているんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>438043149</Id>
+          <Value>ᜀ人᠀ひとᤀが　イヤがるᜀ事᠀ことᤀは
+もう　やめろよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>455607056</Id>
+          <Value>ニュースを　ᜀ配信᠀はいしんᤀするのが
+ワッシの
+ᜀ生᠀いᤀきがいなんだよねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>472777488</Id>
+          <Value>ワッシの　ジャマするやつは
+ᜀ次᠀つぎᤀのニュースの
+ᜀ見出᠀みだᤀしに　してやるんだよねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>488243980</Id>
+          <Value>ᰏ
+ニュースモンに　いどむも
+コテンパーン！　ってね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>507773719</Id>
+          <Value>オレのᜀ名前᠀なまえᤀ　ᜀ勝手᠀かってᤀに　ᜀ使᠀つかᤀうなよ！
+そんな　はずかしい　ᜀ見出᠀みだᤀしで
+ニュースに　されてたまるかっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>521536268</Id>
+          <Value>ᰏ
+ニュースモンに　いどむも
+コテンパーン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>538050831</Id>
+          <Value>ワッシの　ᜀ言᠀いᤀったとおりだねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>555090444</Id>
+          <Value>うるさい！
+こんどは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>571867660</Id>
+          <Value>コテンパンに　されたのは
+ワッシだったのねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>589562639</Id>
+          <Value>ニュースモン
+もう　ᜀ人᠀ひとᤀがイヤがるᜀ事᠀ことᤀは
+しないようにな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>606077710</Id>
+          <Value>でも　ワッシ
+イヤがらせで　やったワケじゃ
+なかったんだよねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>621281797</Id>
+          <Value>え？
+そうなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>640549648</Id>
+          <Value>ワッシは　おもしろニュース
+たくさんのᜀ人᠀ひとᤀに
+ᜀ楽᠀たのᤀしんでもらいたかったのねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>657982225</Id>
+          <Value>このᜀ男᠀おとこᤀ　ワッシの　ᜀ送᠀おくᤀった
+ニュースを　たくさんᜀ読᠀よᤀんで
+よろこんでくれていたのねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>673579793</Id>
+          <Value>それじゃあ　もっと
+よろこばそうと
+ᜀ調子᠀ちょうしᤀに　のっちゃったのねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>691143440</Id>
+          <Value>ニュースを　ᜀ集᠀あつᤀめて
+ᜀ届᠀とどᤀけるのに　ムチュウになって
+ワレを　わすれちゃったのねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>706347537</Id>
+          <Value>ホント　いきすぎ
+よけいな　おセワ　しすぎたのよねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>724304655</Id>
+          <Value>うーん　ゲームもそうだけど
+なんでも　ほどほどが
+ᜀ一番᠀いちばんᤀ　おもしろいんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>739639821</Id>
+          <Value>やりすぎは
+いろいろ　ᜀ良᠀よᤀくないからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>756941331</Id>
+          <Value>わかったねー
+これから　ワッシ　ᜀ注意᠀ちゅういᤀするねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>775291666</Id>
+          <Value>よし　これで　スマホのᜀ持᠀もᤀちᜀ主᠀ぬしᤀも
+ᜀ安心᠀あんしんᤀして　おᜀ仕事᠀しごとᤀ
+できるだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>791020050</Id>
+          <Value>ニュースが　ᜀ次々᠀つぎつぎᤀとᜀ届᠀とどᤀくの
+ᜀ止᠀とᤀまりましたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>808059666</Id>
+          <Value>あぁ
+あれだけ　ᜀ届᠀とどᤀいていた　ニュースが
+パッタリと　ᜀ来᠀こᤀなくなったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>822608135</Id>
+          <Value>よかったですね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>840565266</Id>
+          <Value>でもね…
+ニュースが　ᜀ来᠀こᤀなくなったおかげで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>859964181</Id>
+          <Value>ᜀ世間᠀せけんᤀで　ᜀ何᠀なにᤀか　おもしろいᜀ事᠀ことᤀが
+おこっているんじゃないかって
+ᜀ気᠀きᤀになって　ᜀ気᠀きᤀになって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>874119443</Id>
+          <Value>ᜀ仕事᠀しごとᤀが　ᜀ手᠀てᤀにつかないんだよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>889454852</Id>
+          <Value>あはは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>908984851</Id>
+          <Value>ᜀ次々᠀つぎつぎᤀ　ニュースが　ᜀ届᠀とどᤀく
+あの　なつかしいᜀ日々᠀ひびᤀを　もとめて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>926286614</Id>
+          <Value>ᜀ俺᠀おれᤀは　スマホの　ニュースを
+あさるのさ！
+たとえ　ᜀ仕事᠀しごとᤀが　ᜀ進᠀すすᤀまなくってもね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>941097488</Id>
+          <Value>うーん
+いろいろな　ᜀ人᠀ひとᤀがいるもんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>959578896</Id>
+          <Value>おもしろい　ニュースを　もとめて
+ᜀ今日᠀きょうᤀも　ᜀ俺᠀おれᤀは
+スマホに　ムチュウ　なのさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>974652172</Id>
+          <Value>………
+なんだか　おかしなコトに
+なっているわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>993264399</Id>
+          <Value>また　ᜀ今度᠀こんどᤀでいいかな
+このᜀ人᠀ひとᤀも　ニュースᜀ読᠀よᤀむの
+キライじゃ　なさそうだし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009779471</Id>
+          <Value>うん　やっぱり　ᜀ気᠀きᤀになるわね
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025639182</Id>
+          <Value>きっと　このＡＲダンジョンに
+イタズラしている　アプモンが
+いるのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042678541</Id>
+          <Value>アナタが
+ニュースを　ᜀ次々᠀つぎつぎᤀと
+ᜀ送᠀おくᤀってくるアプモンね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059980048</Id>
+          <Value>ニュースモン！
+ニュースが　ᜀ多᠀おおᤀすぎて
+このᜀ人᠀ひとᤀが　ᜀ困᠀こまᤀっているのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075708429</Id>
+          <Value>ᜀ人᠀ひとᤀが　イヤがるᜀ事᠀ことᤀは
+もう　やめなさい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1095238425</Id>
+          <Value>ワタシのᜀ名前᠀なまえᤀ　ᜀ勝手᠀かってᤀに　ᜀ使᠀つかᤀわないで！
+そんな　はずかしい　ᜀ見出᠀みだᤀしで
+ニュースに　されるのはイヤよっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109000719</Id>
+          <Value>うるさいわね！
+こんどは　ᜀ負᠀まᤀけないんだから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126433551</Id>
+          <Value>ニュースモン
+もう　ᜀ人᠀ひとᤀがイヤがるᜀ事᠀ことᤀは
+しちゃダメよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143603982</Id>
+          <Value>うーん　ゲームもそうだけど
+なんでも　ほどほどが
+ᜀ一番᠀いちばんᤀ　おもしろいのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_08_047_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161167634</Id>
+          <Value>よし　これで　スマホのᜀ持᠀もᤀちᜀ主᠀ぬしᤀも
+ᜀ安心᠀あんしんᤀして　おᜀ仕事᠀しごとᤀ
+できるハズだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>スワイプモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22283034</Id>
+          <Value>スワイプモンは　スワイプのアプリ！
+ᜀ常識᠀じょうしきᤀだけど　スワイプは　スマホᜀ画面᠀がめんᤀで
+ᜀ指᠀ゆびᤀを　シャッとᜀ滑᠀すべᤀらせる　ᜀ操作᠀そうさᤀだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38273813</Id>
+          <Value>ᜀ左右᠀さゆうᤀに　でっぱっているのは　ᜀ耳᠀みみᤀ！
+ᜀ体当᠀たいあᤀたりのときに　ᜀ使᠀つかᤀわれるけど
+かなり　プニプニしてる　らしいぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

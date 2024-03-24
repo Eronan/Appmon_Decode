@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>7</NumberOfLabels>
+  <NumberOfStrings>7</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262403</Id>
+          <Value>マコト</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>19530259</Id>
+          <Value>マコトは　ホテルアプリの　ヤドモンを
+バディにᜀ持᠀もᤀつ　アプリドライヴァーだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749527</Id>
+          <Value>えーと　それから…　あッ！？
+ヤドモンが　ᜀ検索結果᠀けんさくけっかᤀを　ᜀ持᠀もᤀって
+ホテルに　ᜀ引᠀ひᤀきこもっちまった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55051034</Id>
+          <Value>ᜀ改᠀あらたᤀめて…　サイバーアリーナ
+Ａランクマスター　マコト！
+ᜀ爪᠀つめᤀをᜀ隠᠀かくᤀした　ᜀ眠᠀ねむᤀれるᜀ獅子᠀ししᤀ…　なんてな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71303956</Id>
+          <Value>ヤドモンのヤツ　マコトがイヤがるから
+ᜀ情報᠀じょうほうᤀを　ᜀ隠᠀かくᤀしてたんだとさ！
+いい　バディアプモンだよ　まったく…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>87950098</Id>
+          <Value>オウジや　ナオトに　ᜀ大敗᠀たいはいᤀして
+ᜀ一時᠀いちじᤀは　アプリドライヴァーを
+やめようと　していた　みたいだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>104596245</Id>
+          <Value>ᰏの　おかげで
+ᜀ今᠀いまᤀは　ᜀ楽᠀たのᤀしく　やってるみたいだな
+ライバルの　ᜀ１人᠀ひとりᤀだ！　あなどるなよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

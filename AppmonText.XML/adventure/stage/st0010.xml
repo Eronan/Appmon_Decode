@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>92</NumberOfLabels>
+  <NumberOfStrings>92</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_051_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>393478</Id>
+          <Value>こまったな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_052_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>17170694</Id>
+          <Value>なんでえ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_053_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078983</Id>
+          <Value>ワン！　ツー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_054_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856199</Id>
+          <Value>これ　ノレる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_071_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>67633415</Id>
+          <Value>また　ダメだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_074_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>ふむ　こまったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>103940878</Id>
+          <Value>やってみたいアプリが　
+ᜀ今᠀いまᤀ　ᜀ持᠀もᤀってる　スマホに
+ᜀ対応᠀たいおうᤀしていなくてね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>121635601</Id>
+          <Value>ᜀ新᠀あたらᤀしいのを　ᜀ買᠀かᤀいにきたけど
+ᜀ種類᠀しゅるいᤀが　ᜀ多᠀おおᤀすぎて
+どれを　ᜀ買᠀かᤀえば　いいのやら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>137757460</Id>
+          <Value>はぁ…　ᜀ学生時代᠀がくせいじだいᤀに　もっと
+ᜀ数学᠀すうがくᤀを　ᜀ学᠀まなᤀんでおけば
+よかったなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>155058964</Id>
+          <Value>ぼくは　ゲームプログラマーでね
+ᜀ何᠀なにᤀかと　ᜀ数学᠀すうがくᤀの　ᜀ知識᠀ちしきᤀが
+ᜀ必要᠀ひつようᤀになるんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>169607695</Id>
+          <Value>ᜀ若᠀わかᤀいうちに　いろんなことを
+やっておくといいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>186909199</Id>
+          <Value>ᜀ社会人᠀しゃかいじんᤀになったとき
+ᜀ後悔᠀こうかいᤀしないようにね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>206570259</Id>
+          <Value>ᜀ座᠀すわᤀるᜀ席᠀せきᤀにも　マナーが　あって
+ᜀ入口᠀いりぐちᤀから　ᜀ遠᠀とおᤀいᜀ席᠀せきᤀは
+えらいᜀ人᠀ひとᤀが　ᜀ座᠀すわᤀるᜀ席᠀せきᤀなんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>222298899</Id>
+          <Value>これから　ᜀ上司᠀じょうしᤀと
+ᜀ打᠀うᤀちᜀ合᠀あᤀわせが　あるんだ
+ᜀ座᠀すわᤀるᜀ席᠀せきᤀには　ᜀ気᠀きᤀをつけないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>239338257</Id>
+          <Value>ᜀ働᠀はたらᤀいて　おᜀ金᠀かねᤀを　かせいで
+ᜀ好᠀すᤀきなアプリに　ᜀ課金᠀かきんᤀする
+それが　ぼくの　ᜀ生᠀いᤀきᜀ方᠀かたᤀさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>257557272</Id>
+          <Value>ᜀ休᠀やすᤀみのᜀ日᠀ひᤀも　ᜀ塾᠀じゅくᤀで　ᜀ勉強᠀べんきょうᤀだよ
+はぁ…　ᜀ数学᠀すうがくᤀなんて　ᜀ勉強᠀べんきょうᤀしても
+オトナになったら　ᜀ使᠀つかᤀわないのになぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>270926353</Id>
+          <Value>なあ　ᜀ進路᠀しんろᤀは　もうᜀ決᠀きᤀめた？
+おれは　ᜀ全然᠀ぜんぜんᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>287965968</Id>
+          <Value>ᜀ実᠀じつᤀは　オレ
+かっこいいアプモンより
+かわいいアプモンが　ᜀ好᠀すᤀきなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>304743183</Id>
+          <Value>あそこにいる　フリックモンを
+だきしめたくて　しかたないけど
+ここは　がまんするぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>323093273</Id>
+          <Value>いいᜀ年᠀としᤀした　オトナだけど
+ᜀ新᠀あたらᤀしい　アプᜀ合体᠀がったいᤀを　ᜀ見᠀みᤀつけたときは
+つい　はしゃいでしまうね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>339346195</Id>
+          <Value>ディフェンスが　ᜀ高᠀たかᤀいアプモンには
+クラックの　ᜀ高᠀たかᤀい
+アプモンで　ᜀ特殊攻撃᠀とくしゅこうげきᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>356778775</Id>
+          <Value>セキュリティが　ᜀ高᠀たかᤀいアプモンには
+アタックの　ᜀ高᠀たかᤀいアプモンで
+ᜀ物理攻撃᠀ぶつりこうげきᤀだ！　あたりまえだけどね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>372245015</Id>
+          <Value>さっきから　ᜀ視線᠀しせんᤀを　ᜀ感᠀かんᤀじるでフリック
+ちょっと　ᜀ怖᠀こわᤀいでフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>389284623</Id>
+          <Value>バスを　ᜀ待᠀まᤀっているᜀ間᠀あいだᤀ
+スマホを　いじっているᜀ人᠀ひとᤀが
+ᜀ多᠀おおᤀいフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>404226570</Id>
+          <Value>ᜀ見学᠀けんがくᤀですか？
+どうぞ　ごゆっくり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>421658905</Id>
+          <Value>ᜀ次᠀つぎᤀこそ　ᜀ全国模試᠀ぜんこくもしᤀ　１ᜀ位᠀いᤀをとるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>440926994</Id>
+          <Value>ᜀ最近᠀さいきんᤀ　ᜀ塾᠀じゅくᤀに　はいったの
+ᜀ新᠀あたらᤀしい　ᜀ友᠀ともᤀだちも　できたし
+ᜀ思᠀おもᤀったより　ᜀ楽᠀たのᤀしいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_026_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>457704217</Id>
+          <Value>ワタシも　ᜀ塾᠀じゅくᤀの　ᜀ生徒᠀せいとᤀデス
+ＡＩの　ᜀ向上᠀こうじょうᤀのため　ᜀ派遣᠀はけんᤀされまシタ
+トモダチ　たくさん　できまシタ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>474088212</Id>
+          <Value>ちょっと　ヘンなᜀ先生᠀せんせいᤀも　いるけど
+ᜀ教᠀おしᤀえかたは　すげー　うまいんだ
+おかげで　ᜀ成績᠀せいせきᤀ　あがったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>487981331</Id>
+          <Value>えっ　まだᜀ塾᠀じゅくᤀに　はいってないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>504627720</Id>
+          <Value>いつ　はいるの？
+ᜀ今᠀いまᤀでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>524288791</Id>
+          <Value>ᜀ最近᠀さいきんᤀは　いろんなᜀ学習᠀がくしゅうᤀアプリが
+ᜀ出᠀でᤀてるスワ
+アプモンのᜀ出番᠀でばんᤀも　ᜀ多᠀おおᤀいスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>538968594</Id>
+          <Value>らっしゃーせー
+ごᜀ注文᠀ちゅうもんᤀ　おᜀ決᠀きᤀまりっスか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>557318935</Id>
+          <Value>ᜀ勉強᠀べんきょうᤀは　カフェで　やるようにしてるの
+ᜀ家᠀いえᤀだと　つい　テレビとか
+ᜀ見᠀みᤀちゃうから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>574882579</Id>
+          <Value>ドリンクの　サイズの　ᜀ呼᠀よᤀびᜀ方᠀かたᤀって
+おᜀ店᠀みせᤀによって　ᜀ違᠀ちがᤀうよね
+ᜀ統一᠀とういつᤀしてくれれば　いいのに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>588775946</Id>
+          <Value>おかえりなさいませ
+ごᜀ主人᠀しゅじんᤀさま♪</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>605159948</Id>
+          <Value>…ハッ！
+しまった　つい　クセで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>623510285</Id>
+          <Value>カフェの　ᜀ匂᠀におᤀいって
+ᜀ落᠀おᤀちつくわ…
+もう　カフェに　ᜀ住᠀すᤀみたい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>641205006</Id>
+          <Value>ここの　ᜀ店員᠀てんいんᤀさんは
+かわいいコが　ᜀ多᠀おおᤀいんじゃ
+ᜀ目᠀めᤀの　ᜀ保養᠀ほようᤀじゃのぅ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>657195539</Id>
+          <Value>カフェで　ᜀ仕事᠀しごとᤀしてると
+できるᜀ男᠀おとこᤀっぽく　ᜀ見᠀みᤀえるだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>673317644</Id>
+          <Value>いらっしゃい…ませ…
+あ　あんまり　みられると
+はずかしい…です…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>690225933</Id>
+          <Value>うちの　ロボは
+ᜀ恥᠀はᤀずかしがりᜀ屋᠀やᤀ　なんだ
+かわいいだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>707133968</Id>
+          <Value>スマホを　ᜀ選᠀えらᤀぶとき
+ᜀ何᠀なにᤀを　ᜀ基準᠀きじゅんᤀにしてる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>725615379</Id>
+          <Value>オレは　ᜀ耐久性᠀たいきゅうせいᤀ！
+よく　ᜀ地面᠀じめんᤀに　ᜀ落᠀おᤀとしちゃうから
+タフな　スマホじゃないと　ダメなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>742392596</Id>
+          <Value>ᜀ今᠀いまᤀね　バイトᜀ先᠀さきᤀを　ᜀ探᠀さがᤀしてるの
+このショップ　ᜀ雰囲気᠀ふんいきᤀよさそうだし
+ここに　しようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>757990158</Id>
+          <Value>ᜀ徹夜２日目᠀てつやふつかめᤀ…
+エナジードリンクを　ᜀ飲᠀のᤀめば
+まだ…　がんばれるぞ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>775029527</Id>
+          <Value>アプリも　いいけど
+ᜀ雑誌᠀ざっしᤀで　ᜀ情報᠀じょうほうᤀを　ᜀ集᠀あつᤀめるのも
+いいもんだぜ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>792724244</Id>
+          <Value>ᜀ塾帰᠀じゅくがえᤀりには　コンビニスイーツ！
+ᜀ甘᠀あまᤀいものは　ᜀ疲᠀つかᤀれた　ᜀ脳᠀のうᤀを
+いやしてくれるんだって♪</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>807272977</Id>
+          <Value>あらあら！　まあまあ！
+あなた　アプリドライヴァーさんね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>823001608</Id>
+          <Value>うん　オレはᰏだよ
+キミは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_101_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>839909897</Id>
+          <Value>うん　ワタシはᰏだよ
+アナタは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>857867024</Id>
+          <Value>ᰏちゃんね！
+ᜀ私᠀わたしᤀは　ショッピングのアプリ
+カイモンよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>877003544</Id>
+          <Value>ドライヴァーさんたちの
+おᜀ買᠀かᤀいものを　ᜀ手伝᠀てつだᤀっているの
+ᜀ必要᠀ひつようᤀなᜀ物᠀ものᤀがあれば　ᜀ買᠀かᤀっていってね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>890634766</Id>
+          <Value>うん　ありがとう　カイモン！
+よろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_SHELF1</Key>
+      <Values>
+        <BtxtString>
+          <Id>909771540</Id>
+          <Value>ᜀ雑貨᠀ざっかᤀが　オシャレに　ᜀ置᠀おᤀかれている
+こういうのを　ᜀ飾᠀かざᤀるのって
+センスが　いるだろうなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_BOARD1</Key>
+      <Values>
+        <BtxtString>
+          <Id>926810902</Id>
+          <Value>オススメのメニューが　ᜀ表示᠀ひょうじᤀされている
+カフェラテと　カフェオレって
+ᜀ何᠀なにᤀが　ᜀ違᠀ちがᤀうんだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_CAKE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>941752850</Id>
+          <Value>ショーケースには　ケーキがたくさん！
+ああ…　どれも　おいしそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_TOPPING1</Key>
+      <Values>
+        <BtxtString>
+          <Id>958661139</Id>
+          <Value>ガムシロップや　サトウが
+オシャレな　ᜀ容器᠀ようきᤀに　はいっている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_DEVICE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>976618006</Id>
+          <Value>ᜀ電子᠀でんしᤀマネーで　ピッと　おᜀ会計᠀かいけいᤀ！
+…けど　ᜀ自分᠀じぶんᤀは　ᜀ持᠀もᤀっていない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>993133076</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ᜀ品᠀しなᤀぞろえは　それなり　ってところかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009517076</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ゲームの　おともに　しようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026556436</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ᜀ新商品᠀しんしょうひんᤀは　あるかなあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043333653</Id>
+          <Value>ティッシュや　ᜀ洗剤᠀せんざいᤀなどの
+ᜀ生活用品᠀せいかつようひんᤀも　ᜀ置᠀おᤀいてある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE5</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060635414</Id>
+          <Value>アイスの　ᜀ冷蔵᠀れいぞうᤀケースが　ᜀ置᠀おᤀいてある
+ᜀ暑᠀あつᤀくなると
+つい　ᜀ食᠀たᤀべたくなるなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE6</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075446285</Id>
+          <Value>よくᜀ冷᠀ひᤀえた
+ドリンクが　ᜀ並᠀ならᤀんでる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE7</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093927696</Id>
+          <Value>この　ドリンクケースには
+おᜀ酒᠀さけᤀが　ならんでる…
+ᜀ自分᠀じぶんᤀには　ᜀ用᠀ようᤀがないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_MAGAZINE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110311692</Id>
+          <Value>ᜀ雑誌売᠀ざっしうᤀりᜀ場᠀ばᤀでは
+ゲームの　ᜀ雑誌᠀ざっしᤀを
+つい　さがしてしまう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_CM1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126433295</Id>
+          <Value>ᜀ新商品᠀しんしょうひんᤀの
+ᜀ広告᠀こうこくᤀが　ᜀ流᠀ながᤀれてる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_CM2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143472662</Id>
+          <Value>スマホアプリの　CMに
+アプリᜀ山᠀やまᤀ４７０が　ᜀ出演᠀しゅつえんᤀしてる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_MACHINE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160512018</Id>
+          <Value>ATMや　コピーᜀ機᠀きᤀが　ᜀ置᠀おᤀいてある
+いざってᜀ時᠀ときᤀに　たよりになる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MOBILE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178731285</Id>
+          <Value>ᜀ受付表᠀うけつけひょうᤀの　ᜀ発券機᠀はっけんきᤀだ
+ᜀ順番᠀じゅんばんᤀがᜀ来᠀くᤀると
+ソルティが　ᜀ呼᠀よᤀびにきてくれる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MOBILE2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194984218</Id>
+          <Value>タブレットの　ᜀ最新機種᠀さいしんきしゅᤀが　ならんでる
+…これが　あったら
+もっと　たくさん　ゲームができる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MOBILE3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1213334296</Id>
+          <Value>スマホの　ᜀ最新機種᠀さいしんきしゅᤀが　ならんでる
+ᜀ容量᠀ようりょうᤀアップに　ᜀ軽量化᠀けいりょうかᤀ…
+ᜀ見᠀みᤀてると　どんどん　ᜀ欲᠀ほᤀしくなる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MOBILE4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228407572</Id>
+          <Value>スマホや　タブレットのᜀ見本機᠀みほんきᤀや
+ᜀ周辺機器᠀しゅうへんききᤀなんかが
+たくさん　おいてある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1247675161</Id>
+          <Value>ᜀ自動販売機᠀じどうはんばいきᤀが　おいてある
+おᜀ店᠀みせᤀにᜀ来᠀きᤀた　おᜀ客᠀きゃくᤀさんᜀ向᠀むᤀけに
+おᜀ水᠀みずᤀと　おᜀ茶᠀ちゃᤀは　ᜀ無料᠀むりょうᤀでᜀ出᠀でᤀてくる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_BOARD3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1263403804</Id>
+          <Value>ᜀ掲示板᠀けいじばんᤀには　ᜀ先生向᠀せんせいむᤀけの　おᜀ知᠀しᤀらせや
+ᜀ飲᠀のᤀみᜀ会᠀かいᤀの　ᜀ予定᠀よていᤀなど
+いろんなものが　はられている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BUSSTOP1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278739217</Id>
+          <Value>バスᜀ停᠀ていᤀの　ᜀ時刻表᠀じこくひょうᤀは
+バスの　ᜀ込᠀こᤀみᜀ具合᠀ぐあいᤀも
+わかるようになっている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BUSSTOP2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294598672</Id>
+          <Value>どうやら　バスのᜀ到着᠀とうちゃくᤀが
+３ᜀ分᠀ぷんᤀ　ᜀ遅᠀おくᤀれているらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_FLOWERCLOCK1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1312949010</Id>
+          <Value>ᜀ花᠀はなᤀが　ᜀ今日᠀きょうᤀも　キレイ！
+ボランティアのᜀ人᠀ひとᤀが　ᜀ毎日᠀まいにちᤀ
+ᜀ手入᠀ていᤀれを　しているらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_AED1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329595159</Id>
+          <Value>ＡＥＤがᜀ置᠀おᤀいてある
+いざというᜀ時᠀ときᤀのために
+ᜀ置᠀おᤀいてある　ᜀ場所᠀ばしょᤀを　ᜀ覚᠀おぼᤀえておこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_AED2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1346241299</Id>
+          <Value>ＡＥＤがある！
+ᜀ人命᠀じんめいᤀに　ᜀ関᠀かかᤀわるものだから
+ᜀ大事᠀だいじᤀに　ᜀ取᠀とᤀりᜀ扱᠀あつかᤀわないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_NIKOTAMA1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1364198168</Id>
+          <Value>ᜀ電車᠀でんしゃᤀの　ᜀ運行情報᠀うんこうじょうほうᤀや
+ᜀ今日᠀きょうᤀの　ᜀ天気᠀てんきᤀなど
+いろんなᜀ情報᠀じょうほうᤀが　ᜀ表示᠀ひょうじᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_NIKOTAMA2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1380188954</Id>
+          <Value>このᜀ塾᠀じゅくᤀの　ᜀ生徒᠀せいとᤀで
+ᜀ有名校᠀ゆうめいこうᤀへ　ᜀ進学᠀しんがくᤀしたᜀ人数᠀にんずうᤀが
+ᜀ書᠀かᤀかれている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_NIKOTAMA3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1396572947</Id>
+          <Value>インフォメーションボードの　ᜀ上᠀うえᤀから
+ᜀ水᠀みずᤀが　ᜀ流᠀ながᤀれている
+ᜀ近᠀ちかᤀづくと　ちょっと　すずしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411908367</Id>
+          <Value>インフォメーションボードがある
+ニュースも　みられるし
+ᜀ書᠀かᤀきこみもできる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1431044889</Id>
+          <Value>「あらたな　ᜀ未来᠀みらいᤀへ　ᜀ一歩᠀いっぽᤀずつ
+ここ　ヒフミがᜀ丘᠀おかᤀは
+ᜀ未来技術᠀みらいぎじゅつᤀを　ᜀ推進᠀すいしんᤀしています」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1446904599</Id>
+          <Value>タッチすると　ᜀ町会᠀ちょうかいᤀの　おᜀ知᠀しᤀらせや
+ᜀ世界᠀せかいᤀの　ニュースが
+ᜀ表示᠀ひょうじᤀされるみたい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1464861466</Id>
+          <Value>ᜀ自動販売機᠀じどうはんばいきᤀがある…
+ウェブで　ᜀ商品᠀しょうひんᤀを　ᜀ管理᠀かんりᤀしているから
+ᜀ売᠀うᤀりきれているのを　ᜀ見᠀みᤀたことがない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479148305</Id>
+          <Value>みかけると
+つい　チェックしてしまうけど
+ᜀ特᠀とくᤀに　のどは　かわいてないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_INFO2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1498809113</Id>
+          <Value>ᜀ案内᠀あんないᤀは　いろんなᜀ国᠀くにᤀの　ᜀ言葉᠀ことばᤀで
+ᜀ表示᠀ひょうじᤀされている
+ᜀ英語᠀えいごᤀは…　ᜀ習᠀ならᤀったᜀ部分᠀ぶぶんᤀならᜀ読᠀よᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_WHITE_BORAD3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1512440343</Id>
+          <Value>このスクリーンで　ᜀ授業᠀じゅぎょうᤀしてるのかな？
+なんだか　すごそう…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_NIKOTAMA_N_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>1531052818</Id>
+          <Value>ᜀ新᠀あたらᤀしいスマホを　ᜀ買᠀かᤀったのよ！
+ᜀ前᠀まえᤀのより　ᜀ使᠀つかᤀいやすくて
+ホント　ᜀ買᠀かᤀってよかったわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

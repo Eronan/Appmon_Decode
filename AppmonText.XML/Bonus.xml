@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>CODE_INPUT_SUCCESS</Key>
+      <Values>
+        <BtxtString>
+          <Id>3539731</Id>
+          <Value>ダウンロードしたᜀ特典᠀とくてんᤀは
+サイバーアリーナにいるエムシーモンから
+ᜀ受᠀うᤀけとることができます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DL_NO_CONTENT</Key>
+      <Values>
+        <BtxtString>
+          <Id>18350356</Id>
+          <Value>ᜀ再᠀さいᤀダウンロードできるものはありません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DL_RE_DOWNLOAD_CONFIRM</Key>
+      <Values>
+        <BtxtString>
+          <Id>37356305</Id>
+          <Value>ᜀ引᠀ひᤀきᜀ換᠀かᤀえᜀ済᠀ずᤀみのᜀ特典᠀とくてんᤀを
+すべてᜀ再᠀さいᤀダウンロードします
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DL_RE_DOWNLOAD_RESULT</Key>
+      <Values>
+        <BtxtString>
+          <Id>54264595</Id>
+          <Value>ᜀ未入手᠀みにゅうしゅᤀのᜀ特典᠀とくてんᤀは
+サイバーアリーナにいるエムシーモンから
+ᜀ受᠀うᤀけとることができます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

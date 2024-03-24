@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>3801874</Id>
+          <Value>…ᜀ今᠀いまᤀさらだけど
+ᜀ本気᠀ほんきᤀの　オレが　ᜀ見᠀みᤀたいなんて
+ᜀ後悔᠀こうかいᤀするかも　しれないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841242</Id>
+          <Value>ᰏに
+ᜀ思᠀おもᤀいᜀ通᠀どおᤀりの　バトルは　ᜀ絶対᠀ぜったいᤀにさせない
+…それが　オレの　ᜀ全力᠀ぜんりょくᤀだから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>38011670</Id>
+          <Value>ᜀ設計᠀せっけいᤀアプリ　クラフトモンの　バディ
+Ｂランクマスター　カゲフミ…
+このᜀ舞台᠀ぶたいᤀ　オレが　ᜀ造᠀つくᤀらせてもらうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

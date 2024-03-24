@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>50</NumberOfLabels>
+  <NumberOfStrings>50</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_179</Key>
+      <Values>
+        <BtxtString>
+          <Id>2228754</Id>
+          <Value>ジャミ　ジャミ　ジャミ！
+ᜀ電波᠀でんぱᤀを　ボウガイするジャミ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_180</Key>
+      <Values>
+        <BtxtString>
+          <Id>19792657</Id>
+          <Value>みんなの　ケータイや
+ワカバの　アプリドライヴを
+オフラインにしたのは　おᜀ前᠀まえᤀか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_181</Key>
+      <Values>
+        <BtxtString>
+          <Id>34472455</Id>
+          <Value>ジャミ　ジャミ
+そのとーり！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_182</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511569</Id>
+          <Value>なんで　そんなことを　するんだよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_183</Key>
+      <Values>
+        <BtxtString>
+          <Id>70910743</Id>
+          <Value>オレは　ジャミングモン！
+いろんなヤツの　ジャマをして
+ᜀ迷惑᠀めいわくᤀかけるのが　ᜀ大好᠀だいすᤀきなんジャミ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_184</Key>
+      <Values>
+        <BtxtString>
+          <Id>86508050</Id>
+          <Value>だから　ᜀ子分᠀こぶんᤀたちと　いっしょに
+みんなのジャマを　してやったジャミ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_185</Key>
+      <Values>
+        <BtxtString>
+          <Id>102498830</Id>
+          <Value>みんなのジャマ　ゆるさない
+オンモン　みんな　つなげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_186</Key>
+      <Values>
+        <BtxtString>
+          <Id>119407122</Id>
+          <Value>オレだって　オレたちの
+ジャマするヤツは　ゆるさねージャミ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_187</Key>
+      <Values>
+        <BtxtString>
+          <Id>136184334</Id>
+          <Value>ジャミ　ジャミ　ジャミ
+まーた　ᜀ来᠀きᤀやがったジャミ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_188</Key>
+      <Values>
+        <BtxtString>
+          <Id>153354768</Id>
+          <Value>こりない　ᜀ人間᠀にんげんᤀジャミ！
+コテンパンに　してやるジャミ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_189</Key>
+      <Values>
+        <BtxtString>
+          <Id>170132237</Id>
+          <Value>これᜀ以上᠀いじょうᤀ
+みんなの　ジャマをするのは
+やめてもらうぞ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_190</Key>
+      <Values>
+        <BtxtString>
+          <Id>186647307</Id>
+          <Value>ジャミミーン！
+まさか　このオレが
+ᜀ負᠀まᤀけちまうなんて…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_191</Key>
+      <Values>
+        <BtxtString>
+          <Id>204997148</Id>
+          <Value>さあ　ᜀ今᠀いまᤀすぐ　ᜀ妨害電波᠀ぼうがいでんぱᤀを　ᜀ消᠀けᤀすんだ！
+みんなが　つながるように　するんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_192</Key>
+      <Values>
+        <BtxtString>
+          <Id>221905684</Id>
+          <Value>くっそー　しかたないジャミ…
+くやしーけど　ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀすジャミ！
+ジャミ　ジャミ　ジャミーン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_193</Key>
+      <Values>
+        <BtxtString>
+          <Id>236978701</Id>
+          <Value>これで　ボウガイデンパは
+ᜀ全部᠀ぜんぶᤀ　ᜀ消᠀きᤀえたジャミ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_194</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313865</Id>
+          <Value>どうだ　オンモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_194_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>268960008</Id>
+          <Value>どう　オンモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_195</Key>
+      <Values>
+        <BtxtString>
+          <Id>286654992</Id>
+          <Value>うん　ᰏ
+ワカバも　みんな　つながったぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_196</Key>
+      <Values>
+        <BtxtString>
+          <Id>305398545</Id>
+          <Value>１つだけ　わからないことあるジャミ
+なんで　オマエの　アプリドライヴ
+オフラインに　ならなかったジャミ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_197</Key>
+      <Values>
+        <BtxtString>
+          <Id>319816203</Id>
+          <Value>オレには
+オンモンが　いるからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_198</Key>
+      <Values>
+        <BtxtString>
+          <Id>337511182</Id>
+          <Value>オンモン
+オンラインゲームの　アプモン
+つなげるの　トクイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_199</Key>
+      <Values>
+        <BtxtString>
+          <Id>354025996</Id>
+          <Value>そんなヤツが　いたなんて
+ᜀ不覚᠀ふかくᤀジャミ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_200</Key>
+      <Values>
+        <BtxtString>
+          <Id>372507410</Id>
+          <Value>あれ？　でも　オレたちᜀ以外᠀いがいᤀにも
+オフラインに　ならなかったヤツらが
+いたようなᜀ気᠀きᤀが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_200_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>389677843</Id>
+          <Value>あれ？　でも　ワタシたちᜀ以外᠀いがいᤀにも
+オフラインに　ならなかったᜀ人᠀ひとᤀたちが
+いたようなᜀ気᠀きᤀが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_201</Key>
+      <Values>
+        <BtxtString>
+          <Id>406323987</Id>
+          <Value>つなぐアプモンじゃなくても
+ᜀ強᠀つよᤀいアプモンを　ᜀ連᠀つᤀれてるヤツには
+オレのデンパ　きかないジャミ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_202</Key>
+      <Values>
+        <BtxtString>
+          <Id>420348170</Id>
+          <Value>ᜀ強᠀つよᤀいアプモン…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_203</Key>
+      <Values>
+        <BtxtString>
+          <Id>437781004</Id>
+          <Value>じゃあ　オレは　そろそろ
+おいとまするジャミ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_204</Key>
+      <Values>
+        <BtxtString>
+          <Id>455082762</Id>
+          <Value>ちょっとᜀ待᠀まᤀて！
+もう　こんなイタズラ
+するんじゃないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_205</Key>
+      <Values>
+        <BtxtString>
+          <Id>472515342</Id>
+          <Value>わかってるジャミ…
+ᜀ海᠀うみᤀより　ᜀ深᠀ふかᤀ～～～～く
+ハンセイしてるジャミ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_206</Key>
+      <Values>
+        <BtxtString>
+          <Id>490210067</Id>
+          <Value>な～んて　ᜀ言᠀いᤀうとでも　ᜀ思᠀おもᤀったか！
+ジャマすることが
+ジャミングモンの　ᜀ生᠀いᤀきがいジャミ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_207</Key>
+      <Values>
+        <BtxtString>
+          <Id>505676557</Id>
+          <Value>いずれ　また　オマエたちの
+ジャマをしてやるジャミ！
+おぼえてろよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_208</Key>
+      <Values>
+        <BtxtString>
+          <Id>522977815</Id>
+          <Value>つなぐᜀ能力᠀のうりょくᤀの　アプモンが　いるなんて
+ᜀ聞᠀きᤀいてなかったジャミ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_209</Key>
+      <Values>
+        <BtxtString>
+          <Id>538837521</Id>
+          <Value>これは　ᜀ報告᠀ほうこくᤀしておかないと
+いけないジャミ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_210</Key>
+      <Values>
+        <BtxtString>
+          <Id>557712154</Id>
+          <Value>あ～あ　ᜀ逃᠀にᤀげられちゃったよ…
+…でも　まあいいか
+とりあえず　ᜀ問題᠀もんだいᤀは　ᜀ解決᠀かいけつᤀしたワケだし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_211</Key>
+      <Values>
+        <BtxtString>
+          <Id>572260877</Id>
+          <Value>ワカバのとこ　ᜀ戻᠀もどᤀる
+ランカーバトル　つなげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_212</Key>
+      <Values>
+        <BtxtString>
+          <Id>588644878</Id>
+          <Value>そうだな
+ワカバのところに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_213</Key>
+      <Values>
+        <BtxtString>
+          <Id>605946384</Id>
+          <Value>ワカバが　いるのは
+ＡＲフィールドᜀ側᠀がわᤀ　だったよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_214</Key>
+      <Values>
+        <BtxtString>
+          <Id>624689943</Id>
+          <Value>やるじゃないか　キミたち！
+マコトさんと　いっしょとはいえ
+オフラインᜀ事件᠀じけんᤀを　ᜀ解決᠀かいけつᤀするなんて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_215</Key>
+      <Values>
+        <BtxtString>
+          <Id>638976271</Id>
+          <Value>ᜀ俺᠀おれᤀは　ᜀ何᠀なにᤀも　してないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_216</Key>
+      <Values>
+        <BtxtString>
+          <Id>657064468</Id>
+          <Value>ᜀ今回᠀こんかいᤀは　ᰏたちが
+ᜀ全部᠀ぜんぶᤀ　ᜀ解決᠀かいけつᤀしたようなモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_217</Key>
+      <Values>
+        <BtxtString>
+          <Id>674235154</Id>
+          <Value>そうか
+ニコタマᜀ川᠀がわᤀの　みんなに　かわって
+ᜀ礼᠀れいᤀを　ᜀ言᠀いᤀうよ　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_180_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>690619152</Id>
+          <Value>みんなの　ケータイや
+ワカバの　アプリドライヴを
+オフラインにしたのは　アナタね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_182_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>705691920</Id>
+          <Value>なんで　そんなことを　するのよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_189_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>723780366</Id>
+          <Value>これᜀ以上᠀いじょうᤀ
+みんなの　ジャマを するのは
+やめてもらうわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_191_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>741736987</Id>
+          <Value>さあ　ᜀ今᠀いまᤀすぐ　ᜀ妨害電波᠀ぼうがいでんぱᤀを　ᜀ消᠀けᤀして！
+みんなが　つながるように　するのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_197_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>756154891</Id>
+          <Value>ワタシには
+オンモンが　いるからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_204_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>774112011</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって！
+もう　こんな　イタズラ
+するんじゃないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_210_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>792593178</Id>
+          <Value>あ～あ　ᜀ逃᠀にᤀげられちゃったわ…
+…でも　まあいいか
+とりあえず　ᜀ問題᠀もんだいᤀは　ᜀ解決᠀かいけつᤀしたワケだし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_212_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>806879760</Id>
+          <Value>そうね
+ワカバのところに　ᜀ戻᠀もどᤀりましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_213_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>824050192</Id>
+          <Value>ワカバが　いるのは
+ＡＲフィールドᜀ側᠀がわᤀ　だったわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

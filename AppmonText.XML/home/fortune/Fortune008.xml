@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>14</NumberOfLabels>
+  <NumberOfStrings>14</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195095</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+アリーナに　ᜀ異変᠀いへんᤀあり
+さわがしきᜀ者᠀ものᤀの　ᜀ様子᠀ようすᤀを　みまうべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21889814</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ学᠀まなᤀびやに　ᜀ悪意᠀あくいᤀのタネは　まかれたり
+ᜀ悪意᠀あくいᤀのᜀ中᠀なかᤀに　ᜀ飛᠀とᤀびᜀ込᠀こᤀむべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749524</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ジャミジャミ　うるさきᜀ者᠀ものᤀ
+ᜀ近᠀ちかᤀきᜀ場所᠀ばしょᤀにて　ᜀ待᠀まᤀちわびるナリ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55706390</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ダンジョンのᜀ奥᠀おくᤀ　ᜀ探᠀さがᤀしᜀ人᠀びとᤀが　ᜀ待᠀まᤀつ
+ᜀ気楽᠀きらくᤀなᜀ気持᠀きもᤀちで　ᜀ進᠀すすᤀむべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697177</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ジャミジャミ　うるさきᜀ者᠀ものᤀ
+２のᜀ高᠀たかᤀさで　ᜀ再᠀ふたたᤀび　ᜀ出会᠀であᤀえるであろう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>89522970</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ求᠀もとᤀめる　ᜀ探᠀さがᤀしᜀ人᠀ひとᤀは　ダンジョンのᜀ奥᠀おくᤀナリ
+ᜀ気楽᠀きらくᤀなᜀ気持᠀きもᤀちで　ᜀ進᠀すすᤀむべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>104727316</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ジャミジャミ　うるさきᜀ者᠀ものᤀ
+３のᜀ高᠀たかᤀさで　またも　ᜀ出会᠀であᤀいあり～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>122422039</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+３ᜀ度᠀たびᤀの　ダンジョンは　ᜀ楽᠀らくᤀにはᜀ終᠀おᤀわらぬ
+こころして　ᜀ奥᠀おくᤀへと　ᜀ進᠀すすᤀむべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138281749</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ言葉᠀ことばᤀを　あやつる　アプリのᜀ戦士᠀せんしᤀ
+アプリを　あやつり　たおすべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>156631832</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ探᠀さがᤀしᜀ人᠀びとᤀは　もっともᜀ上᠀うえᤀにて　ᜀ待᠀まᤀつ
+ᜀ万全᠀ばんぜんᤀの　ᜀ用意᠀よういᤀで　ᜀ進᠀すすᤀむがよかろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171705106</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ新᠀あらᤀたなᜀ世界᠀せかいᤀに　ワナもあり～
+こころして　とびこむが　ᜀ吉᠀きちᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>189924120</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ運命᠀うんめいᤀのᜀ扉᠀とびらᤀが　ᜀ開᠀ひらᤀきはじめる
+ᜀ見᠀みᤀきわめるためにも　ᜀ校舎᠀こうしゃᤀへ　ᜀ進᠀すすᤀめ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>206832411</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ運命᠀うんめいᤀのᜀ扉᠀とびらᤀが　ᜀ開᠀ひらᤀきはじめる
+ᜀ屋上᠀おくじょうᤀダンジョンで　そのᜀ時᠀ときᤀを　ᜀ刻᠀きざᤀむべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>223609624</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+２つのᜀ首᠀くびᤀᜀ持᠀もᤀつᜀ者᠀ものᤀと　そのバトルのᜀ先᠀さきᤀに
+ᜀ新᠀あらᤀたなᜀ運命᠀うんめいᤀ　ᜀ見᠀みᤀえるだろう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

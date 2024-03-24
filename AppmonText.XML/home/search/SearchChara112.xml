@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>エムシーモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22020890</Id>
+          <Value>ᜀ実況᠀じっきょうᤀのアプリ　エムシーモン！
+なによりも　ᜀ注目᠀ちゅうもくᤀを…　っていうか
+ᜀ再生数᠀さいせいすうᤀをᜀ集᠀あつᤀめるのが　すきなアプモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>36700944</Id>
+          <Value>うるせー！　とにかくうるせーよ！
+あの　やっかましい　しゃべりかた
+なんとか　なんねーのか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54264595</Id>
+          <Value>バトルᜀ中᠀ちゅうᤀの　ムラサキのコメントは
+エムシーモンの　ᜀ実況᠀じっきょうᤀだな
+ᜀ言᠀いᤀわなくても　わかるか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>22</NumberOfLabels>
+  <NumberOfStrings>22</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1704458</Id>
+          <Value>ᜀ謎᠀なぞᤀの　タイマーが
+ᜀ動᠀うごᤀいている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18743819</Id>
+          <Value>ᜀ早᠀はやᤀく　パスワードを
+ᜀ集᠀あつᤀめてこないと…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34996749</Id>
+          <Value>ここの　どこかに
+パスワードが　あるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>54526739</Id>
+          <Value>パスワードのᜀ中᠀なかᤀの　１ᜀ文字᠀もじᤀかな…
+アルファベットの　「Ｕ」って
+ᜀ書᠀かᤀかれたデータを　ᜀ持᠀もᤀってたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69468688</Id>
+          <Value>これで２つ　ᜀ集᠀あつᤀまったな
+マコトと　ᜀ合流᠀ごうりゅうᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86377234</Id>
+          <Value>あと１つは
+ᜀ塾前᠀じゅくまえᤀの　ᜀ掲示板᠀けいじばんᤀに
+あるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103547673</Id>
+          <Value>あと１つは
+バスロータリーの　ᜀ大᠀おおᤀきな　ᜀ案内板᠀あんないばんᤀに
+あるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119931410</Id>
+          <Value>このアプモン　ᜀ何᠀なにᤀかᜀ持᠀もᤀってる…？
+もしかして　パスワード？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>136708622</Id>
+          <Value>ᜀ向᠀むᤀこうは　やるᜀ気᠀きᤀみたいだ
+ここは　ᜀ戦᠀たたかᤀうしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>153485841</Id>
+          <Value>うう…　ᜀ思᠀おもᤀったより　ᜀ強᠀つよᤀいな
+けど　ᜀ次᠀つぎᤀこそは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170263058</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ　そのᜀ持᠀もᤀってるものを
+ᜀ渡᠀わたᤀしてもらうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>188744467</Id>
+          <Value>パスワードのᜀ中᠀なかᤀの　１ᜀ文字᠀もじᤀかな…
+ᜀ数字᠀すうじᤀの　「１」って
+ᜀ書᠀かᤀかれたデータを　ᜀ持᠀もᤀってたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_001_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>203031050</Id>
+          <Value>ᜀ謎᠀なぞᤀの　タイマーが
+ᜀ動᠀うごᤀいているわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>219546124</Id>
+          <Value>ここの　どこかに
+パスワードが　あるはずね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>238945042</Id>
+          <Value>パスワードのᜀ中᠀なかᤀの１ᜀ文字᠀もじᤀかな…
+アルファベットの　「Ｕ」って
+ᜀ書᠀かᤀかれたパネルを　ᜀ持᠀もᤀってたわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_005_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>254149137</Id>
+          <Value>これで２つ　ᜀ集᠀あつᤀまったわね
+マコトと　ᜀ合流᠀ごうりゅうᤀしましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>270926610</Id>
+          <Value>あと１つは
+ᜀ塾前᠀じゅくまえᤀの　ᜀ掲示板᠀けいじばんᤀに
+あるはずね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_007_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>288097049</Id>
+          <Value>あと１つは
+バスロータリーの　ᜀ大᠀おおᤀきな　ᜀ案内板᠀あんないばんᤀに
+あるはずね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>304611855</Id>
+          <Value>ᜀ向᠀むᤀこうは　やるᜀ気᠀きᤀみたいね
+ここは　ᜀ戦᠀たたかᤀうしかないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>321126927</Id>
+          <Value>ᜀ思᠀おもᤀったより　ᜀ強᠀つよᤀいのね…
+けど　ᜀ次᠀つぎᤀこそは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>338166290</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ　そのᜀ持᠀もᤀってるものを
+ᜀ渡᠀わたᤀしてもらうわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_30_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>356516627</Id>
+          <Value>パスワードのᜀ中᠀なかᤀの　１ᜀ文字᠀もじᤀかな…
+ᜀ数字᠀すうじᤀの　「１」って
+ᜀ書᠀かᤀかれたパネルを　ᜀ持᠀もᤀってたわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

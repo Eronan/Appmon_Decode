@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>ダイアリモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21889814</Id>
+          <Value>ダイアリモンは　ᜀ日記帳᠀にっきちょうᤀのアプリだ
+ᜀ相手᠀あいてᤀの　ᜀ生活᠀せいかつᤀやᜀ行動᠀こうどうᤀを
+すべて　ᜀ記録᠀きろくᤀしてるんだってさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

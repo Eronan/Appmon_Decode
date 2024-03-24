@@ -1,0 +1,1897 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>210</NumberOfLabels>
+  <NumberOfStrings>210</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>STF_01000</Key>
+      <Values>
+        <BtxtString>
+          <Id>524551</Id>
+          <Value>本郷 あきよし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957137</Id>
+          <Value>高木 渉(株式会社アーツビジョン)</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02001</Key>
+      <Values>
+        <BtxtString>
+          <Id>33947910</Id>
+          <Value>渡辺 けんじ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02002</Key>
+      <Values>
+        <BtxtString>
+          <Id>50725125</Id>
+          <Value>小林 史弥</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02003</Key>
+      <Values>
+        <BtxtString>
+          <Id>67371267</Id>
+          <Value>森山様</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02004</Key>
+      <Values>
+        <BtxtString>
+          <Id>84148483</Id>
+          <Value>中野様</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02005</Key>
+      <Values>
+        <BtxtString>
+          <Id>100925699</Id>
+          <Value>安岡様</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02006</Key>
+      <Values>
+        <BtxtString>
+          <Id>117702916</Id>
+          <Value>佐々木様</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02007</Key>
+      <Values>
+        <BtxtString>
+          <Id>134480131</Id>
+          <Value>丹羽様</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02008</Key>
+      <Values>
+        <BtxtString>
+          <Id>151388421</Id>
+          <Value>大貫 健一</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_02100</Key>
+      <Values>
+        <BtxtString>
+          <Id>168689933</Id>
+          <Value>東映アニメーション株式会社</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_INC_INTI</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467150</Id>
+          <Value>株式会社インティ・クリエイツ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03000</Key>
+      <Values>
+        <BtxtString>
+          <Id>201720069</Id>
+          <Value>河内　厚典</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03001</Key>
+      <Values>
+        <BtxtString>
+          <Id>218497285</Id>
+          <Value>會津　卓也</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03010</Key>
+      <Values>
+        <BtxtString>
+          <Id>235143428</Id>
+          <Value>吉岡　一</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03020</Key>
+      <Values>
+        <BtxtString>
+          <Id>251920644</Id>
+          <Value>吉岡　一</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03021</Key>
+      <Values>
+        <BtxtString>
+          <Id>268697860</Id>
+          <Value>丸　彩子</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03022</Key>
+      <Values>
+        <BtxtString>
+          <Id>285606149</Id>
+          <Value>伊藤　慎二</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03023</Key>
+      <Values>
+        <BtxtString>
+          <Id>302383366</Id>
+          <Value>中田　早紀子</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03024</Key>
+      <Values>
+        <BtxtString>
+          <Id>319160581</Id>
+          <Value>河内　厚典</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03030</Key>
+      <Values>
+        <BtxtString>
+          <Id>335937797</Id>
+          <Value>伊藤　慎二</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03031</Key>
+      <Values>
+        <BtxtString>
+          <Id>352715013</Id>
+          <Value>上野　嘉斗</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03032</Key>
+      <Values>
+        <BtxtString>
+          <Id>369492229</Id>
+          <Value>君島　一刀</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03033</Key>
+      <Values>
+        <BtxtString>
+          <Id>386269445</Id>
+          <Value>石川　順一</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03034</Key>
+      <Values>
+        <BtxtString>
+          <Id>403046661</Id>
+          <Value>山崎　大輔</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03035</Key>
+      <Values>
+        <BtxtString>
+          <Id>419823877</Id>
+          <Value>坂元　宏知</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03100</Key>
+      <Values>
+        <BtxtString>
+          <Id>436601093</Id>
+          <Value>近藤　沙智</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03110</Key>
+      <Values>
+        <BtxtString>
+          <Id>453378309</Id>
+          <Value>大西　秀美</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03111</Key>
+      <Values>
+        <BtxtString>
+          <Id>470155525</Id>
+          <Value>鈴木　絵理</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03112</Key>
+      <Values>
+        <BtxtString>
+          <Id>486932741</Id>
+          <Value>瀬戸　雅世</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03113</Key>
+      <Values>
+        <BtxtString>
+          <Id>503709958</Id>
+          <Value>福岡　えり奈</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03200</Key>
+      <Values>
+        <BtxtString>
+          <Id>520487174</Id>
+          <Value>松尾　富美加</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03210</Key>
+      <Values>
+        <BtxtString>
+          <Id>537264389</Id>
+          <Value>河合　初音</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03211</Key>
+      <Values>
+        <BtxtString>
+          <Id>554041605</Id>
+          <Value>村山　由香</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03220</Key>
+      <Values>
+        <BtxtString>
+          <Id>570818821</Id>
+          <Value>河合　初音</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03221</Key>
+      <Values>
+        <BtxtString>
+          <Id>587596037</Id>
+          <Value>大西　秀美</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03222</Key>
+      <Values>
+        <BtxtString>
+          <Id>604373253</Id>
+          <Value>鈴木　絵理</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03223</Key>
+      <Values>
+        <BtxtString>
+          <Id>621150469</Id>
+          <Value>近藤　沙智</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03224</Key>
+      <Values>
+        <BtxtString>
+          <Id>637927685</Id>
+          <Value>村山　由香</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03225</Key>
+      <Values>
+        <BtxtString>
+          <Id>654704902</Id>
+          <Value>松尾　富美加</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03300</Key>
+      <Values>
+        <BtxtString>
+          <Id>671482118</Id>
+          <Value>山中　さやか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03310</Key>
+      <Values>
+        <BtxtString>
+          <Id>688259333</Id>
+          <Value>山口　真史</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03311</Key>
+      <Values>
+        <BtxtString>
+          <Id>704905476</Id>
+          <Value>中村　新</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03312</Key>
+      <Values>
+        <BtxtString>
+          <Id>721813765</Id>
+          <Value>古川　絵梨</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03313</Key>
+      <Values>
+        <BtxtString>
+          <Id>738590981</Id>
+          <Value>増田　逸平</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03400</Key>
+      <Values>
+        <BtxtString>
+          <Id>755368197</Id>
+          <Value>横山　初美</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03410</Key>
+      <Values>
+        <BtxtString>
+          <Id>772145413</Id>
+          <Value>古川　絵梨</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03411</Key>
+      <Values>
+        <BtxtString>
+          <Id>788922629</Id>
+          <Value>榎戸　麻衣</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03412</Key>
+      <Values>
+        <BtxtString>
+          <Id>805699845</Id>
+          <Value>清水　花梨</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03500</Key>
+      <Values>
+        <BtxtString>
+          <Id>822477061</Id>
+          <Value>坂元　宏知</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03510</Key>
+      <Values>
+        <BtxtString>
+          <Id>839254277</Id>
+          <Value>村田　雄史</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03511</Key>
+      <Values>
+        <BtxtString>
+          <Id>856031493</Id>
+          <Value>山岸　翔太</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03512</Key>
+      <Values>
+        <BtxtString>
+          <Id>872808709</Id>
+          <Value>山崎　大輔</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03513</Key>
+      <Values>
+        <BtxtString>
+          <Id>889585925</Id>
+          <Value>河村　宣仁</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03600</Key>
+      <Values>
+        <BtxtString>
+          <Id>906363141</Id>
+          <Value>山田　一法</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03601</Key>
+      <Values>
+        <BtxtString>
+          <Id>923140358</Id>
+          <Value>山田　航太郎</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03602</Key>
+      <Values>
+        <BtxtString>
+          <Id>939786500</Id>
+          <Value>武田　葵</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03603</Key>
+      <Values>
+        <BtxtString>
+          <Id>956563716</Id>
+          <Value>佐藤　巧</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03604</Key>
+      <Values>
+        <BtxtString>
+          <Id>973340932</Id>
+          <Value>川上　領</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03605</Key>
+      <Values>
+        <BtxtString>
+          <Id>990249221</Id>
+          <Value>山田　一法</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03606</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007026437</Id>
+          <Value>佐野　広明</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03607</Key>
+      <Values>
+        <BtxtString>
+          <Id>1023934727</Id>
+          <Value>ヨナオ　ケイシ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03608</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040580870</Id>
+          <Value>山田　航太郎</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03609</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057227012</Id>
+          <Value>武田　葵</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03610</Key>
+      <Values>
+        <BtxtString>
+          <Id>1074004228</Id>
+          <Value>佐藤　巧</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03611</Key>
+      <Values>
+        <BtxtString>
+          <Id>1090781444</Id>
+          <Value>川上　領</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_TRY_00000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1107689733</Id>
+          <Value>黒木　祐嗣</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_TRY_00001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1124335876</Id>
+          <Value>渡邉　彩</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_TRY_00002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141244165</Id>
+          <Value>加藤　聡恵</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_TRY_00003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158021382</Id>
+          <Value>小宮　裕香子</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_TRY_00004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1174798597</Id>
+          <Value>樋口　大介</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_TRY_00005</Key>
+      <Values>
+        <BtxtString>
+          <Id>1191575813</Id>
+          <Value>小田　貴仁</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03700</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208221956</Id>
+          <Value>丸　彩子</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03701</Key>
+      <Values>
+        <BtxtString>
+          <Id>1225130245</Id>
+          <Value>河内　厚典</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03710</Key>
+      <Values>
+        <BtxtString>
+          <Id>1241776388</Id>
+          <Value>重馬 敬</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03711</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258684677</Id>
+          <Value>前田 圭士</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03712</Key>
+      <Values>
+        <BtxtString>
+          <Id>1275461893</Id>
+          <Value>栗山 勝行</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03800</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292239109</Id>
+          <Value>森 隆倫 </Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03801</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309016326</Id>
+          <Value>志村 和哉 </Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03802</Key>
+      <Values>
+        <BtxtString>
+          <Id>1325793542</Id>
+          <Value>貝川　ちひろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03803</Key>
+      <Values>
+        <BtxtString>
+          <Id>1342570757</Id>
+          <Value>河村 雅美</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03900</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359347973</Id>
+          <Value>大貫　健一</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03901</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376125189</Id>
+          <Value>中村 明博</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03902</Key>
+      <Values>
+        <BtxtString>
+          <Id>1392902405</Id>
+          <Value>市川　吉幸</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03903</Key>
+      <Values>
+        <BtxtString>
+          <Id>1409941770</Id>
+          <Value>清田　直美（かぐら）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03904</Key>
+      <Values>
+        <BtxtString>
+          <Id>1426325764</Id>
+          <Value>柳　義明</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03905</Key>
+      <Values>
+        <BtxtString>
+          <Id>1443889424</Id>
+          <Value>大久保　潤一（旭プロダクション）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03906</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460011269</Id>
+          <Value>尾尻 賢太</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03907</Key>
+      <Values>
+        <BtxtString>
+          <Id>1476788485</Id>
+          <Value>中西 信棋</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_03908</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493565701</Id>
+          <Value>本間 大輔</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_04000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511391509</Id>
+          <Value>クリプトン・フューチャー・メディア株式会社</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_05000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527120133</Id>
+          <Value>藤井 新一</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_05001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1543897349</Id>
+          <Value>宮田 真緒</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_06000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1560674565</Id>
+          <Value>伊藤　良太</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_06001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1577451781</Id>
+          <Value>高嶋　一士</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_06002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594228997</Id>
+          <Value>寺田　美穂</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_06003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1611792658</Id>
+          <Value>インティ・クリエイツ　オールスタッフ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_DEBUG_00000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1627783429</Id>
+          <Value>戸塚 丈哲</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_DEBUG_00001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1644560645</Id>
+          <Value>小島 達矢</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_DEBUG_00002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1661337862</Id>
+          <Value>鈴木 みのり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_DEBUG_00003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1678115077</Id>
+          <Value>吉村 茜音</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_DEBUG_00004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1694892293</Id>
+          <Value>武田 貴志</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_DEBUG_00005</Key>
+      <Values>
+        <BtxtString>
+          <Id>1711669509</Id>
+          <Value>上野 充志</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1728315652</Id>
+          <Value>三浦 智</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1745223941</Id>
+          <Value>青山 正志</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1761870084</Id>
+          <Value>巌 幸樹</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1778778373</Id>
+          <Value>②橋 勇也</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1795555590</Id>
+          <Value>平野 篤太郎</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07005</Key>
+      <Values>
+        <BtxtString>
+          <Id>1812201732</Id>
+          <Value>田中 亮</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07006</Key>
+      <Values>
+        <BtxtString>
+          <Id>1829110022</Id>
+          <Value>小野 亜紀英</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1845756164</Id>
+          <Value>彌田 栄</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1862533380</Id>
+          <Value>瀧本 敦</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1879441669</Id>
+          <Value>秋草 裕作</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07200</Key>
+      <Values>
+        <BtxtString>
+          <Id>1896218885</Id>
+          <Value>木曽 恵太</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07201</Key>
+      <Values>
+        <BtxtString>
+          <Id>1912996101</Id>
+          <Value>澤井 隆志</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_07202</Key>
+      <Values>
+        <BtxtString>
+          <Id>1929773317</Id>
+          <Value>浅井 麻紀</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1946550533</Id>
+          <Value>安子 太樹</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1963327749</Id>
+          <Value>熊田 直樹</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1980104965</Id>
+          <Value>星合 真樹</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1996882181</Id>
+          <Value>古田 真美</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08004</Key>
+      <Values>
+        <BtxtString>
+          <Id>2013659397</Id>
+          <Value>橋場 雄大</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08005</Key>
+      <Values>
+        <BtxtString>
+          <Id>2030436613</Id>
+          <Value>毎熊 佑美</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08006</Key>
+      <Values>
+        <BtxtString>
+          <Id>2047082756</Id>
+          <Value>原 良輔</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08100</Key>
+      <Values>
+        <BtxtString>
+          <Id>2063991045</Id>
+          <Value>星合 真樹</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08101</Key>
+      <Values>
+        <BtxtString>
+          <Id>2080768261</Id>
+          <Value>田中 則行</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08102</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097545477</Id>
+          <Value>毎熊 佑美</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08103</Key>
+      <Values>
+        <BtxtString>
+          <Id>2114191620</Id>
+          <Value>原 良輔</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08004</Key>
+      <Values>
+        <BtxtString>
+          <Id>2130968836</Id>
+          <Value>池内 萌</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08200</Key>
+      <Values>
+        <BtxtString>
+          <Id>2147877125</Id>
+          <Value>熊田 直樹</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08201</Key>
+      <Values>
+        <BtxtString>
+          <Id>2164523268</Id>
+          <Value>西端 悟</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08202</Key>
+      <Values>
+        <BtxtString>
+          <Id>2181431557</Id>
+          <Value>本多 俊明</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08203</Key>
+      <Values>
+        <BtxtString>
+          <Id>2198208773</Id>
+          <Value>内藤 秀和</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08204</Key>
+      <Values>
+        <BtxtString>
+          <Id>2214985989</Id>
+          <Value>山本 敦也</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08205</Key>
+      <Values>
+        <BtxtString>
+          <Id>2231763205</Id>
+          <Value>八幡 泰広</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08206</Key>
+      <Values>
+        <BtxtString>
+          <Id>2248540421</Id>
+          <Value>井上 孟人</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08207</Key>
+      <Values>
+        <BtxtString>
+          <Id>2265317637</Id>
+          <Value>石川 結貴</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08208</Key>
+      <Values>
+        <BtxtString>
+          <Id>2282094853</Id>
+          <Value>深海 雄太</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08209</Key>
+      <Values>
+        <BtxtString>
+          <Id>2298872069</Id>
+          <Value>辰口 茉奈</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08300</Key>
+      <Values>
+        <BtxtString>
+          <Id>2315649286</Id>
+          <Value>木村 知佳恵</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08301</Key>
+      <Values>
+        <BtxtString>
+          <Id>2332426501</Id>
+          <Value>大石 幸平</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_08302</Key>
+      <Values>
+        <BtxtString>
+          <Id>2349072644</Id>
+          <Value>古谷 純</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09000</Key>
+      <Values>
+        <BtxtString>
+          <Id>2365980933</Id>
+          <Value>増山 直史</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2382758149</Id>
+          <Value>深谷 泰宏</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2399535365</Id>
+          <Value>田中 良也</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09003</Key>
+      <Values>
+        <BtxtString>
+          <Id>2416312581</Id>
+          <Value>藤澤 知未</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09100</Key>
+      <Values>
+        <BtxtString>
+          <Id>2433089797</Id>
+          <Value>佐藤 剛司</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09101</Key>
+      <Values>
+        <BtxtString>
+          <Id>2449867013</Id>
+          <Value>鈴木 桃子</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09102</Key>
+      <Values>
+        <BtxtString>
+          <Id>2466644229</Id>
+          <Value>高橋 則夫</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09103</Key>
+      <Values>
+        <BtxtString>
+          <Id>2483290372</Id>
+          <Value>和田 進</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_09104</Key>
+      <Values>
+        <BtxtString>
+          <Id>2500198661</Id>
+          <Value>荒川 友美</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_10000</Key>
+      <Values>
+        <BtxtString>
+          <Id>2516975877</Id>
+          <Value>伍賀 一統</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_10001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2533622020</Id>
+          <Value>田中 快</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_10002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2550530309</Id>
+          <Value>吉崎 邦法</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_10003</Key>
+      <Values>
+        <BtxtString>
+          <Id>2567307525</Id>
+          <Value>山崎 秀之</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_10004</Key>
+      <Values>
+        <BtxtString>
+          <Id>2584084741</Id>
+          <Value>青山 弘輝</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_10100</Key>
+      <Values>
+        <BtxtString>
+          <Id>2600861957</Id>
+          <Value>長谷川 敦</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_10101</Key>
+      <Values>
+        <BtxtString>
+          <Id>2617639173</Id>
+          <Value>門馬 由幸</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11000</Key>
+      <Values>
+        <BtxtString>
+          <Id>2634285316</Id>
+          <Value>古賀 豪</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2651193605</Id>
+          <Value>永富 大地</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2667970822</Id>
+          <Value>柳川 あかり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11003</Key>
+      <Values>
+        <BtxtString>
+          <Id>2684748037</Id>
+          <Value>加藤 陽一</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11004</Key>
+      <Values>
+        <BtxtString>
+          <Id>2701525253</Id>
+          <Value>樋口 達人</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11005</Key>
+      <Values>
+        <BtxtString>
+          <Id>2718171396</Id>
+          <Value>平見 瞠</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11006</Key>
+      <Values>
+        <BtxtString>
+          <Id>2735079685</Id>
+          <Value>山田 由香</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11007</Key>
+      <Values>
+        <BtxtString>
+          <Id>2751856901</Id>
+          <Value>野村 祐一</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11008</Key>
+      <Values>
+        <BtxtString>
+          <Id>2768634118</Id>
+          <Value>大知 慶一郎</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11100</Key>
+      <Values>
+        <BtxtString>
+          <Id>2785411333</Id>
+          <Value>榎村　航司</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11200</Key>
+      <Values>
+        <BtxtString>
+          <Id>2802188549</Id>
+          <Value>大矢 陽久</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11201</Key>
+      <Values>
+        <BtxtString>
+          <Id>2818965766</Id>
+          <Value>松野 勝太郎</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11202</Key>
+      <Values>
+        <BtxtString>
+          <Id>2835742981</Id>
+          <Value>扇谷 一樹</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11203</Key>
+      <Values>
+        <BtxtString>
+          <Id>2852520197</Id>
+          <Value>阿部 雄太</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11204</Key>
+      <Values>
+        <BtxtString>
+          <Id>2869297413</Id>
+          <Value>齋藤 洋太</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11205</Key>
+      <Values>
+        <BtxtString>
+          <Id>2885943556</Id>
+          <Value>木村 槙</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11206</Key>
+      <Values>
+        <BtxtString>
+          <Id>2902720772</Id>
+          <Value>坂本 悠</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11207</Key>
+      <Values>
+        <BtxtString>
+          <Id>2919629061</Id>
+          <Value>小川 大地</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11208</Key>
+      <Values>
+        <BtxtString>
+          <Id>2936537351</Id>
+          <Value>河内 史紀子 </Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11209</Key>
+      <Values>
+        <BtxtString>
+          <Id>2953183493</Id>
+          <Value>仲肥 純治</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11210</Key>
+      <Values>
+        <BtxtString>
+          <Id>2969960709</Id>
+          <Value>竹内　麻妃</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11211</Key>
+      <Values>
+        <BtxtString>
+          <Id>2986737925</Id>
+          <Value>樋口 亘 </Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11212</Key>
+      <Values>
+        <BtxtString>
+          <Id>3003384068</Id>
+          <Value>長瀬 裕</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11213</Key>
+      <Values>
+        <BtxtString>
+          <Id>3020292357</Id>
+          <Value>行方 惟人</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11214</Key>
+      <Values>
+        <BtxtString>
+          <Id>3037069573</Id>
+          <Value>福岡 麗南</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11215</Key>
+      <Values>
+        <BtxtString>
+          <Id>3053715716</Id>
+          <Value>林 東柱</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11300</Key>
+      <Values>
+        <BtxtString>
+          <Id>3070624005</Id>
+          <Value>折原　能章</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11301</Key>
+      <Values>
+        <BtxtString>
+          <Id>3087401221</Id>
+          <Value>前川　祐輔</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11302</Key>
+      <Values>
+        <BtxtString>
+          <Id>3104178437</Id>
+          <Value>小林 史弥</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11303</Key>
+      <Values>
+        <BtxtString>
+          <Id>3120824580</Id>
+          <Value>森山　奏</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11304</Key>
+      <Values>
+        <BtxtString>
+          <Id>3137732869</Id>
+          <Value>中野　牌人</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11400</Key>
+      <Values>
+        <BtxtString>
+          <Id>3154510085</Id>
+          <Value>丹羽 茂雄</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11401</Key>
+      <Values>
+        <BtxtString>
+          <Id>3171287301</Id>
+          <Value>佐々木 心</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11402</Key>
+      <Values>
+        <BtxtString>
+          <Id>3188064517</Id>
+          <Value>安岡 以真</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11403</Key>
+      <Values>
+        <BtxtString>
+          <Id>3204841733</Id>
+          <Value>小林 杏奈</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_11404</Key>
+      <Values>
+        <BtxtString>
+          <Id>3221618950</Id>
+          <Value>渡辺 けんじ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_12000</Key>
+      <Values>
+        <BtxtString>
+          <Id>3238396165</Id>
+          <Value>伊能 昭夫</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_12001</Key>
+      <Values>
+        <BtxtString>
+          <Id>3255173381</Id>
+          <Value>中野 博之</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_12002</Key>
+      <Values>
+        <BtxtString>
+          <Id>3271950598</Id>
+          <Value>寺師 大輔 </Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_12003</Key>
+      <Values>
+        <BtxtString>
+          <Id>3288727813</Id>
+          <Value>内田 太樹</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_12100</Key>
+      <Values>
+        <BtxtString>
+          <Id>3305505029</Id>
+          <Value>田中 良也</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_12101</Key>
+      <Values>
+        <BtxtString>
+          <Id>3322282245</Id>
+          <Value>羽生 和正</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_12102</Key>
+      <Values>
+        <BtxtString>
+          <Id>3339059461</Id>
+          <Value>境野 伸之</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_13000_A</Key>
+      <Values>
+        <BtxtString>
+          <Id>3355705604</Id>
+          <Value>古谷 純</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_13000</Key>
+      <Values>
+        <BtxtString>
+          <Id>3372613893</Id>
+          <Value>新野 範聰</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_13100</Key>
+      <Values>
+        <BtxtString>
+          <Id>3389260036</Id>
+          <Value>箕輪 敦</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_13200</Key>
+      <Values>
+        <BtxtString>
+          <Id>3406168325</Id>
+          <Value>渡邉 浩孝</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_13201</Key>
+      <Values>
+        <BtxtString>
+          <Id>3422945542</Id>
+          <Value>今西 智明 </Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_13202</Key>
+      <Values>
+        <BtxtString>
+          <Id>3439722757</Id>
+          <Value>稲垣 浩文</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_13300</Key>
+      <Values>
+        <BtxtString>
+          <Id>3456368900</Id>
+          <Value>大下 聡</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STF_13301</Key>
+      <Values>
+        <BtxtString>
+          <Id>3473277189</Id>
+          <Value>冷泉 弘隆</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>LINE_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>3491234071</Id>
+          <Value>───────────────────────</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>LINE_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>3508011287</Id>
+          <Value>━━━━━━━━━━━━━━━━━━━━━━━</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

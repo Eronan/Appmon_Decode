@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1835283</Id>
+          <Value>ミハマᜀ団᠀だんᤀのᜀ試練᠀しれんᤀニュースᜀ編᠀へんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>ニュースのネタを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404887</Id>
+          <Value>コソモンからの　ᜀ試練᠀しれんᤀは　ニュースᜀ探᠀さがᤀし
+ミハマᜀ港᠀こうᤀを　ᜀ歩᠀あるᤀきまわって
+ニュースの　ネタを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118347</Id>
+          <Value>ニュースのネタを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697175</Id>
+          <Value>ミハマᜀ港᠀こうᤀに　レースで　ᜀ勝負᠀しょうぶᤀしたがる
+ᜀ変᠀かᤀわった　アプモンが　いるらしい
+これは　ニュースの　ネタに　なるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672779</Id>
+          <Value>レースモンと勝負しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105120534</Id>
+          <Value>レースモンに　ᜀ勝負᠀しょうぶᤀを　ᜀ挑᠀いどᤀまれた！
+このᜀ勝負᠀しょうぶᤀが　ᜀ盛᠀もᤀりあがれば
+ニュースの　ネタに　なるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227211</Id>
+          <Value>レースモンと勝負しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138674966</Id>
+          <Value>レースモンに　ᜀ勝負᠀しょうぶᤀを　ᜀ挑᠀いどᤀまれた！
+このᜀ勝負᠀しょうぶᤀが　ᜀ盛᠀もᤀりあがれば
+ニュースの　ネタに　なるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172491542</Id>
+          <Value>ᜀ裏口᠀うらくちᤀコミアプリに　レースモンに
+ᜀ勝᠀かᤀったことが　ᜀ書᠀かᤀきこまれた！
+コソモンに　これでいいか　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206045974</Id>
+          <Value>ᜀ裏口᠀うらくちᤀコミアプリに　レースモンに
+ᜀ勝᠀かᤀったことが　ᜀ書᠀かᤀきこまれた！
+コソモンに　これでいいか　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239600406</Id>
+          <Value>ᜀ裏口᠀うらくちᤀコミアプリに　レースモンに
+ᜀ勝᠀かᤀったことが　ᜀ書᠀かᤀきこまれた！
+コソモンに　これでいいか　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273154838</Id>
+          <Value>ᜀ裏口᠀うらくちᤀコミアプリに　レースモンに
+ᜀ勝᠀かᤀったことが　ᜀ書᠀かᤀきこまれた！
+コソモンに　これでいいか　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306709270</Id>
+          <Value>ᜀ裏口᠀うらくちᤀコミアプリに　レースモンに
+ᜀ勝᠀かᤀったことが　ᜀ書᠀かᤀきこまれた！
+コソモンに　これでいいか　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324010777</Id>
+          <Value>コソモンの　ᜀ試練᠀しれんᤀは　ᜀ無事᠀ぶじᤀに　クリア！
+けど　ᜀ裏口᠀うらくちᤀコミニュースの　ᜀ内容᠀ないようᤀには
+ᜀ不満᠀ふまんᤀが　ᜀ残᠀のこᤀる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

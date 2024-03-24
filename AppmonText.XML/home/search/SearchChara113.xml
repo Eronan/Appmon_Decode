@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524551</Id>
+          <Value>コソモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22283033</Id>
+          <Value>ᜀ裏口᠀うらくちᤀコミのアプリ　コソモンだ！
+いわゆる　ᜀ裏᠀うらᤀの　ᜀ情報通᠀じょうほうつうᤀ
+ᜀ秘密᠀ひみつᤀのᜀ情報᠀じょうほうᤀを　ᜀ教᠀おしᤀえてくれるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798108</Id>
+          <Value>ミハマᜀ団᠀だんᤀとは　ᜀ協力関係᠀きょうりょくかんけいᤀにあるぞ！
+ᜀ団員᠀だんいんᤀにも　コソモンが　バディの
+アプリドライヴァーが　ᜀ多᠀おおᤀいみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55968535</Id>
+          <Value>ミハマᜀ港᠀こうᤀ　ᜀ倉庫街᠀そうこがいᤀの　コンビニじゃ
+ミハマᜀ団限定᠀だんげんていᤀで　アプモンのかけらを
+ᜀ超・極秘᠀ちょうごくひᤀで　ᜀ売᠀うᤀってくれるってさ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

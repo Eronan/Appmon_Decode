@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>マッスルモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22676256</Id>
+          <Value>ᜀ筋᠀きんᤀトレのアプリ　マッスルモン！
+ᜀ筋力᠀きんりょくᤀデータを　ᜀ活性化᠀かっせいかᤀさせる　ᜀ力᠀ちからᤀをᜀ持᠀もᤀつ
+ややᜀ強引᠀ごういんᤀな　アプモントレーナーだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37225234</Id>
+          <Value>マッスルモンが　ビルドアップしたら
+タップモンたち　どうなっちゃうんだ？
+…ᜀ考᠀かんがᤀえるの　やめておこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

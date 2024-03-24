@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>12</NumberOfLabels>
+  <NumberOfStrings>12</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MENU_LOCK</Key>
+      <Values>
+        <BtxtString>
+          <Id>393477</Id>
+          <Value>ロックする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MENU_UNLOCK</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563913</Id>
+          <Value>ロックᜀ解除᠀かいじょᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MENU_NAMING</Key>
+      <Values>
+        <BtxtString>
+          <Id>34210058</Id>
+          <Value>ニックネームをつける</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MENU_ERASE</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987271</Id>
+          <Value>おᜀ別᠀わかᤀれする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>LOCK_NOTIFY</Key>
+      <Values>
+        <BtxtString>
+          <Id>67764488</Id>
+          <Value>ᰎをロックしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>UNLOCK_NOTIFY</Key>
+      <Values>
+        <BtxtString>
+          <Id>85328394</Id>
+          <Value>ᰎの　ロックを
+ᜀ解除᠀かいじょᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ERASE_CONFIRM</Key>
+      <Values>
+        <BtxtString>
+          <Id>102498826</Id>
+          <Value>ᜀ本当᠀ほんとうᤀに　ᰎと
+おᜀ別᠀わかᤀれしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ERASE_NOTIFY</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489609</Id>
+          <Value>ᰎと
+おᜀ別᠀わかᤀれしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ERASE_WARNING_JOINED_IN_DECK</Key>
+      <Values>
+        <BtxtString>
+          <Id>136708882</Id>
+          <Value>アプリデッキにᜀ編成中᠀へんせいちゅうᤀの
+アプモンですが
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ERASE_ERROR_NO_APPMON_IN_DECK</Key>
+      <Values>
+        <BtxtString>
+          <Id>153747988</Id>
+          <Value>５ᜀ体未満᠀たいみまんᤀになるデッキがあるため
+おᜀ別᠀わかᤀれすることができません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NAMING_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>168689934</Id>
+          <Value>ニックネームをいれてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ATTENTION_INPUT_NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>187957782</Id>
+          <Value>ᜀ入力᠀にゅうりょくᤀしたᜀ名前᠀なまえᤀは
+ᜀ通信相手᠀つうしんあいてᤀにᜀ公開᠀こうかいᤀされます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

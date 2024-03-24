@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>5112598</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ運命᠀うんめいᤀのᜀ扉᠀とびらᤀは　ᜀ開᠀ひらᤀかれた
+ᜀ来᠀くᤀるべきᜀ日᠀ひᤀまで　ᜀ力᠀ちからᤀをたくわえるべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>22414105</Id>
+          <Value>ウラ～　ウラナイ　オモテアル～
+ᜀ運命᠀うんめいᤀは　ᜀ極᠀きわᤀめられた！　そのᜀ先᠀さきᤀは
+ᜀ究極᠀きゅうきょくᤀのデッキ　そのᜀ手᠀てᤀでᜀ生᠀うᤀむがᜀ良᠀よᤀし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

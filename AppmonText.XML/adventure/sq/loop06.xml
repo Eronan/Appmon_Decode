@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>93</NumberOfLabels>
+  <NumberOfStrings>93</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2360079</Id>
+          <Value>それは　アプリドライヴ！
+キミ　アプリドライヴァーやな？
+そうやんな！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20185874</Id>
+          <Value>なあ～　ウチのおᜀ願᠀ねがᤀい
+ᜀ聞᠀きᤀいたってくれや！
+もう　ガマンの　ᜀ限界᠀げんかいᤀやねん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35259149</Id>
+          <Value>たしかに
+アプリドライヴァーだけど…
+どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53609235</Id>
+          <Value>みんな　アプモンのこと　ᜀ知᠀しᤀらんやろ？
+せやから　あんま
+しゃべらんよーに　しとるんやけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517526</Id>
+          <Value>もう　アカンわ！
+ウチ　おしゃべりさんやねん
+ᜀ話᠀はなᤀしとうて　ᜀ話᠀はなᤀしとうて　かなわんの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85459472</Id>
+          <Value>だ　ダメだよ！
+そんな　ベラベラ　しゃべったら！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102498831</Id>
+          <Value>ソウ！　ソウなんだヨ～！
+コイツ　どうにか　してくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>120062734</Id>
+          <Value>うわ！？　ツブモンだ…
+キミの　バディアプモン？
+どうにかって　どうしたのさ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137364239</Id>
+          <Value>コイツ　ちょっと　ᜀ気᠀きᤀをぬくと
+ヨケイなコト　ばっかり
+ᜀ口᠀くちᤀを　スベらせるんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154403603</Id>
+          <Value>いくら　つぶやきって　ᜀ言᠀いᤀっても
+このままじゃ　ᜀ制限᠀せいげんᤀ　かけなきゃ
+いけないゼ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170918672</Id>
+          <Value>アカンわあ　そんなん　アカンて！
+おくち　チャック　なんかしたら
+ウチ　ᜀ死᠀しᤀんでしまうわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187826960</Id>
+          <Value>せやから　キミに　おᜀ願᠀ねがᤀいや！
+ウチの　ᜀ話᠀はなᤀしᜀ相手᠀あいてᤀに
+なってくれへんか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>205390609</Id>
+          <Value>ただ　ᜀ聞᠀きᤀいてくれるだけやのうて
+ゼツミョ～に　ええᜀ感᠀かんᤀじに
+ᜀ話᠀はなしᤀ　ᜀ聞᠀きᤀいたって　ほしいんや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>そんなの　できるかな…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>238945045</Id>
+          <Value>アプモンの　ᜀ力᠀ちからᤀでも　ᜀ借᠀かᤀりたらええわ
+ソーシャルの　アプモンやったら
+ウチのトークに　ついてこられるやろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>254018066</Id>
+          <Value>もちろん　タダで　ᜀ聞᠀きᤀいてくれなんて
+ᜀ思᠀おもᤀってへんから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>272368404</Id>
+          <Value>ᜀ聞᠀きᤀいてくれたᜀ分᠀ぶんᤀだけ
+アイテムを　プレゼントや！
+キミにも　ᜀ悪᠀わるᤀいᜀ話᠀はなしᤀ　ちゃうやろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>289538838</Id>
+          <Value>このまんまやと　ᜀ話᠀はなᤀしたいことが
+あふれて　のどが　ᜀ爆散᠀ばくさんᤀしてしまうわ～
+たのむわ～　ᜀ後生᠀ごしょうᤀやで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>305660692</Id>
+          <Value>ソーシャルの
+アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>320078094</Id>
+          <Value>ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>337510930</Id>
+          <Value>な　なんちゅー　ᜀ薄情᠀はくじょうᤀやねん
+ショックやわ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>356385556</Id>
+          <Value>また　ᜀ気᠀きᤀがᜀ変᠀かᤀわったら　ᜀ来᠀きᤀてくれや～
+ウチ　ここで　ᜀ待᠀まᤀっとるからな！
+ᜀ後生᠀ごしょうᤀやで～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>369754377</Id>
+          <Value>うん　わかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>386925064</Id>
+          <Value>いいよ
+ᜀ聞᠀きᤀいてあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>405013010</Id>
+          <Value>ᜀ聞᠀きᤀいてくれるんか！
+ほんまやな！　ᜀ二言᠀にごんᤀは　ないな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>421921549</Id>
+          <Value>アカン　ドキドキしてきた！
+ウチ　どれくらい
+ᜀ話᠀はなᤀしても　ええの…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2</Key>
+      <Values>
+        <BtxtString>
+          <Id>437911828</Id>
+          <Value>どれくらい　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A1</Key>
+      <Values>
+        <BtxtString>
+          <Id>453640454</Id>
+          <Value>ᜀ少᠀すこᤀしだけ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>471204365</Id>
+          <Value>おっしゃ！
+そんなら　ᜀ聞᠀きᤀいてくれや！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A2</Key>
+      <Values>
+        <BtxtString>
+          <Id>487194886</Id>
+          <Value>ᜀ普通᠀ふつうᤀに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>504758797</Id>
+          <Value>おおきに！
+そんなら　ᜀ聞᠀きᤀいてくれや！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A3</Key>
+      <Values>
+        <BtxtString>
+          <Id>520487173</Id>
+          <Value>たくさん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>540148496</Id>
+          <Value>たくさん　ᜀ聞᠀きᤀいてくれるんか！？
+え　ええの…？　おおきに！
+そんなら　ᜀ聞᠀きᤀいてくれや！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>555221518</Id>
+          <Value>あっ　キミ
+また　ᜀ来᠀きᤀてくれはったんか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>573965078</Id>
+          <Value>おおきに　うれしいわ～
+ウチ　もう　アプモンのこと
+ᜀ話᠀はなᤀしとうて　ᜀ話᠀はなᤀしとうて　かなわんの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>589955859</Id>
+          <Value>ホント　コイツ
+ヨケイなコト　ばっかり
+ᜀ口᠀くちᤀを　スベらせそうに　なるんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>607388435</Id>
+          <Value>いくら　つぶやきって　ᜀ言᠀いᤀっても
+このままじゃ　ᜀ制限᠀せいげんᤀ　かけなきゃ
+いけないゼ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>623903504</Id>
+          <Value>アカンわあ　そんなん　アカンて！
+おくち　チャック　なんかしたら
+ウチ　ᜀ死᠀しᤀんでしまうわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>638845200</Id>
+          <Value>せやから　キミに　おᜀ願᠀ねがᤀいや！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>659161878</Id>
+          <Value>ソーシャルの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+ゼツミョ～に　ええᜀ感᠀かんᤀじに
+ウチのᜀ話᠀はなしᤀ　ᜀ聞᠀きᤀいたって　ほしいんや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>673448466</Id>
+          <Value>もちろん　タダで　ᜀ聞᠀きᤀいてくれなんて
+ᜀ思᠀おもᤀってへんから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>691798804</Id>
+          <Value>ᜀ聞᠀きᤀいてくれたᜀ分᠀ぶんᤀだけ
+アイテムを　プレゼントや！
+キミにも　ᜀ悪᠀わるᤀいᜀ話᠀はなしᤀ　ちゃうやろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>708969238</Id>
+          <Value>このまんまやと　ᜀ話᠀はなᤀしたいことが
+あふれて　のどが　ᜀ爆散᠀ばくさんᤀしてしまうわ～
+たのむわ～　ᜀ後生᠀ごしょうᤀやで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>725091092</Id>
+          <Value>ソーシャルの
+アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>739770894</Id>
+          <Value>あっ　キミ
+また　ᜀ来᠀きᤀてくれはったんか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>758514454</Id>
+          <Value>おおきに　うれしいわ～
+ウチ　もう　アプモンのこと
+ᜀ話᠀はなᤀしとうて　ᜀ話᠀はなᤀしとうて　かなわんの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>774505235</Id>
+          <Value>ホント　コイツ
+ヨケイなコト　ばっかり
+ᜀ口᠀くちᤀを　スベらせそうに　なるんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>791937811</Id>
+          <Value>いくら　つぶやきって　ᜀ言᠀いᤀっても
+このままじゃ　ᜀ制限᠀せいげんᤀ　かけなきゃ
+いけないゼ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>808452880</Id>
+          <Value>アカンわあ　そんなん　アカンて！
+おくち　チャック　なんかしたら
+ウチ　ᜀ死᠀しᤀんでしまうわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>823132431</Id>
+          <Value>せやから　キミに　おねがいや！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>843711254</Id>
+          <Value>ソーシャルの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+ゼツミョ～に　ええᜀ感᠀かんᤀじに
+ウチのᜀ話᠀はなしᤀ　ᜀ聞᠀きᤀいたって　ほしいんや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>857997842</Id>
+          <Value>もちろん　タダで　ᜀ聞᠀きᤀいてくれなんて
+ᜀ思᠀おもᤀってへんから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>876348180</Id>
+          <Value>ᜀ聞᠀きᤀいてくれたᜀ分᠀ぶんᤀだけ
+アイテムを　プレゼントや！
+キミにも　ᜀ悪᠀わるᤀいᜀ話᠀はなしᤀ　ちゃうやろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>893518614</Id>
+          <Value>このまんまやと　ᜀ話᠀はなᤀしたいことが
+あふれて　のどが　ᜀ爆散᠀ばくさんᤀしてしまうわ～
+たのむわ～　ᜀ後生᠀ごしょうᤀやで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>909640468</Id>
+          <Value>ソーシャルの
+アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>925631249</Id>
+          <Value>キミ　さっきは　ありがとうな！
+おかげさんで
+すっかり　ᜀ満足᠀まんぞくᤀ　できたわあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>943325972</Id>
+          <Value>あっ　もしかして
+また　ᜀ話᠀はなᤀしに　ᜀ来᠀きᤀてくれたんか！？
+ええで　ええで　ᜀ大歓迎᠀だいかんげいᤀやで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>959185681</Id>
+          <Value>さすがに　おᜀ礼᠀れいᤀは
+ᜀ何度᠀なんどᤀも　ᜀ渡᠀わたᤀせへんけどな！
+にゃはは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>976749332</Id>
+          <Value>ソーシャルの
+アプモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>991166734</Id>
+          <Value>ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010565909</Id>
+          <Value>まっ　そうやな！
+ᜀ今日᠀きょうᤀは　もう　ᜀ満足᠀まんぞくᤀしとるから
+また　ᜀ明日᠀あしたᤀ　ᜀ来᠀きᤀてくれや！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026949906</Id>
+          <Value>ウチ　おしゃべりさんやから
+どうせ　ᜀ明日᠀あしたᤀに　なったら
+ガマンの　ᜀ限界᠀げんかいᤀに　なっとるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042809617</Id>
+          <Value>そしたら　また
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってくれや
+よろしゅうな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058013704</Id>
+          <Value>いいよ
+ᜀ聞᠀きᤀいてあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075053066</Id>
+          <Value>えっ　ほんまに？
+キミ　ええヤツやわ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092879116</Id>
+          <Value>よっしゃ！
+ᜀ今度᠀こんどᤀは　どれくらい
+ᜀ聞᠀きᤀいてくれはるのん？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109131790</Id>
+          <Value>う～ん　アカンわ～
+ちっとも　ᜀ話᠀はなᤀせへんやんか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126826767</Id>
+          <Value>キミが　たよりなんやから
+ほんま　たのむわ～
+また　ᜀ出直᠀でなおᤀしてきてくれや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142686223</Id>
+          <Value>ふぃー　おおきにな
+おかげさまで　ᜀ落᠀おᤀちついたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160119054</Id>
+          <Value>ᜀ助᠀たすᤀかったぜ！
+これで　コイツも
+しばらくは　ᜀ平気᠀へいきᤀダロ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177027088</Id>
+          <Value>あ　ᜀ約束᠀やくそくᤀの　おᜀ礼᠀れいᤀやね
+もちろん　ᜀ忘᠀わすᤀれてへんよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194722066</Id>
+          <Value>ウチ　おしゃべりさんやから
+どうせ　ᜀ明日᠀あしたᤀに　なったら
+ガマンの　ᜀ限界᠀げんかいᤀに　なっとるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210581777</Id>
+          <Value>そしたら　また
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってくれや
+よろしゅうな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227227922</Id>
+          <Value>ぷはー！
+めっちゃ　ᜀ話᠀はなᤀして　スッキリしたわ
+まいど　おおきにな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244529422</Id>
+          <Value>センキュー　ᜀ助᠀たすᤀかったぜ！
+これで　しばらくは
+ひとᜀ安心᠀あんしんᤀ　できるゼ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260913168</Id>
+          <Value>あ　ᜀ約束᠀やくそくᤀの　おᜀ礼᠀れいᤀやね
+もちろん　ᜀ忘᠀わすᤀれてへんよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278608146</Id>
+          <Value>ウチ　おしゃべりさんやから
+どうせ　ᜀ明日᠀あしたᤀに　なったら
+ガマンの　ᜀ限界᠀げんかいᤀに　なっとるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294467857</Id>
+          <Value>そしたら　また
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってくれや
+よろしゅうな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310851855</Id>
+          <Value>うひゃー！
+こんなに　ガツガツ
+ᜀ話᠀はなᤀしてもうて　ええんかな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327891216</Id>
+          <Value>いや　ほんま
+おかげさまで　ᜀ楽᠀たのᤀしかったわ！
+おおきに　おおきにな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344537357</Id>
+          <Value>ありがとナ～ッ！
+これで　コイツも　しばらく
+おとなしく　できるはずダゼ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361576464</Id>
+          <Value>あ　ᜀ約束᠀やくそくᤀの　おᜀ礼᠀れいᤀやね
+もちろん　ᜀ忘᠀わすᤀれてへんよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379271442</Id>
+          <Value>ウチ　おしゃべりさんやから
+どうせ　ᜀ明日᠀あしたᤀに　なったら
+ガマンの　ᜀ限界᠀げんかいᤀに　なっとるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395131153</Id>
+          <Value>そしたら　また
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってくれや
+よろしゅうな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411514893</Id>
+          <Value>はー！　ᜀ楽᠀たのᤀしかったわ！
+ᜀ毎度᠀まいどᤀ　ありがとうな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429603090</Id>
+          <Value>ウチ　おしゃべりさんやから
+どうせ　ᜀ明日᠀あしたᤀに　なったら
+ガマンの　ᜀ限界᠀げんかいᤀに　なっとるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445462801</Id>
+          <Value>そしたら　また
+おしゃべりに　ᜀ付᠀つᤀきᜀ合᠀あᤀってくれや
+よろしゅうな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1461060111</Id>
+          <Value>だ　ダメよ！
+そんな　ベラベラしゃべったら！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479017229</Id>
+          <Value>きゃっ！？　ツブモンね…
+アナタの　バディアプモン？
+どうにかって　どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494089997</Id>
+          <Value>そんなの　できるかしら…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1513489168</Id>
+          <Value>ソーシャルの　アプモンの
+ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて　おしゃべりに
+ᜀ付᠀つᤀきあって　あげようかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527775752</Id>
+          <Value>いいわ
+ᜀ聞᠀きᤀいてあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_06_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1544552968</Id>
+          <Value>いいわ
+ᜀ聞᠀きᤀいてあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>レースモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20972309</Id>
+          <Value>レースのアプリ　レースモン！
+ᜀ操縦᠀そうじゅうᤀできない　ᜀ乗᠀のᤀりᜀ物᠀ものᤀはない
+ᜀ凄腕᠀すごうでᤀの　ドライバーだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37487379</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　あたりじゃ
+ᜀ負᠀まᤀけナシ　スピード　ナンバー１の
+レーサーだって　ᜀ話題᠀わだいᤀみたいだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55968542</Id>
+          <Value>ᜀ一日一回᠀いちにちいっかいᤀ　レースに　ᜀ挑戦᠀ちょうせんᤀできるぜ！
+なかなかの　ᜀ強敵᠀きょうてきᤀだって　いうから
+ᜀ準備運動᠀じゅんびうんどうᤀは　しっかりな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

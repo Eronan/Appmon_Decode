@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3801879</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「スターターＧＰ　シルバー」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841245</Id>
+          <Value>「スターターＧＰ　シルバー」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>37618450</Id>
+          <Value>ᜀ対戦᠀たいせんᤀ　よろしくおねがいします
+バトルの　ᜀ前᠀まえᤀには　アイサツ
+なにごとにも　ᜀ礼儀᠀れいぎᤀあり　ってね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>52953621</Id>
+          <Value>あーーーー！　ダメ！　ᜀ我慢᠀がまんᤀできない！
+バトルしよう！　はやくはやく！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>69600012</Id>
+          <Value>ᜀ対戦᠀たいせんᤀ　よろしく！
+すてきな　ショータイムに
+してあげるからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>86901269</Id>
+          <Value>ᜀ見᠀みᤀえる…　ᜀ見᠀みᤀえます…
+ワタシの　ᜀ勝利᠀しょうりᤀする　ᜀ未来᠀みらいᤀ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>103547666</Id>
+          <Value>よう　ᰏ！
+サイバーアリーナで　ᜀ会᠀あᤀうなんてな！
+ここでも　１ゲーム　たのむよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>120980245</Id>
+          <Value>どーも　アタシが　ᜀ対戦相手᠀たいせんあいてᤀね
+まあ　ゆるっと　ごりっと　やるから
+よろしく　ってことで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068182</Id>
+          <Value>１にマッスル！　２にマッスル！！
+アプモンをᜀ強化᠀きょうかᤀする　アプリᜀ技᠀わざᤀは
+ＨＰがあるうちに　ᜀ使᠀つかᤀったᜀ方᠀ほうᤀがいいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

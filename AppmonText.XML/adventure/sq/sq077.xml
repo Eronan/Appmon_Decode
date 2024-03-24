@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>51</NumberOfLabels>
+  <NumberOfStrings>51</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>3146511</Id>
+          <Value>そこを　ᜀ行᠀いᤀくのは
+サイバーアリーナを　ᜀ救᠀すくᤀった
+ᜀ勇者様᠀ゆうしゃさまᤀじゃん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21103378</Id>
+          <Value>カオスＡＲフィールドの　ᜀ危機᠀ききᤀから
+このᜀ町᠀まちᤀを　ᜀ救᠀すくᤀった　ᜀ話᠀はなしᤀは
+あちこちで　ᜀ聞᠀きᤀいてるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36700943</Id>
+          <Value>ありがたいけど
+オレだけの　ᜀ力᠀ちからᤀじゃないし
+そんな　ᜀ呼᠀よᤀびᜀ方᠀かたᤀ　やめてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_003b</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249418</Id>
+          <Value>ᜀ恥᠀はᤀずかしいじゃん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828250</Id>
+          <Value>まあまあ　そんな　ᜀ照᠀てᤀれᜀ屋᠀やᤀの　ᜀ勇者様᠀ゆうしゃさまᤀに
+おもしろいᜀ話᠀はなしᤀが　あるんだけど
+ᜀ聞᠀きᤀいて　いかないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803850</Id>
+          <Value>おもしろいᜀ話᠀はなしᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>104203028</Id>
+          <Value>サイバーアリーナには　まだまだ
+ᜀ解禁᠀かいきんᤀされていない　ᜀ大会᠀たいかいᤀが
+たくさん　あるんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>120980244</Id>
+          <Value>そのᜀ中᠀なかᤀには　ᜀ前᠀まえᤀまでは　あったけど
+ᜀ開᠀ひらᤀかれなくなった　ものも　ある…
+そこでだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>139723544</Id>
+          <Value>ᜀ俺᠀おれᤀのバディアプモン　リバイブモンの
+ᜀ力᠀ちからᤀで　そのうちの　１つを　ᜀ復元᠀ふくげんᤀして
+ᜀ参加᠀さんかᤀできるように　しようと　ᜀ思᠀おもᤀうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>153616917</Id>
+          <Value>そんなことが　できるの？
+ᜀ大会᠀たいかいᤀが　ᜀ増᠀ふᤀえるのは　うれしいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>172491545</Id>
+          <Value>ただ　ᜀ苦労᠀くろうᤀして　ᜀ復元᠀ふくげんᤀしても
+ᜀ対戦相手᠀たいせんあいてᤀに　ᜀ手᠀てᤀごたえが　ないんじゃ
+ガッカリ　しちゃうんだよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>190055195</Id>
+          <Value>サイバーアリーナの　ᜀ勇者様᠀ゆうしゃさまᤀが
+ᜀ俺᠀おれᤀの　ᜀ対戦相手᠀たいせんあいてᤀとして　ふさわしいなら
+ᜀ復元᠀ふくげんᤀするᜀ気᠀きᤀにも　なるんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>204473107</Id>
+          <Value>どうかな？
+ちょっと　ᜀ俺᠀おれᤀの　ᜀ力試᠀ちからだめᤀしに
+ᜀ挑戦᠀ちょうせんᤀしてみない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>219414800</Id>
+          <Value>もちろん　ᜀ挑戦᠀ちょうせんᤀするよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>237372180</Id>
+          <Value>さすが
+サイバーアリーナの　ᜀ勇者様᠀ゆうしゃさまᤀ！
+よく　わかってるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>254149389</Id>
+          <Value>だから　その　ᜀ呼᠀よᤀびᜀ方᠀かたᤀ
+やめてってば…
+どうしたら　いいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>271581970</Id>
+          <Value>カンタンさ！
+「フリーᜀ大会᠀たいかいᤀ　ファイナル」に
+ᜀ優勝᠀ゆうしょうᤀ　してきてくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>288883480</Id>
+          <Value>ᜀ俺᠀おれᤀ　ここで　ᜀ待᠀まᤀってるから
+ᜀ優勝᠀ゆうしょうᤀしてきたら　ᜀ報告᠀ほうこくᤀ　たのむよ
+なっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>305529620</Id>
+          <Value>サイバーアリーナには　まだまだ
+ᜀ解禁᠀かいきんᤀされていない　ᜀ大会᠀たいかいᤀが
+たくさん　あるんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>322306836</Id>
+          <Value>そのᜀ中᠀なかᤀには　ᜀ前᠀まえᤀまでは　あったけど
+ᜀ開᠀ひらᤀかれなくなった　ものも　ある…
+そこでだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>341050136</Id>
+          <Value>ᜀ俺᠀おれᤀのバディアプモン　リバイブモンの
+ᜀ力᠀ちからᤀで　そのうちの　１つを　ᜀ復元᠀ふくげんᤀして
+ᜀ参加᠀さんかᤀできるように　しようと　ᜀ思᠀おもᤀうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>357040921</Id>
+          <Value>ただ　ᜀ苦労᠀くろうᤀして　ᜀ復元᠀ふくげんᤀしても
+ᜀ対戦相手᠀たいせんあいてᤀに　ᜀ手᠀てᤀごたえが　ないんじゃ
+ガッカリ　しちゃうんだよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_504</Key>
+      <Values>
+        <BtxtString>
+          <Id>374604571</Id>
+          <Value>サイバーアリーナの　ᜀ勇者様᠀ゆうしゃさまᤀが
+ᜀ俺᠀おれᤀの　ᜀ対戦相手᠀たいせんあいてᤀとして　ふさわしいなら
+ᜀ復元᠀ふくげんᤀするᜀ気᠀きᤀにも　なるんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_505</Key>
+      <Values>
+        <BtxtString>
+          <Id>389022483</Id>
+          <Value>どうかな？
+ちょっと　ᜀ俺᠀おれᤀの　ᜀ力試᠀ちからだめᤀしに
+ᜀ挑戦᠀ちょうせんᤀしてみない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>408683291</Id>
+          <Value>ᜀ俺᠀おれᤀのバディアプモン　リバイブモンの
+ᜀ力᠀ちからᤀで　ᜀ大会᠀たいかいᤀを　ᜀ復元᠀ふくげんᤀしたいんだけど
+ᜀ対戦相手᠀たいせんあいてᤀには　ᜀ手᠀てᤀごたえが　ほしいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>424936218</Id>
+          <Value>「フリーᜀ大会᠀たいかいᤀ　ファイナル」に
+ᜀ優勝᠀ゆうしょうᤀできる　ドライヴァーが　いるなら
+ᜀ大会᠀たいかいᤀを　ᜀ復元᠀ふくげんᤀするᜀ気᠀きᤀにも　なるんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>440927002</Id>
+          <Value>サイバーアリーナをᜀ救᠀すくᤀった　ᜀ勇者様᠀ゆうしゃさまᤀなら
+「フリーᜀ大会᠀たいかいᤀ　ファイナル」も
+ᜀ優勝᠀ゆうしょうᤀ　できるだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>455737872</Id>
+          <Value>ᜀ俺᠀おれᤀ　ここで　ᜀ待᠀まᤀってるから！
+がんばれよ　ᜀ勇者様᠀ゆうしゃさまᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>473170706</Id>
+          <Value>ᜀ約束᠀やくそくᤀどおり
+「フリーᜀ大会᠀たいかいᤀ　ファイナル」に
+ᜀ優勝᠀ゆうしょうᤀ　してきたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>488636948</Id>
+          <Value>おおっ　さすがは
+サイバーアリーナの　ᜀ勇者様᠀ゆうしゃさまᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>505152013</Id>
+          <Value>だから　その　ᜀ呼᠀よᤀびᜀ方᠀かたᤀ
+やめてってば…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>524288789</Id>
+          <Value>いや　やめないね！　それじゃ
+「フリーᜀ大会᠀たいかいᤀ　ファイナル」に
+ᜀ優勝᠀ゆうしょうᤀした　ᜀ勇者様᠀ゆうしゃさまᤀの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>539230735</Id>
+          <Value>ᜀ実力᠀じつりょくᤀを　あらためて
+ᜀ拝見᠀はいけんᤀすると　しますか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>554697227</Id>
+          <Value>えっ！
+もしかして　バトル！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>572654100</Id>
+          <Value>ᜀ当然᠀とうぜんᤀ！
+いっちょ　たのむぜ　ᜀ勇者様᠀ゆうしゃさまᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>591135506</Id>
+          <Value>おかえり　ᜀ勇者様᠀ゆうしゃさまᤀ！
+ᜀ大会᠀たいかいᤀ　ᜀ復元᠀ふくげんᤀを　かけて
+ᜀ再戦᠀さいせんᤀと　いこうか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>605815316</Id>
+          <Value>それじゃ
+いっちょ　たのむぜ　ᜀ勇者様᠀ゆうしゃさまᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>624821011</Id>
+          <Value>ᜀ負᠀まᤀけた　ᜀ負᠀まᤀけたぁ！
+さすがは　ᜀ勇者様᠀ゆうしゃさまᤀ
+ᜀ見事᠀みごとᤀな　ᜀ腕前᠀うでまえᤀ　だったぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>641467160</Id>
+          <Value>それじゃあ
+ᜀ約束᠀やくそくᤀどおり　リバイブモンに
+ᜀ大会᠀たいかいᤀの　ᜀ復元᠀ふくげんᤀを　おᜀ願᠀ねがᤀいするよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>654835975</Id>
+          <Value>リバイブモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>673186326</Id>
+          <Value>うん
+これで　ᜀ大会᠀たいかいᤀが　ᜀ増᠀ふᤀえているはずだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>689046028</Id>
+          <Value>やった！
+ありがとう　うれしいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>707527441</Id>
+          <Value>こちらこそ！
+こうしちゃ　いられないや
+ᜀ俺᠀おれᤀも　ᜀ参加᠀さんかᤀしに　いこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>724435475</Id>
+          <Value>じゃあな　ᜀ勇者様᠀ゆうしゃさまᤀ
+ᜀ次᠀つぎᤀは　ᜀ大会᠀たいかいᤀで　ᜀ会᠀あᤀおうぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>742654741</Id>
+          <Value>ᜀ勇者様᠀ゆうしゃさまᤀの　バトルの　ᜀ動画᠀どうがᤀ
+リアルタイムで　ᜀ見᠀みᤀたことあるけど
+ᜀ最高᠀さいこうᤀに　かっこいいんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>756941325</Id>
+          <Value>ᜀ俺᠀おれᤀも　ああいうバトルが
+できるように　なりたいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>775029520</Id>
+          <Value>ありがたいけど
+ワタシだけの　ᜀ力᠀ちからᤀじゃないし
+そんな　ᜀ呼᠀よᤀびᜀ方᠀かたᤀ　やめてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_003b_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>789315849</Id>
+          <Value>ᜀ恥᠀はᤀずかしいから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>806617360</Id>
+          <Value>もちろん　ᜀ挑戦᠀ちょうせんᤀするわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>825492242</Id>
+          <Value>ᜀ約束᠀やくそくᤀどおり
+「フリーᜀ大会᠀たいかいᤀ　ファイナル」に
+ᜀ優勝᠀ゆうしょうᤀ　してきたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_77_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>840040972</Id>
+          <Value>やった！
+ありがとう　うれしいわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

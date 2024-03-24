@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>8</NumberOfLabels>
+  <NumberOfStrings>8</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3801879</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「スターターＧＰ　ビギナー」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841245</Id>
+          <Value>「スターターＧＰ　ビギナー」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>35521044</Id>
+          <Value>ᜀ一生懸命᠀　いっしょうけんめいᤀ　がんばるよ
+よろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>53347089</Id>
+          <Value>が　が　がんばります
+あの　はじめたばっか　ぼく　その
+よろろ　ろ　よろしくおねがいします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>69993235</Id>
+          <Value>よーし！
+このバトルに　ᜀ勝᠀かᤀったら
+ＳＮＳで　ᜀ勝利報告᠀しょうりほうこくᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>89260826</Id>
+          <Value>よう　またᜀ会᠀あᤀったな！
+ᜀ校庭᠀こうていᤀの　ᜀ初᠀はじᤀめてのバトル　ᜀ覚᠀おぼᤀえてるか？
+どれくらい　ᜀ上達᠀じょうたつᤀしたか　ᜀ見᠀みᤀてやるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>103154197</Id>
+          <Value>ᜀ対戦᠀たいせんᤀって　いつも　ドキドキしちゃう
+ᜀ勝᠀かᤀてるといいなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>121897759</Id>
+          <Value>さあ　オレが　ᜀ最後᠀さいごᤀだ！
+サイバーアリーナは
+ᜀ三連勝᠀さんれんしょうᤀで　ᜀ優勝᠀ゆうしょうᤀ！　ᜀ覚᠀おぼᤀえておけよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

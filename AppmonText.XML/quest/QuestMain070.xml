@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>52</NumberOfLabels>
+  <NumberOfStrings>52</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>655626</Id>
+          <Value>チャンピオンとバトル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798103</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72352535</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105906967</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139461399</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173015831</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206570263</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240124695</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273679127</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307233559</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319291656</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>340787991</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>352846088</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>374342423</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386400520</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>407896855</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>419954952</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>441451287</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453509384</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>475005719</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487063816</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>508560151</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>520618248</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>542114583</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554172680</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>575669015</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>587727112</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>609223447</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621281544</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>642777879</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>654835976</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>676332311</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>688390408</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>709886743</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>721944840</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>743441175</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>755499272</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>776995607</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789053704</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>810550039</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>822608136</Id>
+          <Value>オウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>844104471</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>860881687</Id>
+          <Value>オウジは　カオスＡＲフィールドで
+ᜀ世界᠀せかいᤀを　ᜀ支配᠀しはいᤀしようと　している…？
+オウジに　ᜀ勝᠀かᤀって　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

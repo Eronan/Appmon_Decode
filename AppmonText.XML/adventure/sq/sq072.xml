@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>164</NumberOfLabels>
+  <NumberOfStrings>164</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2491148</Id>
+          <Value>あぁ　どうしよう
+やっぱり　ᜀ行᠀いᤀかなきゃ…
+でも　ᜀ怖᠀こわᤀいし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432842</Id>
+          <Value>どうかしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35652368</Id>
+          <Value>！？
+キミは　アプリドライヴァーだね！
+ちょうど　よかった！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51773965</Id>
+          <Value>たのむ！
+おᜀ願᠀ねがᤀいが　あるんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69993232</Id>
+          <Value>ボクの　かわりに
+ボクの　バディアプモンを
+ᜀ助᠀たすᤀけにᜀ行᠀いᤀってほしいんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85459471</Id>
+          <Value>ええっ！？
+ずいぶん　ᜀ唐突᠀とうとつᤀだなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>102236686</Id>
+          <Value>いやいやいや
+ちょっと　ᜀ待᠀まᤀってください！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>120718098</Id>
+          <Value>ᜀ急᠀きゅうᤀに　ᜀ言᠀いᤀわれても
+オレにも　オレの
+ᜀ都合᠀つごうᤀってものが　ありますから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>136577806</Id>
+          <Value>そうか　そうだよな
+ゴメンね
+ᜀ今᠀いまᤀのは　ᜀ忘᠀わすᤀれてくれ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>154010383</Id>
+          <Value>どうしたんです？
+とにかく　ᜀ落᠀おᤀちついて
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀかせてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>170000916</Id>
+          <Value>ᜀ助᠀たすᤀかるよ
+ᜀ実᠀じつᤀは　ボク　アプリドライヴァーなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598472</Id>
+          <Value>いや　それは
+わかっていますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>204342033</Id>
+          <Value>ああ　ゴメン
+ちょっと　あわてちゃっててね
+ᜀ少᠀すこᤀし　ᜀ混乱᠀こんらんᤀしているんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152653</Id>
+          <Value>ᜀ何᠀なにᤀが　あったんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>235667720</Id>
+          <Value>ᜀ赤᠀あかᤀいんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444937</Id>
+          <Value>な　ᜀ何᠀なにᤀがです？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>270664466</Id>
+          <Value>ほら　あの…
+ＡＲフィールドで
+アプリドライヴァーを　おそってくる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>287179276</Id>
+          <Value>ああ　ᜀ追᠀おᤀいかけてくる
+アプモンのᜀ影᠀かげᤀですね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>304743185</Id>
+          <Value>そうそうそう！　アイツらのこと！！
+それの　ᜀ赤᠀あかᤀいのが
+おそってきたんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>322175761</Id>
+          <Value>そうか…　カオスＡＲフィールドの
+ᜀ影響᠀えいきょうᤀが　こんなところにも
+ᜀ現᠀あらわᤀれているんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>337904143</Id>
+          <Value>それで　ᜀ赤᠀あかᤀいᜀ影᠀かげᤀには
+どこで　おそわれたんですか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>355336726</Id>
+          <Value>おᜀ花見公園᠀はなみこうえんᤀ！
+ここの　すぐᜀ裏᠀うらᤀにある　ᜀ公園᠀こうえんᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>373293846</Id>
+          <Value>ボクの　バディアプモン
+スパモンと　ᜀ公園᠀こうえんᤀに　いたら
+ᜀ急᠀きゅうᤀに　ᜀ赤᠀あかᤀいᜀ影᠀かげᤀが　おそってきて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>389153552</Id>
+          <Value>あまりに　ᜀ怖᠀こわᤀかったから
+スパモンを　ᜀ置᠀おᤀいて
+ボクだけ　ᜀ逃᠀にᤀげてきちゃったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>405930770</Id>
+          <Value>スパモンは
+ボクに　ᜀ似᠀にᤀて　ᜀ臆病᠀おくびょうᤀだから
+きっと　ᜀ怖᠀こわᤀがっているだろうな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>421397004</Id>
+          <Value>それじゃあ　ᜀ急᠀いそᤀいで
+ᜀ助᠀たすᤀけに　いかなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>440533782</Id>
+          <Value>いやだよ！
+ᜀ赤᠀あかᤀいᜀ影᠀かげᤀが　いるかも　しれないんじゃ
+ᜀ怖᠀こわᤀくて　ᜀ公園᠀こうえんᤀに　ᜀ行᠀いᤀけないよー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>454427148</Id>
+          <Value>でも　スパモンが
+おそわれているんでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>471335189</Id>
+          <Value>スパモンなら　たぶん　ᜀ大丈夫᠀だいじょうぶᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>490210068</Id>
+          <Value>ボクの　スパモンも　ᜀ臆病᠀おくびょうᤀだから
+ᜀ怖᠀こわᤀいことが　あると
+すぐ　ᜀ隠᠀かくᤀれちゃうからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>505152017</Id>
+          <Value>だから　スパモンが
+あぶないってことは　ないはずなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>520880395</Id>
+          <Value>はあ　そうなんですか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>540017429</Id>
+          <Value>でも　ᜀ助᠀たすᤀけにいかないと
+いつまでも
+ᜀ公園᠀こうえんᤀに　いることに　なっちゃうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>556794640</Id>
+          <Value>だから　おᜀ願᠀ねがᤀい！
+スパモンを　ᜀ助᠀たすᤀけて
+ここに　ᜀ戻᠀もどᤀってきておくれよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>572392208</Id>
+          <Value>………
+わかりました
+おᜀ花見公園᠀はなみこうえんᤀですね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>589693707</Id>
+          <Value>オレが　ᜀ行᠀いᤀって
+スパモンを　ᜀ見᠀みᤀつけて
+ᜀ連᠀つᤀれてきますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>606339604</Id>
+          <Value>ああっ　ありがとう！！
+キミは　なんて　ᜀ勇気᠀ゆうきᤀが　あるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>623510287</Id>
+          <Value>あ　そうだ！！
+ボクの　スパモンと　ボクだけの
+ᜀ合言葉᠀あいことばᤀが　あるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>639500815</Id>
+          <Value>４！　１！　２！　６！
+これが　ᜀ合言葉᠀あいことばᤀさ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>658113300</Id>
+          <Value>スパモンが　ひきこもって
+ᜀ出᠀でᤀてこないᜀ場合᠀ばあいᤀは
+このᜀ合言葉᠀あいことばᤀを　ᜀ言᠀いᤀうと　いいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>672662029</Id>
+          <Value>わかりました
+それじゃあ　ᜀ行᠀いᤀってきます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>690356756</Id>
+          <Value>よろしくねー！
+ᜀ赤᠀あかᤀいᜀ影᠀かげᤀには　ᜀ気᠀きᤀをつけてねー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>705036549</Id>
+          <Value>やれやれ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>724173585</Id>
+          <Value>ああっ！　キミは
+さっきの　アプリドライヴァーだね！
+また　ᜀ来᠀きᤀてくれたんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>739639821</Id>
+          <Value>たのむ！
+おᜀ願᠀ねがᤀいが　あるんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>757859088</Id>
+          <Value>ボクの　かわりに
+ボクの　バディアプモンを
+ᜀ助᠀たすᤀけにᜀ行᠀いᤀってほしいんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>773849614</Id>
+          <Value>だから　おᜀ願᠀ねがᤀいが
+ᜀ唐突᠀とうとつᤀ　なんだってば…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>790626834</Id>
+          <Value>いやー　キミ
+ᜀ若᠀わかᤀいのに　ᜀ勇気᠀ゆうきᤀ　あるねー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>807928339</Id>
+          <Value>それじゃあ　おᜀ花見公園᠀はなみこうえんᤀの
+スパモンのこと　たのんだよー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>823394831</Id>
+          <Value>えっ？
+スパモンが　あばれているって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>842269465</Id>
+          <Value>そんなこと　ないよ
+ボクの　スパモンは
+ᜀ臆病᠀おくびょうᤀで　おとなしいᜀ性格᠀せいかくᤀだからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>856818186</Id>
+          <Value>スパモン
+ᜀ連᠀つᤀれてきましたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>873595405</Id>
+          <Value>ああっ！
+スパモン！　おかえりっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>889848073</Id>
+          <Value>ただいまスパー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>907543054</Id>
+          <Value>ありがとう！
+よく　ᜀ連᠀つᤀれてきてくれたね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>924189197</Id>
+          <Value>ちょっと
+ᜀ大変᠀たいへんᤀでしたけどね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>941752853</Id>
+          <Value>で　どう？
+ᜀ外᠀そとᤀには　まだ　ᜀ赤᠀あかᤀいアイツ　いるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>958661391</Id>
+          <Value>え？
+まだ　ᜀ安心᠀あんしんᤀは
+できないと　ᜀ思᠀おもᤀいますけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>976093970</Id>
+          <Value>そうか…　スパモン！
+まだ　しばらくは　ここで
+ᜀ生活᠀せいかつᤀしなきゃ　ならないようだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>993133328</Id>
+          <Value>あぁ　ᜀ大丈夫᠀だいじょうぶᤀスパ！
+いつでも　ひきこもれる
+ᜀ準備᠀じゅんびᤀは　できているスパよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008206349</Id>
+          <Value>さすが　たのもしい
+わが　バディアプモンよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1023672579</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042154000</Id>
+          <Value>まぁ　いいコンビと　いえば
+いいコンビ　なのかもしれないな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059848981</Id>
+          <Value>ボクと　スパモンは
+いつでも　どこでも
+ひきこもりの　ᜀ準備᠀じゅんびᤀは　ＯＫなんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075183888</Id>
+          <Value>１かᜀ月᠀げつᤀは　ᜀ余裕᠀よゆうᤀスパよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092485651</Id>
+          <Value>このへんだよな
+スパモンが　いるはずの　ᜀ場所᠀ばしょᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109656087</Id>
+          <Value>あれ？
+ᜀ池᠀いけᤀのᜀ水᠀みずᤀの　ᜀ様子᠀ようすᤀが　おかしいぞ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126040083</Id>
+          <Value>このへんだよな
+スパモンが　いるはずの　ᜀ場所᠀ばしょᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143210519</Id>
+          <Value>あれ？
+ᜀ池᠀いけᤀのᜀ水᠀みずᤀの　ᜀ様子᠀ようすᤀが　おかしいぞ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159987734</Id>
+          <Value>なんだか
+ᜀ湯気᠀ゆげᤀが　ᜀ出᠀でᤀているみたいな　ᜀ感᠀かんᤀじで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176896023</Id>
+          <Value>ああっ！？
+ᜀ池᠀いけᤀのᜀ水᠀みずᤀが　ᜀ温泉᠀おんせんᤀに　なってる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193280269</Id>
+          <Value>ってことは
+やっぱり　このあたりに
+スパモンが　いるはずだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210450453</Id>
+          <Value>いた！
+ᜀ池᠀いけᤀのᜀ水᠀みずᤀのᜀ中᠀なかᤀに　ᜀ隠᠀かくᤀれているぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227621138</Id>
+          <Value>おーい　スパモン！
+ᜀ出᠀でᤀておいでよー！
+キミの　バディが　ᜀ待᠀まᤀっているよー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242038535</Id>
+          <Value>ブクブクブク…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261044496</Id>
+          <Value>ダメだ
+ᜀ警戒᠀けいかいᤀしているのか
+ᜀ出᠀でᤀてくる　ᜀ気配᠀けはいᤀが　ないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1275724294</Id>
+          <Value>うーん
+どうしよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293287950</Id>
+          <Value>そうだ！
+ᜀ合言葉᠀あいことばᤀが　あったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311506963</Id>
+          <Value>スパモンの　ᜀ警戒᠀けいかいᤀを　とくために
+ᜀ合言葉᠀あいことばᤀを　ためしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326973455</Id>
+          <Value>えーっと
+ᜀ合言葉᠀あいことばᤀ　なんだっけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343488270</Id>
+          <Value>ᜀ合言葉᠀あいことばᤀを　ᜀ言᠀いᤀう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359872269</Id>
+          <Value>４　６　４　９　…だっけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377698574</Id>
+          <Value>４　６　４　９　だっけかな？
+まぁ　いいや
+ためしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393820170</Id>
+          <Value>おーい　スパモン！
+４　６　４　９　！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1413088021</Id>
+          <Value>ブクブクブク…
+ᜀ何᠀なにᤀが　ᜀ４６４９᠀ヨロシクᤀだスパ
+ᜀ知᠀しᤀらないᜀ人᠀ひとᤀと　ヨロシクしたくないスパ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1427243529</Id>
+          <Value>あっちᜀ行᠀いᤀけスパ！
+ブクブク…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1444807180</Id>
+          <Value>あれ　ᜀ違᠀ちがᤀったみたいだ
+やりᜀ直᠀なおᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460928782</Id>
+          <Value>ᜀ合言葉᠀あいことばᤀを　ᜀ言᠀いᤀう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1477312781</Id>
+          <Value>１　２　３　４　…だっけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495270160</Id>
+          <Value>やっぱ　１　２　３　４　だよな？
+まぁ　いいや
+ためしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511260682</Id>
+          <Value>おーい　スパモン！
+１　２　３　４　！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529742098</Id>
+          <Value>ブクブクブク…
+１２３４なんて　そんな　わかりやすい
+ᜀ合言葉᠀あいことばᤀじゃ　ないスパ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1544684041</Id>
+          <Value>あっちᜀ行᠀いᤀけスパ！
+ブクブク…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562247692</Id>
+          <Value>あれ　ᜀ違᠀ちがᤀったみたいだ
+やりᜀ直᠀なおᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1578369294</Id>
+          <Value>ᜀ合言葉᠀あいことばᤀを　ᜀ言᠀いᤀう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594753293</Id>
+          <Value>４　１　２　６　…だっけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612841746</Id>
+          <Value>きっと　４　１　２　６　だったはず？
+まぁ　いいや
+ためしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1628701194</Id>
+          <Value>おーい　スパモン！
+４　１　２　６　！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646658071</Id>
+          <Value>ブクブクブク…
+ᜀ合言葉᠀あいことばᤀの　ᜀ４１２６᠀よいフロᤀだスパ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1662255376</Id>
+          <Value>むかえに　ᜀ来᠀きᤀてくれたスパか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1679032842</Id>
+          <Value>あっ！
+ᜀ目᠀めᤀを　ᜀ出᠀だᤀした！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1696465425</Id>
+          <Value>ᜀ違᠀ちがᤀうスパ！？
+スパモンの　バディじゃないスパ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712194058</Id>
+          <Value>あっ！
+また　ひっこんだ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1729888781</Id>
+          <Value>あ！　あ！　ああーーっ！！
+ᜀ待᠀まᤀって　スパモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1746666251</Id>
+          <Value>あーっ
+ＡＲダンジョンに
+ᜀ逃᠀にᤀげこんじゃった！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1765016338</Id>
+          <Value>しかたないなぁ…
+このᜀ電灯᠀でんとうᤀの　ＡＲダンジョンに
+はいって　スパモンを　ᜀ探᠀さがᤀそう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1781138192</Id>
+          <Value>ここが　スパモンが　ᜀ逃᠀にᤀげこんだ
+ＡＲダンジョンだ
+よし　ᜀ行᠀いᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796342283</Id>
+          <Value>いた　いた
+おーい　スパモーン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813512718</Id>
+          <Value>うわーっ！
+ここまで　ᜀ追᠀おᤀってきたスパ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1830814476</Id>
+          <Value>ᜀ待᠀まᤀって！
+オレは　キミを
+むかえに　ᜀ来᠀きᤀたんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1846673931</Id>
+          <Value>なっ
+いっしょに　ᜀ行᠀いᤀこうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1866203921</Id>
+          <Value>ᜀ知᠀しᤀらないᜀ人᠀ひとᤀに　ついていっては
+いけないんだスパ！
+ᜀ知᠀しᤀらないᜀ人᠀ひとᤀは　ᜀ怖᠀こわᤀいスパ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>1882194702</Id>
+          <Value>ᜀ逃᠀にᤀげられないなら
+ᜀ勇気᠀ゆうきᤀを　ᜀ出᠀だᤀして
+ᜀ戦᠀たたかᤀうしか　ないスパ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>1896481287</Id>
+          <Value>え？
+ええーーっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>1915618066</Id>
+          <Value>おーい　ᜀ勘違᠀かんちがᤀい　しないでくれ
+オレは　キミを
+むかえに　ᜀ来᠀きᤀたんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>1933574931</Id>
+          <Value>また　ᜀ怖᠀こわᤀい　ᜀ知᠀しᤀらないᜀ人᠀ひとᤀが
+ᜀ来᠀きᤀたスパー！
+ᜀ勇気᠀ゆうきᤀを　ᜀ出᠀だᤀすしか　ないスパー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>1947337227</Id>
+          <Value>わわっ！？
+また　これかーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>1966867221</Id>
+          <Value>うわーん　バトルにも　ᜀ負᠀まᤀけたスパー！
+スパモンは
+ᜀ悪᠀わるᤀいᜀ人᠀ひとᤀに　ᜀ連᠀つᤀれていかれるスパー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982595604</Id>
+          <Value>そして　ᜀ悪徳温泉᠀あくとくおんせんᤀで
+ᜀ一生᠀いっしょうᤀ　こきつかわれるスパー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>1997537551</Id>
+          <Value>そ　そんなこと　しないよっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2013921799</Id>
+          <Value>え？
+ホント　スパ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2032272142</Id>
+          <Value>オレは
+キミの　バディに　たのまれて
+むかえに　ᜀ来᠀きᤀたんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2050359833</Id>
+          <Value>そのᜀ証拠᠀しょうこᤀに　４　１　２　６！
+ᜀ合言葉᠀あいことばᤀも　ᜀ教᠀おしᤀえて　もらっているんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065957644</Id>
+          <Value>たしかに　それは
+スパモンと　バディだけの
+ᜀ合言葉᠀あいことばᤀスパ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2083914259</Id>
+          <Value>さっきは　ᜀ知᠀しᤀらない　ᜀ顔᠀かおᤀを　ᜀ見᠀みᤀて
+ᜀ全然᠀ぜんぜんᤀ　ᜀ気᠀きᤀがつかなかったスパ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2099905294</Id>
+          <Value>それじゃあ　アンタは
+スパモンを　バディのトコへ
+ᜀ連᠀つᤀれてって　くれるスパか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2115896076</Id>
+          <Value>ああ
+そのために　ᜀ来᠀きᤀたんだよ
+さぁ　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>2132935437</Id>
+          <Value>ありがとうスパ！
+それじゃあ　スパモンは
+アンタに　ついていくスパ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>2148663567</Id>
+          <Value>よし　それじゃあ　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>2165047563</Id>
+          <Value>よろしく　たのむスパ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2182611470</Id>
+          <Value>ええっ！？
+ずいぶん　ᜀ唐突᠀とうとつᤀねぇ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2201223954</Id>
+          <Value>ᜀ急᠀きゅうᤀに　ᜀ言᠀いᤀわれても
+ワタシにも　ワタシの
+ᜀ都合᠀つごうᤀってものが　ありますから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2216690190</Id>
+          <Value>ああ　ᜀ追᠀おᤀいかけてくる
+アプモンのᜀ影᠀かげᤀの　ことね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2233991947</Id>
+          <Value>ワタシが　ᜀ行᠀いᤀって
+スパモンを　ᜀ見᠀みᤀつけて
+ᜀ連᠀つᤀれてきますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_503_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2249982475</Id>
+          <Value>だから　おᜀ願᠀ねがᤀいが
+ᜀ唐突᠀とうとつᤀ　なのよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_064_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2267021841</Id>
+          <Value>まぁ　いいコンビと　いえば
+いいコンビ　なのかもしれないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2283667987</Id>
+          <Value>このへんよね
+スパモンが　いるはずの　ᜀ場所᠀ばしょᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_068_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2300576527</Id>
+          <Value>あれ？
+ᜀ池᠀いけᤀの　コイが　バシャバシャ
+あばれているわ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2317222419</Id>
+          <Value>このへんよね
+スパモンが　いるはずの　ᜀ場所᠀ばしょᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_070_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2334392855</Id>
+          <Value>あれ？
+ᜀ池᠀いけᤀのᜀ水᠀みずᤀの　ᜀ様子᠀ようすᤀが　おかしいわ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_072_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2351301143</Id>
+          <Value>ああっ！？
+ᜀ池᠀いけᤀのᜀ水᠀みずᤀが　ᜀ温泉᠀おんせんᤀに　なってる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_073_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2367554316</Id>
+          <Value>ってことは
+やっぱり　このあたりに
+スパモンが　いるはずね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_074_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2384855573</Id>
+          <Value>いた！
+ᜀ池᠀いけᤀのᜀ水᠀みずᤀのᜀ中᠀なかᤀに　ᜀ隠᠀かくᤀれているわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_075_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2402157331</Id>
+          <Value>おーい　スパモン！
+ᜀ出᠀でᤀておいでよー！
+アナタの　バディが　ᜀ待᠀まᤀっているわー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_077_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2418803473</Id>
+          <Value>ダメだわ
+ᜀ警戒᠀けいかいᤀしているのか
+ᜀ出᠀でᤀてくる　ᜀ気配᠀けはいᤀが　ないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_079_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2434269711</Id>
+          <Value>そうだ！
+ᜀ合言葉᠀あいことばᤀが　あったわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2452488723</Id>
+          <Value>スパモンの　ᜀ警戒᠀けいかいᤀを　とくために
+ᜀ合言葉᠀あいことばᤀを　ためしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_085_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2468348686</Id>
+          <Value>４　６　４　９　だったかな？
+まぁ　いいや
+ためしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2484994572</Id>
+          <Value>あれ　ᜀ違᠀ちがᤀったみたい…
+やりᜀ直᠀なおᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2502034192</Id>
+          <Value>やっぱ　１　２　３　４　だよね？
+まぁ　いいわ
+ためしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2518549004</Id>
+          <Value>あれ　ᜀ違᠀ちがᤀったみたい…
+やりᜀ直᠀なおᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_101_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2535719698</Id>
+          <Value>きっと　４　１　２　６　だったはず？
+まぁ　いいわ
+ためしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_110_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2553676563</Id>
+          <Value>しかたないわねぇ…
+このᜀ電灯᠀でんとうᤀの　ＡＲダンジョンに
+はいって　スパモンを　ᜀ探᠀さがᤀしましょ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_111_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2569929488</Id>
+          <Value>ここが　スパモンが　ᜀ逃᠀にᤀげこんだ
+ＡＲダンジョンね
+それじゃ　ᜀ行᠀いᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_112_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2584740363</Id>
+          <Value>いたわ
+おーい　スパモーン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_114_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2602566410</Id>
+          <Value>ᜀ待᠀まᤀって！
+ワタシは　アナタを
+むかえに　ᜀ来᠀きᤀたの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_115_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2618425868</Id>
+          <Value>ねっ
+いっしょに　ᜀ行᠀いᤀきましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_119_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2636907280</Id>
+          <Value>ねぇ　ᜀ勘違᠀かんちがᤀい　しないでよ
+ワタシは　アナタを
+むかえに　ᜀ来᠀きᤀたの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_121_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2651980300</Id>
+          <Value>わわっ！？
+また　これなのーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_124_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2668626192</Id>
+          <Value>そ　そんなこと　しないわよっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_126_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2686583567</Id>
+          <Value>ワタシは
+アナタの　バディに　たのまれて
+むかえに　ᜀ来᠀きᤀたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_127_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2704671257</Id>
+          <Value>その　ᜀ証拠᠀しょうこᤀに　４　１　２　６！
+ᜀ合言葉᠀あいことばᤀも　ᜀ教᠀おしᤀえて　もらっているのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_131_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2719875851</Id>
+          <Value>ええ
+そのために　ᜀ来᠀きᤀたのよ
+さぁ　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_72_133_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2735997201</Id>
+          <Value>よし　それじゃあ　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

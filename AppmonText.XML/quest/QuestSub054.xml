@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179919</Id>
+          <Value>ノレるノレないᜀ捜査線᠀そうさせんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432841</Id>
+          <Value>ニコタマ川・北地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749524</Id>
+          <Value>セブンコードアプモンᜀ探᠀さがᤀしを
+ᜀ手伝᠀てつだᤀってほしいと　おᜀ願᠀ねがᤀいされた
+このおᜀ願᠀ねがᤀい　ノってあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511569</Id>
+          <Value>ニコタマ川・ゲーム機ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697175</Id>
+          <Value>ゲームの　セーブデータが
+ᜀ消᠀きᤀえてしまった　ᜀ男᠀おとこᤀのᜀ子᠀こᤀを　ᜀ見᠀みᤀつけた
+ＡＲフィールドで　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066001</Id>
+          <Value>ニコタマ川・ゲーム機ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104334099</Id>
+          <Value>セーブモンが　セーブデータを
+ᜀ消᠀けᤀした　ᜀ犯人᠀はんにんᤀだと　わかった！
+セーブモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096137</Id>
+          <Value>ニコタマ川・北地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138674964</Id>
+          <Value>セーブモンを　やっつけて
+セーブデータが　ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀったはず
+ᜀ男᠀おとこᤀのᜀ子᠀こᤀの　ところに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912718</Id>
+          <Value>ニコタマ川・南地区の緑地公園</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172360477</Id>
+          <Value>アストラは　ᜀ南地区᠀みなみちくᤀの　ᜀ緑地公園᠀りょくちこうえんᤀに
+ᜀ向᠀むᤀかったみたい
+ᜀ彼᠀かれᤀの　あとを　ᜀ追᠀おᤀいかけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467150</Id>
+          <Value>ニコタマ川・南地区の緑地公園</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205783833</Id>
+          <Value>イヤなᜀ音᠀おとᤀを　ᜀ出᠀だᤀしている　アプモンが
+どこかにいるみたい
+ᜀ発生源᠀はっせいげんᤀの　ＡＲダンジョンを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890507</Id>
+          <Value>緑地公園ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239469333</Id>
+          <Value>イヤなᜀ音᠀おとᤀは　オンパモンが　ᜀ出᠀だᤀしていた
+これᜀ以上᠀いじょうᤀ　ᜀ悪᠀わるᤀさを　させないよう
+オンパモンを　やっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576014</Id>
+          <Value>ニコタマ川・南地区の緑地公園</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272892699</Id>
+          <Value>オンパモンを　やっつけた！
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ緑地公園᠀りょくちこうえんᤀの
+アストラに　ᜀ話᠀はなᤀしかけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>アストラに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305922838</Id>
+          <Value>アプチューブに　のせる　ネタとして
+アストラと　バトルすることに！
+アストラとの　バトルに　ᜀ勝利᠀しょうりᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324666139</Id>
+          <Value>アストラと　ᜀ町᠀まちᤀのᜀ問題᠀もんだいᤀを　ᜀ解決᠀かいけつᤀしたり
+バトルしたりと　ᜀ充実᠀じゅうじつᤀした　ᜀ時間᠀じかんᤀだった
+アストラと　また　ᜀ会᠀あᤀえるかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

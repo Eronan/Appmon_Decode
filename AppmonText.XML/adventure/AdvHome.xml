@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>19</NumberOfLabels>
+  <NumberOfStrings>19</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>UPDATE_APP_GOT</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442313</Id>
+          <Value>ᜀ追加᠀ついかᤀされた
+アプリがあります！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>UPDATE_APP_LEVEL_UP</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957385</Id>
+          <Value>レベルアップした
+アプリがあります！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_SELECTION_ON</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078984</Id>
+          <Value>オンにしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_SELECTION_OFF</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>オフにしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_RESULT_ON_TO_ON</Key>
+      <Values>
+        <BtxtString>
+          <Id>68682251</Id>
+          <Value>アプリのᜀ設定᠀せっていᤀは
+オンにされています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_RESULT_ON_TO_OFF</Key>
+      <Values>
+        <BtxtString>
+          <Id>85328395</Id>
+          <Value>アプリのᜀ設定᠀せっていᤀを
+オフにしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_RESULT_OFF_TO_ON</Key>
+      <Values>
+        <BtxtString>
+          <Id>102105611</Id>
+          <Value>アプリのᜀ設定᠀せっていᤀを
+オンにしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_RESULT_OFF_TO_OFF</Key>
+      <Values>
+        <BtxtString>
+          <Id>119013899</Id>
+          <Value>アプリのᜀ設定᠀せっていᤀは
+オフにされています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_NOTIFY</Key>
+      <Values>
+        <BtxtString>
+          <Id>136577552</Id>
+          <Value>ロックᜀ画面᠀がめんᤀに
+ᜀ通知᠀つうちᤀをᜀ表示᠀ひょうじᤀできます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_NO_ADVERTISEMENT</Key>
+      <Values>
+        <BtxtString>
+          <Id>152830229</Id>
+          <Value>ᜀ広告᠀こうこくᤀがᜀ表示᠀ひょうじᤀされなくなります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_ACCEL_MOVEMENT</Key>
+      <Values>
+        <BtxtString>
+          <Id>169476620</Id>
+          <Value>いつもより　はやく
+ᜀ走᠀はしᤀれるようになります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_ARENA_OCCUR_UP</Key>
+      <Values>
+        <BtxtString>
+          <Id>187564566</Id>
+          <Value>サイバーアリーナにᜀ限定大会᠀げんていたいかいᤀが
+よくᜀ発生᠀はっせいᤀするようになります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_AR_SWITCH_MAP_TYPE</Key>
+      <Values>
+        <BtxtString>
+          <Id>203031051</Id>
+          <Value>カオスARフィールドに
+ᜀ行᠀いᤀけるようになります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_BATTLE_BATTERY_HEAL</Key>
+      <Values>
+        <BtxtString>
+          <Id>220856852</Id>
+          <Value>バトルに　ᜀ勝᠀かᤀったとき
+バッテリーを　ᜀ少᠀すこᤀしᜀ回復᠀かいふくᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_AR_STEALTH</Key>
+      <Values>
+        <BtxtString>
+          <Id>236847628</Id>
+          <Value>しのびᜀ歩᠀あるᤀきで
+ᜀ敵᠀てきᤀにᜀ見᠀みᤀつかりません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_PACKET_GET_NUM_UP</Key>
+      <Values>
+        <BtxtString>
+          <Id>253624846</Id>
+          <Value>アプモンのかけらを
+ひろえるᜀ量᠀りょうᤀがᜀ増᠀ふᤀえます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_PACKET_RARE_CHANCE_UP</Key>
+      <Values>
+        <BtxtString>
+          <Id>271057424</Id>
+          <Value>ARフィールドでᜀ拾᠀ひろᤀえる
+かけらのレアᜀ率᠀りつᤀがᜀ上᠀あᤀがります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_PACKET_EXPAND_GET_TBL</Key>
+      <Values>
+        <BtxtString>
+          <Id>287703568</Id>
+          <Value>ヒフミがᜀ丘᠀おかᤀでひろえる
+かけらのᜀ種類᠀しゅるいᤀがᜀ増᠀ふᤀえます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SWITCH_APP_PACKET_NUM_BATTLE_RESULT</Key>
+      <Values>
+        <BtxtString>
+          <Id>303694349</Id>
+          <Value>バトルリザルトで
+もらえるかけらがᜀ増᠀ふᤀえます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

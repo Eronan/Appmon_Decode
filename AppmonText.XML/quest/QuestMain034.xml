@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>56</NumberOfLabels>
+  <NumberOfStrings>56</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786700</Id>
+          <Value>Ｄランクマスターとバトル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432841</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798101</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987273</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72352533</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541705</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105906965</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096137</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139461397</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650569</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173015829</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205001</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206570261</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759433</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240124693</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313865</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273679125</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307233557</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319422729</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>340787989</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>352977161</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>374342421</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386531593</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>407896853</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>420086025</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>441451285</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453640457</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>475005717</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487194889</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>508560149</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>520749321</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>542114581</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554303753</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>575669013</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>587858185</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>609223445</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621412617</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>642777877</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>654967049</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>676332309</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>688521481</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>709886741</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>722075913</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>743441173</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>755630345</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>776995605</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789184777</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>810550037</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>822739209</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>844104469</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>856293641</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>877658901</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>889848073</Id>
+          <Value>リョウジに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>911213333</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>927990549</Id>
+          <Value>ᜀ試練᠀しれんᤀを　すべて　クリアした！　これで
+ᜀ倉庫᠀そうこᤀにいる　リョウジに　ᜀ会᠀あᤀえる！
+ᜀ彼᠀かれᤀに　Ｄランカーバトルを　ᜀ挑᠀いどᤀもう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

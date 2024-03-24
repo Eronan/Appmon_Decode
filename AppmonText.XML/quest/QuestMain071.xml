@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>655622</Id>
+          <Value>ᜀ黒幕᠀くろまくᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957138</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404888</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959320</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066002</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513752</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620434</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068184</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174866</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622616</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729298</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177048</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283730</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731480</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838162</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285912</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286392594</Id>
+          <Value>学校屋上・カオスゲートＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840344</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323617560</Id>
+          <Value>すべての　ᜀ事件᠀じけんᤀの　ᜀ黒幕᠀くろまくᤀは　ナオトの
+バディ　シャットモンだった…
+リブートモンとなった ᜀ彼᠀かれᤀを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

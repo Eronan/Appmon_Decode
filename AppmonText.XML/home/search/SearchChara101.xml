@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524551</Id>
+          <Value>カイモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21365525</Id>
+          <Value>カイモンは　ショッピングのアプリだ
+アイテムが　ᜀ必要᠀ひつようᤀになったり
+ᜀ売᠀うᤀりたくなったら　ᜀ会᠀あᤀいにᜀ行᠀いᤀくといいぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38535957</Id>
+          <Value>カイモンは　ᜀ各地᠀かくちᤀのコンビニに　いる！
+ᜀ急᠀きゅうᤀに　ᜀ回復᠀かいふくᤀアイテムが
+ᜀ必要᠀ひつようᤀになっても　ᜀ安心᠀あんしんᤀだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

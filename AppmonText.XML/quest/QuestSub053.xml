@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786700</Id>
+          <Value>マッスル・トレーニング？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694989</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38011675</Id>
+          <Value>「フリーᜀ大会᠀たいかいᤀ　Ｆランク」で　ᜀ優勝᠀ゆうしょうᤀして
+タップモンたちを　トレーニングから
+ᜀ解放᠀かいほうᤀしてあげよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249421</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959316</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ今度᠀こんどᤀは　マッスルモンに　バトルを
+ᜀ挑᠀いどᤀまれた！　ここは　ᜀ勝᠀かᤀつしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803853</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513748</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ今度᠀こんどᤀは　マッスルモンに　バトルを
+ᜀ挑᠀いどᤀまれた！　ここは　ᜀ勝᠀かᤀつしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068180</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ今度᠀こんどᤀは　マッスルモンに　バトルを
+ᜀ挑᠀いどᤀまれた！　ここは　ᜀ勝᠀かᤀつしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622612</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ今度᠀こんどᤀは　マッスルモンに　バトルを
+ᜀ挑᠀いどᤀまれた！　ここは　ᜀ勝᠀かᤀつしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177044</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ今度᠀こんどᤀは　マッスルモンに　バトルを
+ᜀ挑᠀いどᤀまれた！　ここは　ᜀ勝᠀かᤀつしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731476</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ今度᠀こんどᤀは　マッスルモンに　バトルを
+ᜀ挑᠀いどᤀまれた！　ここは　ᜀ勝᠀かᤀつしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285908</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ今度᠀こんどᤀは　マッスルモンに　バトルを
+ᜀ挑᠀いどᤀまれた！　ここは　ᜀ勝᠀かᤀつしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>ニコタマ川・東オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840340</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ今度᠀こんどᤀは　マッスルモンに　バトルを
+ᜀ挑᠀いどᤀまれた！　ここは　ᜀ勝᠀かᤀつしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323748629</Id>
+          <Value>タップモンたちを　ᜀ解放᠀かいほうᤀしてあげた！
+でも　あのタップモンたち　ᜀ少᠀すこᤀしだけ
+ᜀ筋肉質᠀きんにくしつᤀに　なってるᜀ気᠀きᤀがする…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

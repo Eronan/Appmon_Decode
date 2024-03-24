@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>75</NumberOfLabels>
+  <NumberOfStrings>75</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>3539734</Id>
+          <Value>ふむ…
+ᜀ何度᠀なんどᤀ　ᜀ呼᠀よᤀんでも　ᜀ返事᠀へんじᤀは　ないか
+これは　ᜀ何᠀なにᤀか　あったかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_001B</Key>
+      <Values>
+        <BtxtString>
+          <Id>19137297</Id>
+          <Value>？
+ᜀ変᠀かᤀわった　しゃべりᜀ方᠀かたᤀを　する
+おねえさん　だなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>34341131</Id>
+          <Value>どうか　したんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>52822799</Id>
+          <Value>おや　ᜀ聞᠀きᤀいていたのか
+キミは
+アプリドライヴァーの　ᜀ子᠀こᤀだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435034</Id>
+          <Value>ᜀ実᠀じつᤀは　ᜀ私᠀わたしᤀの　バディアプモンの
+ライブラモンに
+ᜀ書籍棚᠀しょせきだなᤀの　ᜀ整理᠀せいりᤀを　たのんだのだがね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>87687955</Id>
+          <Value>どうにも　おかしい
+ᜀ一向᠀いっこうᤀに　ᜀ戻᠀もどᤀってこないうえに
+まったく　ᜀ連絡᠀れんらくᤀが　とれないのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>103416590</Id>
+          <Value>えっ…
+もしかして　ᜀ棚᠀たなᤀのᜀ中᠀なかᤀで
+ᜀ何᠀なにᤀか　あったんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>121635607</Id>
+          <Value>そうらしい
+しかし　ᜀ私᠀わたしᤀは　バトルが　ᜀ不得手᠀ふえてᤀでね
+ＡＲダンジョンにᜀ行᠀いᤀくのは　ᜀ不安᠀ふあんᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>138019603</Id>
+          <Value>ᜀ何᠀なにᤀしろ　バディアプモンが　いなくて
+すっかり　ᜀ手詰᠀てづᤀまりでね
+それで　ᜀ困᠀こまᤀっていたのだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>153223946</Id>
+          <Value>そ　そんな
+ᜀ困᠀こまᤀってるようには
+ᜀ見᠀みᤀえないんですが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>170525455</Id>
+          <Value>いやいや　ᜀ困᠀こまᤀっているよ
+ᜀ大事᠀だいじᤀな
+バディアプモンの　ことだからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>188220178</Id>
+          <Value>どれくらい　ᜀ困᠀こまᤀっているかというと
+キミのような　ᜀ子᠀こᤀどもに
+おᜀ願᠀ねがᤀいを　したくなるほどだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>203817742</Id>
+          <Value>どうかな
+ᜀ私᠀わたしᤀの　バディアプモンを
+ᜀ助᠀たすᤀけてくれないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>219415052</Id>
+          <Value>もちろん
+おやすい　ごᜀ用᠀ようᤀです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>236192268</Id>
+          <Value>たのもしいな
+いや　うれしいかぎりだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>253755922</Id>
+          <Value>ライブラモンは
+その　ᜀ書籍棚᠀しょせきだなᤀの　ᜀ中᠀なかᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_015B</Key>
+      <Values>
+        <BtxtString>
+          <Id>272892693</Id>
+          <Value>ᜀ書籍棚᠀しょせきだなᤀといっても
+データᜀ化᠀かᤀされた　ᜀ電子書籍᠀でんししょせきᤀが
+ᜀ保存᠀ほぞんᤀされた　サーバ　なんだがね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>288621331</Id>
+          <Value>では　よろしく　たのむよ
+ᜀ私᠀わたしᤀは　ここで
+いいᜀ報告᠀ほうこくᤀを　ᜀ待᠀まᤀつことにしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840345</Id>
+          <Value>バディアプモンの　ライブラモンに
+ᜀ書籍棚᠀しょせきだなᤀの　ᜀ整理᠀せいりᤀを　たのんだのだが
+ᜀ一向᠀いっこうᤀに　ᜀ戻᠀もどᤀってこないのだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>323617558</Id>
+          <Value>ᜀ何᠀なにᤀか　あったのかもしれないが
+ᜀ私᠀わたしᤀは　バトルが　ᜀ不得手᠀ふえてᤀでね
+ＡＲダンジョンにᜀ行᠀いᤀくのは　ᜀ不安᠀ふあんᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>338035470</Id>
+          <Value>どうかな
+ᜀ私᠀わたしᤀの　バディアプモンを
+ᜀ助᠀たすᤀけてくれないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>354681361</Id>
+          <Value>ライブラモンが　はいっていったのは
+そこの　ᜀ書籍棚᠀しょせきだなᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>373818133</Id>
+          <Value>ここには　アプリドライヴを　ᜀ持᠀もᤀつ
+ᜀ同僚᠀どうりょうᤀが　いないわけでは　ないがね
+ᜀ彼᠀かれᤀらも　バトルは　ᜀ苦手᠀にがてᤀなのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>389022488</Id>
+          <Value>だから　たのむよ
+ライブラモンは
+ᜀ私᠀わたしᤀの　ᜀ大切᠀たいせつᤀな　バディアプモンなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>403833351</Id>
+          <Value>ライブラモン！
+ᜀ戻᠀もどᤀったか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>420872720</Id>
+          <Value>はい
+ごᜀ心配᠀しんぱいᤀを　おかけしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>440402705</Id>
+          <Value>ああ　ᜀ心配᠀しんぱいᤀしたぞ
+いったい　なんのᜀ本᠀ほんᤀを　ᜀ読᠀よᤀんで
+ᜀ正気᠀しょうきᤀを　ᜀ失᠀うしなᤀったんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>454165004</Id>
+          <Value>い　いえ
+そういうわけでは　なく…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>473826066</Id>
+          <Value>ライブラモンは　ウィルスᜀ化᠀かᤀして
+ARダンジョンの　ᜀ奥᠀おくᤀで
+ᜀ読書᠀どくしょᤀを　ᜀ続᠀つづᤀけていたんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>491651864</Id>
+          <Value>なんだ　ウィルスᜀ化᠀かᤀか…
+てっきり　ᜀ精神᠀せいしんᤀを　ᜀ害᠀がいᤀするような
+ᜀ書籍᠀しょせきᤀでも　ᜀ読᠀よᤀんだのかと　ᜀ思᠀おもᤀっていた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>504234250</Id>
+          <Value>どんな　ᜀ本᠀ほんᤀだよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>521667081</Id>
+          <Value>ᜀ何᠀なにᤀは　ともあれ
+ᜀ助᠀たすᤀかったぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>541721365</Id>
+          <Value>ふむ　ᜀ得手᠀えてᤀではないとはいえ　ᜀ私᠀わたしᤀも
+バディアプモンを　ᜀ助᠀たすᤀけられるくらいの
+ᜀ強᠀つよᤀさを　ᜀ求᠀もとᤀめてみようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>556007951</Id>
+          <Value>サイバーアリーナで　ᜀ会᠀あᤀったら
+おᜀ手柔᠀てやわᤀらかに　たのむぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>570818822</Id>
+          <Value>よろこんで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>591790869</Id>
+          <Value>アプリドライヴを　ᜀ持᠀もᤀっている
+ᜀ同僚᠀どうりょうᤀが　いないわけでは　ないがね
+ᜀ彼᠀かれᤀらは　バトルが　ᜀ苦手᠀にがてᤀなのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>608961304</Id>
+          <Value>ᜀ私᠀わたしᤀくらいは　ᜀ自分᠀じぶんᤀの　バディアプモンを
+ᜀ助᠀たすᤀけられるくらいの　ᜀ強᠀つよᤀさを
+ᜀ求᠀もとᤀめても　いいかも　しれないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>623379218</Id>
+          <Value>そこに　いるのが
+ライブラモン…？
+なんだか　ᜀ様子᠀ようすᤀが　おかしいな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>639894285</Id>
+          <Value>い　い　■
+いるのは　そ■に　あなたが
+ᜀ誰᠀だれᤀで■か　イったい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>654835975</Id>
+          <Value>こ　これって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>673579537</Id>
+          <Value>ᜀ許可᠀きょかᤀはない　ワ■クシの
+ここが■　ᜀ書籍棚᠀しょせきだなᤀます！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>691798800</Id>
+          <Value>ᜀ立᠀たᤀちᜀ入᠀いᤀりは　ᜀ無断᠀むだんᤀに■
+ᜀ禁᠀きんᤀじです　ᜀ禁᠀きんᤀじて■おられ
+ます■　です　でしょう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>709231380</Id>
+          <Value>ᜀ間違᠀まちがᤀいないや　ウィルスᜀ化᠀かᤀしてる！
+ここにも　カオスARフィールドの
+ᜀ影響᠀えいきょうᤀが　ᜀ残᠀のこᤀっていたなんて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>724042509</Id>
+          <Value>さあ　さ■
+ᜀ今᠀いまᤀすぐ　おᜀ立᠀たᤀちのき■
+おᜀ願᠀ねがᤀ■しです■！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>741999383</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀさないと
+おねえさんの　ところには
+ᜀ連᠀つᤀれていけないな…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>755761420</Id>
+          <Value>バトルだ　ライブラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>775947026</Id>
+          <Value>ᜀ許可᠀きょかᤀはない　ワ■クシの
+ここが■　ᜀ書籍棚᠀しょせきだなᤀます！
+おᜀ立᠀たᤀちのき■　おᜀ願᠀ねがᤀ■しです■！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>792331031</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀさないと
+おねえさんの　ところには
+ᜀ連᠀つᤀれていけないな…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>806093068</Id>
+          <Value>バトルだ　ライブラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>823263756</Id>
+          <Value>う　うう…
+ワタクシは　いったい…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>841483026</Id>
+          <Value>ライブラモン！
+キミは　ウィルスᜀ化᠀かᤀ　していたんだよ
+ᜀ覚᠀おぼᤀえてる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>860095256</Id>
+          <Value>はい　たしかに…　ARフィールドで
+ᜀ歪᠀ゆがᤀみのようなものを　ᜀ感᠀かんᤀじたとᜀ思᠀おもᤀったら
+…おᜀ恥᠀はᤀずかしいことです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>875168275</Id>
+          <Value>やっぱり　カオスARフィールドの
+ᜀ影響᠀えいきょうᤀが　ᜀ残᠀のこᤀっていたんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>893125401</Id>
+          <Value>でも　カオスARフィールドは
+もう　ᜀ起᠀おᤀこらないし
+これからᜀ先᠀さきᤀは　きっと　ᜀ大丈夫᠀だいじょうぶᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>908198414</Id>
+          <Value>かたじけなく　ᜀ存᠀ぞんᤀじます
+あなたは　すばらしいᜀ人᠀ひとᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>925893394</Id>
+          <Value>もし　よろしければ
+ワタクシの　バディの　ところまで
+ごᜀ案内᠀あんないᤀして　いただけますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>941753104</Id>
+          <Value>うん！
+ライブラモンが
+ᜀ動᠀うごᤀけそうなら　ᜀ戻᠀もどᤀろうか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>959185428</Id>
+          <Value>ワタクシは　もう　ᜀ大丈夫᠀だいじょうぶᤀです
+どうぞ　よろしく　おᜀ願᠀ねがᤀいします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>975045134</Id>
+          <Value>よし　おねえさんに
+ᜀ報告᠀ほうこくᤀしに　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>993395473</Id>
+          <Value>ライブラモンが　はいっていったのは
+この　ᜀ書籍棚᠀しょせきだなᤀの
+ＡＲダンジョンって　ᜀ話᠀はなしᤀだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_001B_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008861969</Id>
+          <Value>？
+ᜀ変᠀かᤀわった　しゃべりᜀ方᠀かたᤀを　する
+おねえさん　ね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1027343121</Id>
+          <Value>ライブラモンは　ウィルスᜀ化᠀かᤀして
+ARダンジョンの　ᜀ奥᠀おくᤀで
+ᜀ読書᠀どくしょᤀを　ᜀ続᠀つづᤀけていたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041105163</Id>
+          <Value>どんな　ᜀ本᠀ほんᤀなのよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_033_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059586835</Id>
+          <Value>そこに　いるのが
+ライブラモン…？
+なんだか　ᜀ様子᠀ようすᤀが　おかしいわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1078330132</Id>
+          <Value>ᜀ間違᠀まちがᤀいないわ　ウィルスᜀ化᠀かᤀしてる！
+ここにも　カオスARフィールドの
+ᜀ影響᠀えいきょうᤀが　ᜀ残᠀のこᤀっていたなんて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094320919</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀさないと
+おねえさんの　ところには
+ᜀ連᠀つᤀれていけないわね…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108082956</Id>
+          <Value>バトルよ　ライブラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127875351</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀさないと
+おねえさんの　ところには
+ᜀ連᠀つᤀれていけないわね…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141637388</Id>
+          <Value>バトルよ　ライブラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160250130</Id>
+          <Value>ライブラモン！
+アナタは　ウィルスᜀ化᠀かᤀ　していたのよ
+ᜀ覚᠀おぼᤀえてる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_048_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177158162</Id>
+          <Value>やっぱり　カオスARフィールドの
+ᜀ影響᠀えいきょうᤀが　ᜀ残᠀のこᤀっていたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195115288</Id>
+          <Value>でも　カオスARフィールドは
+もう　ᜀ起᠀おᤀこらないし
+これからᜀ先᠀さきᤀは　きっと　ᜀ大丈夫᠀だいじょうぶᤀよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_052_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210319633</Id>
+          <Value>ええ！
+ライブラモンが
+ᜀ動᠀うごᤀけそうなら　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226965520</Id>
+          <Value>それじゃ　おねえさんに
+ᜀ報告᠀ほうこくᤀしに　ᜀ行᠀いᤀきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_74_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245184785</Id>
+          <Value>ライブラモンが　はいっていったのは
+この　ᜀ書籍棚᠀しょせきだなᤀの
+ＡＲダンジョンって　ᜀ話᠀はなしᤀよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>393477</Id>
+          <Value>おかあさん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20316948</Id>
+          <Value>ᰏの　おかあさんだな
+やさしいけど　ᜀ世話焼᠀せわやᤀきで　ときどき
+そそっかしいところが　あるんだって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38667033</Id>
+          <Value>ᜀ得意料理᠀とくいりょうりᤀは　ハンバーグ！
+ᰏも　おとうさんもᜀ大好᠀だいすᤀきで
+ᜀ本人᠀ほんにんᤀも　ᜀ作᠀つくᤀってて　ᜀ楽᠀たのᤀしいんだってさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55051030</Id>
+          <Value>ᰏと　ナオトのᜀ家᠀いえᤀは
+おかあさんᜀ同士᠀どうしᤀで　ᜀ仲᠀なかᤀがいいんだな
+よくᜀ一緒᠀いっしょᤀに　カフェに　ᜀ行᠀いᤀくみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>70910741</Id>
+          <Value>ᰏには　ナイショで…
+コーヒーには　ᜀ砂糖᠀さとうᤀを　８ᜀ個᠀こᤀいれる！
+すんごい　ᜀ甘党᠀あまとうᤀなんだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>88212242</Id>
+          <Value>ᜀ好᠀すᤀきな　ᜀ飲᠀のᤀみものは　ヒフミオレ
+…って　えげつない　ᜀ甘᠀あまᤀさって
+ᜀ食᠀しょくᤀレポされてるアレ？　マジで？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

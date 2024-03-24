@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>Ｆランクマスターをᜀ探᠀さがᤀせ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432841</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749525</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987273</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71303957</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541705</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104858389</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096137</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138412821</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650569</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171967253</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205001</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205521685</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759433</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239076117</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313865</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272630549</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>ニコタマ川・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306184981</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322962197</Id>
+          <Value>Ｆランクマスターは　ニコタマᜀ川᠀がわᤀの
+どこかに　いるらしい
+ニコタマᜀ川᠀がわᤀに　ᜀ行᠀いᤀって　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

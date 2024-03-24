@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>786700</Id>
+          <Value>接客用ロボット　ソルティ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>24249121</Id>
+          <Value>ᜀ接客対応補助᠀せっきゃくたいおうほじょᤀロボット　ᜀＳＯＬＴｉ᠀ソルティᤀ！
+ᜀ店員᠀てんいんᤀや　ᜀ受付᠀うけつけᤀ…　それからᜀ案内係᠀あんないがかりᤀとして
+いろんなᜀ場所᠀ばしょᤀに　ᜀ設置᠀せっちᤀされてるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798111</Id>
+          <Value>ᜀ人工知能搭載᠀じんこうちのうとうさいᤀで　ᜀ生活᠀せいかつᤀのᜀ中᠀なかᤀから
+ᜀ必要᠀ひつようᤀなことを　ᜀ覚᠀おぼᤀえていくんだ
+まっ　ジョーシキだよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55706393</Id>
+          <Value>なんでも　ᜀ表情᠀ひょうじょうᤀゆたかな　モニターアイと
+ᜀ親᠀したᤀしみやすいフォルムが　ᜀ人気᠀にんきᤀらしいぞ
+…オレのᜀ方᠀ほうᤀが　ミリョクテキだけどな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435030</Id>
+          <Value>ちなみに　ᜀ個体᠀こたいᤀによって
+ᜀ性格設定᠀せいかくせっていᤀを　ᜀ変᠀かᤀえられるんだ
+たまに　ヘンなソルティも　いるかもな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>63</NumberOfLabels>
+  <NumberOfStrings>63</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>3146517</Id>
+          <Value>おっと　おᜀ前᠀まえᤀ　アプリドライヴァーだな
+サイバーアリーナで
+バトルも　やってるのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20972309</Id>
+          <Value>ᜀ勝負᠀しょうぶᤀには　ラッキーがᜀ大事᠀だいじᤀ！
+ラッキーなやつは
+どんな　ᜀ勝負᠀しょうぶᤀにも　ᜀ勝᠀かᤀてるのさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>38273814</Id>
+          <Value>ᜀ逆᠀ぎゃくᤀに　アンラッキーなやつは
+ᜀ何᠀なにᤀやったって　ぜーったい　ᜀ勝᠀かᤀてない！
+おᜀ前᠀まえᤀも　そうᜀ思᠀おもᤀうだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51773715</Id>
+          <Value>アンラッキーじゃ　バトルはᜀ勝᠀かᤀてない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>67502341</Id>
+          <Value>う　うん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85328399</Id>
+          <Value>う　うん…
+まあ　そうかも　しれないけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>104858389</Id>
+          <Value>うんうん！　つまり
+ᜀ見᠀みᤀるからに　アンラッキーな　おᜀ前᠀まえᤀも
+ᜀ弱小᠀じゃくしょうᤀドライヴァー　ってわけだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965063</Id>
+          <Value>な　なんだと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>136971021</Id>
+          <Value>わはは！
+オレと　ᜀ話᠀はなᤀすなんて
+ᜀ運᠀うんᤀが　ᜀ悪᠀わるᤀかったな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650569</Id>
+          <Value>そんなことないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>172753695</Id>
+          <Value>そんなことないよ
+たしかに　ᜀ運᠀うんᤀも　ᜀ大事᠀だいじᤀだけど
+ᜀ努力᠀どりょくᤀや　ᜀ戦略᠀せんりゃくᤀも　ᜀ勝利᠀しょうりᤀにつながるからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>188220182</Id>
+          <Value>な　なんだと！
+ᜀ見᠀みᤀるからに　アンラッキーで　ᜀ弱᠀よわᤀそうな
+ドライヴァーのくせに　ナマイキだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>202506761</Id>
+          <Value>なんだよそれ！
+そんなことないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221512464</Id>
+          <Value>フンッ　そこまでᜀ言᠀いᤀうなら
+「スターターＧＰ　ゴールド」に
+ᜀ優勝᠀ゆうしょうᤀしてみせろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>238551826</Id>
+          <Value>それくらい　ᜀ勝᠀かᤀてるやつじゃなきゃ
+えらそうに
+ᜀ勝᠀かᤀちᜀ負᠀まᤀけなんか　ᜀ語᠀かたᤀれないぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838413</Id>
+          <Value>うん！
+それくらい　やってみせるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>270795538</Id>
+          <Value>おいおい
+「スターターＧＰ　ゴールド」だぞ？
+ぜーったい　ムリムリ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>289014554</Id>
+          <Value>じゃあ　ᜀ優勝᠀ゆうしょうᤀしたら　ᜀ報告᠀ほうこくᤀにこいよ！
+ぜーーーーったい　ムリだと
+ᜀ思᠀おもᤀうけどな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>302645513</Id>
+          <Value>それは　ちょっと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>322962202</Id>
+          <Value>ほら　みたことか！
+ᜀ口᠀くちᤀだけの　ᜀ弱小᠀じゃくしょうᤀドライヴァーになんか
+ᜀ聞᠀きᤀくᜀ耳᠀みみᤀ　かさないぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>338166544</Id>
+          <Value>どうだ？
+「スターターＧＰ　ゴールド」に
+ᜀ優勝᠀ゆうしょうᤀは　できたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>356909847</Id>
+          <Value>なんだ　やっぱりᜀ優勝᠀ゆうしょうᤀできないのか！
+だからᜀ言᠀いᤀったろ　アンラッキーなやつは
+ぜーったい　ᜀ勝᠀かᤀてない　ってさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>371982868</Id>
+          <Value>…「スターターＧＰ　ゴールド」に
+ᜀ優勝᠀ゆうしょうᤀしてから　ᜀ出直᠀でなおᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>389022479</Id>
+          <Value>ほら　ᜀ約束᠀やくそくᤀした
+「スターターＧＰ　ゴールド」
+ᜀ優勝᠀ゆうしょうᤀしてきたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>405799700</Id>
+          <Value>な　なんだって！？
+アンラッキーなやつは　ᜀ勝᠀かᤀてないはずだ
+こんなこと　あるわけない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>423887642</Id>
+          <Value>だから　ᜀ運᠀うんᤀだけじゃないって！
+ᜀ努力᠀どりょくᤀや　ᜀ戦略᠀せんりゃくᤀも　ᜀ大事᠀だいじᤀだって
+ᜀ言᠀いᤀったじゃん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>440009495</Id>
+          <Value>ᜀ信᠀しんᤀじないぞ！
+さては　おᜀ前᠀まえᤀ　ラッキーᜀ体質᠀たいしつᤀだな？
+バトルすれば　わかるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>453247236</Id>
+          <Value>いくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>473563928</Id>
+          <Value>また　ᜀ来᠀きᤀたな
+アンラッキーな　ᜀ弱小᠀じゃくしょうᤀドライヴァー！
+リベンジなら　ᜀ受᠀うᤀけてたつぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>486801668</Id>
+          <Value>いくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>503578884</Id>
+          <Value>やった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>521536011</Id>
+          <Value>こ　こんなはずがない
+こんなはずがない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>538968588</Id>
+          <Value>だから　ᜀ言᠀いᤀったじゃん
+ᜀ運᠀うんᤀだけじゃないってさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>557318931</Id>
+          <Value>いいや！　アンラッキーだ！
+オレが　おᜀ前᠀まえᤀに　ᜀ負᠀まᤀけたのだって
+アンラッキーだったからなんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>574096144</Id>
+          <Value>オレが　ᜀ何回᠀なんかいᤀやっても
+「スターターＧＰ　ゴールド」に
+ᜀ優勝᠀ゆうしょうᤀできないのだって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>588775700</Id>
+          <Value>ᜀ全部᠀ぜんぶᤀ　アンラッキーの　せいなんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>608305940</Id>
+          <Value>でも　ᜀ運᠀うんᤀの　せいにしたら
+ᜀ自分᠀じぶんᤀが　ᜀ勝᠀かᤀったことまで
+ᜀ運᠀うんᤀがよかったからに　なっちゃうじゃん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>624165648</Id>
+          <Value>そんなの　つまらないよ！
+いろいろ　ᜀ考᠀かんがᤀえて
+ᜀ勝᠀かᤀてたときが　ᜀ楽᠀たのᤀしいのに！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>637927685</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>657851156</Id>
+          <Value>たしかに
+ᜀ運᠀うんᤀのせいに　するᜀ前᠀まえᤀは
+もっと　ᜀ楽᠀たのᤀしくやってたと　ᜀ思᠀おもᤀう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>674366225</Id>
+          <Value>なんだか　ᜀ情᠀なさᤀけなくなってきた
+オレ　きっと
+ᜀ負᠀まᤀけᜀ続᠀つづᤀきで　すねてたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>692716310</Id>
+          <Value>オレ　またᜀ大会᠀たいかいᤀに　ᜀ参加᠀さんかᤀするよ
+おᜀ前᠀まえᤀと　マッチングしたら
+ᜀ今度᠀こんどᤀこそ　オレが　ᜀ勝᠀かᤀつからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>705954315</Id>
+          <Value>うん！
+ᜀ楽᠀たのᤀしみに　してる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>723517972</Id>
+          <Value>ははっ…
+ᜀ弱小᠀じゃくしょうᤀなんて　ᜀ言᠀いᤀって　ごめん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>740032787</Id>
+          <Value>ᜀ次᠀つぎᤀは　ᜀ大会᠀たいかいᤀで　ᜀ会᠀あᤀおうな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>755630345</Id>
+          <Value>な　なんですって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>776733471</Id>
+          <Value>そんなことないわよ
+たしかに　ᜀ運᠀うんᤀも　ᜀ大事᠀だいじᤀだけど
+ᜀ努力᠀どりょくᤀや　ᜀ戦略᠀せんりゃくᤀも　ᜀ勝利᠀しょうりᤀにつながるからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>789709322</Id>
+          <Value>なによそれ！
+そんなことないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_016_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>806617614</Id>
+          <Value>いいわ！
+それくらい　やってみせるわよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>825098774</Id>
+          <Value>…「スターターＧＰ　ゴールド」に
+ᜀ優勝᠀ゆうしょうᤀしてから　ᜀ出直᠀でなおᤀしましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>842007310</Id>
+          <Value>ほら　ᜀ約束᠀やくそくᤀした
+「スターターＧＰ　ゴールド」
+ᜀ優勝᠀ゆうしょうᤀしてきたわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>857604619</Id>
+          <Value>だから　ᜀ言᠀いᤀったでしょ
+ᜀ運᠀うんᤀだけじゃないって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>876479251</Id>
+          <Value>でも　ᜀ運᠀うんᤀの　せいにしたら
+ᜀ自分᠀じぶんᤀが　ᜀ勝᠀かᤀったことまで
+ᜀ運᠀うんᤀがよかったからに　なっちゃうのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>890503692</Id>
+          <Value>うん！
+ᜀ楽᠀たのᤀしみに　してるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>907674126</Id>
+          <Value>…フンッ　おまえ
+アンラッキーそうなᜀ顔᠀かおᤀだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>926417682</Id>
+          <Value>はじめたばっかの　ひよっᜀ子᠀こᤀなんか
+アプリドライヴァーとは　ᜀ言᠀いᤀえないぜ
+ᜀ出直᠀でなおᤀしてこい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>940966160</Id>
+          <Value>おっと　おᜀ前᠀まえᤀ　またᜀ来᠀きᤀたな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>960758553</Id>
+          <Value>いいか　ᜀ勝負᠀しょうぶᤀには　ラッキーがᜀ大事᠀だいじᤀ！
+ラッキーなやつは
+どんな　ᜀ勝負᠀しょうぶᤀにも　ᜀ勝᠀かᤀてるのさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>976749333</Id>
+          <Value>つまり
+ᜀ見᠀みᤀるからに　アンラッキーな　おᜀ前᠀まえᤀは
+ᜀ弱小᠀じゃくしょうᤀドライヴァー　ってわけだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>991035913</Id>
+          <Value>なんだよそれ！
+そんなことないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007813129</Id>
+          <Value>なによそれ！
+そんなことないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025901327</Id>
+          <Value>それなら
+「スターターＧＰ　ゴールド」に
+ᜀ優勝᠀ゆうしょうᤀしてみせろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_09_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043858194</Id>
+          <Value>それくらい　ᜀ勝᠀かᤀてるやつじゃなきゃ
+えらそうに
+ᜀ勝᠀かᤀちᜀ負᠀まᤀけなんか　ᜀ語᠀かたᤀれないぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

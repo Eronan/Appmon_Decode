@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>109</NumberOfLabels>
+  <NumberOfStrings>109</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>4981526</Id>
+          <Value>ここからなら　ᜀ外᠀そとᤀにᜀ出᠀でᤀられそうだな…
+ミオたちをᜀ探᠀さがᤀすᜀ前᠀まえᤀに
+ここからᜀ出᠀でᤀられるか　ᜀ確認᠀かくにんᤀしておこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19137040</Id>
+          <Value>よし　これで　とりあえず
+ᜀ出口᠀でぐちᤀは　ᜀ確保᠀かくほᤀできたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36176402</Id>
+          <Value>あとは　ミオたちを　ᜀ見᠀みᤀつけて
+いっしょに　ᜀ脱出᠀だっしゅつᤀするだけだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52036363</Id>
+          <Value>ミオたちと　つなげる！
+ᰏ
+ガッコウに　もどるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517523</Id>
+          <Value>まだ　ミオたちは
+ᜀ校内᠀こうないᤀに　とじこめられたままだ…
+ᜀ早᠀はやᤀく　ᜀ助᠀たすᤀけなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85852940</Id>
+          <Value>ᰏ
+この　キョウシツのᜀ中᠀なかᤀ
+ᜀ誰᠀だれᤀか　いるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102367759</Id>
+          <Value>ᜀ誰᠀だれᤀかって…
+ミオたちが　こんなところまで？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119276046</Id>
+          <Value>いや　アプモンだぞ！
+どうする　ᜀ調᠀しらᤀべてみるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135266573</Id>
+          <Value>ᜀ教室᠀きょうしつᤀに　はいる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174863</Id>
+          <Value>ᜀ準備᠀じゅんびᤀをしてからにしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>170787349</Id>
+          <Value>ᜀ何᠀なにᤀが　あるかわからないな…
+ᜀ準備᠀じゅんびᤀを　ᜀ整᠀ととのᤀえてからにしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>187695892</Id>
+          <Value>ここは
+ᜀ中᠀なかᤀにアプモンがいる　キョウシツだぞ！
+はいる　ᜀ準備᠀じゅんびᤀは　できたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>202375437</Id>
+          <Value>ᜀ教室᠀きょうしつᤀに　はいる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890505</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>238027281</Id>
+          <Value>ᜀ言᠀いᤀわれると　ᜀ心配᠀しんぱいᤀになるな
+もう１ᜀ度᠀どᤀ　ᜀ確認᠀かくにんᤀしてみるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838156</Id>
+          <Value>ᜀ中᠀なかᤀを　ᜀ調᠀しらᤀべよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>270139920</Id>
+          <Value>うん
+このᜀ中᠀なかᤀを　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>287834895</Id>
+          <Value>おっと　アプモンが　いるのなら
+まずは　ＡＲフィールドに
+ᜀ行᠀いᤀかなきゃな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>302907658</Id>
+          <Value>ᜀ行᠀いᤀこう　オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>320209423</Id>
+          <Value>ガッチモン！
+なんで　こんなとこに　いるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>338559758</Id>
+          <Value>ひさしぶりだな　ᰏ！
+オレが　ᜀ助᠀たすᤀけにᜀ来᠀きᤀたから
+もう　ᜀ安心᠀あんしんᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>355205900</Id>
+          <Value>ᜀ助᠀たすᤀけにᜀ来᠀きᤀた…？
+もしかして　ガッチモンも
+ᜀ閉᠀とᤀじこめられてるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>371720975</Id>
+          <Value>オレが…？
+ᜀ閉᠀とᤀじこめられた…？　ハハ…
+そんなこと　あるわけないだろ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>387187209</Id>
+          <Value>じゃあ　ここで
+ᜀ何᠀なにᤀしてたんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>406323984</Id>
+          <Value>ᜀ何᠀なにᤀしてたって…　ᰏが
+ᜀ困᠀こまᤀってそうな　ᜀ気᠀きᤀがしたから
+わざわざ　ᜀ来᠀きᤀてやったんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>421266188</Id>
+          <Value>じゃあ　べつに
+ᜀ閉᠀とᤀじこめられたわけじゃ
+ないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>436732168</Id>
+          <Value>ああ　もちろん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>455869196</Id>
+          <Value>なら　ᜀ放᠀ほうᤀっておいても
+ᜀ大丈夫᠀だいじょうぶᤀだよね
+ᜀ行᠀いᤀこう　オンモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>471204365</Id>
+          <Value>オ　オイ！
+チョット　ᜀ待᠀まᤀってくれ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>489292562</Id>
+          <Value>…それで？
+ガッチモンは　どうして
+ᜀ学校᠀がっこうᤀなんかに　ᜀ来᠀きᤀてたんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>507642649</Id>
+          <Value>ᜀ検索中᠀けんさくちゅうᤀに　ᜀ占᠀うらなᤀいサイトをみつけて
+ᜀ占᠀うらなᤀいアプリの　テラーモンって
+ヤツに　ᜀ会᠀あᤀったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>521142541</Id>
+          <Value>そいつが　ᜀ言᠀いᤀうことには…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>539886355</Id>
+          <Value>ウラ～　ウラ～
+ウラ～ナイ　オモテアル～
+ᜀ見᠀みᤀえた！　ガッチモンのᜀ運命᠀うんめいᤀ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>556663313</Id>
+          <Value>ヒフミがᜀ丘᠀おかᤀの　ᜀ学校᠀がっこうᤀで～
+ᜀ運命᠀うんめいᤀの　ᜀ出会᠀であᤀいあり～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>573965070</Id>
+          <Value>ᜀ黄᠀きᤀと　ᜀ交᠀まじᤀわれば～
+ᜀ新᠀あたらᤀしい　ᜀ自分᠀じぶんᤀと～
+めぐりᜀ会᠀あᤀえるでしょう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>590742289</Id>
+          <Value>そして　ᜀ運命᠀うんめいᤀの
+ᜀ出会᠀であᤀいって　ヤツを　ᜀ求᠀もとᤀめて
+ここへ　やってきたって　わけさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>605291020</Id>
+          <Value>…それで
+ᜀ閉᠀とᤀじこめられたんだね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>625083161</Id>
+          <Value>そりゃ　まあ…　でも　そのおかげで
+ᜀ占᠀うらなᤀいどおり　ᰏたちと
+ᜀ運命᠀うんめいᤀの　ᜀ再会᠀さいかいᤀを　はたした　わけだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>640025104</Id>
+          <Value>ᜀ黄᠀きᤀと　ᜀ交᠀まじᤀわるっていうのは？
+どういう　ᜀ意味᠀いみᤀかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>657326862</Id>
+          <Value>…さあ？　そのᜀ意味᠀いみᤀは
+これから　オレたち　みんなで
+ᜀ考᠀かんがᤀえようじゃねえか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>673841938</Id>
+          <Value>ごめん　ᜀ悪᠀わるᤀいけど
+オレたちには　まだ
+やらなきゃ　いけないことが　あるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>692323096</Id>
+          <Value>ᜀ校内᠀こうないᤀに　ᜀ閉᠀とᤀじこめられてる　ᜀ友᠀ともᤀだちと
+こんなことをした　ᜀ犯人᠀はんにんᤀを
+ᜀ探᠀さがᤀしださないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>707527438</Id>
+          <Value>ᜀ探᠀さがᤀしてる？
+おいおい！　そういうのは
+ᜀ先᠀さきᤀに　ᜀ言᠀いᤀってくれよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>724960018</Id>
+          <Value>ᜀ探᠀さがᤀすと　いえば
+ᜀ検索᠀けんさくᤀアプリである
+この　オレᜀ様᠀さまᤀの　ᜀ出番᠀でばんᤀだろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>740426258</Id>
+          <Value>あれ？　でも　ガッチモン
+ᜀ出口᠀でぐちᤀは　さがせなかったんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>756810504</Id>
+          <Value>…それは　それ！
+これは　これだ！
+ᜀ見᠀みᤀてろよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>774243088</Id>
+          <Value>よし！　さっそく
+ᜀ怪᠀あやᤀしいログを　ᜀ見᠀みᤀつけたぞ！
+こっちだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>789840650</Id>
+          <Value>ᰏ！
+こっちだ！
+はやく　ついてこい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_052_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>805568772</Id>
+          <Value>…ん！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>823919114</Id>
+          <Value>ᜀ閉᠀とᤀじこめられた～！
+ᜀ助᠀たすᤀけてくれ～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>839909648</Id>
+          <Value>つ　ついていかなくて　よかった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>858522385</Id>
+          <Value>ᰏ
+ᜀ今᠀いまᤀのシャッター　このᜀ下᠀したᤀから
+ᜀ閉᠀とᤀじられたのかも　しれないぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>873595405</Id>
+          <Value>オンモン
+そんなことが　わかるのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>892470034</Id>
+          <Value>シャッターと　オンラインにしてみた！
+ログは　このᜀ下᠀したᤀにある
+ナニカと　つながってるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>909115928</Id>
+          <Value>ナニカ…　なにかって　なんだろう？
+このᜀ下᠀したᤀっていうと　ᜀ職員室᠀しょくいんしつᤀかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>925106956</Id>
+          <Value>なぁ　ᰏ
+オレたち　ᜀ友᠀ともᤀだちだろ
+ᜀ助᠀たすᤀけてくれよ～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>942277139</Id>
+          <Value>「ガッチモンをᜀ救出᠀きゅうしゅつᤀする？」
+このクエストを　ᜀ受᠀うᤀけますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>959578895</Id>
+          <Value>ミオたちを　ᜀ助᠀たすᤀけᜀ出᠀だᤀしたら
+また　ᜀ来᠀きᤀてやるよ
+それまで　ᜀ待᠀まᤀってろよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>973603079</Id>
+          <Value>え～～～っ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>992477966</Id>
+          <Value>そういえば　ＡＲフィールドに
+ガッチモンが　いたっけ
+あいつ　どうしているかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007682057</Id>
+          <Value>おーい　ガッチモン
+いるかー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1027343123</Id>
+          <Value>おぉ　ᰏ！　やっぱり
+オレのᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりたいらしいな！
+ᜀ早᠀はやᤀく　ここを　ᜀ開᠀あᤀけてくれ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042940435</Id>
+          <Value>「ガッチモンをᜀ救出᠀きゅうしゅつᤀする？」
+このクエストを　ᜀ受᠀うᤀけますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060242191</Id>
+          <Value>ミオたちを　ᜀ助᠀たすᤀけᜀ出᠀だᤀしたら
+また　ᜀ来᠀きᤀてやるよ
+それまで　ᜀ待᠀まᤀってろよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1074266375</Id>
+          <Value>え～～～っ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094451992</Id>
+          <Value>わかった
+ここのシャッターを　ᜀ開᠀あᤀけられないか
+１ᜀ階᠀かいᤀの　ᜀ職員室᠀しょくいんしつᤀを　ᜀ見᠀みᤀてくるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108083207</Id>
+          <Value>おおっ！
+ありがとう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125253390</Id>
+          <Value>そこでᜀ待᠀まᤀってろ　ガッチモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141637385</Id>
+          <Value>ᜀ頼᠀たのᤀんだぞー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_080_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160643095</Id>
+          <Value>オンモンが　１ᜀ階᠀かいᤀの　ᜀ職員室᠀しょくいんしつᤀに
+ログを　ᜀ見᠀みᤀつけたんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_080_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177420561</Id>
+          <Value>そこに　ᜀ行᠀いᤀけば
+ここを　ᜀ開᠀あᤀけられるかもしれない！
+ᜀ頼᠀たのᤀんだぞ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193280266</Id>
+          <Value>どこへ行くんだ　ᰏ？
+ロギモン　新しい力で
+ＰＣを　調べたいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210057482</Id>
+          <Value>どこへ行くんだ　ᰏ？
+ロギモン　新しい力で
+ＰＣを　調べたいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226834698</Id>
+          <Value>どこへ行くんだ　ᰏ？
+ロギモン　新しい力で
+ＰＣを　調べたいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243611665</Id>
+          <Value>よし　このＰＣで　ᜀ調᠀しらᤀべてみよう
+ロギモン　たのんだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260519952</Id>
+          <Value>プロテクモンの　セキュリティに！
+ᜀ強制᠀きょうせいᤀログイン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276379659</Id>
+          <Value>キタキタキターーっ！！
+つながったー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1296565019</Id>
+          <Value>プロテクモンは　ᜀ学校᠀がっこうᤀの　ᜀ屋上᠀おくじょうᤀにいるぞ
+そこから　ᜀ学校中᠀がっこうじゅうᤀのシャッターを
+コントロールしてるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310327309</Id>
+          <Value>よし　ᜀ屋上᠀おくじょうᤀだな！
+いくぞ　ロギモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329595154</Id>
+          <Value>でも　ᜀ屋上᠀おくじょうᤀにᜀ行᠀いᤀくには
+ᜀ解除᠀かいじょᤀコードを　もう１つ
+ᜀ手᠀てᤀにいれなきゃ　いけないみたいだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1346110228</Id>
+          <Value>このᜀ先᠀さきᤀの　キョウシツに
+ᜀ作᠀つくᤀられた　ＡＲダンジョンの　ᜀ奥᠀おくᤀに
+ᜀ隠᠀かくᤀされてるみたいだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360658959</Id>
+          <Value>そんなことまで　わかったのか？
+すごいな　ロギモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379402264</Id>
+          <Value>このᜀ先᠀さきᤀの　ᜀ教室᠀きょうしつᤀっていうと
+オレたち　２ᜀ年生᠀ねんせいᤀの　ᜀ教室᠀きょうしつᤀかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393557773</Id>
+          <Value>ロギモン　ᜀ行᠀いᤀってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_001_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1414267670</Id>
+          <Value>ここからなら　ᜀ外᠀そとᤀにᜀ出᠀でᤀられそうね…
+ミオたちを　ᜀ探᠀さがᤀすᜀ前᠀まえᤀに
+ここから　ᜀ出᠀でᤀられるか　ᜀ確認᠀かくにんᤀしましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428423185</Id>
+          <Value>よし　これで　とりあえず
+ᜀ出口᠀でぐちᤀは　ᜀ確保᠀かくほᤀできたわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445462546</Id>
+          <Value>あとは　ミオたちを　ᜀ見᠀みᤀつけて
+いっしょに　ᜀ脱出᠀だっしゅつᤀするだけね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_005_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463026452</Id>
+          <Value>まだ　ミオたちは
+ᜀ校内᠀こうないᤀに　とじこめられたままだわ…
+ᜀ早᠀はやᤀく　ᜀ助᠀たすᤀけなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479541269</Id>
+          <Value>ᜀ何᠀なにᤀが　あるかわからないわね…
+ᜀ準備᠀じゅんびᤀを　ᜀ整᠀ととのᤀえてからにしましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1496318482</Id>
+          <Value>ᜀ言᠀いᤀわれると　ᜀ心配᠀しんぱいᤀになるわね
+もう１ᜀ度᠀どᤀ　ᜀ確認᠀かくにんᤀしてみるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511653905</Id>
+          <Value>うん
+このᜀ中᠀なかᤀを　ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529742092</Id>
+          <Value>なら　ᜀ放᠀ほうᤀっておいても
+ᜀ大丈夫᠀だいじょうぶᤀよね
+ᜀ行᠀いᤀきましょ　オンモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546257170</Id>
+          <Value>…それで？
+ガッチモンは　どうして
+ᜀ学校᠀がっこうᤀなんかに　ᜀ来᠀きᤀていたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1563165457</Id>
+          <Value>ごめんね　ᜀ悪᠀わるᤀいけど
+ワタシたちには　まだ
+やらなきゃ　いけないことが　あるの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_056_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1578238476</Id>
+          <Value>オンモン
+そんなことが　わかるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596981784</Id>
+          <Value>ナニカ…　なにかって　なにかしら？
+このᜀ下᠀したᤀっていうと　ᜀ職員室᠀しょくいんしつᤀかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_064_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1613759247</Id>
+          <Value>ミオたちを　ᜀ助᠀たすᤀけᜀ出᠀だᤀしたら
+また　ᜀ来᠀くᤀるわね
+それまで　ᜀ待᠀まᤀっててね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_066_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630274318</Id>
+          <Value>そういえば　ＡＲフィールドに
+ガッチモンが　いたわね
+あのᜀ子᠀こᤀ　どうしてるかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1645085193</Id>
+          <Value>おーい　ガッチモン
+いるー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_072_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1664090895</Id>
+          <Value>ミオたちを　ᜀ助᠀たすᤀけᜀ出᠀だᤀしたら
+また　ᜀ来᠀くᤀるわね
+それまで　ᜀ待᠀まᤀっててね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1681785625</Id>
+          <Value>わかったわ
+ここのシャッターを　ᜀ開᠀あᤀけられないか
+１ᜀ階᠀かいᤀの　ᜀ職員室᠀しょくいんしつᤀを　ᜀ見᠀みᤀてくるわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_079_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1695678735</Id>
+          <Value>そこでᜀ待᠀まᤀっててね　ガッチモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_084_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1713635859</Id>
+          <Value>じゃあ　このＰＣで　ᜀ調᠀しらᤀべてみましょ
+ロギモン　たのんだわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_088_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1729626634</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀね！
+いくわよ　ロギモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_091_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1746534925</Id>
+          <Value>そんなことまで　わかるの？
+すごいわね　ロギモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1765409305</Id>
+          <Value>このᜀ先᠀さきᤀの　ᜀ教室᠀きょうしつᤀっていうと
+ワタシたち　２ᜀ年生᠀ねんせいᤀの　ᜀ教室᠀きょうしつᤀかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_18_094_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779564814</Id>
+          <Value>ロギモン　ᜀ行᠀いᤀってみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APPGATTAI_UNLOCK_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>1797915408</Id>
+          <Value>ロギモンへの　アプᜀ合体᠀がったいᤀが
+バトルと　メニューで
+できるように　なった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APPGATTAI_COSTUP_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813250569</Id>
+          <Value>デッキコストが
+１０　ᜀ上᠀あᤀがった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

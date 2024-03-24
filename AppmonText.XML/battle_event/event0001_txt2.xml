@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753298</Id>
+          <Value>このバトルのために　つないできたんだ
+みんなとのキズナを…
+アプモンとのキズナを！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>18743819</Id>
+          <Value>アプモンとᜀ出会᠀であᤀった
+あのᜀ日᠀ひᤀから　ずっと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_00_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>36307730</Id>
+          <Value>このバトルのために　つないできたの！
+みんなとのキズナを…
+アプモンとのキズナを！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

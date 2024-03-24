@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>96</NumberOfLabels>
+  <NumberOfStrings>96</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_068_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>こわい　タップ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_077_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>いいハナシがある</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_070_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>33816836</Id>
+          <Value>へへへ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_018_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>50725126</Id>
+          <Value>どうしたら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_019_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>67371266</Id>
+          <Value>ᰏ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_055_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>84279558</Id>
+          <Value>ありゃりゃ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_056_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>101056774</Id>
+          <Value>こまったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>120849170</Id>
+          <Value>ＰＣで　ᜀ書類᠀しょるいᤀを　ᜀ作᠀つくᤀるのが
+どうも　ニガテで…
+ᜀ手書᠀てがᤀきじゃ　ダメかなぁ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543895</Id>
+          <Value>ᜀ宿題᠀しゅくだいᤀで　わからないところがあったから
+ᜀ先生᠀せんせいᤀに　ᜀ聞᠀きᤀきに　ᜀ来᠀きᤀたんです
+センパイもですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>154534676</Id>
+          <Value>シャッターが　ᜀ閉᠀とᤀじてしまいました
+もしかして　ᜀ防災訓練᠀ぼうさいくんれんᤀでも
+あるのでしょうか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172098327</Id>
+          <Value>ᜀ昔᠀むかしᤀは　１つの　クラスに
+４０ᜀ人᠀にんᤀくらい　ᜀ生徒᠀せいとᤀが　いたんだってー
+そんなにいたら　ぎゅうぎゅうじゃん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>188744470</Id>
+          <Value>ᜀ何᠀なにᤀ　ᜀ今᠀いまᤀの　ᜀ校内放送᠀こうないほうそうᤀ？
+カクリとか　クジョとか
+マジᜀ意味᠀いみᤀわかんないんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>204079635</Id>
+          <Value>「ᜀ補習᠀ほしゅうᤀ　ᜀ逃᠀にᤀげるᜀ方法᠀ほうほうᤀ」
+で　ᜀ検索᠀けんさくᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>220725784</Id>
+          <Value>あー　やっぱ
+ᜀ仮病᠀けびょうᤀ　ᜀ使᠀つかᤀうのが　ᜀ定番᠀ていばんᤀだよねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>237371923</Id>
+          <Value>「ᜀ学校᠀がっこうᤀ　シャッター　ᜀ閉᠀とᤀじた」
+で　ᜀ検索᠀けんさくᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>254804499</Id>
+          <Value>こういうのは　ᜀ誰᠀だれᤀかの　イタズラの
+ᜀ可能性᠀かのうせいᤀが　ᜀ高᠀たかᤀいんだってー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>273416981</Id>
+          <Value>ぼくが　ᜀ補習᠀ほしゅうᤀを　しているᜀ間᠀あいだᤀ
+ᜀ家族᠀かぞくᤀは　ミハマᜀ港᠀こうᤀまで　ᜀ遊᠀あそᤀびに
+ᜀ行᠀いᤀっているんです　かなしい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>290980634</Id>
+          <Value>ぼくが　ᜀ学校᠀がっこうᤀにᜀ閉᠀とᤀじᜀ込᠀こᤀめられているᜀ間᠀あいだᤀ
+ᜀ家族᠀かぞくᤀは　ミハマᜀ港᠀こうᤀまで　ᜀ遊᠀あそᤀびに
+ᜀ行᠀いᤀっているんです　むなしい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>307233558</Id>
+          <Value>ᜀ今᠀いまᤀ　このᜀ学校᠀がっこうᤀにいる　ᜀ生徒᠀せいとᤀは
+ᜀ補習᠀ほしゅうᤀか　ᜀ部活᠀ぶかつᤀか　
+ただᜀ遊᠀あそᤀびにきたかの　ᜀ三択᠀さんたくᤀよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>321389078</Id>
+          <Value>セキュリティシステムの　ᜀ故障᠀こしょうᤀかしら？
+まあ　そのうち　なおるでしょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>339215123</Id>
+          <Value>このᜀ学校᠀がっこうᤀ　アプリドライヴァーが
+ᜀ多᠀おおᤀいんだぜ
+サイバーアリーナが　ᜀ近᠀ちかᤀいせいかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>354419214</Id>
+          <Value>どうなってんだ　いったい？
+アプモンが　ᜀ原因᠀げんいんᤀか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>371720724</Id>
+          <Value>なんか　やばいことに　なってんぞ
+これも　アプモンが　ᜀ原因᠀げんいんᤀなのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>388235791</Id>
+          <Value>よく　ᜀ生徒᠀せいとᤀから　
+バトルを　ᜀ申᠀もうᤀしᜀ込᠀こᤀまれるの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>408027927</Id>
+          <Value>「ᜀ勝᠀かᤀったら　テストのᜀ範囲᠀はんいᤀ　ᜀ教᠀おしᤀえて」
+なんて…　ᜀ勝᠀かᤀっても　ᜀ負᠀まᤀけても
+テストのᜀ範囲᠀はんいᤀは　ᜀ教᠀おしᤀえません！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>423101202</Id>
+          <Value>ᜀ今᠀いまᤀの　ᜀ校内放送᠀こうないほうそうᤀ
+おそらく　アプモンが　ᜀ原因᠀げんいんᤀね
+なんとかしないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_1F_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>439485208</Id>
+          <Value>なんだか　いつもと
+ＡＲフィールドの　ᜀ雰囲気᠀ふんいきᤀ　ᜀ違᠀ちがᤀわない？
+ᜀ怖᠀こわᤀいわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>457835292</Id>
+          <Value>あっ　ᰏじゃん
+ᜀ休᠀やすᤀみᜀ明᠀あᤀけに　ᜀ席替᠀せきがᤀえするらしいよ
+ワタシ　ᜀ一番後᠀いちばんうしᤀろの　ᜀ窓際᠀まどぎわᤀが　いいなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>472384018</Id>
+          <Value>どうせ　ᜀ誰᠀だれᤀかの　イタズラでしょ？
+まったく　ᜀ困᠀こまᤀったものよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>488637197</Id>
+          <Value>ᰏ　どうしたん？
+ウチは　ほしゅー
+マジめんどい　かわってよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>504758796</Id>
+          <Value>さっきの　ほーそー
+マジ　ウケるんですけどー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>523502351</Id>
+          <Value>ᰏ　ᜀ頭᠀あたまᤀが　よくなる
+ゲームとか　ᜀ持᠀もᤀってない？
+あるなら　あたしに　ᜀ貸᠀かᤀしてー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>540279316</Id>
+          <Value>ᜀ今᠀いまᤀの　ᜀ校内放送᠀こうないほうそうᤀは？
+ᜀ意味᠀いみᤀわかんないこと　ᜀ言᠀いᤀってたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>556008207</Id>
+          <Value>よお　ᰏ
+こないだ　ᜀ貸᠀かᤀしてくれたゲーム
+チョーおもしろかったぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>575669015</Id>
+          <Value>ᜀ新᠀あたらᤀしいのが　ᜀ出᠀でᤀたら　またᜀ貸᠀かᤀしてくれよ
+…ᜀ今度᠀こんどᤀこそ　ᜀ自分᠀じぶんᤀで　ᜀ買᠀かᤀえって？
+チェッ　わかった　わかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>590742288</Id>
+          <Value>ᜀ有害᠀ゆうがいᤀなアプリが　どうとか
+ᜀ言᠀いᤀってたけど…　セキュリティが
+ウィルスに　やられたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>606864142</Id>
+          <Value>ああ　ᰏじゃないか
+ᜀ休᠀やすᤀみᜀ中᠀ちゅうᤀだからって
+ゲームしすぎるんじゃないぞー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>623903255</Id>
+          <Value>さっきの　ᜀ校内放送᠀こうないほうそうᤀは　なんだ？
+セキュリティの　ᜀ不具合᠀ふぐあいᤀか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>641466910</Id>
+          <Value>サイバーアリーナのᜀ大会᠀たいかいᤀで
+ᜀ優勝᠀ゆうしょうᤀできたら　ᜀ補習᠀ほしゅうᤀは　ᜀ免除᠀めんじょᤀします！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>658113300</Id>
+          <Value>…って　ᜀ夢᠀ゆめᤀのᜀ中᠀なかᤀの　ᜀ先生᠀せんせいᤀが
+ᜀ言᠀いᤀってたんだ
+ホントに　そうだったら　いいのにな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>673055249</Id>
+          <Value>なんだなんだ！？
+アプモンが　ᜀ悪᠀わるᤀさしてるのか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>690094609</Id>
+          <Value>なんか　やばくね？
+これは　ᜀ夢᠀ゆめᤀか？　ᜀ夢᠀ゆめᤀなのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>707396369</Id>
+          <Value>ᰏは　サイバーアリーナの
+カレンダモンから　デイリーボーナス
+ᜀ受᠀うᤀけとってる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>725615381</Id>
+          <Value>わたしは　ᜀ大会᠀たいかいᤀには　ᜀ出᠀でᤀてないけど
+デイリーボーナスが　ほしくて
+サイバーアリーナに　ᜀ通᠀かよᤀってるの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>742916886</Id>
+          <Value>さっきの　ᜀ放送᠀ほうそうᤀ
+ᜀ何᠀なにᤀか　ᜀ物騒᠀ぶっそうᤀなこと　ᜀ言᠀いᤀってたよね
+ᜀ学校᠀がっこうᤀ　ᜀ大丈夫᠀だいじょうぶᤀかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>757072401</Id>
+          <Value>これ　アプモンが　ᜀ原因᠀げんいんᤀ？ 
+ᰏ　ᜀ助᠀たすᤀけて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>776078102</Id>
+          <Value>バトルで　よくわからないことがあれば
+サイバーアリーナの　エムシーモンから
+バトルᜀＴＩＰＳ᠀チップスᤀを　ᜀ聞᠀きᤀくといいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>790757906</Id>
+          <Value>アプモンが　ᜀ悪᠀わるᤀさをしているタップ
+こらしめてほしいでタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_2F_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>809501459</Id>
+          <Value>カオスＡＲフィールドは　ᜀ怖᠀こわᤀいタップ
+いつもの　ᜀ平和᠀へいわᤀな　ᜀ学校᠀がっこうᤀに
+ᜀ戻᠀もどᤀしてほしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>826409750</Id>
+          <Value>ピアノの　ᜀ練習᠀れんしゅうᤀを　しているの
+あ　ᜀ大丈夫᠀だいじょうぶᤀ
+ᜀ先生᠀せんせいᤀには　ᜀ許可᠀きょかᤀを　もらってるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>844104471</Id>
+          <Value>このᜀ休᠀やすᤀみᜀ中᠀ちゅうᤀは　ᜀ新作᠀しんさくᤀのゲームを
+やるᜀ予定᠀よていᤀだったんだけど　
+ᜀ補習᠀ほしゅうᤀのせいで　ᜀ予定᠀よていᤀは　パーだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>858522133</Id>
+          <Value>あれ？　ᜀ非常事態᠀ひじょうじたいᤀ？
+もしかして　ᜀ補習᠀ほしゅうᤀ　なくなるかな！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>878052121</Id>
+          <Value>うちのᜀ担任᠀たんにんᤀの　ᜀ先生᠀せんせいᤀは
+あえて　ᜀ同᠀おなᤀじ　ᜀ選択肢᠀せんたくしᤀが　つづくように
+ᜀ選択問題᠀せんたくもんだいᤀを　ᜀ作᠀つくᤀってるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>894829336</Id>
+          <Value>ᜀ同᠀おなᤀじ　ᜀ選択肢᠀せんたくしᤀが　ᜀ並᠀ならᤀぶ
+ᜀ答案用紙᠀とうあんようしᤀを　ᜀ見᠀みᤀていると
+ᜀ正解᠀せいかいᤀだとしても　ᜀ不安᠀ふあんᤀになってくるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>909378322</Id>
+          <Value>なんか　セキュリティが
+ᜀ暴走᠀ぼうそうᤀしてるっぽいけど…
+まあ　ᜀ誰᠀だれᤀかが　なんとかするだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>926679825</Id>
+          <Value>３ᜀ年生᠀ねんせいᤀになると
+ᜀ受験᠀じゅけんᤀが　ᜀ待᠀まᤀっている…
+ᜀ今᠀いまᤀのうちに　ᜀ遊᠀あそᤀんでおこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>942670355</Id>
+          <Value>な　ᜀ何᠀なにᤀが　ᜀ起᠀おᤀきてるんだ！？
+ᜀ火事᠀かじᤀか！？　ᜀ不審者᠀ふしんしゃᤀか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>960365333</Id>
+          <Value>そこのキミ　ᜀ問題᠀もんだいᤀです！
+ᜀ鎌倉幕府᠀かまくらばくふᤀが　ᜀ開᠀ひらᤀかれたのは
+ᜀ何年᠀なんねんᤀでしょう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>976880405</Id>
+          <Value>ᜀ正解᠀せいかいᤀは　１１８５ᜀ年᠀ねんᤀでした
+いいはこ　つくろう　ᜀ鎌倉幕府᠀かまくらばくふᤀ
+で　おぼえてね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>995754779</Id>
+          <Value>ちなみに　ᜀ先生᠀せんせいᤀが　ᜀ子᠀こᤀどものころは
+１１９２ᜀ年᠀ねんᤀって　ᜀ教᠀おそᤀわったんだよ
+ᜀ変᠀かᤀわるんだね　ᜀ教科書᠀きょうかしょᤀの　ᜀ内容᠀ないようᤀって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008992786</Id>
+          <Value>こういうときこそ　「おはし」だよ！
+おさない・はしらない・しゃべらない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>1027998482</Id>
+          <Value>ᜀ最近᠀さいきんᤀ　ゲームᜀ機᠀きᤀらしきものを
+ᜀ持᠀もᤀちᜀ込᠀こᤀんでいる　ᜀ生徒᠀せいとᤀが
+ᜀ多᠀おおᤀいと　ᜀ聞᠀きᤀいています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042809360</Id>
+          <Value>やはり　ᜀ持᠀もᤀちᜀ物検査᠀ものけんさᤀを
+ᜀ実施᠀じっしᤀすべき　ですかねぇ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060635406</Id>
+          <Value>キミ！　あまり　ᜀ勝手᠀かってᤀに
+ᜀ動᠀うごᤀきᜀ回᠀まわᤀらないように！
+ᜀ大人᠀おとなᤀに　まかせなさい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076626190</Id>
+          <Value>このまえ　ガシャᜀ回᠀まわᤀしたら
+ほしかったアプモンが
+ᜀ手᠀てᤀにはいったんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093534481</Id>
+          <Value>ᜀ感激᠀かんげきᤀのあまり　ガシャモンを
+だきしめちゃったよ
+へへっ　もう　マジうれしい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110835983</Id>
+          <Value>シャッターが　ᜀ降᠀おᤀりてるところ
+ᜀ初᠀はじᤀめて　ᜀ見᠀みᤀたわ
+…で　なんで　ᜀ降᠀おᤀりてんの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127088909</Id>
+          <Value>なんか　ＡＲフィールドが
+いつもと　ᜀ違᠀ちがᤀうけど…
+ま　そんなᜀ日᠀ひᤀも　あるよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>1145570071</Id>
+          <Value>ᜀ休᠀やすᤀみᜀ明᠀あᤀけに　ᜀ教頭先生᠀きょうとうせんせいᤀが
+ᜀ抜᠀ぬᤀきうちの　ᜀ持᠀もᤀちᜀ物検査᠀ものけんさᤀを
+やろうとしているんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160250126</Id>
+          <Value>アプリドライヴが
+ᜀ没収᠀ぼっしゅうᤀされないように
+ᜀ気᠀きᤀをつけるんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177944849</Id>
+          <Value>ᜀ解決᠀かいけつᤀのために　キミが
+ᜀ動᠀うごᤀいてくれているようだね
+ありがとう　でも　ムリは　するなよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193148943</Id>
+          <Value>おかしな　ＡＲフィールドだな…
+キミ　ᜀ気᠀きᤀをつけてね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210843669</Id>
+          <Value>スワイプモンは　どれだけᜀ努力᠀どりょくᤀしても
+アプᜀ合体᠀がったいᤀは　できないスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228538643</Id>
+          <Value>けど　キミたちは　ᜀ努力᠀どりょくᤀすれば
+なりたいものに　なれるスワ
+スワイプモンのᜀ分᠀ぶんᤀまで　がんばるスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245840149</Id>
+          <Value>スワイプモンは　どれだけᜀ努力᠀どりょくᤀしても
+このᜀ事態᠀じたいᤀを　ᜀ解決᠀かいけつᤀできないスワ
+キミたちが　がんばるスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_SCHOOL_3F_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>1262748437</Id>
+          <Value>スワイプモンは　どれだけᜀ努力᠀どりょくᤀしても
+このᜀ事態᠀じたいᤀを　ᜀ解決᠀かいけつᤀできないスワ
+キミたちが　なんとかするスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_BOARD1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278345753</Id>
+          <Value>クラスの　ᜀ掲示板᠀けいじばんᤀには
+ᜀ掃除᠀そうじᤀの　ᜀ当番表᠀とうばんひょうᤀが　はられている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_BOARD2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1295909653</Id>
+          <Value>ᜀ後᠀うしᤀろの　ᜀ掲示板᠀けいじばんᤀは
+クラスごとに　ᜀ自由᠀じゆうᤀに　ᜀ使᠀つかᤀっていい
+でもラクガキは　ダメ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_BOARD3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1313735452</Id>
+          <Value>ᜀ掲示板᠀けいじばんᤀには　ᜀ先生向᠀せんせいむᤀけの　おᜀ知᠀しᤀらせや
+ᜀ飲᠀のᤀみᜀ会᠀かいᤀの　ᜀ予定᠀よていᤀなど
+いろんなものが　はられている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_WHITE_BORAD1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329857300</Id>
+          <Value>ᜀ教卓᠀きょうたくᤀにある　デバイスに　ペンで
+ᜀ入力᠀　にゅうりょくᤀすると　スクリーンに
+ᜀ反映᠀はんえいᤀされるᜀ仕組᠀しくᤀみ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_WHITE_BORAD2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1347027732</Id>
+          <Value>ᜀ授業᠀じゅぎょうᤀでᜀ使᠀つかᤀう　スクリーンは
+スクロールできるし　ᜀ拡大᠀かくだいᤀもできる
+しかも　ᜀ消᠀けᤀすときはᜀ一瞬᠀いっしゅんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_WHITE_BORAD3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361576472</Id>
+          <Value>このスクリーンで　ᜀ授業᠀じゅぎょうᤀしているのかな？
+なんだか　すごそう…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_SCREEN_L1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1378877976</Id>
+          <Value>ᜀ全校生徒᠀ぜんこうせいとᤀにᜀ向᠀むᤀけた　ᜀ連絡᠀れんらくᤀが
+ᜀ表示᠀ひょうじᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_SCREEN_L2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1397228313</Id>
+          <Value>テストで　ᜀ間違᠀まちがᤀいがᜀ多᠀おおᤀかったᜀ問題᠀もんだいᤀの
+ᜀ解説᠀かいせつᤀが　ᜀ表示᠀ひょうじᤀされている
+…なるほど　わからない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_SCREEN_L3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1415185179</Id>
+          <Value>ᜀ受験᠀じゅけんᤀをひかえた　３ᜀ年生᠀ねんせいᤀのために
+いろんなᜀ高校᠀こうこうᤀの　ᜀ偏差値᠀へんさちᤀや
+ᜀ合格倍率᠀ごうかくばいりつᤀなどが　ᜀ表示᠀ひょうじᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_SCREEN_S1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1431962391</Id>
+          <Value>１ᜀ階᠀かいᤀのマップが　ᜀ表示᠀ひょうじᤀされている
+１ᜀ階᠀かいᤀには　１ᜀ年生᠀ねんせいᤀのᜀ教室᠀きょうしつᤀと
+ᜀ職員室᠀しょくいんしつᤀ　ᜀ保健室᠀ほけんしつᤀがある</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_SCREEN_S2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1447691031</Id>
+          <Value>２ᜀ階᠀かいᤀのマップが　ᜀ表示᠀ひょうじᤀされている
+２ᜀ階᠀かいᤀには　２ᜀ年生᠀ねんせいᤀのᜀ教室᠀きょうしつᤀと
+ᜀ物置᠀ものおきᤀがある</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_SCREEN_S3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1464599319</Id>
+          <Value>３ᜀ階᠀かいᤀのマップが　ᜀ表示᠀ひょうじᤀされている
+３ᜀ階᠀かいᤀには　３ᜀ年生᠀ねんせいᤀのᜀ教室᠀きょうしつᤀと
+ᜀ音楽室᠀おんがくしつᤀがある</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_STAFF_DESK1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479148048</Id>
+          <Value>ᜀ先生᠀せんせいᤀのᜀ机᠀つくえᤀは…
+ᜀ思᠀おもᤀったより　ᜀ散᠀ちᤀらかってる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_STAFF_DESK2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1498153754</Id>
+          <Value>これは　ᜀ教頭先生᠀きょうとうせんせいᤀの　ᜀ机᠀つくえᤀかな？
+ところで　ᜀ教頭先生᠀きょうとうせんせいᤀって
+ふだん　ᜀ何᠀なにᤀしてるんだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_NURSE_BED1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1512571409</Id>
+          <Value>ᜀ保健室᠀ほけんしつᤀの　ベッドって
+ᜀ寝心地᠀ねごこちᤀは　どうなんだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_NURSE_HEIGHT1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529086478</Id>
+          <Value>ᜀ今᠀いまᤀの　ᜀ身長᠀しんちょうᤀは…
+ガーン！　ᜀ伸᠀のᤀびてない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_NURSE_WEIGHT1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1547436818</Id>
+          <Value>ᜀ今᠀いまᤀの　ᜀ体重᠀たいじゅうᤀは…
+………きっと　ᜀ服᠀ふくᤀをᜀ着᠀きᤀているから
+ᜀ重᠀おもᤀたいだけだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_UMBRELLA1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564738329</Id>
+          <Value>ᜀ晴᠀はᤀれているけど　ᜀ傘᠀かさᤀがある
+ᜀ置᠀おᤀきᜀ傘᠀がさᤀなのか　ᜀ単᠀たんᤀにᜀ忘᠀わすᤀれᜀ物᠀ものᤀなのかは
+わからない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_TV4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579418378</Id>
+          <Value>テレビが　あるけど
+ᜀ使᠀つかᤀわれたところは
+ᜀ見᠀みᤀたことがない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SCHOOL_PIANO1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1598423830</Id>
+          <Value>ᜀ音楽室᠀おんがくしつᤀの　ピアノというと
+ᜀ怪談᠀かいだんᤀの　ネタに　されがちだけど
+うちのᜀ学校᠀がっこうᤀでは　そういうのはないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>118</NumberOfLabels>
+  <NumberOfStrings>118</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310992</Id>
+          <Value>ここが　ᜀ職員室᠀しょくいんしつᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20054801</Id>
+          <Value>ガッチモン　ᜀ閉᠀とᤀじこめたシャッター
+ここと　ナニカが　つながってる…
+ᜀ気᠀きᤀをつけろ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34734351</Id>
+          <Value>ᜀ職員室᠀しょくいんしつᤀにはいる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511567</Id>
+          <Value>ᜀ準備᠀じゅんびᤀをしてからにしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70779668</Id>
+          <Value>ᜀ間違᠀まちがᤀいなく　ᜀ誰᠀だれᤀかいるよな…
+ちゃんと
+ᜀ準備᠀じゅんびᤀを　ᜀ整᠀ととのᤀえてからにしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672776</Id>
+          <Value>よし　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>102367754</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀだ
+よし　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>119800592</Id>
+          <Value>えっ！？
+ᜀ職員室᠀しょくいんしつᤀが　いきなり
+ＡＲフィールドに！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>135004427</Id>
+          <Value>やられて　たまるかっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>152568330</Id>
+          <Value>さっきは　いきなり
+ᜀ襲᠀おそᤀわれたからな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>168952079</Id>
+          <Value>ᜀ職員室᠀しょくいんしつᤀにはいる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729295</Id>
+          <Value>ᜀ準備᠀じゅんびᤀをしてからにしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>204735252</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけられない
+ちゃんと
+ᜀ準備᠀じゅんびᤀを　ᜀ整᠀ととのᤀえてからにしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890504</Id>
+          <Value>よし　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>236978702</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけられない
+よし　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>253231627</Id>
+          <Value>また　ᜀ来᠀きᤀたな！
+やられて　たまるかっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>270795531</Id>
+          <Value>くそっ！
+ᜀ煮᠀にᤀるなり　ᜀ焼᠀やᤀくなり
+ᜀ好᠀すᤀきにしやがれ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>288621331</Id>
+          <Value>ᜀ何᠀なにᤀも　するᜀ気᠀きᤀはないよ
+オレたちは　いきなり　ᜀ襲᠀おそᤀわれたから
+バトルしただけだし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>303956494</Id>
+          <Value>ン…？　オマエ　よくᜀ見᠀みᤀたら
+プロテクモンじゃないな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>319291655</Id>
+          <Value>プロテクモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>338297613</Id>
+          <Value>プロテクモンってのは
+オレの　ᜀ相棒᠀あいぼうᤀ…
+いや　ᜀ元相棒᠀もとあいぼうᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>355599122</Id>
+          <Value>セキュリティアプリの　プロテクモンと
+ᜀ注意報᠀ちゅういほうᤀアプリである
+このオレ　ピーポモンは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>372638482</Id>
+          <Value>ᜀ学校᠀がっこうᤀや　サイバーアリーナに
+たまに　まぎれこんでくる　ウィルスを
+ᜀ駆除᠀くじょᤀしていたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>388366867</Id>
+          <Value>だが　こないだのヤツは
+ᜀ今᠀いまᤀまでのヤツらと　ᜀ違᠀ちがᤀってた…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>406061844</Id>
+          <Value>ヤツは　オレたちの　ᜀ油断᠀ゆだんᤀをᜀ誘᠀さそᤀい
+プロテクモンに　みょうなガスを
+ふきつけやがった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>422052622</Id>
+          <Value>すると　プロテクモンは
+またたくᜀ間᠀まᤀに
+ウィルスᜀ化᠀かᤀ　しちまったのさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>440664854</Id>
+          <Value>ᜀ目᠀めᤀにつく　アプモン　すべて…
+このオレまで　ᜀ有害᠀ゆうがいᤀアプリだとᜀ言᠀いᤀって
+ᜀ駆除᠀くじょᤀしようと　してきやがった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>456131342</Id>
+          <Value>だから　オレは　ここで
+ヤツを　ᜀ迎᠀むかᤀえᜀ討᠀うᤀつために
+ᜀ待᠀まᤀちかまえていたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>471859731</Id>
+          <Value>それで　いきなり
+オレたちに　ᜀ襲᠀おそᤀいかかってきたんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>486932741</Id>
+          <Value>すまねぇ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>507511577</Id>
+          <Value>いや　オレたちも
+オレやᜀ友᠀ともᤀだちを　ᜀ閉᠀とᤀじこめた　ᜀ犯人᠀はんにんᤀかと
+ᜀ思᠀おもᤀってたから　おたがいさまだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>523764497</Id>
+          <Value>ᜀ友᠀ともᤀだち？
+そのᜀ友᠀ともᤀだちって　もしかして
+ᜀ２人᠀ふたりᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀかい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>537526535</Id>
+          <Value>ᜀ知᠀しᤀってるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>556401419</Id>
+          <Value>ああ　ᜀ２人᠀ふたりᤀなら
+３ᜀ階᠀かいᤀのシャッターに
+ᜀ閉᠀とᤀじこめられてる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>571605260</Id>
+          <Value>ᜀ早᠀はやᤀく　ᜀ行᠀いᤀかなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>590742290</Id>
+          <Value>まあ　ᜀ待᠀まᤀて
+そのシャッターを　ᜀ開᠀あᤀけるには
+ᜀ解除᠀かいじょᤀコードが　ᜀ必要᠀ひつようᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>608699158</Id>
+          <Value>ついさっき　ᜀ閉᠀とᤀじられた　シャッターの
+ᜀ解除᠀かいじょᤀコードが　ここにある
+これで　ᜀ上᠀うえᤀのシャッターが　ᜀ開᠀ひらᤀくはずだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>624689940</Id>
+          <Value>…つながってる　ナニカって
+ᜀ解除᠀かいじょᤀコードの　ことだったのか！
+これでさっきの　シャッターがᜀ開᠀ひらᤀくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>640025359</Id>
+          <Value>プロテクモンは
+どこからᜀ来᠀くᤀるか　わからねえぞ
+ᜀ気᠀きᤀをつけろよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>655622669</Id>
+          <Value>おう！
+ピーポモンも　ᜀ気᠀きᤀをつけろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>674366225</Id>
+          <Value>オレのことは　かまわなくていい
+ᜀ早᠀はやᤀいとこ　おじょうちゃんたちを
+ᜀ助᠀たすᤀけだしてやりな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>691274514</Id>
+          <Value>ウィルスᜀ化᠀かᤀしている　プロテクモンは
+ᜀ手᠀てᤀが　つけられない
+ヤツには　ᜀ気᠀きᤀをつけろよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>705692169</Id>
+          <Value>おーい　ガッチモン
+いるかー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>723255819</Id>
+          <Value>ᜀ遅᠀おそᤀかったじゃねえか
+ᜀ待᠀まᤀちくたびれたぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>738984203</Id>
+          <Value>いろいろ　あったんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>757203724</Id>
+          <Value>まあ　いいさ
+オレも　ただ　のんびり
+ᜀ待᠀まᤀってた　わけじゃない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>775422738</Id>
+          <Value>ᜀ端末᠀たんまつᤀに　アクセスして
+ヤツらの　ᜀ情報᠀じょうほうᤀを　いろいろ
+ᜀ検索᠀けんさくᤀしておいた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>790626836</Id>
+          <Value>まず　このᜀ騒動᠀そうどうᤀの　ᜀ犯人᠀はんにんᤀ…
+それは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>807141902</Id>
+          <Value>プロテクモンだって
+さっき　ᜀ教᠀おしᤀえてもらったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>824312588</Id>
+          <Value>………　ふっ　なるほどな
+そこまでは　そっちも
+つかんでたってことか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>842269458</Id>
+          <Value>なら　これは　どうだ？
+シャッターを　ᜀ開᠀あᤀけるために
+ᜀ必要᠀ひつようᤀなものがある…　それは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>855900420</Id>
+          <Value>えっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>873464076</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>890765838</Id>
+          <Value>それで
+ᜀ他᠀ほかᤀに　ᜀ情報᠀じょうほうᤀは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>906756615</Id>
+          <Value>………
+あー　えっと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>925893391</Id>
+          <Value>それᜀ以上᠀いじょうᤀは　ガチガチの
+ファイアウォールのせいで
+ᜀ何᠀なにᤀも　つかめなかった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>941753099</Id>
+          <Value>ファイアウォール？
+それが　あるから
+ᜀ調᠀しらᤀべられないのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>958530063</Id>
+          <Value>ああ　ᜀ今᠀いまᤀのオレには
+これが　ᜀ限界᠀げんかいᤀみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>973996302</Id>
+          <Value>だったら　オンモンがつなぐ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>993264401</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリの　ガッチモンも
+ᜀ調᠀しらᤀべられないのに
+オンモンが　つなぐっていうのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008206350</Id>
+          <Value>「つなぐ」？
+そうか　そのᜀ手᠀てᤀがあったか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024065799</Id>
+          <Value>そのᜀ手᠀てᤀって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043333908</Id>
+          <Value>「アプリンク」だよ！
+オレと　オンモンの　ᜀ力᠀ちからᤀをᜀ合᠀あᤀわせて
+パワーアップするんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059586829</Id>
+          <Value>そうすれば　プロテクモンの
+ファイアウォールくらい
+ᜀ突破᠀とっぱᤀできるかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075970833</Id>
+          <Value>いいな　それ！
+ᰏ！　オンモン
+ガッチモンと　アプリンクしたいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091043591</Id>
+          <Value>アプリンクか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1107820808</Id>
+          <Value>アプリンクする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125384462</Id>
+          <Value>もうᜀ少᠀すこᤀしᜀ考᠀かんがᤀえさせて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1144652560</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって！
+ᜀ他᠀ほかᤀのᜀ方法᠀ほうほうᤀが　ないか
+もうᜀ少᠀すこᤀし　ᜀ考᠀かんがᤀえさせてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158545677</Id>
+          <Value>アプリンクの　ことだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176765199</Id>
+          <Value>もたもたしてる　ヒマはないぜ！
+やっぱり　やるしかないだろ
+アプリンク！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192755724</Id>
+          <Value>オンモンも　ガッチモンと
+アプリンクしたいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208484104</Id>
+          <Value>アプリンクする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226047758</Id>
+          <Value>もうᜀ少᠀すこᤀしᜀ考᠀かんがᤀえさせて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245315856</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって！
+ᜀ他᠀ほかᤀのᜀ方法᠀ほうほうᤀが　ないか
+もうᜀ少᠀すこᤀし　ᜀ考᠀かんがᤀえさせてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258946825</Id>
+          <Value>アプリンクしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276117512</Id>
+          <Value>うん　アプリンク
+やってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294467852</Id>
+          <Value>よし　アプリンクだ！
+ᜀ準備᠀じゅんびᤀは　いいか？
+オンモン！　ガッチモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309540871</Id>
+          <Value>おう　オンモン
+つながるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326842379</Id>
+          <Value>こっちも　ＯＫだ！
+ᰏ！　アプリドライヴを！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1342570758</Id>
+          <Value>アプリンク！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361838863</Id>
+          <Value>ログインアプリの　ロギモンだ！
+つながったものの　ことなら
+ᜀ何᠀なんᤀでも　わかるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376518412</Id>
+          <Value>アプリンクじゃ…　ない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1396572951</Id>
+          <Value>アプᜀ合体᠀がったいᤀだな！
+アプモンは　アプリンクのᜀ相性᠀あいしょうᤀによって
+アプᜀ合体᠀がったいᤀすることがあるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411515148</Id>
+          <Value>あ…
+ガッチモンが　ᜀ言᠀いᤀってた
+テラーモンのᜀ占᠀うらなᤀい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429471769</Id>
+          <Value>ᜀ黄᠀きᤀと　ᜀ交᠀まじᤀわれば
+ᜀ新᠀あたらᤀしいᜀ自分᠀じぶんᤀと　めぐりᜀ会᠀あᤀえるってやつ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1446904594</Id>
+          <Value>ᜀ黄色᠀きいろᤀいオンモンと　ᜀ交᠀まじᤀわって
+ᜀ新᠀あたらᤀしい　ᜀ自分᠀じぶんᤀと
+めぐりᜀ会᠀あᤀったってことか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1461453324</Id>
+          <Value>ちょっと　ᜀ新᠀あたらᤀしく
+なりすぎたみたいだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479279123</Id>
+          <Value>ちょっと　２ᜀ体᠀たいᤀが　いっしょになって
+ᜀ名前᠀なまえᤀが　ᜀ変᠀かᤀわっただけだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495925521</Id>
+          <Value>ᰏの
+バディアプモンで　あることに
+ᜀ変᠀かᤀわりは　ないから　ᜀ気᠀きᤀにするな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1515193111</Id>
+          <Value>まあ　ᜀ本人᠀ほんにんᤀが　ᜀ気᠀きᤀにするなっていうなら
+これも　１つの　ᜀ成長᠀せいちょうᤀだとᜀ思᠀おもᤀって
+オレも　ᜀ受᠀うᤀけいれることにするかな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527906827</Id>
+          <Value>これからも　よろしくな
+ロギモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545995024</Id>
+          <Value>おう　ᰏのために
+これからも　どんどん　つながって
+ᜀ強᠀つよᤀくなるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562903310</Id>
+          <Value>じゃあ　さっそく
+ᜀ強᠀つよᤀくなった
+このᜀ力᠀ちからᤀを　ᜀ試᠀ためᤀすぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579942674</Id>
+          <Value>よし　じゃあ　そこのＰＣで
+プロテクモンの　セキュリティのことを
+ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_005_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1597637397</Id>
+          <Value>ᜀ間違᠀まちがᤀいなく　ᜀ誰᠀だれᤀかいるわよね…
+ちゃんと
+ᜀ準備᠀じゅんびᤀを　ᜀ整᠀ととのᤀえてからにしましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612448266</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀよ
+よし　ᜀ行᠀いᤀきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1628963338</Id>
+          <Value>さっきは　いきなり
+ᜀ襲᠀おそᤀわれたものね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1647706901</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけられないわ
+ちゃんと
+ᜀ準備᠀じゅんびᤀを　ᜀ整᠀ととのᤀえてからにしましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_016_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663304207</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけられないわ
+よし　ᜀ行᠀いᤀきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1681392404</Id>
+          <Value>ᜀ何᠀なにᤀも　するᜀ気᠀きᤀは　ないわよ
+ワタシたちは　いきなり　ᜀ襲᠀おそᤀわれたから
+バトルしただけだし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_030_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1696596499</Id>
+          <Value>それで　いきなり
+ワタシたちに　ᜀ襲᠀おそᤀいかかってきたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1715602201</Id>
+          <Value>ううん　ワタシたちも
+ワタシやᜀ友᠀ともᤀだちを　ᜀ閉᠀とᤀじこめた　ᜀ犯人᠀はんにんᤀと
+ᜀ思᠀おもᤀってたから　おたがいさまよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731986196</Id>
+          <Value>…つながってる　ナニカって
+ᜀ解除᠀かいじょᤀコードの　ことだったのね！
+これでさっきの　シャッターがᜀ開᠀ひらᤀくわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1745748489</Id>
+          <Value>おーい　ガッチモン
+いるー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1762263306</Id>
+          <Value>いろいろ　あったのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779433741</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1798439697</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリの　ガッチモンも
+ᜀ調᠀しらᤀべられないのに
+オンモンが　つなぐっていうの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_070_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1816003348</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって
+ᜀ他᠀ほかᤀのᜀ方法᠀ほうほうᤀが　ないか
+もうᜀ少᠀すこᤀし　ᜀ考᠀かんがᤀえさせてちょうだい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1832780564</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって
+ᜀ他᠀ほかᤀのᜀ方法᠀ほうほうᤀが　ないか
+もうᜀ少᠀すこᤀし　ᜀ考᠀かんがᤀえさせてちょうだい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_079_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1846542856</Id>
+          <Value>うん　アプリンク
+やってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864762124</Id>
+          <Value>よし　アプリンクよ！
+ᜀ準備᠀じゅんびᤀは　いい？
+オンモン！　ガッチモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1882981138</Id>
+          <Value>ᜀ黄色᠀きいろᤀいオンモンと　ᜀ交᠀まじᤀわって
+ᜀ新᠀あたらᤀしい　ᜀ自分᠀じぶんᤀと
+ᜀ巡᠀めぐᤀりあったってことね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1900938007</Id>
+          <Value>まあ　ᜀ本人᠀ほんにんᤀが　ᜀ気᠀きᤀにするなっていうなら
+これも　１つのᜀ成長᠀せいちょうᤀだとᜀ思᠀おもᤀって
+ワタシも　ᜀ受᠀うᤀけいれることにするわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_094_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1913782795</Id>
+          <Value>これからも　よろしくね
+ロギモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_19_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1932264210</Id>
+          <Value>それじゃあ　そこのＰＣで
+プロテクモンの　セキュリティのことを
+ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APPGATTAI_UNLOCK_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>1948910352</Id>
+          <Value>ロギモンへの　アプᜀ合体᠀がったいᤀが
+バトルと　メニューで
+できるように　なった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APPGATTAI_COSTUP_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>1964245513</Id>
+          <Value>デッキコストが
+１０　ᜀ上᠀あᤀがった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

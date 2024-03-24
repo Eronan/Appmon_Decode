@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786699</Id>
+          <Value>アリーナ・リバイバル！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957137</Id>
+          <Value>フリー大会　ファイナルで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39715611</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀしたら
+ᜀ依頼人᠀いらいにんᤀに　ᜀ報告᠀ほうこくᤀしよう！
+ᜀ大会᠀たいかいᤀを　ᜀ復元᠀ふくげんᤀしてもらえるはず！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249421</Id>
+          <Value>学校１階・依頼人に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>73138971</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀした！
+ᜀ次᠀つぎᤀは　ᜀ依頼人᠀いらいにんᤀと　ᜀ力試᠀ちからだめᤀし！
+チャンピオンとして　ᜀ負᠀まᤀけられない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803853</Id>
+          <Value>学校１階・依頼人に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106693403</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀした！
+ᜀ次᠀つぎᤀは　ᜀ依頼人᠀いらいにんᤀと　ᜀ力試᠀ちからだめᤀし！
+チャンピオンとして　ᜀ負᠀まᤀけられない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>学校１階・依頼人に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>140247835</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀした！
+ᜀ次᠀つぎᤀは　ᜀ依頼人᠀いらいにんᤀと　ᜀ力試᠀ちからだめᤀし！
+チャンピオンとして　ᜀ負᠀まᤀけられない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>学校１階・依頼人に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173802267</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀした！
+ᜀ次᠀つぎᤀは　ᜀ依頼人᠀いらいにんᤀと　ᜀ力試᠀ちからだめᤀし！
+チャンピオンとして　ᜀ負᠀まᤀけられない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>学校１階・依頼人に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>207356699</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀした！
+ᜀ次᠀つぎᤀは　ᜀ依頼人᠀いらいにんᤀと　ᜀ力試᠀ちからだめᤀし！
+チャンピオンとして　ᜀ負᠀まᤀけられない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>学校１階・依頼人に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240911131</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀした！
+ᜀ次᠀つぎᤀは　ᜀ依頼人᠀いらいにんᤀと　ᜀ力試᠀ちからだめᤀし！
+チャンピオンとして　ᜀ負᠀まᤀけられない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>学校１階・依頼人に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274465563</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀした！
+ᜀ次᠀つぎᤀは　ᜀ依頼人᠀いらいにんᤀと　ᜀ力試᠀ちからだめᤀし！
+チャンピオンとして　ᜀ負᠀まᤀけられない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>学校１階・依頼人に勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>308019995</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　ᜀ優勝᠀ゆうしょうᤀした！
+ᜀ次᠀つぎᤀは　ᜀ依頼人᠀いらいにんᤀと　ᜀ力試᠀ちからだめᤀし！
+チャンピオンとして　ᜀ負᠀まᤀけられない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323748629</Id>
+          <Value>ᜀ依頼人᠀いらいにんᤀの　リバイブモンに
+ᜀ大会᠀たいかいᤀを　ᜀ復元᠀ふくげんᤀしてもらった！
+ᜀ機会᠀きかいᤀが　あれば　ᜀ参加᠀さんかᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442063</Id>
+          <Value>ᜀ音無᠀おとなᤀしいᜀ電子᠀でんしᤀピアノ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>学校３階・音楽室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404886</Id>
+          <Value>ᜀ電子᠀でんしᤀピアノが　ᜀ鳴᠀なᤀらなくなってしまった
+アプモンが　ᜀ原因᠀げんいんᤀかもしれない
+ＡＲフィールドで　ᜀ確認᠀かくにんᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>学校３階・音楽室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71172885</Id>
+          <Value>ＡＲダンジョンに　はいれない！？
+ここは　エンタメᜀ属性᠀ぞくせいᤀの　アプモンの
+ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934927</Id>
+          <Value>学校３階・ピアノＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104465170</Id>
+          <Value>ᜀ電子᠀でんしᤀピアノの　ＡＲダンジョンに
+イタズラしてる　アプモンが　いるはず
+ᜀ見᠀みᤀつけたら　やっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489359</Id>
+          <Value>学校３階・ピアノＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138019605</Id>
+          <Value>オンパモンが　ᜀ電子᠀でんしᤀピアノの　ᜀ音᠀おとᤀを
+ᜀ鳴᠀なᤀらなくさせていた！
+オンパモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>学校３階・音楽室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172229398</Id>
+          <Value>オンパモンを　やっつけた！
+ᜀ気᠀きᤀになることを　ᜀ言᠀いᤀっていたけど…
+とりあえず　ᜀ音楽室᠀おんがくしつᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>学校３階・音楽室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205783830</Id>
+          <Value>オンパモンを　やっつけた！
+ᜀ気᠀きᤀになることを　ᜀ言᠀いᤀっていたけど…
+とりあえず　ᜀ音楽室᠀おんがくしつᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>学校３階・音楽室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239338262</Id>
+          <Value>オンパモンを　やっつけた！
+ᜀ気᠀きᤀになることを　ᜀ言᠀いᤀっていたけど…
+とりあえず　ᜀ音楽室᠀おんがくしつᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>学校３階・音楽室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272892694</Id>
+          <Value>オンパモンを　やっつけた！
+ᜀ気᠀きᤀになることを　ᜀ言᠀いᤀっていたけど…
+とりあえず　ᜀ音楽室᠀おんがくしつᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>学校３階・音楽室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306447126</Id>
+          <Value>オンパモンを　やっつけた！
+ᜀ気᠀きᤀになることを　ᜀ言᠀いᤀっていたけど…
+とりあえず　ᜀ音楽室᠀おんがくしつᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323617563</Id>
+          <Value>クラスメイトの　ᜀ演奏᠀えんそうᤀは　なかなかに
+ᜀ刺激的᠀しげきてきᤀだった…　ᜀ電子᠀でんしᤀピアノの　ᜀ中᠀なかᤀの
+オンパモン　ごめんね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

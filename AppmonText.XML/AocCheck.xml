@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>CHECKING</Key>
+      <Values>
+        <BtxtString>
+          <Id>3801875</Id>
+          <Value>ＳＤカードにアクセスしています
+ᜀ電源᠀でんげんᤀをᜀ切᠀きᤀったり
+ＳＤカードをᜀ抜᠀ぬᤀいたりしないでください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOT_FOUND</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957138</Id>
+          <Value>ＳＤカードにアクセスできませんでした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

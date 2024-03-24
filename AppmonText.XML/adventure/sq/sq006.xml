@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>64</NumberOfLabels>
+  <NumberOfStrings>64</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>262403</Id>
+          <Value>ハァ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20054800</Id>
+          <Value>パソコンが　ᜀ捨᠀すᤀててあるなあ…
+オレも　このパソコン
+ᜀ捨᠀すᤀてちゃう　べきなのかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>35127820</Id>
+          <Value>オレが　ᜀ持᠀もᤀっていても
+しかたないし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987273</Id>
+          <Value>どうしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>67240192</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>86245906</Id>
+          <Value>ああ　パソコンをね…
+ᜀ捨᠀すᤀてるかどうか　ᜀ迷᠀まよᤀってるんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>104727320</Id>
+          <Value>ᜀ死᠀しᤀんだ　ᜀ父親᠀ちちおやᤀの　ノートパソコンだけど
+パスワードが　わからないから
+ずっと　アクセスできないんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>121373462</Id>
+          <Value>もしかしたら　ᜀ大事᠀だいじᤀなᜀ資料᠀しりょうᤀとか
+あったかもしれないけど…
+もう　ᜀ調᠀しらᤀべようもないしね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>136839950</Id>
+          <Value>す　ᜀ捨᠀すᤀてるᜀ前᠀まえᤀに
+データの　バックアップとか
+してみたら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>154010382</Id>
+          <Value>いいよ　ᜀ別᠀べつᤀに
+どうせ　オレへのᜀ愚痴᠀ぐちᤀが
+たくさんᜀ書᠀かᤀいてあるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>173015831</Id>
+          <Value>オレは　ᜀ父親᠀ちちおやᤀを　ᜀ怒᠀おこᤀらせてばかりで
+ᜀ仲᠀なかᤀのいい　ᜀ親子᠀おやこᤀじゃ　なかったんだ
+ᜀ俺᠀おれᤀなんかが　ᜀ見᠀みᤀたって…
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>184811779</Id>
+          <Value>ハァ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>203948561</Id>
+          <Value>…このᜀ人᠀ひとᤀ　ᜀ困᠀こまᤀってるみたいだ
+てつだって　あげられないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>221774613</Id>
+          <Value>ARフィールドなら
+パソコンに　アクセスできるはずだ
+このᜀ人᠀ひとᤀの　かわりに　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>236847630</Id>
+          <Value>オレも　このパソコン
+ᜀ捨᠀すᤀてちゃう　べきなのかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>251920644</Id>
+          <Value>だれ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>268828934</Id>
+          <Value>あ　オレは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>287179283</Id>
+          <Value>パスワード　しっかり　かかってるのに
+はいってくるなんて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>303694349</Id>
+          <Value>さては　わるいヤツだな！
+ゼッタイ　ゆるさないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>318898432</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>337904143</Id>
+          <Value>ちょ　ちょっと　ᜀ待᠀まᤀってよ！
+ᜀ話᠀はなしᤀをᜀ聞᠀きᤀいて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>353370380</Id>
+          <Value>ここから　ᜀ出᠀でᤀていけー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>371851792</Id>
+          <Value>また　ᜀ来᠀きᤀた！　わるいヤツ！
+ᜀ出᠀でᤀていけったら　ᜀ出᠀でᤀていけー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>387055886</Id>
+          <Value>ぺらぺら…　ᜀ負᠀まᤀけちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>403702028</Id>
+          <Value>だ　ᜀ大丈夫᠀だいじょうぶᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>421921550</Id>
+          <Value>ᜀ心配᠀しんぱいᤀしてくれるのは
+わるいヤツ　じゃない…
+キミは　だれ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>439616275</Id>
+          <Value>オレは　ᰏだよ
+このパソコンが　ᜀ捨᠀すᤀてられそうだから
+ᜀ中᠀なかᤀを　ᜀ調᠀しらᤀべにきたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>456917781</Id>
+          <Value>ᜀ捨᠀すᤀてられる！？
+そんな…　ボク　もう　いらないの？
+ボク　おᜀ父᠀とうᤀさんに　ᜀ嫌᠀きらᤀわれちゃった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>473039632</Id>
+          <Value>ちがうよ
+パソコンの　ᜀ持᠀もᤀちᜀ主᠀ぬしᤀが…
+おᜀ父᠀とうᤀさんが　ᜀ亡᠀なᤀくなったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>489947922</Id>
+          <Value>なくなった…？　ᜀ死᠀しᤀんじゃったの？
+そっか　ᜀ人間᠀にんげんᤀって
+いなくなっちゃうんだっけ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>505020943</Id>
+          <Value>…だったら　ᰏに
+おねがいしたい　ことがあるの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>520618247</Id>
+          <Value>おねがいって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>541459222</Id>
+          <Value>おᜀ父᠀とうᤀさん　このページを
+いちばん　ᜀ大事᠀だいじᤀにしていたの
+ᜀ息子᠀むすこᤀさんってᜀ人᠀ひとᤀにね　ᜀ見᠀みᤀせてあげて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>555221773</Id>
+          <Value>これって
+パソコンの　ダイアリー？
+ええと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>575275803</Id>
+          <Value>「パスワードに
+ᜀ息子᠀むすこᤀの　ᜀ誕生日᠀たんじょうびᤀを　ᜀ設定᠀せっていᤀした
+ᜀ忘᠀わすᤀれないものがよいと　ᜀ聞᠀きᤀいたからだ」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>592053017</Id>
+          <Value>「それは
+ᜀ人生᠀じんせいᤀで　もっとも　すばらしいᜀ日᠀ひᤀだった
+ᜀ私᠀わたしᤀは　このᜀ日᠀ひᤀを　ᜀ死᠀しᤀんでもᜀ忘᠀わすᤀれない」…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>605159946</Id>
+          <Value>…うん
+かならず　ᜀ見᠀みᤀせるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>621150470</Id>
+          <Value>おねがいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>641073940</Id>
+          <Value>ボクは
+どこか　ᜀ別᠀べつᤀのネットワークに　いくよ
+いつかᜀ会᠀あᤀえたら　だいじにᜀ使᠀つかᤀってね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>656146956</Id>
+          <Value>…おᜀ兄᠀にいᤀさんに
+ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>674235154</Id>
+          <Value>ああ　さっきの…
+やっぱり　パスワードもわからないし
+パソコンは　ᜀ捨᠀すᤀてることにしたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>691798809</Id>
+          <Value>ま　ᜀ待᠀まᤀって！
+そのᜀ前᠀まえᤀに　おᜀ兄᠀にいᤀさんのᜀ誕生日᠀たんじょうびᤀを
+パスワードに　いれてみて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>705298697</Id>
+          <Value>は？　なんでまた…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>722075911</Id>
+          <Value>…　ᜀ開᠀ひらᤀいた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>740426509</Id>
+          <Value>なんだ？
+ᜀ勝手᠀かってᤀに　ダイアリーが
+ᜀ起動᠀きどうᤀして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>757989909</Id>
+          <Value>…オレのᜀ誕生日᠀たんじょうびᤀが
+ᜀ人生᠀じんせいᤀで　もっとも　すばらしいᜀ日᠀ひᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>772014339</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>791937561</Id>
+          <Value>たっ　ᜀ誕生日᠀たんじょうびᤀ　パスワードにするとか！
+ネットリテラシーが　ᜀ足᠀たᤀりないんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>808715027</Id>
+          <Value>ᜀ普通᠀ふつうᤀは　もっと
+ᜀ英数字᠀えいすうじᤀを　ごちゃまぜにして
+わかりにくいようにしてさ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>822870284</Id>
+          <Value>………　バカじゃねえの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>839516423</Id>
+          <Value>おᜀ兄᠀にいᤀさん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>858653460</Id>
+          <Value>ありがとう
+なんだか　スッキリしたよ
+ᜀ大事᠀だいじᤀなことに　ᜀ気᠀きᤀづいたみたいな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>874382091</Id>
+          <Value>ᜀ君᠀きみᤀは…
+どうして　パスワードが
+わかったんだい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>889848327</Id>
+          <Value>えっ
+あの　それは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>906494215</Id>
+          <Value>…まあ　いいか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>925237779</Id>
+          <Value>ᜀ君᠀きみᤀは　ちゃんとした
+パスワードを　ᜀ設定᠀せっていᤀするようにね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>940310796</Id>
+          <Value>あ　あはは　そうします…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>958923281</Id>
+          <Value>パソコンは　もうᜀ少᠀すこᤀし
+ᜀ手元᠀てもとᤀに　ᜀ置᠀おᤀいておこうかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>976093969</Id>
+          <Value>ᜀ君᠀きみᤀのおかげで　なにか
+ᜀ大事᠀だいじᤀなことに　ᜀ気᠀きᤀがついたよ
+ありがとね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>992871183</Id>
+          <Value>ああ　ᜀ君᠀きみᤀか…
+パソコンを　ᜀ捨᠀すᤀてるか　どうか
+まだ　ᜀ迷᠀まよᤀってるんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009124109</Id>
+          <Value>す　ᜀ捨᠀すᤀてるᜀ前᠀まえᤀに
+データの　バックアップとか
+してみては？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026949909</Id>
+          <Value>ARフィールドなら
+パソコンに　アクセスできるはずね
+このᜀ人᠀ひとᤀの　かわりに　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_016_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040711943</Id>
+          <Value>あ　ワタシは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_06_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060242194</Id>
+          <Value>ワタシ　ᰏよ
+このパソコンが　ᜀ捨᠀すᤀてられそうだから
+ᜀ中᠀なかᤀを　ᜀ調᠀しらᤀべにきたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

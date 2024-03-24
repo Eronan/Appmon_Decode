@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>100</NumberOfLabels>
+  <NumberOfStrings>100</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1704466</Id>
+          <Value>くすん…
+どこ？　どこに　ᜀ行᠀いᤀっちゃったの…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18481676</Id>
+          <Value>どうしたの？
+なにか　ᜀ探᠀さがᤀしᜀ物᠀ものᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34603530</Id>
+          <Value>くすん…
+ボク　さがしているの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52167186</Id>
+          <Value>うん
+それで　ᜀ何᠀なにᤀを　ᜀ探᠀さがᤀしているの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69731087</Id>
+          <Value>とっても　ᜀ大事᠀だいじᤀにしていた
+ゲームだよ！
+あーるぴーじー　ってゲーム！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85590794</Id>
+          <Value>ねぇ　ボクのゲーム
+さがすの
+てつだってくれない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103416342</Id>
+          <Value>あーるぴーじーって…　ＲＰＧ！？
+なくしたなんて　ᜀ一大事᠀いちだいじᤀじゃないか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>120193554</Id>
+          <Value>ᜀ他人事᠀ひとごとᤀとは　ᜀ思᠀おもᤀえないな…
+ᜀ手伝᠀てつだᤀって　あげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>136053263</Id>
+          <Value>うーん　ごめんね
+ᜀ他᠀ほかᤀに　やることが　あるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>153485839</Id>
+          <Value>あとで　ᜀ時間᠀じかんᤀが　できたら
+いっしょに　ᜀ探᠀さがᤀしてあげるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>171311895</Id>
+          <Value>うん　ごめんなさい
+ヘンな　おねがい　しちゃって
+ᜀ１人᠀ひとりᤀで　さがすから　ᜀ心配᠀しんぱいᤀしないで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>186909453</Id>
+          <Value>うん
+ᜀ手伝᠀てつだᤀって　あげるから
+くわしく　ᜀ話᠀はなᤀしてみてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>201720070</Id>
+          <Value>ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>220201743</Id>
+          <Value>ボクね
+とっても　ᜀ大事᠀だいじᤀにしていた
+ゲームが　あるの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>238158609</Id>
+          <Value>まいにち　あそんでいたんだ
+なかまモンスターを　あつめて
+デッキを　くんで　ᜀ戦᠀たたかᤀうんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>252969489</Id>
+          <Value>うん
+それで　そのゲームが　どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>271188753</Id>
+          <Value>あそんだあと
+ᜀ出᠀だᤀしっぱなしに　していたら
+おかあさんが　かたづけちゃったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>287179280</Id>
+          <Value>そして　まちがって
+ゴミに　ᜀ出᠀だᤀしちゃったんだって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>305136398</Id>
+          <Value>ああ！　ᜀ大事᠀だいじᤀなゲームを
+ゴミだと　ᜀ思᠀おもᤀって
+ᜀ捨᠀すᤀてられちゃったのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>320996112</Id>
+          <Value>うん
+このへんの　ゴミばこの　どこかに
+ᜀ捨᠀すᤀてちゃったんだって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>336855563</Id>
+          <Value>でも　どの　ゴミばこか
+わからなくって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>355861267</Id>
+          <Value>そうか　わかったよ
+このあたりの　ゴミばこを　ᜀ調᠀しらᤀべて
+そのゲームを　ᜀ見᠀みᤀつければ　いいんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>370541071</Id>
+          <Value>うん　そう！
+いっしょに　さがしてもらえる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>388498189</Id>
+          <Value>うん　いいよ
+それじゃあ　ᜀ手分᠀てわᤀけして
+そのゲームを　ᜀ探᠀さがᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>404357650</Id>
+          <Value>くすん…
+どこ？　どこに　ᜀ行᠀いᤀっちゃったの…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>421659152</Id>
+          <Value>ゲームを　さがしているんだっけ…
+まだ　ᜀ見᠀みᤀつかってないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>439223059</Id>
+          <Value>うん…　とっても　ᜀ大事᠀だいじᤀにしていた
+ゲームなんだよ！
+あーるぴーじー　ってゲーム！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>454689546</Id>
+          <Value>ねぇ　ボクのゲーム
+さがすの
+てつだってくれない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>471466510</Id>
+          <Value>ボクの　ゲーム
+まだ　ᜀ見᠀みᤀつからないんだよぅ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>488112651</Id>
+          <Value>ゲーム　ᜀ見᠀みᤀつかったよ
+この　ゲームでしょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>504365579</Id>
+          <Value>ああっ！
+それ　ボクのゲーム！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>522322449</Id>
+          <Value>ᜀ大事᠀だいじᤀな　ゲームなら
+もう　なくさないように　しないとね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>540410642</Id>
+          <Value>うん！　ᜀ出᠀だᤀしっぱなしにして
+おかあさんに　かたづけられないように
+これからは　ちゃんと　かたづける！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>554303754</Id>
+          <Value>うん　それが　いいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>574096147</Id>
+          <Value>…オレも　おかあさんに
+ᜀ勝手᠀かってᤀに　ᜀ掃除᠀そうじᤀされないように
+ᜀ部屋᠀へやᤀを　かたづけなきゃな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>589169166</Id>
+          <Value>ボクの　ᜀ大事᠀だいじᤀな　ゲーム
+もどってきて　よかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>607126286</Id>
+          <Value>でも　ゲームの　ᜀ勇者᠀ゆうしゃᤀ
+なんか　なくなるᜀ前᠀まえᤀより
+レベルが　あがっているの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>624558865</Id>
+          <Value>まるで　なくなっているᜀ間᠀あいだᤀも
+バトルをして　ᜀ経験値᠀けいけんちᤀを
+かせいでいたみたい…　ふしぎだなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>640549396</Id>
+          <Value>うーん　ᜀ見᠀みᤀつからないな…
+ᜀ他᠀ほかᤀの　ᜀ場所᠀ばしょᤀを　ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>655360523</Id>
+          <Value>うーん
+ここの　ゴミばこには…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>674234901</Id>
+          <Value>ゲームᜀ機᠀きᤀがある！　これが
+ᜀ男᠀おとこᤀのᜀ子᠀こᤀの　ᜀ言᠀いᤀってた　ＲＰＧかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>689701394</Id>
+          <Value>よし
+ᜀ中身᠀なかみᤀを　ᜀ確認᠀かくにんᤀして　と…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>705036550</Id>
+          <Value>あいたっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>723780114</Id>
+          <Value>ゲーム　カートリッジが
+ᜀ自分᠀じぶんᤀから　ぶつかってᜀ来᠀きᤀた！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>739115277</Id>
+          <Value>このゲームに　さわるな！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>756023817</Id>
+          <Value>えっ？
+なんの　ᜀ声᠀こえᤀ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>773587472</Id>
+          <Value>キサマなんぞに
+わがᜀ身᠀みᤀを　わたしてなるものか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>788922629</Id>
+          <Value>サラバ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>806093067</Id>
+          <Value>なんだったんだろう…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>824050441</Id>
+          <Value>ええええ！？
+そんな…　データが
+ᜀ消᠀きᤀえちゃってる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>841483023</Id>
+          <Value>ᜀ今᠀いまᤀの　ᜀ声᠀こえᤀ…
+もしかして
+アプモンが　ᜀ原因᠀げんいんᤀで！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>857867024</Id>
+          <Value>ここから
+ＡＲダンジョンに　はいれそうだ…
+ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_053_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>874250764</Id>
+          <Value>この　ＡＲダンジョンを
+ᜀ調᠀しらᤀしらべてみよう…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>889979399</Id>
+          <Value>え！？
+ええーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>907805198</Id>
+          <Value>ゲームが　ᜀ消᠀きᤀえて
+ＡＲダンジョンに　なった！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>925631250</Id>
+          <Value>だれか　アプモンが
+ᜀ消᠀けᤀしたんだよな
+ＡＲダンジョンに　ᜀ持᠀もᤀっていかれた？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>942670609</Id>
+          <Value>やっぱり　このᜀ中᠀なかᤀだよな…
+ゲームのデータを　ᜀ取᠀とᤀりかえすには
+はいるしかないよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>958267918</Id>
+          <Value>こんなトコロまで　ᜀ来᠀くᤀるとは
+しつこい　ヤカラだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>973340932</Id>
+          <Value>キミは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>991560206</Id>
+          <Value>わがᜀ名᠀なᤀは　ゲーム　アプリの
+ロープレモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008599567</Id>
+          <Value>やっぱり　あのᜀ子᠀こᤀの　ゲームに
+アプモンが　いたんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025901326</Id>
+          <Value>ᜀ縁᠀えんᤀあって
+この　ゲーム　カートリッジに
+ᜀ世話᠀せわᤀになっておる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043464978</Id>
+          <Value>ゆえに　この　ゲームを
+どこの　ᜀ誰᠀だれᤀとも　わからぬᜀ者᠀ものᤀに
+わたすわけには　いかん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059324433</Id>
+          <Value>キサマには　ᜀ悪᠀わるᤀいが
+ここより　ᜀ出᠀でᤀていって　もらう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075184139</Id>
+          <Value>また　ᜀ来᠀きᤀたな
+しつこい　ヤカラだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092747790</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+こんどは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109656081</Id>
+          <Value>キサマには　ᜀ悪᠀わるᤀいが
+ここより　ᜀ出᠀でᤀていって　もらう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127744277</Id>
+          <Value>くっ！　ムネン！！
+このゲームを　どこのウマのホネとも
+わからぬᜀ者᠀ものᤀに　ᜀ取᠀とᤀられてしまうとは！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1144390415</Id>
+          <Value>ᜀ待᠀まᤀって　ᜀ待᠀まᤀって！
+オレは　ᜀ別᠀べつᤀに　このゲームを
+ᜀ取᠀とᤀりに　きたんじゃないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161560849</Id>
+          <Value>この　ゲームの　ᜀ持᠀もᤀちᜀ主᠀ぬしᤀに
+なくした　ゲームを　ᜀ探᠀さがᤀしてって
+ᜀ頼᠀たのᤀまれた　だけなんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175585291</Id>
+          <Value>！？
+それは　ᜀ真᠀まことᤀか！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193673231</Id>
+          <Value>え　ああ　ᜀ真᠀まことᤀだよ！
+ᜀ本当᠀ほんとうᤀの　ᜀ話᠀はなしᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1213203224</Id>
+          <Value>ᜀ捨᠀すᤀてられた　とはいえ
+いつか　ᜀ主人᠀しゅじんᤀのᜀ元᠀もとᤀへ　ᜀ戻᠀もどᤀるᜀ日᠀ひᤀまで
+だれにも　ᜀ渡᠀わたᤀさぬよう　ᜀ守᠀まもᤀっていたが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227358990</Id>
+          <Value>ᜀ主人᠀しゅじんᤀも　このゲームを
+さがしてくれていたとは！
+カンゲキである！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245184784</Id>
+          <Value>その　ᜀ捨᠀すᤀてられた　っていうのも
+あのᜀ子᠀こᤀの　おかあさんが
+ᜀ間違᠀まちがᤀって　やったことだしね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260258061</Id>
+          <Value>なんと！
+ᜀ見捨᠀みすᤀてられた　わけでも
+なかったのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276379661</Id>
+          <Value>ふう…
+ᜀ本当᠀ほんとうᤀに　よかった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294992143</Id>
+          <Value>それじゃあ　ゲームを
+あのᜀ子᠀こᤀに　ᜀ返᠀かえᤀすってことで
+ᜀ問題᠀もんだいᤀないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310851600</Id>
+          <Value>ああ　ᜀ問題᠀もんだいᤀない
+それでは　おᜀ頼᠀たのᤀみ　もうす！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329070871</Id>
+          <Value>これで　データも　ᜀ大丈夫᠀だいじょうぶᤀのはずだ…
+あのᜀ子᠀こᤀに　このゲームを
+ᜀ返᠀かえᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_007_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344930326</Id>
+          <Value>あーるぴーじーって…　ＲＰＧ！？
+なくしたなんて　ᜀ一大事᠀いちだいじᤀじゃないの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361838610</Id>
+          <Value>ᜀ他人事᠀ひとごとᤀとは　ᜀ思᠀おもᤀえないな…
+ᜀ手伝᠀てつだᤀって　あげようかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377436174</Id>
+          <Value>うーん　ごめんね
+ᜀ他᠀ほかᤀに　やることが　あるの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394999823</Id>
+          <Value>あとで　ᜀ時間᠀じかんᤀが　できたら
+いっしょに　ᜀ探᠀さがᤀしてあげるね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412432654</Id>
+          <Value>ああ！　ᜀ大事᠀だいじᤀなゲームを
+ゴミだと　ᜀ思᠀おもᤀって
+ᜀ捨᠀すᤀてられちゃったのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429603090</Id>
+          <Value>そうか　わかったわ
+このあたりの　ゴミばこを　ᜀ調᠀しらᤀべて
+そのゲームを　ᜀ見᠀みᤀつければ　いいのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_028_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445724943</Id>
+          <Value>ええ　いいわよ
+それじゃあ　ᜀ手分᠀てわᤀけして
+そのゲームを　ᜀ探᠀さがᤀしましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460404491</Id>
+          <Value>うん　それが　いいわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1480196883</Id>
+          <Value>…ワタシも　おかあさんに
+ᜀ勝手᠀かってᤀに　ᜀ掃除᠀そうじᤀされないように
+ᜀ部屋᠀へやᤀを　かたづけないとね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1496318485</Id>
+          <Value>うーん　ᜀ見᠀みᤀつからないわね…
+ᜀ他᠀ほかᤀの　ᜀ場所᠀ばしょᤀを　ᜀ探᠀さがᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1513095702</Id>
+          <Value>ゲームᜀ機᠀きᤀがある！　これが
+ᜀ男᠀おとこᤀのᜀ子᠀こᤀの　ᜀ言᠀いᤀってた　ＲＰＧかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_053_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529086736</Id>
+          <Value>ここから
+ＡＲダンジョンに　はいれそうね…
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546650385</Id>
+          <Value>やっぱり　このᜀ中᠀なかᤀよね…
+ゲームのデータを　ᜀ取᠀とᤀりかえすには
+はいるしかないわよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_059_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1560674565</Id>
+          <Value>アナタは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579024911</Id>
+          <Value>やっぱり　あのᜀ子᠀こᤀの　ゲームに
+アプモンが　いたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_066_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596064270</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+こんどは　ᜀ負᠀まᤀけないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1614021391</Id>
+          <Value>ᜀ待᠀まᤀって　ᜀ待᠀まᤀって！
+ワタシは　べつに　このゲームを
+ᜀ取᠀とᤀりに　きたんじゃないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_070_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1631322897</Id>
+          <Value>この　ゲームの　ᜀ持᠀もᤀちᜀ主᠀ぬしᤀに
+なくした　ゲームを　ᜀ探᠀さがᤀしてって
+ᜀ頼᠀たのᤀまれた　だけなのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_072_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646526990</Id>
+          <Value>え　ああ　ᜀ真᠀まことᤀよ！
+ᜀ本当᠀ほんとうᤀの　ᜀ話᠀はなしᤀよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_62_080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1664746263</Id>
+          <Value>これで　データも　ᜀ大丈夫᠀だいじょうぶᤀのはずね！
+あのᜀ子᠀こᤀに　このゲームを
+ᜀ返᠀かえᤀしにいきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

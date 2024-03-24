@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1835282</Id>
+          <Value>ᜀ大切᠀たいせつᤀなバッジをᜀ取᠀とᤀりᜀ戻᠀もどᤀせ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>ヒフミが丘・お花見公園</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798108</Id>
+          <Value>コソモンの　ᜀ大切᠀たいせつᤀなバッジが
+アプモンに　ᜀ取᠀とᤀられてしまった
+おᜀ花見公園᠀はなみこうえんᤀに　ᜀ行᠀いᤀって　ᜀ取᠀とᤀりᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118347</Id>
+          <Value>ヒフミが丘・お花見公園</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72352540</Id>
+          <Value>コソモンの　ᜀ大切᠀たいせつᤀなバッジが
+アプモンに　ᜀ取᠀とᤀられてしまった
+おᜀ花見公園᠀はなみこうえんᤀに　ᜀ行᠀いᤀって　ᜀ取᠀とᤀりᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672779</Id>
+          <Value>ヒフミが丘・お花見公園</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105906972</Id>
+          <Value>コソモンの　ᜀ大切᠀たいせつᤀなバッジが
+アプモンに　ᜀ取᠀とᤀられてしまった
+おᜀ花見公園᠀はなみこうえんᤀに　ᜀ行᠀いᤀって　ᜀ取᠀とᤀりᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>お花見公園のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138281751</Id>
+          <Value>おᜀ花見公園᠀はなみこうえんᤀに　ＡＲダンジョンが！
+きっと　コソモンのバッジを　ᜀ取᠀とᤀった
+アプモンは　ここに　いる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>お花見公園のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171836183</Id>
+          <Value>おᜀ花見公園᠀はなみこうえんᤀに　ＡＲダンジョンが！
+きっと　コソモンのバッジを　ᜀ取᠀とᤀった
+アプモンは　ここに　いる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206045972</Id>
+          <Value>ライトモンから　コソモンのバッジを
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀした！　コソモンの　ところに
+ᜀ戻᠀もどᤀって　バッジを　ᜀ返᠀かえᤀしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239600404</Id>
+          <Value>ライトモンから　コソモンのバッジを
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀした！　コソモンの　ところに
+ᜀ戻᠀もどᤀって　バッジを　ᜀ返᠀かえᤀしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273154836</Id>
+          <Value>ライトモンから　コソモンのバッジを
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀした！　コソモンの　ところに
+ᜀ戻᠀もどᤀって　バッジを　ᜀ返᠀かえᤀしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>コソモンのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306709268</Id>
+          <Value>ライトモンから　コソモンのバッジを
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀした！　コソモンの　ところに
+ᜀ戻᠀もどᤀって　バッジを　ᜀ返᠀かえᤀしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322700052</Id>
+          <Value>ライトモンから　コソモンのバッジを
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀしてあげた
+いいことを　すると　ᜀ気持᠀きもᤀちがいいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

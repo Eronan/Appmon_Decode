@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310989</Id>
+          <Value>ᜀ裏᠀うらᤀワザᜀ発見᠀はっけんᤀ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301767</Id>
+          <Value>学校２階・教室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880595</Id>
+          <Value>まだ　ᜀ誰᠀だれᤀも　ᜀ成功᠀せいこうᤀしていない
+ゲームの　ᜀ裏᠀うらᤀワザが　あるらしい
+ᜀ自分᠀じぶんᤀも　やってみようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380495</Id>
+          <Value>学校２階・スマホＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221465</Id>
+          <Value>ᜀ裏᠀うらᤀワザを　ᜀ試᠀ためᤀしたら　スマホの　ᜀ画面᠀がめんᤀが
+ᜀ真᠀まᤀっᜀ暗᠀くらᤀに　なってしまった！
+ＡＲフィールドを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934927</Id>
+          <Value>学校２階・スマホＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104858389</Id>
+          <Value>ＡＲダンジョンには　ᜀ攻略᠀こうりゃくᤀアプリの
+ウラテクモンが　いた！
+バトルに　ᜀ勝᠀かᤀって　ᜀ話᠀はなしᤀを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965063</Id>
+          <Value>学校２階・教室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>137626387</Id>
+          <Value>ウラテクモンに　スマホを　
+ᜀ直᠀なおᤀしてもらった
+ᜀ直᠀なおᤀったこと　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519495</Id>
+          <Value>学校２階・教室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171180819</Id>
+          <Value>ウラテクモンに　スマホを　
+ᜀ直᠀なおᤀしてもらった
+ᜀ直᠀なおᤀったこと　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073927</Id>
+          <Value>学校２階・教室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>204735251</Id>
+          <Value>ウラテクモンに　スマホを　
+ᜀ直᠀なおᤀしてもらった
+ᜀ直᠀なおᤀったこと　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628359</Id>
+          <Value>学校２階・教室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238289683</Id>
+          <Value>ウラテクモンに　スマホを　
+ᜀ直᠀なおᤀしてもらった
+ᜀ直᠀なおᤀったこと　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182791</Id>
+          <Value>学校２階・教室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>271844115</Id>
+          <Value>ウラテクモンに　スマホを　
+ᜀ直᠀なおᤀしてもらった
+ᜀ直᠀なおᤀったこと　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737223</Id>
+          <Value>学校２階・教室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305398547</Id>
+          <Value>ウラテクモンに　スマホを　
+ᜀ直᠀なおᤀしてもらった
+ᜀ直᠀なおᤀったこと　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323486483</Id>
+          <Value>ᜀ裏᠀うらᤀワザが　ᜀ無事᠀ぶじᤀ　できたみたい！
+けど　ᜀ裏᠀うらᤀワザを　ᜀ試᠀ためᤀすときは
+ᜀ自己責任᠀じこせきにんᤀで　やらないとね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

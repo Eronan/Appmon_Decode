@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>POP_UP_TITLE_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>786697</Id>
+          <Value>オートᜀ編成᠀へんせいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>POP_UP_CAPTION_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>20710163</Id>
+          <Value>アイコンがᜀ明᠀あかᤀるくなっている
+アプモンのみをᜀ使᠀つかᤀって
+ᜀ編成᠀へんせいᤀをᜀ自動᠀じどうᤀでおこないます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>COMMON_WINDOW_TWXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>35258644</Id>
+          <Value>オートᜀ編成᠀へんせいᤀをᜀ実行᠀じっこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>COMMON_WINDOW_TWXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>52166933</Id>
+          <Value>オートᜀ編成᠀へんせいᤀをせずにᜀ戻᠀もどᤀりますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

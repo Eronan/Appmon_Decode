@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>148</NumberOfLabels>
+  <NumberOfStrings>148</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_UNKNOWN</Key>
+      <Values>
+        <BtxtString>
+          <Id>262403</Id>
+          <Value>？？？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>25691416</Id>
+          <Value>ᜀ好奇心旺盛᠀こうきしんおうせいᤀで　ᜀ調᠀しらᤀべること
+がᜀ大好᠀だいすᤀきなアプモン。ᜀ生活᠀せいかつᤀ
+のᜀ知識᠀ちしきᤀからᜀ相手᠀あいてᤀのᜀ弱点᠀じゃくてんᤀまで
+ネットのᜀ海᠀うみᤀをᜀ探᠀さぐᤀってᜀ何᠀なんᤀでも
+ᜀ検索᠀けんさくᤀしてくれる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>42337562</Id>
+          <Value>ᜀ一度᠀いちどᤀにᜀ何人᠀なんにんᤀものᜀ相手᠀あいてᤀとᜀ電話᠀でんわᤀ
+をᜀ繋᠀つなᤀげることができる　ᜀ電᠀でんᤀ
+ᜀ話᠀わᤀのプロフェッショナル。
+ᜀ彼᠀かれᤀからのᜀ電話᠀でんわᤀは　ᜀ決᠀けっᤀしてᜀ着᠀ちゃくᤀ
+ᜀ信拒否᠀しんきょひᤀができない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>59245847</Id>
+          <Value>ネットをᜀ駆᠀かᤀけᜀ巡᠀めぐᤀる　ᜀ頼᠀たのᤀもし
+いメールのᜀ配達人᠀はいたつにんᤀ。ᜀ彼᠀かれᤀがᜀ投᠀なᤀ
+げるメールにᜀ乗᠀のᤀれば　ᜀ宛先᠀あてさきᤀ
+にᜀ指定᠀していᤀされたᜀ場所᠀ばしょᤀまでᜀ一息᠀ひといきᤀ
+にᜀ飛᠀とᤀんでいくこともできる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>73794837</Id>
+          <Value>フォローしたᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+なんでもᜀ話᠀はなᤀしてしまう　お
+しゃべりなアプモン。ᜀ面白᠀おもしろᤀ
+いとᜀ思᠀おもᤀったことはᜀ拡散᠀かくさんᤀせず
+にはいられない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>93979933</Id>
+          <Value>ᜀ世界中᠀せかいじゅうᤀのᜀ言語᠀げんごᤀをᜀ知᠀しᤀりᜀ尽᠀つᤀくす
+ᜀ凄腕᠀すごうでᤀのᜀ翻訳家᠀ほんやくかᤀ。ᜀ相手᠀あいてᤀのᜀ喋᠀しゃべᤀる
+ᜀ言葉を強制的に翻訳᠀ことばきょうせいてきほんやくᤀしてᜀ会᠀かいᤀ
+ᜀ話᠀わᤀをᜀ妨害᠀ぼうがいᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀって
+いる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>111412507</Id>
+          <Value>ᜀ顔᠀かおᤀのアドレスᜀ帳᠀ちょうᤀに　これま
+でᜀ出会᠀であᤀったᜀ相手᠀あいてᤀのᜀ住所᠀じゅうしょᤀやᜀ連᠀れんᤀ
+ᜀ絡先᠀らくさきᤀをᜀ記録᠀きろくᤀしているアプモ
+ン。ᜀ胸᠀むねᤀのᜀ鍵᠀かぎᤀはᜀ機密情報᠀きみつじょうほうᤀのᜀ暗᠀あんᤀ
+ᜀ号᠀ごうᤀᜀ化᠀かᤀとᜀ解除᠀かいじょᤀにᜀ使用᠀しようᤀする。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>125830423</Id>
+          <Value>あらゆるᜀ物事᠀ものごとᤀをᜀ見極᠀みきわᤀめ　ᜀ評᠀ひょうᤀ
+ᜀ価᠀かᤀをしてくれるᜀ辛口᠀からくちᤀレビュ
+アー。ᜀ彼᠀かれᤀがほめたᜀ商品᠀しょうひんᤀやᜀ店᠀みせᤀ
+はᜀ必᠀かならᤀずᜀ大人気᠀だいにんきᤀになるとᜀ言᠀いᤀわ
+れている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>142476568</Id>
+          <Value>ᜀ扱᠀あつかᤀいのᜀ難᠀むずかᤀしいᜀ精密機器᠀せいみつききᤀでも
+すぐにᜀ使᠀つかᤀえるようᜀ設定᠀せっていᤀをし
+てくれるアプモン。ᜀ彼᠀かれᤀのᜀ作᠀つくᤀ
+るマニュアルは　ᜀ初心者᠀しょしんしゃᤀに
+もᜀ非常᠀ひじょうᤀにわかりやすい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>159647003</Id>
+          <Value>メッセージのᜀ受信᠀じゅしんᤀ・ᜀ発信᠀はっしんᤀの
+ᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプモン。ᜀ三᠀みっᤀつ
+のᜀ体᠀からだᤀをᜀ有᠀ゆうᤀするが　１つのᜀ思᠀しᤀ
+ᜀ考᠀こうᤀᜀ回路᠀かいろᤀをᜀ共有᠀きょうゆうᤀしてᜀ活動᠀かつどうᤀして
+いる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>175506709</Id>
+          <Value>ᜀ高性能᠀こうせいのうᤀのロケットエンジン
+をᜀ持᠀もᤀち　ᜀ凄᠀すさᤀまじいᜀ速᠀はやᤀさでᜀ飛᠀とᤀ
+ぶことができるアプモン。
+そのᜀ爆発的᠀ばくはつてきᤀなスピードはᜀ音᠀おんᤀ
+ᜀ速᠀そくᤀにもᜀ到達᠀とうたつᤀする。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>194774297</Id>
+          <Value>ᜀ目的地᠀もくてきちᤀまでのᜀ近道᠀ちかみちᤀをᜀ調᠀しらᤀべ　
+ᜀ道案内᠀みちあんないᤀをしてくれるアプモ
+ン。ᜀ両手᠀りょうてᤀのᜀ矢印同様᠀やじるしどうようᤀまっす
+ぐなᜀ性格᠀せいかくᤀで　ᜀ寄᠀よᤀりᜀ道᠀みちᤀ・ᜀ回᠀まわᤀり
+ᜀ道᠀みちᤀをᜀ徹底的᠀てっていてきᤀにᜀ嫌᠀きらᤀっている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>209716504</Id>
+          <Value>ᜀ管制塔᠀かんせいとうᤀやレーダーサイトに
+アクセスするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ　
+ᜀ航空事情᠀こうくうじじょうᤀにᜀ詳᠀くわᤀしいアプモン。
+ᜀ背中᠀せなかᤀにᜀ荷物᠀にもつᤀやᜀ人᠀ひとᤀをᜀ乗᠀のᤀせてᜀ飛᠀とᤀ
+ぶことができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>227804445</Id>
+          <Value>ᜀ電車の運行状況に詳᠀でんしゃうんこうじょうきょうくわᤀしいア
+プモン。よりᜀ良᠀よᤀいᜀ乗換情報᠀のりかえじょうほうᤀ
+をᜀ教᠀おしᤀえてくれるᜀ他᠀ほかᤀ　ᜀ急᠀いそᤀぎの
+ᜀ時᠀ときᤀはᜀ自᠀みずかᤀらをᜀ快速列車᠀かいそくれっしゃᤀとして
+ᜀ特別運行᠀とくべつうんこうᤀしてくれる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>243533079</Id>
+          <Value>ᜀ大気᠀たいきᤀのᜀ流᠀ながᤀれをᜀ読᠀よᤀみ　ᜀ天気᠀てんきᤀᜀ予᠀よᤀ
+ᜀ報᠀ほうᤀをしてくれるアプモン。
+そのときのᜀ感情᠀かんじょうᤀやᜀ言動᠀げんどうᤀにᜀ合᠀あᤀ
+わせ　ごくᜀ周辺᠀しゅうへんᤀのᜀ天気᠀てんきᤀをᜀ変᠀かᤀ
+えることができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>260572441</Id>
+          <Value>ᜀ正確無比᠀せいかくむひᤀなᜀ方位᠀ほういᤀᜀ磁針᠀じしんᤀをᜀ持᠀もᤀつ
+アプモン。ᜀ近頃᠀ちかごろᤀはᜀ活躍᠀かつやくᤀのᜀ機᠀きᤀ
+ᜀ会᠀かいᤀがᜀ少᠀すくᤀなくᜀ中᠀なかᤀでもᜀ特᠀とくᤀにナビ
+モンにはᜀ強᠀つよᤀいライバルᜀ心᠀しんᤀを
+ᜀ燃᠀もᤀやしている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>276956447</Id>
+          <Value>ᜀ条件᠀じょうけんᤀにᜀ応᠀おうᤀじたᜀ宿泊施設を紹᠀しゅくはくしせつしょうᤀ
+ᜀ介᠀かいᤀしてくれるアプモン。ᜀ彼᠀かれᤀ
+がᜀ背負᠀せおᤀうホテルは　セレブ
+アプモンᜀ御用達᠀ごようたしᤀのᜀ宿᠀やどᤀとして
+ᜀ広᠀ひろᤀくᜀ知᠀しᤀられている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>293340436</Id>
+          <Value>ᜀ特᠀とくᤀダネニュースをᜀ世界᠀せかいᤀにᜀ広᠀ひろᤀ
+めることがᜀ生᠀いᤀきᜀ甲斐᠀がいᤀのᜀ報道᠀ほうどうᤀ
+マン。ᜀ先見᠀せんけんᤀのᜀ明᠀めいᤀがあるらし
+く　ᜀ未来᠀みらいᤀのことをᜀ書᠀かᤀいたニ
+ュースもよくᜀ当᠀あᤀたる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>310248730</Id>
+          <Value>ᜀ防御᠀ぼうぎょᤀにᜀ長᠀たᤀけたᜀ屈強᠀くっきょうᤀなガード
+マン。ᜀ両腕᠀りょううでᤀのᜀ堅牢᠀けんろうᤀなᜀ盾᠀たてᤀをᜀ使᠀つかᤀ
+い　ᜀ日々᠀ひびᤀᜀ迫᠀せまᤀりくるウィルス
+からᜀ大切᠀たいせつᤀなデータをᜀ守᠀まもᤀって
+いる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>329123098</Id>
+          <Value>ᜀ使᠀つかᤀいᜀ方次第᠀かたしだいᤀでᜀ世界᠀せかいᤀにᜀ危機᠀ききᤀを
+ᜀ招᠀まねᤀく　ᜀ危᠀あやᤀういᜀ能力᠀のうりょくᤀのᜀ持᠀もᤀちᜀ主᠀ぬしᤀ。
+プログラムのᜀ弱点᠀じゃくてんᤀをᜀ一目᠀ひとめᤀで
+ᜀ見抜᠀みぬᤀき　ᜀ強固᠀きょうこᤀなロックもᜀ即᠀そっᤀ
+ᜀ刻解除᠀こくかいじょᤀしてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>344458521</Id>
+          <Value>ᜀ体に大量᠀からだたいりょうᤀのエネルギーをᜀ蓄᠀たくわᤀ
+えているアプモン。ᜀ体力᠀たいりょくᤀと
+ᜀ引᠀ひᤀきᜀ換᠀かᤀえにᜀ電子᠀でんしᤀᜀ機器᠀ききᤀをᜀ充電᠀じゅうでんᤀ
+したり　アプモンのᜀ力᠀ちからᤀをᜀ回᠀かいᤀ
+ᜀ復᠀ふくᤀさせることができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>358614296</Id>
+          <Value>データをᜀ圧縮᠀あっしゅくᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀ
+つアプモン。ᜀ彼᠀かれᤀのハンマー
+でᜀ叩᠀たたᤀかれたアプモンは　も
+れなくかわいらしいミニサ
+イズになってしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>377488662</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀされたデータをᜀ解凍᠀かいとうᤀす
+るᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプモン。ᜀ頭᠀あたまᤀ
+のドライヤーからᜀ出᠀でᤀるᜀ熱風᠀ねっぷうᤀ
+は　カチカチにᜀ凝縮᠀ぎょうしゅくᤀしたデ
+ータをᜀ優᠀やさᤀしくᜀ溶᠀とᤀかす。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>393610518</Id>
+          <Value>ᜀ対象᠀たいしょうᤀのデータをᜀ複製᠀ふくせいᤀするこ
+とができるアプモン。ᜀ論文᠀ろんぶんᤀ
+やᜀ絵画᠀かいがᤀ　ᜀ果᠀はᤀてはアプモンま
+で　ᜀ簡単᠀かんたんᤀにᜀ本物᠀ほんものᤀそっくりの
+コピーをᜀ作᠀つくᤀってしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>409863447</Id>
+          <Value>データのバックアップをつ
+くり　ᜀ保存᠀ほぞんᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ
+アプモン。このバックアッ
+プがあれば　ᜀ対象の状態᠀たいしょうじょうたいᤀを
+ᜀ当時᠀とうじᤀにᜀ戻᠀もどᤀすこともできる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>429393179</Id>
+          <Value>ᜀ壁᠀かべᤀにᜀ投影᠀とうえいᤀしたᜀ光景᠀こうけいᤀを　ᜀ実際᠀じっさいᤀ
+にᜀ具現化᠀ぐげんかᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつア
+プモン。ᜀ投影᠀とうえいᤀするᜀ範囲᠀はんいᤀがᜀ広᠀ひろᤀ
+ければᜀ広᠀ひろᤀいほど　ᜀ変化᠀へんかᤀする
+ᜀ環境᠀かんきょうᤀもᜀ大᠀おおᤀきくなる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>444466458</Id>
+          <Value>エネルギーのᜀ消費᠀しょうひᤀをᜀ抑᠀おさᤀえる
+ᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプモン。ᜀ頭部᠀とうぶᤀ
+のᜀ葉᠀はᤀっぱからᜀ太陽᠀たいようᤀエネルギ
+ーをᜀ変換᠀へんかんᤀしてᜀ自᠀みずかᤀらのᜀ活動源᠀かつどうげんᤀ
+としている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>462947612</Id>
+          <Value>ᜀ周囲᠀しゅういᤀのᜀ危険᠀きけんᤀをᜀ感知᠀かんちᤀするᜀ能力᠀のうりょくᤀ
+をᜀ持᠀もᤀつアプモン。ᜀ彼᠀かれᤀのᜀ小型᠀こがたᤀ
+ᜀ偵察機᠀ていさつきᤀがᜀ不審物᠀ふしんぶつᤀをᜀ発見᠀はっけんᤀする
+と　ᜀ頭᠀あたまᤀのパトランプがᜀ光᠀ひかᤀり
+サイレンがᜀ鳴᠀なᤀりᜀ響᠀ひびᤀく。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>477889815</Id>
+          <Value>ᜀ絵᠀えᤀのᜀ具᠀ぐᤀのようにドロドロの
+ᜀ体᠀からだᤀをᜀ持᠀もᤀつ　ᜀ色᠀いろᤀᜀ塗᠀ぬᤀりがᜀ得意᠀とくいᤀな
+アプモン。アートをこよな
+くᜀ愛᠀あいᤀしているが　ᜀ本人᠀ほんにんᤀのᜀ描᠀かᤀ
+くᜀ絵᠀えᤀはᜀ少᠀すこᤀしヘタクソ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>495715609</Id>
+          <Value>ミステリアスなᜀ予言᠀よげんᤀᜀ者᠀しゃᤀであ
+り　アプモンにᜀ人気᠀にんきᤀのᜀ占᠀うらなᤀい
+ᜀ師᠀しᤀ。データでできたᜀ水晶玉᠀すいしょうだまᤀ
+をᜀ通᠀とおᤀして　ᜀ対象᠀たいしょうᤀのᜀ少᠀すこᤀしᜀ未来᠀みらいᤀ
+のᜀ姿᠀すがたᤀをᜀ見᠀みᤀることができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>511050774</Id>
+          <Value>「ᜀ音楽᠀おんがくᤀはᜀ世界᠀せかいᤀをᜀ変᠀かᤀえる」が
+モットーのミュージシャン。
+ᜀ彼᠀かれᤀのᜀ生᠀うᤀみᜀ出᠀だᤀすᜀ音楽᠀おんがくᤀは　ᜀ聞᠀きᤀく
+ᜀ相手᠀あいてᤀのᜀ心᠀こころᤀをᜀ激᠀はげᤀしくᜀ動᠀うごᤀかす。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>529663257</Id>
+          <Value>ᜀ食事᠀しょくじᤀのᜀ時間᠀じかんᤀをᜀ何᠀なにᤀよりᜀ愛᠀あいᤀする
+ᜀ食᠀くᤀいしんᜀ坊᠀ぼうᤀ。ᜀ普段᠀ふだんᤀはとても
+のんびりᜀ屋᠀やᤀだが　ᜀ空腹᠀くうふくᤀᜀ時᠀じᤀに
+はᜀ食᠀たᤀべᜀ物᠀ものᤀをᜀ求᠀もとᤀめてᜀ凶暴᠀きょうぼうᤀなᜀ性᠀せいᤀ
+ᜀ格᠀かくᤀになる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>545391904</Id>
+          <Value>ᜀ世界中の映像作品や配信動᠀せかいじゅうえいぞうさくひんはいしんどうᤀ
+ᜀ画᠀がᤀをᜀ熟知᠀じゅくちᤀするアプモン。ᜀ腕᠀うでᤀ
+のリモコンをᜀ操作᠀そうさᤀすること
+で　ᜀ顔᠀かおᤀのᜀ画面᠀がめんᤀにᜀ映像᠀えいぞうᤀをᜀ映᠀うつᤀす
+ことができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>563086617</Id>
+          <Value>ᜀ画面上᠀がめんじょうᤀにᜀ表示᠀ひょうじᤀされたᜀ服᠀ふくᤀをデ
+ータのᜀ切᠀きᤀれᜀ端᠀はしᤀでᜀ縫᠀ぬᤀいᜀ上᠀あᤀげ　
+ᜀ具現化᠀ぐげんかᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプ
+モン。そのᜀ早᠀はやᤀᜀ縫᠀ぬᤀいのᜀ技᠀わざᤀには
+ᜀ誰᠀だれᤀもᜀ敵᠀かなᤀわない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>579208474</Id>
+          <Value>ᜀ世᠀よᤀのᜀ電子書籍᠀でんししょせきᤀをᜀ網羅᠀もうらᤀした　
+とてもᜀ物知᠀ものしᤀりなアプモン。
+ᜀ彼᠀かれᤀのページのᜀ中᠀なかᤀでは　ᜀ本᠀ほんᤀの
+ᜀ内容᠀ないようᤀがᜀ現実᠀げんじつᤀのᜀ世界᠀せかいᤀとしてᜀ存᠀そんᤀ
+ᜀ在᠀ざいᤀしている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>592971026</Id>
+          <Value>コイン１ᜀ枚᠀まいᤀごとにカプセル
+を１つくれる　ガシャポン
+ᜀ型᠀がたᤀのアプモン。ᜀ何᠀なにᤀがᜀ出᠀でᤀてく
+るかはガシャモンᜀ本人᠀ほんにんᤀにも
+わからない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>612107543</Id>
+          <Value>３つのᜀ絵柄᠀えがらᤀがᜀ揃᠀そろᤀうとコイン
+をᜀ吐᠀はᤀきᜀ出᠀だᤀす　スロットマシ
+ンᜀ型᠀がたᤀのアプモン。ᜀ彼᠀かれᤀのᜀ前᠀まえᤀに
+はいつも　ᜀ一攫千金᠀いっかくせんきんᤀをᜀ狙᠀ねらᤀう
+アプモンでᜀ列᠀れつᤀができている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>628098325</Id>
+          <Value>カードからイリュージョン
+まで　ᜀ多᠀おおᤀくのᜀ奇術᠀きじゅつᤀをᜀ使᠀つかᤀいこ
+なすᜀ稀代᠀きだいᤀのマジシャン。ᜀ簡᠀かんᤀ
+ᜀ単᠀たんᤀなデータはᜀ消失᠀しょうしつᤀマジック
+でパッとᜀ消᠀けᤀしてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>645399837</Id>
+          <Value>サイコロᜀ型᠀がたᤀのᜀ四角᠀しかくᤀいアプモ
+ン。ギャンブルがᜀ大好᠀だいすᤀきで
+ᜀ日常᠀にちじょうᤀのᜀ行動᠀こうどうᤀからᜀ攻撃方法᠀こうげきほうほうᤀま
+で　すべてのᜀ結果᠀けっかᤀをᜀ運任᠀うんまかᤀせ
+でᜀ決᠀きᤀめてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>662832410</Id>
+          <Value>どんなᜀ食通᠀しょくつうᤀもうならせるᜀ料᠀りょうᤀ
+ᜀ理᠀りᤀのᜀ鉄人᠀てつじんᤀ。ᜀ心身᠀しんしんᤀともにᜀ非常᠀ひじょうᤀ
+にたくましく　ᜀ時᠀ときᤀにはᜀ食材᠀しょくざいᤀ
+のみならず　ᜀ敵᠀てきᤀアプモンす
+らᜀ料理᠀りょうりᤀしてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>679478557</Id>
+          <Value>ᜀ体内᠀たいないᤀでオリジナルのウィル
+スをᜀ精製᠀せいせいᤀすることができる
+ᜀ非常᠀ひじょうᤀにᜀ危険᠀きけんᤀなᜀ存在᠀そんざいᤀ。ᜀ扱᠀あつかᤀうᜀ毒᠀どくᤀ
+はᜀ即効性᠀そっこうせいᤀのものからᜀ遅行性᠀ちこうせいᤀ
+のものまでさまざま。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>697566490</Id>
+          <Value>ᜀ他人᠀たにんᤀをᜀ眠᠀ねむᤀりにᜀ誘᠀さそᤀうᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀ
+つアプモン。ᜀ普段᠀ふだんᤀはᜀ眠᠀ねむᤀった
+ままᜀ行動᠀こうどうᤀしているが　ᜀ無理᠀むりᤀ
+にᜀ起᠀おᤀこすとᜀ恐᠀おそᤀろしいᜀ姿᠀すがたᤀにᜀ豹᠀ひょうᤀ
+ᜀ変᠀へんᤀするとᜀ言᠀いᤀわれている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>712639768</Id>
+          <Value>プロのアプモントレーナー。
+ᜀ他人᠀たにんᤀのᜀ筋力᠀きんりょくᤀデータをᜀ無理᠀むりᤀや
+りᜀ活性化᠀かっせいかᤀさせるᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀち
+ᜀ意志᠀いしᤀにᜀ関᠀かかᤀわらずᜀ体᠀からだᤀをビルド
+アップさせてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>731907356</Id>
+          <Value>ᜀ全身᠀ぜんしんᤀのᜀ包帯᠀ほうたいᤀでᜀ相手᠀あいてᤀをᜀ治療᠀ちりょうᤀす
+るᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ　アプモンた
+ちのᜀ白衣᠀はくいᤀのᜀ天使᠀てんしᤀ。ᜀ治療᠀ちりょうᤀをᜀ拒᠀こばᤀ
+むᜀ悪᠀わるᤀいᜀ患者᠀かんじゃᤀは　ᜀ包帯᠀ほうたいᤀでᜀ縛᠀しばᤀっ
+てᜀ拘束᠀こうそくᤀしてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>748684571</Id>
+          <Value>ᜀ対象᠀たいしょうᤀのᜀ所持金᠀しょじきんᤀをᜀ引᠀ひᤀきᜀ出᠀だᤀすᜀ能᠀のうᤀ
+ᜀ力᠀ちからᤀをᜀ持᠀もᤀつアプモン。ᜀ彼᠀かれᤀにᜀ借᠀しゃっᤀ
+ᜀ金᠀きんᤀをおᜀ願᠀ねがᤀいすれば　ᜀ一時的᠀いちじてきᤀ
+にᜀ所持金᠀しょじきんᤀをᜀ超᠀こᤀえたᜀ額᠀がくᤀをᜀ手᠀てᤀに
+ᜀ入᠀いᤀれることもできる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>764151063</Id>
+          <Value>ᜀ大᠀おおᤀきなᜀ岩風呂᠀いわぶろᤀをᜀ背負᠀せおᤀってい
+るアプモン。ᜀ中身᠀なかみᤀはᜀ万病᠀まんびょうᤀに
+ᜀ効᠀きᤀくとᜀ評判᠀ひょうばんᤀのᜀ温泉᠀おんせんᤀで　アプ
+モンのᜀ間᠀あいだᤀではなかなかᜀ入᠀はいᤀれ
+ないᜀ秘湯᠀ひとうᤀとしてᜀ有名᠀ゆうめいᤀ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>779355415</Id>
+          <Value>ᜀ効果᠀こうかᤀバツグンのᜀ予防薬᠀よぼうやくᤀをᜀ処᠀しょᤀ
+ᜀ方᠀ほうᤀしてくれるアプモン。サ
+プリモンのくれるサプリを
+ᜀ飲᠀のᤀむと　そのᜀ季節᠀きせつᤀはᜀ風邪᠀かぜᤀを
+ᜀ引᠀ひᤀかないとᜀ言᠀いᤀわれている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>797181210</Id>
+          <Value>ᜀ少᠀すこᤀしᜀ不気味᠀ぶきみᤀなᜀ薬剤師᠀やくざいしᤀアプモ
+ン。ᜀ劇的᠀げきてきᤀなᜀ効果᠀こうかᤀをもたらす
+ᜀ薬᠀くすりᤀをᜀ扱᠀あつかᤀうが　ᜀ時᠀ときᤀにᜀ危険᠀きけんᤀなᜀ副᠀ふくᤀ
+ᜀ作用᠀さようᤀがあらわれるとᜀ噂᠀うわさᤀされ
+ている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>812385559</Id>
+          <Value>ᜀ美術界᠀びじゅつかいᤀにᜀ通᠀つうᤀじるオークショ
+ンマスター。いつでもどこ
+でも　ᜀ扱う商品᠀あつかしょうひんᤀがᜀ何᠀なんᤀであっ
+ても　そのᜀ場᠀ばᤀですぐにオー
+クションをᜀ開᠀ひらᤀいてくれる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>831390999</Id>
+          <Value>おᜀ得᠀とくᤀなᜀ買᠀かᤀいᜀ物᠀ものᤀとᜀ話術᠀わじゅつᤀにᜀ長᠀たᤀけ
+たアプモン。ᜀ商品᠀しょうひんᤀをᜀ可能᠀かのうᤀな
+ᜀ限᠀かぎᤀりᜀ安᠀やすᤀくᜀ購入᠀こうにゅうᤀすることにか
+けては　アプモンのᜀ中᠀なかᤀでᜀ右᠀みぎᤀ
+にᜀ出᠀でᤀるᜀ者᠀ものᤀはいない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>847643926</Id>
+          <Value>カゴのᜀ中᠀なかᤀのᜀ商品᠀しょうひんᤀを　いつで
+もおᜀ得᠀とくᤀなᜀ値段᠀ねだんᤀでᜀ売᠀うᤀってくれ
+るアプモン。ᜀ一度᠀いちどᤀᜀ目᠀めᤀをᜀ付᠀つᤀけ
+たおᜀ客᠀きゃくᤀは　ᜀ商品᠀しょうひんᤀをᜀ買᠀かᤀうまで
+ᜀ決᠀けっᤀしてᜀ逃᠀にᤀがさない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>864421142</Id>
+          <Value>ᜀ分厚᠀ぶあつᤀいᜀ辞書᠀じしょᤀのᜀ姿᠀すがたᤀをしたアプ
+モン。ᜀ誰᠀だれᤀがᜀ発信᠀はっしんᤀしたかわか
+らないネットのᜀ情報᠀じょうほうᤀをᜀ嫌᠀きらᤀい
+どんなときもᜀ自分᠀じぶんᤀのᜀ持᠀もᤀつᜀ知᠀ちᤀ
+ᜀ識᠀しきᤀだけをᜀ信᠀しんᤀじている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>880805140</Id>
+          <Value>ᜀ全身᠀ぜんしんᤀのレンズでᜀ死角᠀しかくᤀなくタ
+ーゲットをᜀ捉᠀とらᤀえる　ᜀ凄腕᠀すごうでᤀの
+カメラマン。ᜀ監視᠀かんしᤀカメラに
+アクセスし　ᜀ密᠀ひそᤀかにᜀ町中᠀まちなかᤀを
+ᜀ監視᠀かんしᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>898762011</Id>
+          <Value>ᜀ対象᠀たいしょうᤀのᜀ出᠀だᤀすᜀ音᠀おとᤀやᜀ言葉᠀ことばᤀをᜀ記録᠀きろくᤀ
+するᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプモン。
+ᜀ非常᠀ひじょうᤀにマメなᜀ性質᠀せいしつᤀで　ᜀ特᠀とくᤀに
+ᜀ重要᠀じゅうようᤀではないᜀ会話᠀かいわᤀでもすぐ
+にᜀ録音᠀ろくおんᤀしてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>914359320</Id>
+          <Value>ᜀ計算᠀けいさんᤀがᜀ得意᠀とくいᤀなアプモン。ど
+んなにᜀ難᠀むずかᤀしいᜀ計算᠀けいさんᤀᜀ式᠀しきᤀにᜀ対᠀たいᤀし
+ても　ᜀ体᠀からだᤀのᜀ計算機᠀けいさんきᤀをᜀ操᠀あやつᤀって
+ᜀ一瞬᠀いっしゅんᤀでᜀ答᠀こたᤀえをᜀ出᠀だᤀしてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>931398935</Id>
+          <Value>ᜀ不要᠀ふようᤀなデータをᜀ消去᠀しょうきょᤀしてく
+れる　ᜀ処分᠀しょぶんᤀがᜀ大好᠀だいすᤀきなアプ
+モン。ᜀ放᠀ほうᤀっておくとᜀ必要᠀ひつようᤀな
+データまでᜀ捨᠀すᤀててしまうた
+め　ᜀ扱᠀あつかᤀいにはᜀ注意᠀ちゅういᤀがᜀ必要᠀ひつようᤀ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>949486874</Id>
+          <Value>ᜀ体᠀からだᤀにᜀ真実᠀しんじつᤀをᜀ映᠀うつᤀすᜀ鏡᠀かがみᤀをᜀ持᠀もᤀつア
+プモン。ᜀ一切᠀いっさいᤀのᜀ歪᠀ゆがᤀみをᜀ持᠀もᤀた
+ないᜀ美᠀うつくᤀしいᜀ鏡面᠀きょうめんᤀは　ᜀ時᠀ときᤀにᜀ敵᠀てきᤀ
+のᜀ攻撃᠀こうげきᤀをᜀ反射᠀はんしゃᤀするほどにᜀ磨᠀みがᤀ
+きあげられている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>967050523</Id>
+          <Value>ᜀ周囲᠀しゅういᤀをᜀ照᠀てᤀらしᜀ出᠀だᤀすᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀ
+つアプモン。ᜀ光᠀ひかりᤀのᜀ輝᠀かがやᤀきとᜀ体᠀たいᤀ
+ᜀ力᠀りょくᤀがᜀ密᠀みつᤀにᜀ連動᠀れんどうᤀしているため
+ᜀ点滅時᠀てんめつじᤀにはᜀ早᠀はやᤀめにᜀ電球᠀でんきゅうᤀをᜀ交᠀こうᤀ
+ᜀ換᠀かんᤀしてやるのがᜀ吉᠀きちᤀ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>982254873</Id>
+          <Value>ᜀ体内᠀たいないᤀにᜀ正確᠀せいかくᤀなᜀ時計᠀とけいᤀをᜀ持᠀もᤀって
+いるアプモン。すべてのᜀ予᠀よᤀ
+ᜀ定᠀ていᤀをᜀ秒刻᠀びょうきざᤀみでᜀ行᠀おこなᤀうなど　ᜀ時᠀じᤀ
+ᜀ間᠀かんᤀのᜀ話᠀はなしᤀにはᜀ非常᠀ひじょうᤀにうるさい
+ᜀ性格᠀せいかくᤀをしている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>999949598</Id>
+          <Value>ᜀ顔᠀かおᤀのᜀ日記帳᠀にっきちょうᤀに　ᜀ対象᠀たいしょうᤀのᜀ生活᠀せいかつᤀ
+やᜀ行動᠀こうどうᤀをすべてᜀ記録᠀きろくᤀしてい
+るアプモン。ᜀ内容᠀ないようᤀをᜀ書᠀かᤀきᜀ換᠀かᤀ
+えることで　ᜀ対象᠀たいしょうᤀのᜀ記憶᠀きおくᤀを
+ᜀ改᠀かいᤀざんするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1014105372</Id>
+          <Value>あらゆるᜀ予定᠀よていᤀをᜀ管理᠀かんりᤀしてい
+るアプモン。ᜀ把握᠀はあくᤀしている
+ᜀ情報᠀じょうほうᤀは　ᜀ大事᠀だいじᤀなᜀ会議᠀かいぎᤀのᜀ日程᠀にっていᤀ
+からスーパーのタイムサー
+ビスのことまでさまざま。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1032717591</Id>
+          <Value>ᜀ頭上᠀ずじょうᤀのラッパからᜀ特殊᠀とくしゅᤀなᜀ音᠀おんᤀ
+ᜀ波᠀ぱᤀをᜀ放出᠀ほうしゅつᤀすることができる
+アプモン。ᜀ音波᠀おんぱᤀのᜀ反射᠀はんしゃᤀをᜀ読᠀よᤀ
+みᜀ取᠀とᤀることで　ᜀ見᠀みᤀえないᜀ敵᠀てきᤀ
+のᜀ位置᠀いちᤀをᜀ探᠀さがᤀすこともᜀ可能᠀かのうᤀ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1051198751</Id>
+          <Value>ᜀ強᠀つよᤀいᜀ相手᠀あいてᤀとᜀ戦᠀たたかᤀうほどにᜀ燃᠀もᤀえ
+ᜀ上᠀あᤀがる　ᜀ根᠀ねᤀっからのᜀ暴᠀あばᤀれん
+ᜀ坊᠀ぼうᤀ。ᜀ高い身体能力と頑丈᠀たかしんたいのうりょくがんじょうᤀな
+ᜀ拳᠀こぶしᤀをᜀ持᠀もᤀち　ᜀ常᠀つねᤀにᜀ自分᠀じぶんᤀのᜀ力᠀ちからᤀを
+ᜀ試᠀ためᤀすᜀ機会᠀きかいᤀをᜀ求᠀もとᤀめている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1065354266</Id>
+          <Value>ᜀ遠距離射撃᠀えんきょりしゃげきᤀをᜀ得意᠀とくいᤀとするᜀ一᠀いちᤀ
+ᜀ流᠀りゅうᤀのᜀ狙撃手᠀そげきしゅᤀ。ᜀ自慢᠀じまんᤀのリボル
+バーはᜀ特別製᠀とくべつせいᤀで　ᜀ時᠀ときᤀにᜀ気配᠀けはいᤀ
+もᜀ音᠀おとᤀもなくᜀ標的᠀ひょうてきᤀをしとめる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1082000662</Id>
+          <Value>ᜀ体᠀からだᤀにᜀ描᠀かᤀかれたカードのよう
+なᜀ絵柄᠀えがらᤀをᜀ入᠀いᤀれᜀ替᠀かᤀえることで
+さまざまなᜀ能力᠀のうりょくᤀをᜀ発動᠀はつどうᤀする
+アプモン。ᜀ絵柄᠀えがらᤀによってᜀ性᠀せいᤀ
+ᜀ格᠀かくᤀまでᜀ変᠀かᤀわってしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1099826457</Id>
+          <Value>ᜀ聖剣᠀せいけんᤀをᜀ武器᠀ぶきᤀにᜀ持᠀もᤀつᜀ勇者᠀ゆうしゃᤀ。ᜀ不᠀ふᤀ
+ᜀ思議᠀しぎᤀなカリスマᜀ性᠀せいᤀがあり　
+ᜀ他人᠀たにんᤀのᜀ家᠀いえᤀにᜀ勝手᠀かってᤀにᜀ上᠀あᤀがりᜀ込᠀こᤀ
+んでᜀ物色᠀ぶっしょくᤀをしても　なぜか
+ᜀ誰᠀だれᤀにもとがめられない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1116210455</Id>
+          <Value>３つのᜀ体᠀からだᤀがそれぞれᜀ異᠀ことᤀなる
+ᜀ個性᠀こせいᤀをᜀ持᠀もᤀつ　ᜀ少᠀すこᤀしᜀ特殊᠀とくしゅᤀなア
+プモン。ᜀ互᠀たがᤀいのᜀ位置᠀いちᤀをᜀ入᠀いᤀれ
+ᜀ替᠀かᤀえることでタイプのᜀ違᠀ちがᤀう
+ᜀ攻撃᠀こうげきᤀをᜀ放᠀はなᤀつことができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1131808020</Id>
+          <Value>ᜀ音楽᠀おんがくᤀをᜀ聞᠀きᤀけばᜀ踊᠀おどᤀりださずに
+はいられない　ᜀ生粋᠀きっすいᤀのダン
+サー。「ノればノるほどᜀ強᠀つよᤀ
+くなる」ミュージッᜀ拳᠀けんᤀをᜀ用᠀もちᤀ
+い　ᜀ戦闘᠀せんとうᤀさえᜀ踊᠀おどᤀりこなす。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1150813466</Id>
+          <Value>ᜀ操縦᠀そうじゅうᤀできないᜀ乗᠀のᤀりᜀ物᠀ものᤀはない
+という　ᜀ凄腕᠀すごうでᤀのドライバー。
+ᜀ三輪車᠀さんりんしゃᤀからᜀ宇宙船᠀うちゅうせんᤀまで　ᜀ乗᠀のᤀ
+りᜀ物᠀ものᤀのᜀ性能᠀せいのうᤀをᜀ最大限᠀さいだいげんᤀにᜀ引᠀ひᤀき
+ᜀ出᠀だᤀすᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1167197470</Id>
+          <Value>ᜀ超強化᠀ちょうきょうかᤀされたᜀ検索能力᠀けんさくのうりょくᤀをᜀ持᠀もᤀ
+つアプモン。ネットのᜀ海᠀うみᤀの
+ᜀ深層᠀しんそうᤀにᜀ潜᠀もぐᤀりᜀ込᠀こᤀみ　ᜀ通常᠀つうじょうᤀのᜀ検᠀けんᤀ
+ᜀ索᠀さくᤀではᜀ知᠀しᤀりえないᜀ情報᠀じょうほうᤀをᜀ掴᠀つかᤀ
+むことができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1182663958</Id>
+          <Value>ᜀ世界中᠀せかいじゅうᤀのＳＮＳを２４ᜀ時間᠀じかんᤀ
+ᜀ監視᠀かんしᤀしているアプモン。ᜀ普᠀ふᤀ
+ᜀ段᠀だんᤀはᜀ非常᠀ひじょうᤀにᜀ寡黙᠀かもくᤀだが　ＳＮ
+Ｓᜀ内᠀ないᤀではᜀ打᠀うᤀってᜀ変᠀かᤀわってお
+しゃべりでフランクになる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1200096534</Id>
+          <Value>ᜀ嘘᠀うそᤀもᜀ真᠀まことᤀにᜀ仕立᠀したᤀてᜀ上᠀あᤀげる　ゴ
+シップᜀ専門᠀せんもんᤀのライター。ᜀ自᠀じᤀ
+ᜀ分᠀ぶんᤀのᜀ広᠀ひろᤀめたᜀ記事᠀きじᤀやᜀ噂᠀うわさᤀで　タ
+ーゲットがᜀ困惑᠀こんわくᤀするのがᜀ楽᠀たのᤀ
+しくてᜀ仕方᠀しかたᤀがない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1214907671</Id>
+          <Value>ᜀ何᠀なんᤀのᜀ能力᠀のうりょくᤀもᜀ持᠀もᤀたないが　ど
+こかᜀ愛嬌᠀あいきょうᤀのあるアプモン。
+スカシモンのそばにいると
+ᜀ不思議᠀ふしぎᤀとᜀ体᠀からだᤀのᜀ力᠀ちからᤀがᜀ抜᠀ぬᤀけてし
+まう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1233257755</Id>
+          <Value>ᜀ旅᠀たびᤀをᜀ愛᠀あいᤀするᜀ気᠀きᤀままなさすら
+いᜀ人᠀にんᤀ。ᜀ自分᠀じぶんᤀのカバンからᜀ他᠀たᤀ
+ᜀ人᠀にんᤀのカバンのᜀ中᠀なかᤀにワープす
+るᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀち　ᜀ日々世界中᠀ひびせかいじゅうᤀ
+をᜀ巡᠀めぐᤀっている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1251476765</Id>
+          <Value>ᜀ天候᠀てんこうᤀをᜀ自在᠀じざいᤀにᜀ操る能力᠀あやつのうりょくᤀをᜀ持᠀もᤀ
+つアプモン。ᜀ彼᠀かれᤀがᜀ環境᠀かんきょうᤀにᜀ与᠀あたᤀ
+えるᜀ影響᠀えいきょうᤀはᜀ計᠀はかᤀりᜀ知᠀しᤀれず　そ
+のᜀ気᠀きᤀになればいつでもᜀ大災᠀だいさいᤀ
+ᜀ害᠀がいᤀをᜀ起᠀おᤀこすことができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1267991838</Id>
+          <Value>ᜀ完全防備᠀かんぜんぼうびᤀのセキュリティす
+らᜀ一瞬᠀いっしゅんᤀでᜀ破壊᠀はかいᤀしてしまう　
+ᜀ非常᠀ひじょうᤀにᜀ危険᠀きけんᤀなᜀ存在᠀そんざいᤀ。ᜀ主導権᠀しゅどうけんᤀ
+をᜀ乗᠀のᤀっᜀ取᠀とᤀったデータをᜀ意᠀いᤀの
+ままにᜀ操る能力᠀あやつのうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1283327261</Id>
+          <Value>ᜀ全身᠀ぜんしんᤀがファスナーでᜀ構成᠀こうせいᤀさ
+れているアプモン。ᜀ自᠀みずかᤀらの
+ᜀ体᠀からだᤀをᜀ介᠀かいᤀし　データのᜀ圧縮᠀あっしゅくᤀと
+ᜀ解凍᠀かいとうᤀをᜀ自在᠀じざいᤀにᜀ行う能力᠀おこなのうりょくᤀをᜀ持᠀もᤀ
+つ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1301153052</Id>
+          <Value>ᜀ諜報活動᠀ちょうほうかつどうᤀがᜀ得意᠀とくいᤀなアプモン。
+ᜀ対象の姿᠀たいしょうすがたᤀをᜀ風景᠀ふうけいᤀにᜀ同化᠀どうかᤀさせ
+るᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀち　どんなとき
+でもᜀ物音᠀ものおとᤀひとつᜀ立᠀たᤀてずにᜀ行᠀こうᤀ
+ᜀ動᠀どうᤀすることができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1317799196</Id>
+          <Value>ᜀ神出鬼没᠀しんしゅつきぼつᤀのᜀ発明家᠀はつめいかᤀアプモン。
+ᜀ背中᠀せなかᤀのᜀ機械᠀きかいᤀはᜀ転送装置᠀てんそうそうちᤀでᜀ複᠀ふくᤀ
+ᜀ数᠀すうᤀのᜀ対象を一瞬で指定᠀たいしょういっしゅんしていᤀした
+ᜀ場所᠀ばしょᤀにᜀ移動᠀いどうᤀさせることがで
+きる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1334183188</Id>
+          <Value>ᜀ描᠀かᤀいたものをᜀ具現化᠀ぐげんかᤀするᜀ能᠀のうᤀ
+ᜀ力᠀りょくᤀをᜀ持᠀もᤀつアプモン。ᜀ気᠀きᤀにᜀ入᠀いᤀ
+らないᜀ外見᠀がいけんᤀのものは　ᜀ自慢᠀じまんᤀ
+のᜀ絵筆᠀えふでᤀでまったくのᜀ別物᠀べつものᤀに
+ᜀ描᠀かᤀきᜀ変᠀かᤀえてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1350567189</Id>
+          <Value>あらゆるᜀ占術᠀せんじゅつᤀをᜀ極᠀きわᤀめたアプ
+モン。ᜀ不思議᠀ふしぎᤀなカードをᜀ用᠀もちᤀ
+いることで　ᜀ対象᠀たいしょうᤀのᜀ過去᠀かこᤀか
+らᜀ未来᠀みらいᤀをすべてᜀ覗᠀のぞᤀきᜀ見᠀みᤀるᜀ能᠀のうᤀ
+ᜀ力᠀りょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1368130844</Id>
+          <Value>ᜀ世界中᠀せかいじゅうᤀのᜀ服飾᠀ふくしょくᤀデータをᜀ熟知᠀じゅくちᤀ
+している　ᜀ敏腕᠀びんわんᤀコーディネ
+ーター。ᜀ対象の状況に応᠀たいしょうじょうきょうおうᤀじ
+てᜀ用意᠀よういᤀされるᜀ服᠀ふくᤀは　ᜀ戦闘時᠀せんとうじᤀ
+にもᜀ機能性᠀きのうせいᤀバツグン。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1384121628</Id>
+          <Value>ᜀ音᠀おとᤀとᜀ映像᠀えいぞうᤀをᜀ巧᠀たくᤀみにᜀ操る能力᠀あやつのうりょくᤀ
+をᜀ持᠀もᤀつアプモン。ホログラ
+ムᜀ映像᠀えいぞうᤀとᜀ音声᠀おんせいᤀをᜀ組᠀くᤀみᜀ合᠀あᤀわせ
+ることで　ないものもある
+ようにᜀ錯覚᠀さっかくᤀさせてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1399457044</Id>
+          <Value>イカサマᜀ嫌᠀ぎらᤀいのディーラー
+アプモン。ᜀ中᠀なかᤀでもᜀ得意᠀とくいᤀなル
+ーレットᜀ勝負᠀しょうぶᤀには　ᜀ金歯᠀きんばᤀか
+らᜀ命᠀いのちᤀまでᜀ幅広᠀はばひろᤀいものをベッ
+トさせてくれる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1418593567</Id>
+          <Value>ᜀ夢᠀ゆめᤀをᜀ操る能力᠀あやつのうりょくᤀをᜀ持᠀もᤀつ　バク
+のようなᜀ姿᠀すがたᤀをしたアプモン。
+ᜀ対象の精神を強制的に夢᠀たいしょうせいしんきょうせいてきゆめᤀの
+ᜀ世界᠀せかいᤀにᜀ落᠀おᤀとし　ᜀ空᠀からᤀっぽにな
+ったᜀ体᠀からだᤀをᜀ操᠀あやつᤀってしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1436550427</Id>
+          <Value>ᜀ身᠀みᤀにᜀ着᠀つᤀけたᜀ医療機器᠀いりょうききᤀでバッ
+チリᜀ健康管理᠀けんこうかんりᤀをしてくれる
+アプモン。ᜀ能力᠀のうりょくᤀをᜀ引᠀ひᤀきᜀ出᠀だᤀす
+ᜀ薬品᠀やくひんᤀをᜀ調合᠀ちょうごうᤀするほか　ᜀ万病᠀まんびょうᤀ
+にᜀ効᠀きᤀくᜀ特効薬᠀とっこうやくᤀでᜀ仲間᠀なかまᤀをᜀ癒᠀いやᤀす。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1450312982</Id>
+          <Value>どんなケガでもᜀ奇抜᠀きばつᤀなᜀ手術᠀しゅじゅつᤀ
+でᜀ治᠀なおᤀす　マッドドクター。
+ᜀ腕᠀うでᤀはᜀ確᠀たしᤀかだが　そのᜀ手術᠀しゅじゅつᤀは
+ケガそのものよりᜀ痛᠀いたᤀいとも
+っぱらのᜀ評判᠀ひょうばんᤀ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1469056284</Id>
+          <Value>やりᜀ手᠀てᤀのᜀ経済᠀けいざいᤀアドバイザー。
+ᜀ対象の能力᠀たいしょうのうりょくᤀをᜀ見極᠀みきわᤀめ　ᜀ求᠀もとᤀめ
+られたᜀ結果᠀けっかᤀにᜀ対᠀たいᤀしてᜀ最᠀もっとᤀもᜀ効᠀こうᤀ
+ᜀ率᠀りつᤀのᜀ良᠀よᤀいᜀ方法᠀ほうほうᤀをᜀ導᠀みちびᤀきᜀ出᠀だᤀして
+くれる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1485047065</Id>
+          <Value>ᜀ巨大᠀きょだいᤀなᜀ書庫᠀しょこᤀのᜀ管理人᠀かんりにんᤀであり
+ᜀ珍᠀めずらᤀしいᜀ書籍᠀しょせきᤀのコレクター。
+ᜀ気᠀きᤀになるアプモンをᜀ文字᠀もじᤀデ
+ータᜀ化᠀かᤀして　ᜀ本᠀ほんᤀにᜀ変᠀かᤀえてし
+まうᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1503921434</Id>
+          <Value>ᜀ時᠀ときᤀのᜀ流᠀ながᤀれやᜀ空間᠀くうかんᤀをᜀ超越᠀ちょうえつᤀした
+ᜀ稀有᠀けうᤀなᜀ移動能力᠀いどうのうりょくᤀをᜀ持᠀もᤀつアプ
+モン。ᜀ自分᠀じぶんᤀのᜀ時間᠀じかんᤀᜀ以外᠀いがいᤀにᜀ拳᠀こぶしᤀ
+でᜀ殴᠀なぐᤀったᜀ相手᠀あいてᤀのᜀ時間᠀じかんᤀにもᜀ干᠀かんᤀ
+ᜀ渉᠀しょうᤀすることができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1519650077</Id>
+          <Value>ᜀ世界中᠀せかいじゅうᤀのᜀ音声᠀おんせいᤀデータをᜀ収集᠀しゅうしゅうᤀ
+しているアプモン。ᜀ他人᠀たにんᤀの
+ᜀ声᠀こえᤀをᜀ完璧᠀かんぺきᤀにコピーしたり　
+ᜀ対象᠀たいしょうᤀのᜀ声᠀こえᤀをまったくᜀ別物᠀べつものᤀに
+ᜀ変換᠀へんかんᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1535640858</Id>
+          <Value>ᜀ世界中᠀せかいじゅうᤀのカメラをᜀ自分᠀じぶんᤀのᜀ目᠀めᤀ
+とすることのできる　ᜀ現代᠀げんだいᤀ
+のᜀ千里眼᠀せんりがんᤀのᜀ持᠀もᤀちᜀ主᠀ぬしᤀ。ᜀ一度能᠀いちどのうᤀ
+ᜀ力᠀りょくᤀをᜀ発動᠀はつどうᤀすれば　スコープ
+モンにᜀ死角᠀しかくᤀはない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1551893781</Id>
+          <Value>ᜀ何᠀なにᤀもないᜀ状態᠀じょうたいᤀから　ひとつ
+のモノをᜀ作᠀つくᤀりᜀ上᠀あᤀげるᜀ能力᠀のうりょくᤀを
+ᜀ持᠀もᤀつアプモン。ᜀ設計図᠀せっけいずᤀさえ
+ᜀ記憶᠀きおくᤀしていれば　ᜀ家᠀いえᤀさえも
+そのᜀ場᠀ばᤀでᜀ建᠀たᤀててしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1570243865</Id>
+          <Value>このᜀ世᠀よᤀのᜀ名᠀なᤀだたるᜀ兵法᠀へいほうᤀをᜀ修᠀おさᤀ
+めた　ᜀ優᠀すぐᤀれたᜀ戦術家᠀せんじゅつかᤀ。ᜀ綿密᠀めんみつᤀ
+にᜀ練᠀ねᤀられたᜀ策略᠀さくりゃくᤀでᜀ相手᠀あいてᤀのᜀ虚᠀きょᤀ
+をつき　ᜀ狙᠀ねらᤀったᜀ者᠀ものᤀをᜀ確実᠀かくじつᤀに
+ᜀ追᠀おᤀいᜀ詰᠀つᤀめる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1586627865</Id>
+          <Value>ᜀ武術᠀ぶじゅつᤀをᜀ極᠀きわᤀめたᜀ無類᠀むるいᤀのファイ
+ター。ᜀ正々堂々᠀せいせいどうどうᤀのᜀ一騎᠀いっきᤀᜀ打᠀うᤀち
+のみがᜀ認᠀みとᤀめられたᜀ神聖᠀しんせいᤀなᜀ空᠀くうᤀ
+ᜀ間᠀かんᤀ　ドヒョウフィールドを
+ᜀ展開᠀てんかいᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1603142939</Id>
+          <Value>ᜀ巨大᠀きょだいᤀなᜀ脳᠀のうᤀをᜀ持᠀もᤀつ　ᜀ頭脳明晰᠀ずのうめいせきᤀ
+なアプモン。ᜀ彼᠀かれᤀのコードを
+ᜀ送᠀おくᤀりこまれたᜀ対象᠀たいしょうᤀは　ᜀ通常᠀つうじょうᤀ
+ᜀ時᠀じᤀのᜀ何倍᠀なんばいᤀものᜀ能力᠀のうりょくᤀをᜀ発揮᠀はっきᤀす
+ることができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1621361946</Id>
+          <Value>ᜀ妥協᠀だきょうᤀをᜀ許᠀ゆるᤀさぬᜀ鬼᠀おにᤀコーチ。ᜀ彼᠀かれᤀ
+のᜀ教᠀おしᤀえをᜀ受᠀うᤀけたᜀ者᠀ものᤀは　ᜀ礼儀᠀れいぎᤀ
+やᜀ戦᠀たたかᤀいᜀ方᠀かたᤀ　ᜀ料理᠀りょうりᤀのᜀ腕前᠀うでまえᤀまで
+も　すべてᜀ依頼人᠀いらいにんᤀのᜀ理想᠀りそうᤀᜀ通᠀どおᤀ
+りにᜀ叩᠀たたᤀきᜀ直᠀なおᤀされてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1634862359</Id>
+          <Value>ᜀ裏技᠀うらわざᤀやバグᜀ技᠀わざᤀにᜀ精通᠀せいつうᤀしたア
+プモン。どんなゲームもᜀ彼᠀かれᤀ
+がᜀ操作᠀そうさᤀをすることで　ᜀ通常᠀つうじょうᤀ
+ではありえないコマンドを
+ᜀ発動᠀はつどうᤀさせることができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1654785310</Id>
+          <Value>ᜀ情報᠀じょうほうᤀをᜀ立体的᠀りったいてきᤀにᜀ捉᠀とらᤀえ　ᜀ分析᠀ぶんせきᤀ
+するᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプモン。
+ᜀ優᠀すぐᤀれたᜀ解析能力᠀かいせきのうりょくᤀをᜀ持᠀もᤀち　ᜀ予᠀よᤀ
+ᜀ知᠀ちᤀにᜀ近᠀ちかᤀいスピードでᜀ対象᠀たいしょうᤀの
+ᜀ行動᠀こうどうᤀをᜀ察知᠀さっちᤀできる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1668678683</Id>
+          <Value>ᜀ他人᠀たにんᤀにᜀ暗示᠀あんじᤀをかけることを
+ᜀ得意᠀とくいᤀとするアプモン。ᜀ巧᠀たくᤀみ
+なᜀ話術᠀わじゅつᤀでᜀ対象᠀たいしょうᤀをᜀ洗脳᠀せんのうᤀし　ᜀ意᠀いᤀ
+のままにᜀ操る能力᠀あやつのうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1685456154</Id>
+          <Value>ᜀ何᠀なにᤀをやってもうまくできな
+い　ᜀ少᠀すこᤀしかわいそうなアプ
+モン。ためᜀ息᠀いきᤀをつくことで
+ᜀ周囲᠀しゅういᤀにᜀ不運᠀ふうんᤀをᜀ伝染᠀でんせんᤀさせるᜀ恐᠀おそᤀ
+ろしいᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1703806237</Id>
+          <Value>ＧＰＳᜀ衛星᠀えいせいᤀにアクセスする
+ᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプモン。ᜀ対象᠀たいしょうᤀ
+のᜀ詳細᠀しょうさいᤀなᜀ位置情報᠀いちじょうほうᤀをᜀ取得᠀しゅとくᤀす
+ることで　ᜀ必中᠀ひっちゅうᤀのᜀ攻撃᠀こうげきᤀをᜀ繰᠀くᤀ
+りᜀ出᠀だᤀすことができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1719928094</Id>
+          <Value>ᜀ天体事情᠀てんたいじじょうᤀにᜀ詳᠀くわᤀしいアプモン。
+ᜀ重力に干渉する能力᠀じゅうりょくかんしょうのうりょくᤀをᜀ持᠀もᤀっ
+ており　ᜀ惑星᠀わくせいᤀにᜀ作用᠀さようᤀするこ
+とでいつでもᜀ隕石᠀いんせきᤀをᜀ生᠀うᤀみᜀ出᠀だᤀ
+すことができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1736705304</Id>
+          <Value>ᜀ復元᠀ふくげんᤀのᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプモン。
+ᜀ完全᠀かんぜんᤀにᜀ破壊᠀はかいᤀされてしまった
+データでも　ᜀ一粒᠀ひとつぶᤀのᜀ欠片᠀かけらᤀさ
+えᜀ残᠀のこᤀっていればᜀ元通᠀もとどおᤀりにᜀ復᠀ふっᤀ
+ᜀ活᠀かつᤀさせてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1752695838</Id>
+          <Value>ᜀ完璧主義᠀かんぺきしゅぎᤀのᜀ策略家᠀さくりゃくかᤀ。ᜀ詐術᠀さじゅつᤀや
+ᜀ姦計᠀かんけいᤀにᜀ通᠀つうᤀじており　ᜀ作戦᠀さくせんᤀを
+ᜀ成功᠀せいこうᤀさせるためならどんな
+ᜀ手段᠀しゅだんᤀもいとわずᜀ行使᠀こうしᤀする。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1769866522</Id>
+          <Value>エンターテインメントのᜀ具᠀ぐᤀ
+ᜀ現者᠀げんしゃᤀ。エンタモンがᜀ生᠀うᤀみᜀ出᠀だᤀ
+すᜀ魔法᠀まほうᤀのようにᜀ楽᠀たのᤀしいᜀ空間᠀くうかんᤀ
+は　ᜀ対象᠀たいしょうᤀのᜀ目᠀めᤀをᜀ現実世界᠀げんじつせかいᤀか
+らそらさせてしまう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1787692311</Id>
+          <Value>「バイオモンにᜀ治᠀なおᤀせないᜀ患᠀かんᤀ
+ᜀ者᠀じゃᤀはいない」とᜀ言᠀いᤀわれるᜀ至᠀しᤀ
+ᜀ上᠀じょうᤀのᜀ名医᠀めいいᤀ。ᜀ生物᠀せいぶつᤀのすべてを
+ᜀ知᠀しᤀりᜀ尽᠀つᤀくしたᜀ彼᠀かれᤀにとって　
+ᜀ手術᠀しゅじゅつᤀなどはᜀ児戯᠀じぎᤀにᜀ等᠀ひとᤀしい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1804338455</Id>
+          <Value>このᜀ世᠀よᤀのᜀ美᠀びᤀをᜀ極᠀きわᤀめたアプモ
+ン。ᜀ容姿᠀ようしᤀのみならずᜀ声᠀こえᤀやᜀ振᠀ふᤀ
+るᜀ舞᠀まᤀいもたいへんᜀ麗᠀うるわᤀしく　
+そのᜀ一挙一動᠀いっきょいちどうᤀはあらゆるᜀ者᠀ものᤀ
+のᜀ心᠀こころᤀをᜀ魅了᠀みりょうᤀしてᜀ離᠀はなᤀさない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1822295323</Id>
+          <Value>ᜀ偽᠀いつわᤀりをᜀ生᠀うᤀみだしてはᜀ世間᠀せけんᤀを
+ᜀ惑᠀まどᤀわす　ᜀ悪᠀あくᤀのᜀ道化師᠀どうけしᤀ。なり
+すましのᜀ腕᠀うでᤀはᜀ一級品᠀いっきゅうひんᤀで　ᜀ普᠀ふᤀ
+ᜀ段᠀だんᤀはᜀ自分᠀じぶんᤀのᜀ姿᠀すがたᤀよりᜀ他人᠀たにんᤀのᜀ姿᠀すがたᤀ
+でいることのᜀ方᠀ほうᤀがᜀ多᠀おおᤀい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1839465755</Id>
+          <Value>ᜀ闘争᠀とうそうᤀにᜀ生᠀いᤀきるᜀ孤高᠀ここうᤀのᜀ戦士᠀せんしᤀ。
+ᜀ強᠀つよᤀきをくじきᜀ弱᠀よわᤀきをᜀ助᠀たすᤀける
+ᜀ正義᠀せいぎᤀのᜀ心᠀こころᤀをᜀ持᠀もᤀち　ᜀ会得᠀えとくᤀした
+ᜀ数多᠀あまたᤀのᜀ武術᠀ぶじゅつᤀでᜀ強敵᠀きょうてきᤀをᜀ討᠀うᤀちᜀ果᠀はᤀ
+たすのがᜀ生᠀いᤀきᜀ甲斐᠀がいᤀ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1855718683</Id>
+          <Value>ᜀ世界᠀せかいᤀのᜀ英知᠀えいちᤀをᜀ得᠀えᤀたᜀ創世᠀そうせいᤀのᜀ神᠀かみᤀ。
+ネットのᜀ知識᠀ちしきᤀとᜀ人᠀ひとᤀのᜀ心᠀こころᤀから
+ᜀ多᠀おおᤀくをᜀ学᠀まなᤀんだᜀ彼᠀かれᤀのᜀ能力᠀のうりょくᤀは　
+ᜀ時᠀ときᤀにᜀ無機物᠀むきぶつᤀだけでなくᜀ命᠀いのちᤀさ
+えもᜀ創᠀つくᤀりあげる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1872626975</Id>
+          <Value>ᜀ破壊᠀はかいᤀとᜀ再生を司る冥界᠀さいせいつかさどめいかいᤀのᜀ王᠀おうᤀ。
+ᜀ物質᠀ぶっしつᤀやデータをᜀ思᠀おもᤀいᜀ通᠀どおᤀりに
+ᜀ変化᠀へんかᤀさせるᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀち　ᜀ広᠀こうᤀ
+ᜀ大᠀だいᤀなᜀ空間᠀くうかんᤀすらᜀ意᠀いᤀのままにᜀ改᠀かいᤀ
+ざん・ᜀ支配᠀しはいᤀする。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1887699994</Id>
+          <Value>ᜀ荒᠀あらᤀぶるᜀ大海᠀たいかいᤀのᜀ覇者᠀はしゃᤀ。ᜀ彼᠀かれᤀがᜀ生᠀うᤀ
+みᜀ出᠀だᤀすᜀ渦潮᠀うずしおᤀはᜀ鉄壁᠀てっぺきᤀのᜀ防御᠀ぼうぎょᤀを
+ᜀ誇᠀ほこᤀり　ᜀ彼᠀かれᤀがゆるしたものᜀ以᠀いᤀ
+ᜀ外᠀がいᤀをᜀ一切通᠀いっさいとおᤀさない。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1905394971</Id>
+          <Value>ᜀ自由᠀じゆうᤀへとᜀ導᠀みちびᤀくᜀ天空᠀てんくうᤀのᜀ大帝᠀たいていᤀ。
+ᜀ彼᠀かれᤀがᜀ放᠀はなᤀつᜀ眩᠀まばゆᤀいᜀ後光᠀ごこうᤀは　ᜀ見᠀みᤀる
+ᜀ者᠀ものᤀのᜀ真᠀しんᤀのᜀ能力᠀のうりょくᤀをᜀ覚醒᠀かくせいᤀさせる。
+ᜀ雲᠀くもᤀのようにᜀ掴᠀つかᤀみどころがな
+い。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1922565402</Id>
+          <Value>ᜀ終焉᠀しゅうえんᤀをもたらすᜀ最恐᠀さいきょうᤀのᜀ機械᠀きかいᤀ
+ᜀ神᠀しんᤀ。すべてのアプリᜀ生命体᠀せいめいたいᤀ
+のᜀ意思᠀いしᤀをᜀ奪᠀うばᤀい　ᜀ破壊᠀はかいᤀしᜀ尽᠀つᤀく
+し　ᜀ自᠀みずかᤀらのᜀ一部᠀いちぶᤀとしてᜀ取᠀とᤀり
+ᜀ込᠀こᤀむᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1937245465</Id>
+          <Value>いつもᜀ誰᠀だれᤀかとコソコソして
+いる　ᜀ少᠀すこᤀしあやしいアプモ
+ン。「ᜀ裏事情通᠀うらじじょうつうᤀ」をᜀ自称᠀じしょうᤀし
+ており　ᜀ話᠀はなᤀしかけるとᜀ秘密᠀ひみつᤀ
+のᜀ情報᠀じょうほうᤀをᜀ教᠀おしᤀえてくれる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1955071255</Id>
+          <Value>ᜀ解説᠀かいせつᤀがᜀ大好᠀だいすᤀきなᜀ物知᠀ものしᤀりアプ
+モン。ᜀ体᠀からだᤀがᜀ小᠀ちいᤀさいためなか
+なかᜀ姿᠀すがたᤀをᜀ見᠀みᤀつけてもらえず
+ᜀ周囲᠀しゅういᤀからはᜀ実体᠀じったいᤀのない「ᜀ謎᠀なぞᤀ
+のᜀ声᠀こえᤀ」とᜀ思᠀おもᤀわれている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>1971848480</Id>
+          <Value>ᜀ実況に魂を注ぐ喋᠀じっきょうたましいそそしゃべᤀりのᜀ天才᠀てんさいᤀ。
+ᜀ彼᠀かれᤀのᜀ熱᠀あつᤀいᜀ実況᠀じっきょうᤀをᜀ受᠀うᤀけると　
+どんなにやるᜀ気᠀きᤀのないᜀ対象᠀たいしょうᤀ
+もᜀ普段以上᠀ふだんいじょうᤀのパワーをᜀ発揮᠀はっきᤀ
+できる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>1988101400</Id>
+          <Value>ᜀ特殊᠀とくしゅᤀなᜀ電波᠀でんぱᤀをᜀ放᠀はなᤀち　ᜀ近᠀ちかᤀくに
+いるアプモンのᜀ位置᠀いちᤀやᜀ数᠀かずᤀを
+ᜀ感知᠀かんちᤀできるアプモン。ᜀ対᠀たいᤀア
+プモンのかくれんぼでは　
+ᜀ無敗᠀むはいᤀのᜀ実績᠀じっせきᤀをᜀ誇᠀ほこᤀる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>2005927196</Id>
+          <Value>ᜀ妨害電波᠀ぼうがいでんぱᤀをᜀ放᠀はなᤀつᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ
+アプモン。ᜀ通信᠀つうしんᤀをᜀ妨᠀さまたᤀげるᜀ以᠀いᤀ
+ᜀ外᠀がいᤀにも　アプモンにとって
+ᜀ非常᠀ひじょうᤀにᜀ不快᠀ふかいᤀなᜀ音᠀おとᤀをᜀ出᠀だᤀしてᜀ苦᠀くるᤀ
+しませることができる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>2021655831</Id>
+          <Value>パチッとスイッチをᜀ入᠀いᤀれる
+ように　ᜀ対象᠀たいしょうᤀのやるᜀ気᠀きᤀをい
+きなりマックスにするᜀ能力᠀のうりょくᤀ
+をᜀ持᠀もᤀつアプモン。ᜀ能力同様᠀のうりょくどうようᤀ
+ᜀ本人᠀ほんにんᤀもᜀ常᠀つねᤀにやるᜀ気満々᠀きまんまんᤀ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>2037515539</Id>
+          <Value>パチッとスイッチをᜀ切᠀きᤀるよ
+うに　ᜀ対象᠀たいしょうᤀのやるᜀ気᠀きᤀをいき
+なりゼロにするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ
+アプモン。ᜀ能力᠀のうりょくᤀのせいか　
+ᜀ本人᠀ほんにんᤀもいつもᜀ気᠀けᤀだるげ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>2056652061</Id>
+          <Value>ᜀ出没自在᠀しゅつぼつじざいᤀのᜀ熱血᠀ねっけつᤀアプモン。
+ᜀ正々堂々が信条᠀せいせいどうどうしんじょうᤀで　ᜀ他人᠀たにんᤀの
+システムにᜀ侵入᠀しんにゅうᤀするᜀ時᠀ときᤀは
+ＩＤとパスをᜀ使用᠀しようᤀ。ᜀ必᠀かならᤀずᜀ正᠀しょうᤀ
+ᜀ面᠀めんᤀからᜀ乗᠀のᤀりᜀ込᠀こᤀんでくる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2072642847</Id>
+          <Value>ᜀ対象᠀たいしょうᤀをシステムからᜀ締᠀しᤀめᜀ出᠀だᤀ
+すᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつアプモン。ロ
+ガモンはこのᜀ能力᠀のうりょくᤀをᜀ使᠀つかᤀい　
+ᜀ自分専用᠀じぶんせんようᤀのᜀ別荘空間᠀べっそうくうかんᤀをᜀ多数᠀たすうᤀ
+ᜀ所有᠀しょゆうᤀしている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2088633622</Id>
+          <Value>ᜀ周囲᠀しゅういᤀのアプモンのᜀ機能᠀きのうᤀをᜀ高᠀たかᤀ
+め　ᜀ溢᠀あふᤀれたエネルギーをᜀ自᠀じᤀ
+ᜀ分᠀ぶんᤀのᜀ力᠀ちからᤀにすることができる
+アプモン。ᜀ自分᠀じぶんᤀのᜀ限界᠀げんかいᤀをᜀ超᠀こᤀ
+えるのがᜀ大好᠀だいすᤀき。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2106459423</Id>
+          <Value>ハサミでᜀ斬᠀きᤀったᜀ物᠀ものᤀのᜀ活動᠀かつどうᤀを
+ᜀ強制的に終了᠀きょうせいてきしゅうりょうᤀさせるᜀ能力᠀のうりょくᤀを
+ᜀ持᠀もᤀつアプモン。ᜀ斬᠀きᤀりつけら
+れたᜀ部位᠀ぶいᤀはᜀ機能᠀きのうᤀがᜀ止᠀とᤀまり　
+すべてのᜀ感覚᠀かんかくᤀをᜀ失᠀うしなᤀう。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2123367707</Id>
+          <Value>ᜀ終᠀おᤀわりとᜀ始᠀はじᤀまりをᜀ司る革命᠀つかさどかくめいᤀ
+のᜀ神᠀かみᤀ。ᜀ受᠀うᤀけたダメージごと
+ᜀ対象᠀たいしょうᤀをᜀ初期化᠀しょきかᤀするᜀ再起動᠀さいきどうᤀの
+ᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつため　ほぼᜀ不死᠀ふじᤀ
+ᜀ身᠀みᤀのᜀ存在᠀そんざいᤀである。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2134901523</Id>
+          <Value>ぴょんぴょんᜀ跳᠀はᤀねるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ体᠀からだᤀがᜀ柔᠀やわᤀらか
+く　よくᜀ溶᠀とᤀける。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2151678739</Id>
+          <Value>ぴょんぴょんᜀ跳᠀はᤀねるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ体᠀からだᤀがᜀ柔᠀やわᤀらか
+く　よくᜀ溶᠀とᤀける。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2168455955</Id>
+          <Value>ぴょんぴょんᜀ跳᠀はᤀねるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ体᠀からだᤀがᜀ柔᠀やわᤀらか
+く　よくᜀ溶᠀とᤀける。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2185233171</Id>
+          <Value>ぴょんぴょんᜀ跳᠀はᤀねるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ体᠀からだᤀがᜀ柔᠀やわᤀらか
+く　よくᜀ溶᠀とᤀける。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2202010387</Id>
+          <Value>ぴょんぴょんᜀ跳᠀はᤀねるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ体᠀からだᤀがᜀ柔᠀やわᤀらか
+く　よくᜀ溶᠀とᤀける。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>2218787603</Id>
+          <Value>ぴょんぴょんᜀ跳᠀はᤀねるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ体᠀からだᤀがᜀ柔᠀やわᤀらか
+く　よくᜀ溶᠀とᤀける。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>2235564819</Id>
+          <Value>ぴょんぴょんᜀ跳᠀はᤀねるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ体᠀からだᤀがᜀ柔᠀やわᤀらか
+く　よくᜀ溶᠀とᤀける。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>2254177301</Id>
+          <Value>ᜀ耳᠀みみᤀをぱたぱたさせるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ実᠀じつᤀは　ᜀ口᠀くちᤀの
+ᜀ中᠀なかᤀにびっしりとᜀ鋭᠀するどᤀいᜀ牙᠀きばᤀをᜀ持᠀もᤀ
+っている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>2270954517</Id>
+          <Value>ᜀ耳᠀みみᤀをぱたぱたさせるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ実᠀じつᤀは　ᜀ口᠀くちᤀの
+ᜀ中᠀なかᤀにびっしりとᜀ鋭᠀するどᤀいᜀ牙᠀きばᤀをᜀ持᠀もᤀ
+っている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>2287731733</Id>
+          <Value>ᜀ耳᠀みみᤀをぱたぱたさせるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ実᠀じつᤀは　ᜀ口᠀くちᤀの
+ᜀ中᠀なかᤀにびっしりとᜀ鋭᠀するどᤀいᜀ牙᠀きばᤀをᜀ持᠀もᤀ
+っている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>2304508949</Id>
+          <Value>ᜀ耳᠀みみᤀをぱたぱたさせるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ実᠀じつᤀは　ᜀ口᠀くちᤀの
+ᜀ中᠀なかᤀにびっしりとᜀ鋭᠀するどᤀいᜀ牙᠀きばᤀをᜀ持᠀もᤀ
+っている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>2321286165</Id>
+          <Value>ᜀ耳᠀みみᤀをぱたぱたさせるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ実᠀じつᤀは　ᜀ口᠀くちᤀの
+ᜀ中᠀なかᤀにびっしりとᜀ鋭᠀するどᤀいᜀ牙᠀きばᤀをᜀ持᠀もᤀ
+っている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>2338063381</Id>
+          <Value>ᜀ耳᠀みみᤀをぱたぱたさせるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ実᠀じつᤀは　ᜀ口᠀くちᤀの
+ᜀ中᠀なかᤀにびっしりとᜀ鋭᠀するどᤀいᜀ牙᠀きばᤀをᜀ持᠀もᤀ
+っている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>2354840597</Id>
+          <Value>ᜀ耳᠀みみᤀをぱたぱたさせるのがᜀ得᠀とくᤀ
+ᜀ意᠀いᤀなアプモン。ᜀ実᠀じつᤀは　ᜀ口᠀くちᤀの
+ᜀ中᠀なかᤀにびっしりとᜀ鋭᠀するどᤀいᜀ牙᠀きばᤀをᜀ持᠀もᤀ
+っている。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>2372797464</Id>
+          <Value>ᜀ左右᠀さゆうᤀにᜀ素早᠀すばやᤀくᜀ動᠀うごᤀくのがᜀ得意᠀とくいᤀ
+なアプモン。ᜀ本気᠀ほんきᤀのᜀ高速反᠀こうそくはんᤀ
+ᜀ復横跳᠀ぷくよことᤀびは　ᜀ分身᠀ぶんしんᤀがᜀ見᠀みᤀえる
+ほどにᜀ速᠀はやᤀい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_142</Key>
+      <Values>
+        <BtxtString>
+          <Id>2389574680</Id>
+          <Value>ᜀ左右᠀さゆうᤀにᜀ素早᠀すばやᤀくᜀ動᠀うごᤀくのがᜀ得意᠀とくいᤀ
+なアプモン。ᜀ本気᠀ほんきᤀのᜀ高速反᠀こうそくはんᤀ
+ᜀ復横跳᠀ぷくよことᤀびは　ᜀ分身᠀ぶんしんᤀがᜀ見᠀みᤀえる
+ほどにᜀ速᠀はやᤀい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_143</Key>
+      <Values>
+        <BtxtString>
+          <Id>2406351896</Id>
+          <Value>ᜀ左右᠀さゆうᤀにᜀ素早᠀すばやᤀくᜀ動᠀うごᤀくのがᜀ得意᠀とくいᤀ
+なアプモン。ᜀ本気᠀ほんきᤀのᜀ高速反᠀こうそくはんᤀ
+ᜀ復横跳᠀ぷくよことᤀびは　ᜀ分身᠀ぶんしんᤀがᜀ見᠀みᤀえる
+ほどにᜀ速᠀はやᤀい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_144</Key>
+      <Values>
+        <BtxtString>
+          <Id>2423129112</Id>
+          <Value>ᜀ左右᠀さゆうᤀにᜀ素早᠀すばやᤀくᜀ動᠀うごᤀくのがᜀ得意᠀とくいᤀ
+なアプモン。ᜀ本気᠀ほんきᤀのᜀ高速反᠀こうそくはんᤀ
+ᜀ復横跳᠀ぷくよことᤀびは　ᜀ分身᠀ぶんしんᤀがᜀ見᠀みᤀえる
+ほどにᜀ速᠀はやᤀい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_145</Key>
+      <Values>
+        <BtxtString>
+          <Id>2439906328</Id>
+          <Value>ᜀ左右᠀さゆうᤀにᜀ素早᠀すばやᤀくᜀ動᠀うごᤀくのがᜀ得意᠀とくいᤀ
+なアプモン。ᜀ本気᠀ほんきᤀのᜀ高速反᠀こうそくはんᤀ
+ᜀ復横跳᠀ぷくよことᤀびは　ᜀ分身᠀ぶんしんᤀがᜀ見᠀みᤀえる
+ほどにᜀ速᠀はやᤀい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_146</Key>
+      <Values>
+        <BtxtString>
+          <Id>2456683544</Id>
+          <Value>ᜀ左右᠀さゆうᤀにᜀ素早᠀すばやᤀくᜀ動᠀うごᤀくのがᜀ得意᠀とくいᤀ
+なアプモン。ᜀ本気᠀ほんきᤀのᜀ高速反᠀こうそくはんᤀ
+ᜀ復横跳᠀ぷくよことᤀびは　ᜀ分身᠀ぶんしんᤀがᜀ見᠀みᤀえる
+ほどにᜀ速᠀はやᤀい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ZKN_TEXT_147</Key>
+      <Values>
+        <BtxtString>
+          <Id>2473460760</Id>
+          <Value>ᜀ左右᠀さゆうᤀにᜀ素早᠀すばやᤀくᜀ動᠀うごᤀくのがᜀ得意᠀とくいᤀ
+なアプモン。ᜀ本気᠀ほんきᤀのᜀ高速反᠀こうそくはんᤀ
+ᜀ復横跳᠀ぷくよことᤀびは　ᜀ分身᠀ぶんしんᤀがᜀ見᠀みᤀえる
+ほどにᜀ速᠀はやᤀい。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

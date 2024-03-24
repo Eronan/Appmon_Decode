@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179916</Id>
+          <Value>ᜀ本棚᠀ほんだなᤀのᜀ中᠀なかᤀには</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957138</Id>
+          <Value>西オフィス２階・書籍棚ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38273815</Id>
+          <Value>ＡＲダンジョンから　ᜀ依頼人᠀いらいにんᤀの　バディ
+ライブラモンが　ᜀ出᠀でᤀてこないみたい
+ＡＲダンジョンで　ᜀ何᠀なにᤀか　あったのかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>西オフィス２階・書籍棚ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697172</Id>
+          <Value>カオスＡＲフィールドの　ᜀ影響᠀えいきょうᤀで
+ライブラモンは　ウィルスᜀ化᠀かᤀしていた！
+ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803853</Id>
+          <Value>ニコタマ川・西オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105644822</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀした
+もう　ᜀ大丈夫᠀だいじょうぶᤀそうだし
+ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ連᠀つᤀれていこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>ニコタマ川・西オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199254</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀした
+もう　ᜀ大丈夫᠀だいじょうぶᤀそうだし
+ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ連᠀つᤀれていこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>ニコタマ川・西オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172753686</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀした
+もう　ᜀ大丈夫᠀だいじょうぶᤀそうだし
+ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ連᠀つᤀれていこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>ニコタマ川・西オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206308118</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀした
+もう　ᜀ大丈夫᠀だいじょうぶᤀそうだし
+ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ連᠀つᤀれていこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>ニコタマ川・西オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239862550</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀした
+もう　ᜀ大丈夫᠀だいじょうぶᤀそうだし
+ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ連᠀つᤀれていこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>ニコタマ川・西オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273416982</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀした
+もう　ᜀ大丈夫᠀だいじょうぶᤀそうだし
+ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ連᠀つᤀれていこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>ニコタマ川・西オフィス２階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306971414</Id>
+          <Value>ライブラモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀした
+もう　ᜀ大丈夫᠀だいじょうぶᤀそうだし
+ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ連᠀つᤀれていこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323355415</Id>
+          <Value>ライブラモンを　ᜀ助᠀たすᤀけることが　できた
+いつか　サイバーアリーナで　ᜀ依頼人᠀いらいにんᤀと
+ᜀ会᠀あᤀうことが　あるかもしれない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

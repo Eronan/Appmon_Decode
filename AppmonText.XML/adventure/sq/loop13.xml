@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>42</NumberOfLabels>
+  <NumberOfStrings>42</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2360082</Id>
+          <Value>ᰏ
+また　オレと　レースᜀ勝負᠀しょうぶᤀしに
+ᜀ来᠀きᤀてくれたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19923729</Id>
+          <Value>ᜀ前回᠀ぜんかいᤀは　ᜀ負᠀まᤀけたが
+ᜀ今度᠀こんどᤀからは　ひとすじナワじゃ
+いかないぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>37356057</Id>
+          <Value>ᜀ今度᠀こんどᤀから　オレに　ᜀ勝᠀かᤀてたら
+１ᜀ日᠀にちᤀ　１ᜀ回᠀かいᤀだけ　ᜀ賞品᠀しょうひんᤀを　やるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>54264594</Id>
+          <Value>ᜀ挑戦᠀ちょうせんᤀする　レベルが
+ᜀ高᠀たかᤀいほど　いいもんが　もらえるぜ
+ᜀ挑戦᠀ちょうせんᤀしがいが　あるだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>68551178</Id>
+          <Value>さあ　どうする？
+ᜀ勝負᠀しょうぶᤀするか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>85459220</Id>
+          <Value>レースモンと　レースでᜀ勝負᠀しょうぶᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>102892051</Id>
+          <Value>そうこなくっちゃな！
+どのレベルに　ᜀ挑戦᠀ちょうせんᤀするんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751505</Id>
+          <Value>どのレベルに　ᜀ挑戦᠀ちょうせんᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A1</Key>
+      <Values>
+        <BtxtString>
+          <Id>134480132</Id>
+          <Value>並レベル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>152044041</Id>
+          <Value>よし！　並レベルで
+いくぜ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A2</Key>
+      <Values>
+        <BtxtString>
+          <Id>168034564</Id>
+          <Value>超レベル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598473</Id>
+          <Value>よし！　超レベルで
+いくぜ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A3</Key>
+      <Values>
+        <BtxtString>
+          <Id>201588996</Id>
+          <Value>極レベル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152905</Id>
+          <Value>よし！　極レベルで
+いくぜ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>237241106</Id>
+          <Value>ᰏ
+また　オレと　レースᜀ勝負᠀しょうぶᤀしに
+ᜀ来᠀きᤀてくれたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>254804505</Id>
+          <Value>オレに　ᜀ勝᠀かᤀてたら
+１ᜀ日᠀にちᤀ　１ᜀ回᠀かいᤀだけ　ᜀ賞品᠀しょうひんᤀを　やるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>272368402</Id>
+          <Value>ᜀ挑戦᠀ちょうせんᤀする　レベルが
+ᜀ高᠀たかᤀいほど　いいもんが　もらえるぜ
+ᜀ挑戦᠀ちょうせんᤀしがいが　あるだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>286654986</Id>
+          <Value>さあ　どうする？
+ᜀ勝負᠀しょうぶᤀするか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>304349970</Id>
+          <Value>ᰏ
+また　オレと　レースᜀ勝負᠀しょうぶᤀしに
+ᜀ来᠀きᤀてくれたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>321913369</Id>
+          <Value>オレに　ᜀ勝᠀かᤀてたら
+１ᜀ日᠀にちᤀ　１ᜀ回᠀かいᤀだけ　ᜀ賞品᠀しょうひんᤀを　やるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>339477266</Id>
+          <Value>ᜀ挑戦᠀ちょうせんᤀする　レベルが
+ᜀ高᠀たかᤀいほど　いいもんが　もらえるぜ
+ᜀ挑戦᠀ちょうせんᤀしがいが　あるだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>353763850</Id>
+          <Value>さあ　どうする？
+ᜀ勝負᠀しょうぶᤀするか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>370934291</Id>
+          <Value>おっ　ᰏ
+さっきは　いいᜀ勝負᠀しょうぶᤀ　だったな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>390202131</Id>
+          <Value>ᜀ今日᠀きょうᤀのᜀ分᠀ぶんᤀの　ᜀ賞品᠀しょうひんᤀは
+もう　ᜀ品切᠀しなぎᤀれだぜ
+また　ᜀ明日᠀あしたᤀ　ᜀ来᠀きᤀてくれよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>407503641</Id>
+          <Value>それとも　もうひとっᜀ走᠀ぱしᤀり　いくか？
+オレは　ᰏとの　ᜀ勝負᠀しょうぶᤀなら
+いつでも　ᜀ何度᠀なんどᤀでも　ᜀ大歓迎᠀だいかんげいᤀだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>420872714</Id>
+          <Value>さあ　どうする？
+ᜀ勝負᠀しょうぶᤀするか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>437780756</Id>
+          <Value>レースモンと　レースでᜀ勝負᠀しょうぶᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>455213587</Id>
+          <Value>そうこなくっちゃな！
+どのレベルに　ᜀ挑戦᠀ちょうせんᤀするんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>471073290</Id>
+          <Value>ヒューッ！
+オレの　ᜀ勝᠀かᤀちだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>489816852</Id>
+          <Value>ᰏも
+なかなか　いいᜀ走᠀はしᤀり　だったぜ
+ᜀ再挑戦᠀さいちょうせんᤀ　ᜀ待᠀まᤀってるからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>505414412</Id>
+          <Value>ᰏ！
+オメーさんの　ᜀ勝᠀かᤀちだ！
+さすが　やるじゃねえか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>522453519</Id>
+          <Value>さあ　これが　ᜀ景品᠀けいひんᤀだぜ
+ᜀ受᠀うᤀけᜀ取᠀とᤀってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>540803865</Id>
+          <Value>オレは　いつでも
+ここで　ᜀ待᠀まᤀってるからな
+また　ᜀ明日᠀あしたᤀ　ᜀ挑戦᠀ちょうせんᤀしに　ᜀ来᠀きᤀてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>555746060</Id>
+          <Value>ᰏ！
+オメーさんの　ᜀ勝᠀かᤀちだ！
+さすが　やるじゃねえか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>572785167</Id>
+          <Value>さあ　これが　ᜀ景品᠀けいひんᤀだぜ
+ᜀ受᠀うᤀけᜀ取᠀とᤀってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>591135513</Id>
+          <Value>オレは　いつでも
+ここで　ᜀ待᠀まᤀってるからな
+また　ᜀ明日᠀あしたᤀ　ᜀ挑戦᠀ちょうせんᤀしに　ᜀ来᠀きᤀてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>606077708</Id>
+          <Value>ᰏ！
+オメーさんの　ᜀ勝᠀かᤀちだ！
+さすが　やるじゃねえか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>623772432</Id>
+          <Value>まさか　極レベルで　ᜀ負᠀まᤀけるとは
+ᜀ思᠀おもᤀってなかったぜ…
+それでこそ　ᰏだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>639894031</Id>
+          <Value>さあ　これが　ᜀ景品᠀けいひんᤀだぜ
+ᜀ受᠀うᤀけᜀ取᠀とᤀってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>658244377</Id>
+          <Value>オレは　いつでも
+ここで　ᜀ待᠀まᤀってるからな
+また　ᜀ明日᠀あしたᤀ　ᜀ挑戦᠀ちょうせんᤀしに　ᜀ来᠀きᤀてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>673186572</Id>
+          <Value>ᰏ！
+オメーさんの　ᜀ勝᠀かᤀちだ！
+さすが　やるじゃねえか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_13_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>691798809</Id>
+          <Value>オレは　いつでも
+ここで　ᜀ待᠀まᤀってるからな
+また　ᜀ明日᠀あしたᤀ　ᜀ挑戦᠀ちょうせんᤀしに　ᜀ来᠀きᤀてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

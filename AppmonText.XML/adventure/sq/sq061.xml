@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>161</NumberOfLabels>
+  <NumberOfStrings>161</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>3146516</Id>
+          <Value>ああ～　ちょっと
+そこの　ᜀ君᠀きみᤀ！
+アプリドライヴ　ᜀ持᠀もᤀってる　ᜀ君᠀きみᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957385</Id>
+          <Value>オレの　こと…？
+どうかしましたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39191318</Id>
+          <Value>ᜀ聞᠀きᤀいてよ　ᜀ聞᠀きᤀいてほしいんだ～
+ᜀ俺᠀おれᤀってば　ᜀ大᠀だいᤀの　ᜀ旅行好᠀りょこうずᤀき！
+ミハマᜀ港᠀こうᤀに　ᜀ旅行᠀りょこうᤀに　ᜀ来᠀きᤀたのよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53216013</Id>
+          <Value>でも　ᜀ大変᠀たいへんᤀ！
+ᜀ気᠀きᤀがついたら　カバンが
+どっか　いっちゃったのよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69337618</Id>
+          <Value>ええー！　それは
+ᜀ本当᠀ほんとうᤀに　ᜀ大変᠀たいへんᤀですね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87163665</Id>
+          <Value>なあ～　よかったら
+いっしょに　ᜀ探᠀さがᤀしてくれよ～
+ᜀ同᠀おなᤀじ　アプリドライヴァーだろ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103023121</Id>
+          <Value>ᜀ困᠀こまᤀってる　みたいだ…
+カバンを　ᜀ探᠀さがᤀしてあげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119276047</Id>
+          <Value>よし　いっしょに
+カバンを　ᜀ探᠀さがᤀしてあげよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135791371</Id>
+          <Value>おにいさん！
+カバンって
+どんな　カバンですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152830476</Id>
+          <Value>ᜀ手伝᠀てつだᤀってくれるの？
+ありがとう　うれしいよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>169345298</Id>
+          <Value>ᜀ話᠀はなᤀすと　ᜀ長᠀ながᤀくなるんだけどね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205254</Id>
+          <Value>はい！
+（あれ…？）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>206832412</Id>
+          <Value>ᜀ旅行好᠀りょこうずᤀきの　ᜀ俺᠀おれᤀは　ᜀ世界᠀せかいᤀの　あちこちを
+ᜀ飛᠀とᤀびᜀ回᠀まわᤀっているわけ～
+ᜀ世界᠀せかいᤀを　ᜀ股᠀またᤀに　かけているわけ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890758</Id>
+          <Value>は　はい…
+（これは…）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239469336</Id>
+          <Value>でも　ミハマᜀ港᠀こうᤀは　トクベツ
+ᜀ生᠀うᤀまれてはじめて　ᜀ旅行᠀りょこうᤀに　ᜀ行᠀いᤀったのが
+この　ミハマᜀ港᠀こうᤀなのよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252707337</Id>
+          <Value>………
+（ᜀ長᠀ながᤀいぞ…！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>273941277</Id>
+          <Value>いっしょに　ᜀ来᠀きᤀたのは
+ᜀ俺᠀おれᤀの　ᜀ初恋᠀はつこいᤀのᜀ相手᠀あいてᤀ　ユリちゃん…
+ニコタマᜀ川小学校᠀がわしょうがっこうᤀからの　ᜀ友᠀ともᤀだちでね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>288097038</Id>
+          <Value>いやあ　なつかしいな
+そのᜀ時᠀ときᤀ　ᜀ持᠀もᤀっていたのが
+この　カバンなんだよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>305791761</Id>
+          <Value>そのᜀ頃᠀ころᤀは　ツヤツヤだった
+オレンジᜀ色᠀いろᤀの　ᜀ革᠀かわᤀのカバンも
+いまでは　すっかり　ボロボロに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>321258256</Id>
+          <Value>…って　ないじゃ～ん！
+そうだよ！
+それを　ᜀ探᠀さがᤀしてたんだったね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>336068872</Id>
+          <Value>そ　そうですね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>357303066</Id>
+          <Value>う～ん…　ᜀ最後᠀さいごᤀに　ᜀ行᠀いᤀったのは
+たしか　ᜀ駐車場前᠀ちゅうしゃじょうまえᤀの　コンビニだよ
+ちょっと　ᜀ見᠀みᤀてきてくれないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>371982865</Id>
+          <Value>ᜀ俺᠀おれᤀは　このへんで　もうᜀ少᠀すこᤀし
+ᜀ潮風᠀しおかぜᤀに　あたっていくよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>386531594</Id>
+          <Value>あ～　ユリちゃ～ん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>403177735</Id>
+          <Value>と　とにかく…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>424149782</Id>
+          <Value>ᜀ駐車場前᠀　ちゅうしゃじょうまえᤀの　コンビニに
+カバンがないか　ᜀ見᠀みᤀにᜀ行᠀いᤀこう…
+たしか　ᜀ倉庫街᠀そうこがいᤀのほう　だったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>440402708</Id>
+          <Value>あ～　ᜀ生᠀うᤀまれてはじめて
+ᜀ旅行᠀りょこうᤀにᜀ来᠀きᤀた　このミハマᜀ港᠀こうᤀ…
+ユリちゃんと　いっしょだったよな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>458228504</Id>
+          <Value>ᜀ俺᠀おれᤀの　ᜀ初恋᠀はつこいᤀのᜀ相手᠀あいてᤀ　ユリちゃん…
+ニコタマᜀ川小学校᠀がわしょうがっこうᤀからの
+ᜀ友᠀ともᤀだちだった　ユリちゃぁーーん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>471204367</Id>
+          <Value>う～ん
+ᜀ潮風᠀しおかぜᤀが　しょっぱいぜ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>488768022</Id>
+          <Value>な　なんか
+ᜀ自分᠀じぶんᤀのᜀ世界᠀せかいᤀに　はいっちゃってる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>505283085</Id>
+          <Value>あれ？　あれあれ？
+ᜀ君᠀きみᤀが　ᜀ持᠀もᤀってるのは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>524419860</Id>
+          <Value>ᜀ間違᠀まちがᤀいないや！
+ᜀ俺᠀おれᤀの　ᜀ思᠀おもᤀいᜀ出᠀でᤀの　カバンじゃん！
+ありがと～　ᜀ見᠀みᤀつけてくれたんだね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>539099916</Id>
+          <Value>ゴソゴソ　っと…
+うん！　アプリドライヴも
+ちゃんと　はいってる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>556270350</Id>
+          <Value>ハァ～
+しっかりしてよ　ᜀ本当᠀ほんとうᤀ
+ᜀ大変᠀たいへんᤀだったんだからさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>571998731</Id>
+          <Value>ごめん～　ごめんって～
+ᜀ気᠀きᤀをつけるよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>589693709</Id>
+          <Value>ᜀ君᠀きみᤀも　ᜀ探᠀さがᤀしてくれて
+ありがとう～
+ᜀ助᠀たすᤀかったよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>606339851</Id>
+          <Value>うん　ᜀ助᠀たすᤀかったよ
+また　どこかで
+ᜀ会᠀あᤀったら　よろしくね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>621806091</Id>
+          <Value>うん！
+こちらこそ　よろしく！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>640418324</Id>
+          <Value>ᜀ何回᠀なんかいᤀ　ᜀ来᠀きᤀても
+この　ミハマᜀ港᠀こうᤀのᜀ海᠀うみᤀは　きれいだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>658768659</Id>
+          <Value>ユリちゃんも　きれいだってᜀ言᠀いᤀってた
+ᜀ引᠀ひᤀっᜀ越᠀こᤀしちゃって　ᜀ会᠀あᤀえてないけど
+ᜀ元気᠀げんきᤀに　してるかなあ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>674104077</Id>
+          <Value>ᜀ今度᠀こんどᤀ　こっちまで
+ᜀ旅行᠀りょこうᤀに　ᜀ来᠀こᤀないか
+さそってみようっと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>689963534</Id>
+          <Value>おにいさんが　ᜀ言᠀いᤀってたのは
+きっと　ここの　コンビニだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>708838163</Id>
+          <Value>ᜀ忘᠀わすᤀれᜀ物᠀ものᤀなら　ᜀ店員᠀てんいんᤀさんが
+ᜀ知᠀しᤀってるんじゃないかな？
+ソルティに　ᜀ聞᠀きᤀいてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>724828945</Id>
+          <Value>いらっしゃいませ
+ᜀ忘᠀わすᤀれᜀ物᠀ものᤀなど　ございましたら
+おᜀ気軽᠀きがるᤀに　おたずねください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>740688653</Id>
+          <Value>ちょっと　すいません
+カバンの　ᜀ忘᠀わすᤀれᜀ物᠀ものᤀを
+したのですが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>757334543</Id>
+          <Value>はい　ᜀ忘᠀わすᤀれᜀ物᠀ものᤀですね
+どのような　カバンでしょうか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>775291667</Id>
+          <Value>どのような…　えっと…
+たしか　オレンジの　ᜀ革᠀かわᤀのカバンだよ
+ボロボロだって　ᜀ言᠀いᤀってたかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>790627085</Id>
+          <Value>その　カバンでしたら
+たしかに
+おᜀ預᠀あずᤀかり　しております</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>807404045</Id>
+          <Value>ᜀ本当᠀ほんとうᤀ！？　やった！
+すぐ　ᜀ見᠀みᤀつかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>825754391</Id>
+          <Value>ただし
+ごᜀ本人᠀ほんにんᤀの　ᜀ確認᠀かくにんᤀがᜀ取᠀とᤀれませんと
+おᜀ渡᠀わたᤀしすることは　できません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>841351696</Id>
+          <Value>カバンの　ᜀ電子᠀でんしᤀロックの
+パスワードは　おᜀ忘᠀わすᤀれですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>857735949</Id>
+          <Value>えっ…
+う　うん　わからないよ
+そこまで　ᜀ聞᠀きᤀいてないし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>876086034</Id>
+          <Value>それでは　ᜀ今᠀いまᤀから
+ごᜀ本人確認᠀ほんにんかくにんᤀのために
+いくつかの　ᜀ質問᠀しつもんᤀをいたします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>894173976</Id>
+          <Value>３ᜀ問᠀もんᤀ　ᜀ正解᠀せいかいᤀしましたら
+ᜀ持᠀もᤀちᜀ主᠀ぬしᤀであると　ᜀ確認᠀かくにんᤀができますので
+カバンを　おᜀ渡᠀わたᤀしできますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>910426901</Id>
+          <Value>おᜀ手数᠀てすうᤀ　おかけしますが
+ᜀ規則᠀きそくᤀですので　おᜀ付᠀つᤀきᜀ合᠀あᤀいください
+ᜀ準備᠀じゅんびᤀは　よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>924713240</Id>
+          <Value>ᜀ本人確認᠀ほんにんかくにんᤀに　ᜀ挑戦᠀ちょうせんᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>940442119</Id>
+          <Value>よし　わかった
+やらせてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>957743629</Id>
+          <Value>それでは
+ᜀ質問᠀しつもんᤀを　はじめます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>976486935</Id>
+          <Value>ᜀ今᠀いまᤀから　ごᜀ本人確認᠀ほんにんかくにんᤀのために
+いくつかの　ᜀ質問᠀しつもんᤀをいたします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>994837272</Id>
+          <Value>３ᜀ問᠀もんᤀ　ᜀ正解᠀せいかいᤀしましたら
+ᜀ持᠀もᤀちᜀ主᠀ぬしᤀであると　ᜀ確認᠀かくにんᤀができますので
+カバンを　おᜀ渡᠀わたᤀしできますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007943952</Id>
+          <Value>ᜀ準備᠀じゅんびᤀは　よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026818585</Id>
+          <Value>それでは　１ᜀ問目᠀もんめᤀです
+『はじめて　ᜀ旅行᠀りょこうᤀにᜀ行᠀いᤀったᜀ場所᠀ばしょᤀは？』</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042415897</Id>
+          <Value>『はじめて　ᜀ旅行᠀りょこうᤀにᜀ行᠀いᤀったᜀ場所᠀ばしょᤀは？』</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057620231</Id>
+          <Value>ヒフミがᜀ丘᠀おかᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1074397447</Id>
+          <Value>ニコタマᜀ川᠀がわᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091174662</Id>
+          <Value>ミハマᜀ港᠀こうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1111229211</Id>
+          <Value>やっぱり　ヒフミがᜀ丘᠀おかᤀだよ！
+ᜀ噴水公園᠀ふんすいこうえんᤀも　おᜀ花見公園᠀はなみこうえんᤀも
+きれいだし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127875347</Id>
+          <Value>…なに　ᜀ言᠀いᤀってるんだか
+ちょっと　ᜀ公園᠀こうえんᤀに　ᜀ行᠀いᤀくことを
+ᜀ旅行᠀りょこうᤀって　いえる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142948368</Id>
+          <Value>いま　なにか　ᜀ聞᠀きᤀこえたような…
+ᜀ気᠀きᤀのせいかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161298452</Id>
+          <Value>ᜀ質問᠀しつもんᤀの　ᜀ答᠀こたᤀえが　ᜀ違᠀ちがᤀいます
+ごᜀ本人᠀ほんにんᤀと　ᜀ確認᠀かくにんᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175453964</Id>
+          <Value>ᜀ間違᠀まちがᤀえちゃったか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195639574</Id>
+          <Value>そういえば　あのおにいさん
+ᜀ自分᠀じぶんᤀのᜀ話᠀はなしᤀを　たくさん　してたな…
+あのᜀ中᠀なかᤀに　ᜀ答᠀こたᤀえが　ありそうだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210581775</Id>
+          <Value>わからなくなったら
+アプリトークの　ログをᜀ見᠀みᤀても
+いいかも　しれないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228538647</Id>
+          <Value>たしか　ニコタマᜀ川᠀がわᤀ？
+ᜀ都会᠀とかいᤀのᜀ方᠀ほうᤀに　ᜀ旅行᠀りょこうᤀにᜀ行᠀いᤀくのも
+いいよね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244398352</Id>
+          <Value>…ᜀ都会᠀とかいᤀに　ᜀ旅行᠀りょこうᤀって
+いなかもの　なの？
+おのぼりさん　なの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261962000</Id>
+          <Value>ᜀ余計᠀よけいᤀな　おᜀ世話᠀せわᤀだよ
+うるさいな！　…って　あれ？
+いま　なにか　ᜀ聞᠀きᤀこえたような…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277690387</Id>
+          <Value>ミハマᜀ港᠀こうᤀ　だったはずだよ
+このあたりって　ᜀ観光地᠀かんこうちᤀだしね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1295254291</Id>
+          <Value>…そうそう　そうだってね
+そのᜀ頃᠀ころᤀの　データ　ᜀ残᠀のこᤀってたから
+ボクも　ᜀ知᠀しᤀってるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310196240</Id>
+          <Value>…ん？
+いま　なにか　ᜀ聞᠀きᤀこえたような…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1328022035</Id>
+          <Value>ᜀ正解᠀せいかいᤀです
+ᜀ次᠀つぎᤀの　ᜀ問題᠀もんだいᤀに　ᜀ進᠀すすᤀみます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1342963977</Id>
+          <Value>よし　ᜀ頼᠀たのᤀむよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1362493980</Id>
+          <Value>それでは　２ᜀ問目᠀もんめᤀです
+『ᜀ通᠀かよᤀっていた　ᜀ小学校᠀しょうがっこうᤀのᜀ名前᠀なまえᤀは？』</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1378222364</Id>
+          <Value>『ᜀ通᠀かよᤀっていた　ᜀ小学校᠀しょうがっこうᤀのᜀ名前᠀なまえᤀは？』</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393819921</Id>
+          <Value>ヒフミがᜀ丘小学校᠀おかしょうがっこうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410597137</Id>
+          <Value>ニコタマᜀ川小学校᠀がわしょうがっこうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1426981134</Id>
+          <Value>アプリエレメンタリースクール</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1446511379</Id>
+          <Value>ヒフミがᜀ丘小学校᠀おかしょうがっこうᤀかな
+そうすると　オレたちの
+ᜀ先輩᠀せんぱいᤀってことに　なるけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462895375</Id>
+          <Value>…キミみたいな　ᜀ相手᠀あいてᤀの
+ᜀ先輩᠀せんぱいᤀなわけ　ないじゃん
+ᜀ出᠀でᤀなおしてきたら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479148048</Id>
+          <Value>いま　なにか　ᜀ聞᠀きᤀこえたような…
+いちいち　ᜀ口᠀くちᤀがᜀ悪᠀わるᤀいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494745615</Id>
+          <Value>アプリエレメンタリースクール！
+とか！　どう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1512440338</Id>
+          <Value>…ねえ　テキトー　ᜀ言᠀いᤀってるでしょ？
+おととい　きやがれって　やつだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528693264</Id>
+          <Value>いま　なにか　ᜀ聞᠀きᤀこえたような…
+し　しかたないだろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1547567895</Id>
+          <Value>ニコタマᜀ川小学校᠀がわしょうがっこうᤀ　だったっけ
+なんだか　そんなようなこと
+ᜀ言᠀いᤀってたの　ᜀ覚᠀おぼᤀえてるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564869400</Id>
+          <Value>…そうだね　あのᜀ子᠀こᤀとは
+そこで　ᜀ友᠀ともᤀだち　だったんだよ
+ᜀ本人᠀ほんにんᤀなら　ᜀ名前᠀なまえᤀまで　ᜀ言᠀いᤀえるよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580729107</Id>
+          <Value>やっぱり　なにかᜀ聞᠀きᤀこえる…
+もしかして　アプモンが
+カバンのᜀ中᠀なかᤀから　ᜀ言᠀いᤀってるのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596457491</Id>
+          <Value>ᜀ正解᠀せいかいᤀです
+ᜀ次᠀つぎᤀの　ᜀ問題᠀もんだいᤀに　ᜀ進᠀すすᤀみます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1611530507</Id>
+          <Value>やった！　ᜀ頼᠀たのᤀむよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630929431</Id>
+          <Value>ᜀ最後᠀さいごᤀの　３ᜀ問目᠀もんめᤀです
+『ᜀ初恋᠀はつこいᤀの　ᜀ相手᠀あいてᤀのᜀ名前᠀なまえᤀは？』</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646264599</Id>
+          <Value>『ᜀ初恋᠀はつこいᤀの　ᜀ相手᠀あいてᤀのᜀ名前᠀なまえᤀは？』</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1661075714</Id>
+          <Value>ユリ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1677984003</Id>
+          <Value>サクラ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1694630146</Id>
+          <Value>ミオ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1713111566</Id>
+          <Value>ユリちゃん　だよね
+ちゃんと　ᜀ覚᠀おぼᤀえてきたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1732248344</Id>
+          <Value>…うん！　そのとおりだよ
+ᜀ忘᠀わすᤀれるわけ　ないよね！
+ᜀ大事᠀だいじᤀな　ᜀ初恋᠀はつこいᤀのᜀ相手᠀あいてᤀ　だもん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1749025559</Id>
+          <Value>ᜀ全部᠀ぜんぶᤀ　ᜀ正解᠀せいかいᤀだ　ᜀ間違᠀まちがᤀいない！
+ボクと　このカバンのこと
+むかえに　ᜀ来᠀きᤀてくれたんだね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764754196</Id>
+          <Value>ん？　んんん～？
+ᜀ違᠀ちがᤀうじゃん！　ボクのバディは　どこ？
+オマエ　ボクを　だましてたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1780613899</Id>
+          <Value>ちっ　ちがうよ！
+これは　キミのバディに
+ᜀ頼᠀たのᤀまれたんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1798177550</Id>
+          <Value>なりすましたって　ムダだよ
+このカバンは　ᜀ渡᠀わたᤀさない！
+ᜀ帰᠀かえᤀれ　ドロボウめ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1815479059</Id>
+          <Value>サクラちゃん…　だっけ？
+たしか　ᜀ花᠀はなᤀのᜀ名前᠀なまえᤀ　だったのは
+ᜀ覚᠀おぼᤀえてるんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1832387348</Id>
+          <Value>…ᜀ誰᠀だれᤀ　それ？
+なーんだ　これは　ᜀ本人᠀ほんにんᤀじゃないな
+ムダなᜀ時間᠀じかんᤀ　すごしちゃったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1847722767</Id>
+          <Value>あきれられちゃった…
+うーん…
+このᜀ答᠀こたᤀえじゃ　ないのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864499734</Id>
+          <Value>ミオかな！
+ちょっと　ᜀ強引᠀ごういんᤀだけど　いいᜀ子᠀こᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1883243286</Id>
+          <Value>…ちょっと　ちょっと！
+ᜀ誰᠀だれᤀか　ᜀ知᠀しᤀらないけど　それは
+オマエの　ᜀ身内᠀みうちᤀの　ᜀ話᠀はなしᤀじゃないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1899234064</Id>
+          <Value>…しまった！　つい　ᜀ知᠀しᤀってる
+ᜀ名前᠀なまえᤀを　ᜀ言᠀いᤀっちゃったけど
+そうじゃなかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1914307086</Id>
+          <Value>ううう…　そんな
+ドロボウに　ᜀ負᠀まᤀけるなんて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1933312786</Id>
+          <Value>だから　ᜀ違᠀ちがᤀうってば!
+オレは　キミの　バディにᜀ頼᠀たのᤀまれて
+カバンを　ᜀ探᠀さがᤀしにᜀ来᠀きᤀたんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>1949303569</Id>
+          <Value>ᜀ本当᠀ほんとうᤀに…？
+じゃあ　ᜀ質問᠀しつもんᤀのᜀ答᠀こたᤀえは？
+ᜀ聞᠀きᤀいてきたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>1967129366</Id>
+          <Value>あれは　その…
+ᜀ大᠀おおᤀきなᜀ声᠀こえᤀで　ᜀ言᠀いᤀってた　ひとりごとを
+ᜀ聞᠀きᤀいて　ᜀ覚᠀おぼᤀえてきたっていうか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982464784</Id>
+          <Value>…アイツ　また
+ᜀ質問᠀しつもんᤀのᜀ答᠀こたᤀえ　ベラベラ
+しゃべっちゃったの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>2001208087</Id>
+          <Value>パスワードと　ᜀ同᠀おなᤀじくらい　ᜀ秘密᠀ひみつᤀにして
+ᜀ言᠀いᤀいふらしたりしちゃ　ダメだって
+ᜀ何度᠀なんどᤀも　ᜀ言᠀いᤀってるのに！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>2015888145</Id>
+          <Value>うん…
+ᜀ元気᠀げんきᤀよく　ᜀ海᠀うみᤀに　むかって
+ᜀ叫᠀さけᤀんでたよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>2034107157</Id>
+          <Value>…ハァー　もういいや
+ᜀ今᠀いまᤀので　ᜀ頼᠀たのᤀまれたって　わかったから
+ᜀ早᠀はやᤀく　アイツのとこに　つれてってよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2050491156</Id>
+          <Value>ごᜀ本人確認᠀ほんにんかくにんᤀが　とれました
+おᜀ忘᠀わすᤀれᜀ物᠀ものᤀの
+カバンを　おᜀ渡᠀わたᤀしします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2067530516</Id>
+          <Value>ありがとう　よし！　おにいさんに
+ᜀ旅行᠀りょこうᤀカバンを　ᜀ届᠀とどᤀけにいこう！
+ブリッジのほうに　いたはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2083652119</Id>
+          <Value>カバンを　おᜀ渡᠀わたᤀしするためには
+ごᜀ本人確認᠀ほんにんかくにんᤀが　ᜀ必要᠀ひつようᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2102264604</Id>
+          <Value>ごᜀ本人᠀ほんにんᤀと　ᜀ確認᠀かくにんᤀできません
+ご　ᜀ本᠀ほんᤀにんと　ᜀ確認᠀かくにんᤀ　ᜀ確認᠀かくにんᤀ　できません
+できません　できません…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2117600017</Id>
+          <Value>オマエ　またᜀ来᠀きᤀたのか
+あきらめのᜀ悪᠀わるᤀい　ドロボウだな！
+このカバンは　ᜀ渡᠀わたᤀさないったら！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2133721875</Id>
+          <Value>…バトルに　ᜀ勝᠀かᤀたないと
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてくれそうにないな！
+いこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2149581327</Id>
+          <Value>ᜀ他᠀ほかᤀにも　おᜀ忘᠀わすᤀれᜀ物᠀ものᤀは
+ございますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2167145236</Id>
+          <Value>ううん
+もう　ᜀ忘᠀わすᤀれᜀ物᠀ものᤀは　ᜀ受᠀うᤀけᜀ取᠀とᤀったよ
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2184315668</Id>
+          <Value>おにいさんに
+ᜀ旅行᠀りょこうᤀカバンを　ᜀ届᠀とどᤀけにいこう！
+ブリッジのほうに　いたはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2199126537</Id>
+          <Value>ワタシの　こと…？
+どうかしましたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_007_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2217083410</Id>
+          <Value>ᜀ困᠀こまᤀってる　みたいね…
+カバンを　ᜀ探᠀さがᤀしてあげようかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2233205264</Id>
+          <Value>よし　いっしょに
+カバンを　ᜀ探᠀さがᤀしてあげましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2252997398</Id>
+          <Value>ᜀ駐車場前᠀　ちゅうしゃじょうまえᤀの　コンビニに
+カバンがないか　ᜀ見᠀みᤀにᜀ行᠀いᤀこう…
+たしか　ᜀ倉庫街᠀そうこがいᤀのほう　だったわよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2267021838</Id>
+          <Value>おにいさんが　ᜀ言᠀いᤀってたのは
+きっと　ここの　コンビニね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2285896467</Id>
+          <Value>ᜀ忘᠀わすᤀれᜀ物᠀ものᤀなら　ᜀ店員᠀てんいんᤀさんが
+ᜀ知᠀しᤀってるんじゃないかな？
+ソルティに　ᜀ聞᠀きᤀいてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_047_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2301887250</Id>
+          <Value>どのような…　えっと…
+たしか　オレンジの　ᜀ革᠀かわᤀのカバンよ
+ボロボロだって　ᜀ言᠀いᤀってたかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2317353485</Id>
+          <Value>ᜀ本当᠀ほんとうᤀ！？　やった！
+すぐ　ᜀ見᠀みᤀつかったわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_052_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2334262029</Id>
+          <Value>えっ…
+う　うん　わからないわね
+そこまで　ᜀ聞᠀きᤀいてないし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2349597190</Id>
+          <Value>わかったわ
+やらせてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2369389339</Id>
+          <Value>やっぱり　ヒフミがᜀ丘᠀おかᤀね！
+ᜀ噴水公園᠀ふんすいこうえんᤀも　おᜀ花見公園᠀はなみこうえんᤀも
+きれいだし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2384462352</Id>
+          <Value>いま　なにか　ᜀ聞᠀きᤀこえたような…
+ᜀ気᠀きᤀのせいかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_072_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2403730198</Id>
+          <Value>そういえば　あのおにいさん
+ᜀ自分᠀じぶんᤀのᜀ話᠀はなしᤀ　たくさん　してたわね…
+あのᜀ中᠀なかᤀに　ᜀ答᠀こたᤀえが　ありそうだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_073_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2418541327</Id>
+          <Value>わからなくなったら
+アプリトークの　ログをᜀ見᠀みᤀても
+いいかも　しれないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2436367120</Id>
+          <Value>ᜀ余計᠀よけいᤀな　おᜀ世話᠀せわᤀだわ
+うるさいわね！　…って　あれ？
+いま　なにか　ᜀ聞᠀きᤀこえたような…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_077_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2452095507</Id>
+          <Value>ミハマᜀ港᠀こうᤀ　だったはずよ
+このあたりって　ᜀ観光地᠀かんこうちᤀだしね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_081_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2467299596</Id>
+          <Value>よかった　ᜀ頼᠀たのᤀむわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_087_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2486829844</Id>
+          <Value>ヒフミがᜀ丘小学校᠀おかしょうがっこうᤀかしら
+そうすると　ワタシたちの
+ᜀ先輩᠀せんぱいᤀってことに　なるけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2502558224</Id>
+          <Value>いま　なにか　ᜀ聞᠀きᤀこえたような…
+いちいち　ᜀ口᠀くちᤀがᜀ悪᠀わるᤀいわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_092_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2518680080</Id>
+          <Value>いま　なにか　ᜀ聞᠀きᤀこえたような…
+し　しかたないでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2537423639</Id>
+          <Value>ニコタマᜀ川小学校᠀がわしょうがっこうᤀ　だったっけ
+なんだか　そんなようなこと
+ᜀ言᠀いᤀってたの　ᜀ覚᠀おぼᤀえてるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2550923529</Id>
+          <Value>うん　ᜀ頼᠀たのᤀむね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_103_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2568749583</Id>
+          <Value>ユリちゃん　だよね
+ちゃんと　ᜀ覚᠀おぼᤀえてきたわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_107_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2586051340</Id>
+          <Value>ちっ　ちがうわよ！
+これは　アナタのバディに
+ᜀ頼᠀たのᤀまれたのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_112_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2602828311</Id>
+          <Value>ミオかな！
+ちょっと　ᜀ強引᠀ごういんᤀだけど　いいᜀ子᠀こᤀなのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_116_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2621309716</Id>
+          <Value>だから　ᜀ違᠀ちがᤀうわよっ！
+ワタシは　アナタの　バディにᜀ頼᠀たのᤀまれて
+カバンを　ᜀ探᠀さがᤀしにᜀ来᠀きᤀたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_124_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2638086934</Id>
+          <Value>ありがとう　それじゃ　おにいさんに
+ᜀ旅行᠀りょこうᤀカバンを　ᜀ届᠀とどᤀけにいきましょ！
+ブリッジのほうに　いたはずね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_128_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2654077717</Id>
+          <Value>…バトルに　ᜀ勝᠀かᤀたないと
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてくれそうにないようね！
+いくわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_130_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2670461716</Id>
+          <Value>ううん
+もう　ᜀ忘᠀わすᤀれᜀ物᠀ものᤀは　ᜀ受᠀うᤀけᜀ取᠀とᤀったわ
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_131_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2687763222</Id>
+          <Value>おにいさんに
+ᜀ旅行᠀りょこうᤀカバンを　ᜀ届᠀とどᤀけにいきましょ！
+ブリッジのほうに　いたはずね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

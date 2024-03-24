@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1573138</Id>
+          <Value>ᜀ壊᠀こわᤀれたᜀ案内板᠀あんないばんᤀのヒミツ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826064</Id>
+          <Value>ヨンゲン山・案内板ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749525</Id>
+          <Value>バードウォッチングの　ᜀ案内板᠀あんないばんᤀに
+ナゾの　メッセージが　ᜀ出᠀でᤀるように…
+アプモンが　イタズラしてるのかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380496</Id>
+          <Value>ヨンゲン山・案内板ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71303957</Id>
+          <Value>バードウォッチングの　ᜀ案内板᠀あんないばんᤀに
+ナゾの　メッセージが　ᜀ出᠀でᤀるように…
+アプモンが　イタズラしてるのかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934928</Id>
+          <Value>ヨンゲン山・案内板ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104203027</Id>
+          <Value>ＡＲダンジョンには　コーチモンが！
+コーチモンは　ここを　ᜀ守᠀まもᤀっていると
+ᜀ言᠀いᤀっているけれど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096137</Id>
+          <Value>ヨンゲン山・案内板</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068181</Id>
+          <Value>コーチモンは　どこかに　ᜀ消᠀きᤀえた
+ᜀ鳥᠀とりᤀを　ᜀ守᠀まもᤀると　ᜀ言᠀いᤀっていたけど…
+とにかく　おじいさんに　ᜀ報告᠀ほうこくᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650569</Id>
+          <Value>ヨンゲン山・案内板</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622613</Id>
+          <Value>コーチモンは　どこかに　ᜀ消᠀きᤀえた
+ᜀ鳥᠀とりᤀを　ᜀ守᠀まもᤀると　ᜀ言᠀いᤀっていたけど…
+とにかく　おじいさんに　ᜀ報告᠀ほうこくᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205001</Id>
+          <Value>ヨンゲン山・案内板</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177045</Id>
+          <Value>コーチモンは　どこかに　ᜀ消᠀きᤀえた
+ᜀ鳥᠀とりᤀを　ᜀ守᠀まもᤀると　ᜀ言᠀いᤀっていたけど…
+とにかく　おじいさんに　ᜀ報告᠀ほうこくᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759433</Id>
+          <Value>ヨンゲン山・案内板</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731477</Id>
+          <Value>コーチモンは　どこかに　ᜀ消᠀きᤀえた
+ᜀ鳥᠀とりᤀを　ᜀ守᠀まもᤀると　ᜀ言᠀いᤀっていたけど…
+とにかく　おじいさんに　ᜀ報告᠀ほうこくᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313865</Id>
+          <Value>ヨンゲン山・案内板</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285909</Id>
+          <Value>コーチモンは　どこかに　ᜀ消᠀きᤀえた
+ᜀ鳥᠀とりᤀを　ᜀ守᠀まもᤀると　ᜀ言᠀いᤀっていたけど…
+とにかく　おじいさんに　ᜀ報告᠀ほうこくᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>ヨンゲン山・案内板</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840341</Id>
+          <Value>コーチモンは　どこかに　ᜀ消᠀きᤀえた
+ᜀ鳥᠀とりᤀを　ᜀ守᠀まもᤀると　ᜀ言᠀いᤀっていたけど…
+とにかく　おじいさんに　ᜀ報告᠀ほうこくᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324010774</Id>
+          <Value>コーチモンは　ᜀ案内板᠀あんないばんᤀの　うしろの
+ᜀ鳥᠀とりᤀのᜀ巣᠀すᤀを　ᜀ守᠀まもᤀっていたと　わかった！
+なんだか　ᜀ悪᠀わるᤀいこと　しちゃったな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>134</NumberOfLabels>
+  <NumberOfStrings>134</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1835532</Id>
+          <Value>バイラモンが　いたぞ！
+まずは　１ᜀ体目᠀たいめᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18088461</Id>
+          <Value>よし！
+こいつが　２ᜀ体目᠀たいめᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36045584</Id>
+          <Value>おおっと　まだ　つかまるワケには
+いかないバ～イ！！
+バイバ～イのバ～イ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51905288</Id>
+          <Value>あっ！
+ＡＲダンジョンに
+ᜀ逃᠀にᤀげこんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>68026888</Id>
+          <Value>ᰏ
+ᜀ追᠀おᤀいかけるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>84673034</Id>
+          <Value>ᰏ
+バイラモン　いたぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>101974541</Id>
+          <Value>あ！
+ᜀ見᠀みᤀつかっちゃったバ～イ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118882826</Id>
+          <Value>バイラモン！！
+ᜀ逃᠀にᤀがさないからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135397896</Id>
+          <Value>あれっ！？
+ᜀ負᠀まᤀけちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>153617168</Id>
+          <Value>ᜀ逃᠀にᤀげないうちに
+バイラモンたちを
+ᜀ倒᠀たおᤀさなきゃ　いけないんだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170263057</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ大丈夫᠀だいじょうぶᤀ！
+もう１ᜀ度᠀どᤀ　いくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336327</Id>
+          <Value>いくぞ！
+バイラモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203031056</Id>
+          <Value>フヒヒヒヒ…
+ᜀ返᠀かえᤀりうちに　してやるバ～イ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>220201739</Id>
+          <Value>やられちゃったバ～イ！
+それでは　みなさん
+バイバイのバ～イ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>237765389</Id>
+          <Value>ᜀ今᠀いまᤀの　バイラモンは
+コピペモンの　ᜀ作᠀つくᤀった
+コピー　だったみたいだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>255984402</Id>
+          <Value>コピーでも　ᜀ本物᠀ほんものᤀと
+ᜀ同᠀おなᤀじᜀ力᠀ちからᤀを　ᜀ持᠀もᤀっているなら
+ヤバイ　アプモンには　ᜀ違᠀ちがᤀいないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>272499479</Id>
+          <Value>バイラモンは　ヨンゲンᜀ通᠀どおᤀりの
+どこかにいるはずだ
+ᜀ急᠀いそᤀいで　ᜀ次᠀つぎᤀのバイラモンを　ᜀ探᠀さがᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>286524173</Id>
+          <Value>ᰏ
+こいつも
+コピペモンの　コピーだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>305005074</Id>
+          <Value>ᜀ残᠀のこᤀりの　バイラモンは　２ᜀ体᠀たいᤀか
+ᜀ急᠀いそᤀいで　ᜀ探᠀さがᤀさなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>320209674</Id>
+          <Value>あれ　アプリトーク？
+カヨからだ
+なになに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>339477272</Id>
+          <Value>「こっちも　バイラモンを
+　１ᜀ体᠀たいᤀ　やっつけたわよ
+　ᜀ残念᠀ざんねんᤀだけど　ᜀ本物᠀ほんものᤀじゃなかった」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>355074833</Id>
+          <Value>えっ！
+もう　バトルしても　コピペモンは
+ᜀ大丈夫᠀だいじょうぶᤀ　だったのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>372245268</Id>
+          <Value>「バイラモンが　ᜀ増᠀ふᤀえた　ᜀ責任᠀せきにんᤀは
+　アタシと
+　コピペモンにも　あるからね」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>390595351</Id>
+          <Value>「それに！　アンタたちの　ᜀ実力᠀じつりょくᤀじゃ
+　バイラモンを　４ᜀ体᠀たいᤀも
+　ᜀ相手᠀あいてᤀするのは　ᜀ無理᠀むりᤀでしょうしね！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>404488717</Id>
+          <Value>まったく　カヨは
+ᜀ一言᠀ひとことᤀ　ᜀ多᠀おおᤀいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>422052627</Id>
+          <Value>あはは
+でも　このᜀ様子᠀ようすᤀじゃ　カヨらしさも
+ᜀ戻᠀もどᤀったみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>438174220</Id>
+          <Value>ᜀ残᠀のこᤀりは　バイラモンの
+ᜀ本体᠀ほんたいᤀだけだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>455213840</Id>
+          <Value>ᰏ
+バイラモンは　ヨンゲンᜀ通᠀どおᤀりの
+どこかに　いるはずだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>471597585</Id>
+          <Value>うん！
+ᜀ絶対᠀ぜったいᤀに　ᜀ逃᠀にᤀがさないぞ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>489423631</Id>
+          <Value>フヒヒヒヒ…
+ヨンゲンᜀ通᠀どおᤀりの　トラブルを
+バイバイに　ᜀ増᠀ふᤀやすバ～イ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>506069778</Id>
+          <Value>あっ！？
+このＡＲダンジョンから
+バイラモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>522191629</Id>
+          <Value>きっと　ここにも
+バイラモンが
+ᜀ逃᠀にᤀげこんで　いるんだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>537788936</Id>
+          <Value>よし
+ᜀ行᠀いᤀってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>554959373</Id>
+          <Value>うわ！
+ᜀ見᠀みᤀつかっちゃったバ～イ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>572260876</Id>
+          <Value>バイラモンが　いたぞ！
+まずは　１ᜀ体目᠀たいめᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>588513805</Id>
+          <Value>よし！
+こいつが　２ᜀ体目᠀たいめᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>605159944</Id>
+          <Value>あれっ！？
+ᜀ負᠀まᤀけちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>623379216</Id>
+          <Value>ᜀ逃᠀にᤀげないうちに
+バイラモンたちを
+ᜀ倒᠀たおᤀさなきゃ　いけないんだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>640025105</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ大丈夫᠀だいじょうぶᤀ！
+もう１ᜀ度᠀どᤀ　いくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>655098375</Id>
+          <Value>いくぞ！
+バイラモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>672793104</Id>
+          <Value>フヒヒヒヒ…
+ᜀ返᠀かえᤀりうちに　してやるバ～イ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>689963787</Id>
+          <Value>やられちゃったバ～イ！
+それでは　みなさん
+バイバイのバ～イ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>707527437</Id>
+          <Value>ᜀ今᠀いまᤀの　バイラモンは
+コピペモンの　ᜀ作᠀つくᤀった
+コピー　だったみたいだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>725746450</Id>
+          <Value>コピーでも　ᜀ本物᠀ほんものᤀと
+ᜀ同᠀おなᤀじᜀ力᠀ちからᤀを　ᜀ持᠀もᤀっているなら
+ヤバイ　アプモンには　ᜀ違᠀ちがᤀいないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>742261527</Id>
+          <Value>バイラモンは　ヨンゲンᜀ通᠀どおᤀりの
+どこかにいるはずだ
+ᜀ急᠀いそᤀいで　ᜀ次᠀つぎᤀのバイラモンを　ᜀ探᠀さがᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>756286221</Id>
+          <Value>ᰏ
+こいつも
+コピペモンの　コピーだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>774767122</Id>
+          <Value>ᜀ残᠀のこᤀりの　バイラモンは　２ᜀ体᠀たいᤀか
+ᜀ急᠀いそᤀいで　ᜀ探᠀さがᤀさなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>789971722</Id>
+          <Value>あれ　アプリトーク？
+カヨからだ
+なになに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>809239320</Id>
+          <Value>「こっちも　バイラモンを
+　１ᜀ体᠀たいᤀ　やっつけたわよ
+　ᜀ残念᠀ざんねんᤀだけど　ᜀ本物᠀ほんものᤀじゃなかった」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>824836881</Id>
+          <Value>えっ！
+もう　バトルしても　コピペモンは
+ᜀ大丈夫᠀だいじょうぶᤀ　だったのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>842007316</Id>
+          <Value>「バイラモンが　ᜀ増᠀ふᤀえた　ᜀ責任᠀せきにんᤀは
+　アタシと
+　コピペモンにも　あるからね」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>860357399</Id>
+          <Value>「それに！　アンタたちの　ᜀ実力᠀じつりょくᤀじゃ
+　バイラモンを　４ᜀ体᠀たいᤀも
+　ᜀ相手᠀あいてᤀするのは　ᜀ無理᠀むりᤀでしょうしね！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>874250765</Id>
+          <Value>まったく　カヨは
+ᜀ一言᠀ひとことᤀ　ᜀ多᠀おおᤀいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>891814675</Id>
+          <Value>あはは
+でも　このᜀ様子᠀ようすᤀじゃ　カヨらしさも
+ᜀ戻᠀もどᤀったみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>907936268</Id>
+          <Value>ᜀ残᠀のこᤀりは　バイラモンの
+ᜀ本体᠀ほんたいᤀだけだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>924975888</Id>
+          <Value>ᰏ
+バイラモンは　ヨンゲンᜀ通᠀どおᤀりの
+どこかに　いるはずだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>941359633</Id>
+          <Value>うん！
+ᜀ絶対᠀ぜったいᤀに　ᜀ逃᠀にᤀがさないぞ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>958137099</Id>
+          <Value>いた！
+あいつが　バイラモンの
+ᜀ本体᠀ほんたいᤀだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>976749332</Id>
+          <Value>うわ！！　ᜀ見᠀みᤀつかったバイ！
+でも　こういうときのために
+ＡＲダンジョンを　ᜀ作᠀つくᤀっておいたバイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>991035914</Id>
+          <Value>フヒヒヒヒ！
+バイバイのバ～イ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008599565</Id>
+          <Value>あっ！　ᜀ待᠀まᤀてっ！！
+ᜀ追᠀おᤀいかけるぞ　ロギモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1023672579</Id>
+          <Value>おう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042285323</Id>
+          <Value>バイラモンのヤツ
+また　ＡＲダンジョンに
+ᜀ逃᠀にᤀげこんだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060111121</Id>
+          <Value>コピーは　ᜀ全部᠀ぜんぶᤀやっつけたから
+ここのヤツが
+ᜀ最後᠀さいごᤀの　１ᜀ体᠀たいᤀだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076232976</Id>
+          <Value>うん
+ᜀ絶対᠀ぜったいᤀに　ᜀ逃᠀にᤀがさないよう
+ᜀ追᠀おᤀいつめよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091961358</Id>
+          <Value>わわわ！
+ᜀ追᠀おᤀいつめられちゃったバイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109918229</Id>
+          <Value>こいつが　ᜀ本物᠀ほんものᤀの　バイラモンだな！
+もう　ᜀ逃᠀にᤀがさないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125253640</Id>
+          <Value>あれっ！？
+ᜀ負᠀まᤀけちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143866128</Id>
+          <Value>さすがに　ᜀ本物᠀ほんものᤀだけあって
+この　バイラモンは
+ᜀ手᠀てᤀごわい　みたいだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160381200</Id>
+          <Value>うん　でも
+ᜀ今度᠀こんどᤀは　ᜀ大丈夫᠀だいじょうぶᤀ
+もう１ᜀ度᠀どᤀ　いくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175192071</Id>
+          <Value>いくぞ！
+バイラモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192886799</Id>
+          <Value>フヒヒヒヒ！
+ᜀ返᠀かえᤀりうちに　してやるバイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210974995</Id>
+          <Value>ぐわわっ！
+まさか　ᜀ本物᠀ほんものᤀの　オレᜀ様᠀さまᤀが…
+や…　やられちゃったバイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226441235</Id>
+          <Value>ᰏ！
+それが　ᜀ本物᠀ほんものᤀの　バイラモン！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243611917</Id>
+          <Value>うん
+ᜀ今᠀いまᤀ　ちょうど　バトルに
+ᜀ勝᠀かᤀったところだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261306640</Id>
+          <Value>フヒヒヒヒ…
+でも　これで　ᜀ終᠀おᤀわりだなんて
+ᜀ思᠀おもᤀわないほうが　いいバ～イ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277821711</Id>
+          <Value>…これで　ᜀ終᠀おᤀわりじゃない？
+バイラモン
+それ　どういう　ᜀ意味᠀いみᤀだ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_077_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294598927</Id>
+          <Value>…これで　ᜀ終᠀おᤀわりじゃない？
+バイラモン
+それ　どういう　ᜀ意味᠀いみᤀよ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310720780</Id>
+          <Value>フヒヒヒヒ…
+そ…　それでは　みなさん
+バイバイの…　バ～イ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327235597</Id>
+          <Value>これで　バイラモンは
+ᜀ全部᠀ぜんぶᤀ　やっつけたぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344799499</Id>
+          <Value>オイラの　ᜀ失敗᠀しっぱいᤀ
+ᜀ解決᠀かいけつᤀできたのー
+よかった　よかったー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360003596</Id>
+          <Value>ふう…
+なんとかなった　みたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1378353934</Id>
+          <Value>でも　バイラモン
+ᜀ最後᠀さいごᤀに　ᜀ気᠀きᤀになること
+ᜀ言᠀いᤀってたな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394213389</Id>
+          <Value>あんなの　きっと
+ただの　ᜀ負᠀まᤀけおしみだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412694804</Id>
+          <Value>ああ　そうかもね
+ウィルスᜀ騒動᠀そうどうᤀが　ᜀ広᠀ひろᤀがらなくて
+ᜀ本当᠀ほんとうᤀに　よかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1426325763</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1443758601</Id>
+          <Value>うん？
+どうかした　カヨ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462502159</Id>
+          <Value>あー　えっと　あの…
+コピペモンを　ᜀ助᠀たすᤀけてくれて
+あ…　あ　あり…　ありが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1477050886</Id>
+          <Value>えっ？
+なに　カヨ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495794448</Id>
+          <Value>ありが…
+ありがたいと　ᜀ思᠀おもᤀいなさいよ！
+ᜀ受᠀うᤀけてあげるんだから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511391756</Id>
+          <Value>え？
+ᜀ受᠀うᤀけるって　ᜀ何᠀なにᤀを？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527382281</Id>
+          <Value>ランカーバトルよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546912530</Id>
+          <Value>アンタが　ᜀ気᠀きᤀにいらないのは
+ᜀ変᠀かᤀわらないけど
+コピペモンを　ᜀ助᠀たすᤀけてくれたから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562116627</Id>
+          <Value>やった！
+Ｃランカーバトル　ᜀ受᠀うᤀけてくれるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580073745</Id>
+          <Value>ええ
+でも　まずは　ここを　ᜀ出᠀でᤀましょう
+バトルは　ᜀ外᠀そとᤀに　ᜀ出᠀でᤀてからよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594491146</Id>
+          <Value>うん　わかったよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612972813</Id>
+          <Value>いよいよ　Ｃランクマスター
+カヨと　バトルだ！
+よーし　がんばるぞ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_001_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1629225484</Id>
+          <Value>バイラモンが　いたわ！
+まずは　１ᜀ体目᠀たいめᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1645740558</Id>
+          <Value>よし！
+このᜀ子᠀こᤀが　２ᜀ体目᠀たいめᤀね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1662649097</Id>
+          <Value>あっ！
+ＡＲダンジョンに
+ᜀ逃᠀にᤀげこんだわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1679032841</Id>
+          <Value>バイラモン！！
+ᜀ逃᠀にᤀがさないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1696989713</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ大丈夫᠀だいじょうぶᤀ！
+もう１ᜀ度᠀どᤀ　いくわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712194055</Id>
+          <Value>いくわよ！
+バイラモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_016_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1732379410</Id>
+          <Value>コピーでも　ᜀ本物᠀ほんものᤀと
+ᜀ同᠀おなᤀじᜀ力᠀ちからᤀを　ᜀ持᠀もᤀっているなら
+ヤバイ　アプモンには　ᜀ違᠀ちがᤀいないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1749025560</Id>
+          <Value>バイラモンは　ヨンゲンᜀ通᠀どおᤀりの
+どこかにいるはずよ
+ᜀ急᠀いそᤀいで　ᜀ次᠀つぎᤀのバイラモンを　ᜀ探᠀さがᤀしましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764622866</Id>
+          <Value>ᜀ残᠀のこᤀりの　バイラモンは　２ᜀ体᠀たいᤀね
+ᜀ急᠀いそᤀいで　ᜀ探᠀さがᤀさなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1781007123</Id>
+          <Value>あはは
+でも　このᜀ様子᠀ようすᤀじゃ　カヨらしさも
+ᜀ戻᠀もどᤀったみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1797128716</Id>
+          <Value>ᜀ残᠀のこᤀりは　バイラモンの
+ᜀ本体᠀ほんたいᤀ　だけよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_029_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813774865</Id>
+          <Value>うん！
+ᜀ絶対᠀ぜったいᤀに　ᜀ逃᠀にᤀがさないわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1831469842</Id>
+          <Value>あっ！？
+このＡＲダンジョンから
+バイラモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえたわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_033_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1846542857</Id>
+          <Value>よし
+ᜀ行᠀いᤀってみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864106508</Id>
+          <Value>バイラモンが　いたわ！
+まずは　１ᜀ体目᠀たいめᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1880621582</Id>
+          <Value>よし！
+このᜀ子᠀こᤀが　２ᜀ体目᠀たいめᤀね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1898316305</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ大丈夫᠀だいじょうぶᤀ！
+もう１ᜀ度᠀どᤀ　いくわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1913520647</Id>
+          <Value>いくわよ！
+バイラモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1933706002</Id>
+          <Value>コピーでも　ᜀ本物᠀ほんものᤀと
+ᜀ同᠀おなᤀじᜀ力᠀ちからᤀを　ᜀ持᠀もᤀっているなら
+ヤバイ　アプモンには　ᜀ違᠀ちがᤀいないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1950352152</Id>
+          <Value>バイラモンは　ヨンゲンᜀ通᠀どおᤀりの
+どこかにいるはずよ
+ᜀ急᠀いそᤀいで　ᜀ次᠀つぎᤀのバイラモンを　ᜀ探᠀さがᤀしましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_047_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1965949458</Id>
+          <Value>ᜀ残᠀のこᤀりの　バイラモンは　２ᜀ体᠀たいᤀね
+ᜀ急᠀いそᤀいで　ᜀ探᠀さがᤀさなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982333715</Id>
+          <Value>あはは
+でも　このᜀ様子᠀ようすᤀじゃ　カヨらしさも
+ᜀ戻᠀もどᤀったみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1998455308</Id>
+          <Value>ᜀ残᠀のこᤀりは　バイラモンの
+ᜀ本体᠀ほんたいᤀ　だけよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2015101457</Id>
+          <Value>うん！
+ᜀ絶対᠀ぜったいᤀに　ᜀ逃᠀にᤀがさないわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2031878923</Id>
+          <Value>いた！
+あいつが　バイラモンの
+ᜀ本体᠀ほんたいᤀね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2048918030</Id>
+          <Value>あっ！　ᜀ待᠀まᤀってっ！！
+ᜀ追᠀おᤀいかけるわよ　ロギモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_063_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065826571</Id>
+          <Value>バイラモンったら
+また　ＡＲダンジョンに
+ᜀ逃᠀にᤀげこんだのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_065_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2082997009</Id>
+          <Value>うん
+ᜀ絶対᠀ぜったいᤀに　ᜀ逃᠀にᤀがさないように
+ᜀ追᠀おᤀいつめましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2099773972</Id>
+          <Value>アナタが　ᜀ本物᠀ほんものᤀの　バイラモンね！
+もう　ᜀ逃᠀にᤀがさないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_070_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116813584</Id>
+          <Value>うん　でも
+ᜀ今度᠀こんどᤀは　ᜀ大丈夫᠀だいじょうぶᤀ
+もう１ᜀ度᠀どᤀ　いくわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_071_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2131624455</Id>
+          <Value>いくわよ！
+バイラモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_082_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2150236942</Id>
+          <Value>でも　バイラモン
+ᜀ最後᠀さいごᤀに　ᜀ気᠀きᤀになること
+ᜀ言᠀いᤀってたわよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_084_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2167669524</Id>
+          <Value>ああ　そうかもね
+ウィルスᜀ騒動᠀そうどうᤀが　ᜀ広᠀ひろᤀがらなくて
+ᜀ本当᠀ほんとうᤀに　よかったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_086_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2181956106</Id>
+          <Value>うん？
+どうかしたの　カヨ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2199650835</Id>
+          <Value>やった！
+Ｃランカーバトル　ᜀ受᠀うᤀけてくれるのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_095_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2215248138</Id>
+          <Value>うん　わかったわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_29_096_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2233729805</Id>
+          <Value>いよいよ　Ｃランクマスター
+カヨと　バトルね！
+よーし　がんばるわよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

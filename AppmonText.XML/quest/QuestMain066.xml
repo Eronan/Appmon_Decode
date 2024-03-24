@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>56</NumberOfLabels>
+  <NumberOfStrings>56</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1573135</Id>
+          <Value>ᜀ町᠀まちᤀのᜀ平和᠀へいわᤀをᜀ守᠀まもᤀれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826064</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404886</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380496</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959318</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934928</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513750</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489360</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068182</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152043792</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622614</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598224</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177046</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152656</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731478</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252707088</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285910</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286261520</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840342</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319815952</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>340394774</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>353370384</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>373949206</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386924816</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>407503638</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>420479248</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>441058070</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>454033680</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>474612502</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487588112</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>508166934</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>521142544</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>541721366</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554696976</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>575275798</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>588251408</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>608830230</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621805840</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>642384662</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>655360272</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>675939094</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>688914704</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>709493526</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>722469136</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>743047958</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>756023568</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>776602390</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789578000</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>810156822</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>823132432</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>843711254</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>856686864</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>877265686</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>890241296</Id>
+          <Value>すべてのカオスゲートを解除しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>910820118</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>927597334</Id>
+          <Value>カオスＡＲフィールドは　ヒフミがᜀ丘᠀おかᤀの
+ᜀ外᠀そとᤀでも　ᜀ広᠀ひろᤀがりはじめている！
+すべての　カオスゲートを　ᜀ解除᠀かいじょᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

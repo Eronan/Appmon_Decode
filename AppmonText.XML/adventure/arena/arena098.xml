@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3932951</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「デイリーᜀ大会᠀たいかいᤀ・超」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>21103389</Id>
+          <Value>「デイリーᜀ大会᠀たいかいᤀ・超」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>37618452</Id>
+          <Value>ワタシの　ᜀ辞書᠀じしょᤀに　ᜀ不可能᠀ふかのうᤀの
+ᜀ文字᠀もじᤀは　ない！
+ᜀ勝᠀かᤀてるまで　ᜀ戦᠀たたかᤀうのみ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>54526743</Id>
+          <Value>ゴホッ　ケホッ…　サプリモンを…
+アプリンクすれば　ᜀ状態異常᠀じょうたいいじょうᤀを
+ᜀ受᠀うᤀけなくな…　ゲホッ　ゲホッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>69206796</Id>
+          <Value>バトル…　よろしく
+ぜったい　まけないから…
+あまく　みないで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>87950104</Id>
+          <Value>キミとの　バトル　ᜀ電波良好᠀でんぱりょうこうᤀ！
+さあ　ᜀ通信制限᠀つうしんせいげんᤀ　かからないうちに
+はじめようか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>104858389</Id>
+          <Value>ᜀ位置᠀いちᤀについて　ᜀ用意᠀よういᤀ！
+ᜀ勝᠀かᤀちに　ᜀ向᠀むᤀかって
+ᜀ全速力᠀ぜんそくりょくᤀ　トバしていくからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>123732763</Id>
+          <Value>エムシーモンのᜀ動画᠀どうがᤀ　すごいᜀ再生数᠀さいせいすうᤀなの
+ᜀ映᠀うつᤀっちゃったら　ワタシも　ᜀ人気者᠀にんきものᤀ？
+キミ　いいᜀ引᠀ひᤀきᜀ立᠀たᤀてᜀ役᠀やくᤀに　なってよね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>136839953</Id>
+          <Value>キミが　ᰏ…
+ウワサには　ᜀ聞᠀きᤀいてるよ
+このバトル　おもしろくなりそうだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>コンサルモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21234453</Id>
+          <Value>コンサルモンは　ᜀ節約᠀せつやくᤀのアプリだ
+ᜀ功績᠀こうせきᤀにᜀ応᠀おうᤀじて　アイテムをくれる
+プライズカウンターを　やってるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38142741</Id>
+          <Value>ᜀ功績᠀こうせきᤀそのᜀ一᠀いちᤀ！　いろんなところで
+ᜀ手᠀てᤀにはいる　データラボチケット！
+ᜀ集᠀あつᤀめると　アイテムをもらえるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55051028</Id>
+          <Value>ᜀ功績᠀こうせきᤀそのᜀ二᠀にᤀ！　ＡＲダンジョンを
+クリアでもらえる　クリアのᜀ証᠀あかしᤀ！
+たくさんᜀ集᠀あつᤀめて　アイテムもらえよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221463</Id>
+          <Value>アプリドライヴァーが　ᜀ活躍᠀かつやくᤀすると
+ネットワールドが　ᜀ活気᠀かっきᤀづくんだってさ
+コンサルモンにも　ᜀ嬉᠀うれᤀしいᜀ施設᠀しせつᤀなんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

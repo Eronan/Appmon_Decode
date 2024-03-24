@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>98</NumberOfLabels>
+  <NumberOfStrings>98</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2360082</Id>
+          <Value>グスン…　ヒック…
+どうして…　どうしてこんなことが…
+アウウ………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301767</Id>
+          <Value>どうかしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36700944</Id>
+          <Value>ᜀ聞᠀きᤀいてくれるの！？
+ぼくは　いま　まさに
+ᜀ絶望᠀ぜつぼうᤀのᜀ底᠀そこᤀにいるんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51904786</Id>
+          <Value>このᜀ自販機᠀じはんきᤀを　ᜀ見᠀みᤀてくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69337616</Id>
+          <Value>ᜀ自販機᠀じはんきᤀ？
+ᜀ普通᠀ふつうᤀのᜀ自販機᠀じはんきᤀじゃ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410631</Id>
+          <Value>ないんだよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103940882</Id>
+          <Value>ないんだよ！　アレが！
+ぼくの　ᜀ愛᠀いとᤀしの　ヒフミオレが！
+ᜀ売᠀うᤀってないんだよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>ヒ　ヒフミオレ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543899</Id>
+          <Value>ヒフミがᜀ丘限定᠀おかげんていᤀで　ᜀ販売᠀はんばいᤀされている
+ヒジョーに　ローカルで　レアな
+ᜀ缶᠀かんᤀコーヒーなんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154927892</Id>
+          <Value>もう　コンビニでも　ᜀ売᠀うᤀってないけれど
+ここの　ᜀ自販機᠀じはんきᤀでは　いつでも
+ᜀ売᠀うᤀっていたのに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171442963</Id>
+          <Value>ᜀ今日᠀きょうᤀは　どこにも　ᜀ売᠀うᤀってない！
+こんなᜀ日᠀ひᤀが　くるなんて
+かなしくって　しかたないよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187826968</Id>
+          <Value>な　なんだか
+よくわからないけど…
+ᜀ本人᠀ほんにんᤀにとっては　ᜀ一大事᠀いちだいじᤀみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203555343</Id>
+          <Value>…ちょっと　ᜀ自販機᠀じはんきᤀを
+ᜀ調᠀しらᤀべてみようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>218235136</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>238420759</Id>
+          <Value>…よし　ᜀ自販機᠀じはんきᤀを　ᜀ調᠀しらᤀべてみよう！
+ヒフミオレについて
+なにか　わかるかもしれない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>251789568</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>270795281</Id>
+          <Value>ええと　ヒフミオレは…
+ᜀ取᠀とᤀりᜀ扱᠀あつかᤀわれて　ないみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>285344000</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>304480787</Id>
+          <Value>ええと　ヒフミオレは…
+『ᜀ売᠀うᤀってない　というᜀ設定᠀せっていᤀ』？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>323093270</Id>
+          <Value>このᜀ自販機᠀じはんきᤀ　ᜀ様子᠀ようすᤀがおかしいな
+ここから　ᜀ自販機᠀じはんきᤀの
+ＡＲダンジョンに　ᜀ行᠀いᤀけそうだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>335675648</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>352452864</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>371720726</Id>
+          <Value>やっぱり　アプモンがいた！
+ᜀ自販機᠀じはんきᤀを　おかしくしてるのは　キミ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>387580434</Id>
+          <Value>はい
+そういう　ᜀ設定᠀せっていᤀになってますね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>403439881</Id>
+          <Value>ᜀ設定᠀せっていᤀって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>421790481</Id>
+          <Value>そのとおり
+ᜀ私᠀わたしᤀは　ᜀ設定᠀せっていᤀのアプリ
+セットモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>438436619</Id>
+          <Value>セットモン！
+じゃあ　ヒフミオレが
+ᜀ売᠀うᤀられていないのも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>454558225</Id>
+          <Value>はい
+そういう　ᜀ設定᠀せっていᤀにしてますね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>473039638</Id>
+          <Value>やっぱり！
+ᜀ買᠀かᤀえなくて　ᜀ困᠀こまᤀってるᜀ人᠀ひとᤀがいるんだ
+イジワルは　やめてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>488243727</Id>
+          <Value>もしかして
+そういう　ᜀ設定᠀せっていᤀですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>504758795</Id>
+          <Value>ちがうよ！
+ᜀ本当᠀ほんとうᤀだってば！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>523240209</Id>
+          <Value>しかし　ヒフミオレは
+「マズい　コーヒー」として
+ネットじゃ　ᜀ有名᠀ゆうめいᤀなんですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>538182159</Id>
+          <Value>ほらほら
+このグルメレポートに　よれば…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>559285020</Id>
+          <Value>『ᜀ練乳᠀れんにゅうᤀと　ᜀ生᠀なまᤀクリームの　ドギツイᜀ甘᠀あまᤀさ
+オレとᜀ名前᠀なまえᤀは　ついていても
+コーヒーのᜀ香᠀かおᤀりは　ᜀ感᠀かんᤀじられない』</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>577110816</Id>
+          <Value>『のどにᜀ引᠀ひᤀっかかる　ᜀ粉᠀こなᤀっぽいᜀ甘᠀あまᤀさ
+ᜀ缶一本᠀かんいっぽんᤀで　ᜀ丸一日᠀まるいちにちᤀは　ᜀ胃᠀いᤀもたれカクジツ
+ᜀ開発者᠀かいはつしゃᤀの　ᜀ愚行᠀ぐこうᤀである』…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>588251405</Id>
+          <Value>す　すごい　ᜀ言᠀いᤀわれよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>608961306</Id>
+          <Value>きっと　こんなもの　ᜀ売᠀うᤀってるから
+このᜀ自販機᠀じはんきᤀは　ᜀ売上᠀うりあげᤀがわるいんですよ
+ワタシ　それで　ᜀ退屈᠀たいくつᤀなんです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>625083157</Id>
+          <Value>でも　ᜀ買᠀かᤀいたいって　ᜀ人᠀ひとᤀがいるんだ！
+ᜀ商品᠀しょうひんᤀが　あるんだったら
+ちゃんと　ᜀ売᠀うᤀってあげてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>639107596</Id>
+          <Value>しかたありませんねえ…
+では　こうしましょう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>658506520</Id>
+          <Value>ワタシ　タイクツしているんです
+ᜀ勝手᠀かってᤀに　ᜀ自販機᠀じはんきᤀの　ᜀ設定᠀せっていᤀを
+いじっちゃうくらいにはね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>675414805</Id>
+          <Value>だから　ワタシと　バトルして
+ᜀ勝᠀かᤀったら　ヒフミオレᜀ再販᠀さいはんᤀ！
+…という　ᜀ設定᠀せっていᤀにしても　いいですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>690225684</Id>
+          <Value>ᜀ本当᠀ほんとうᤀ！？
+じゃあ　そういうᜀ設定᠀せっていᤀで　たのむよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>707527189</Id>
+          <Value>『ᜀ設定᠀せっていᤀを　ᜀ変更᠀へんこうᤀしました』
+…それでは　バトルスタートです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>725091094</Id>
+          <Value>ワタシとの　バトルにᜀ勝᠀かᤀてたら
+ヒフミオレを
+ᜀ再販᠀さいはんᤀする　ᜀ設定᠀せっていᤀになっています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>739901963</Id>
+          <Value>さあ　もうᜀ一度᠀いちどᤀ
+バトルスタートです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>755106048</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>773063180</Id>
+          <Value>さあ
+ᜀ勝᠀かᤀったよ　セットモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>792331024</Id>
+          <Value>ワタシとの　バトルにᜀ勝᠀かᤀてたら
+ヒフミオレを　ᜀ再販᠀さいはんᤀする
+そういう　ᜀ設定᠀せっていᤀでしたね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>806093319</Id>
+          <Value>いいでしょう
+それっ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>826278677</Id>
+          <Value>『ᜀ設定᠀せっていᤀを　ᜀ変更᠀へんこうᤀしました』
+…これで　ヒフミオレが
+ᜀ販売᠀はんばいᤀできるように　なりましたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>840040972</Id>
+          <Value>やった！
+ありがとう　セットモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>860357401</Id>
+          <Value>それにしても
+ヒフミオレが　ᜀ好᠀すᤀきという　ᜀ設定᠀せっていᤀは
+ᜀ大変᠀たいへんᤀ　ᜀ非効率᠀ひこうりつᤀかと　ᜀ思᠀おもᤀわれます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>875823891</Id>
+          <Value>この『マズい　コーヒー』を
+ᜀ販売設定᠀はんばいせっていᤀしているのは
+このあたりでは　ここだけ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>894829339</Id>
+          <Value>ᜀ誰᠀だれᤀもが　ᜀ好᠀すᤀきなものなら
+もっと　ᜀ楽᠀らくᤀに　ᜀ入手᠀にゅうしゅᤀできるでしょう
+そうした　ᜀ設定᠀せっていᤀのほうが　ᜀ効率的᠀こうりつてきᤀかと</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>908722959</Id>
+          <Value>うーん　そうかもしれないけど
+ᜀ好᠀すᤀきに　なっちゃったものは
+しかたないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>928121622</Id>
+          <Value>ᜀ人間᠀にんげんᤀって　アプリとᜀ違᠀ちがᤀって
+ᜀ設定᠀せっていᤀをᜀ変᠀かᤀえるの　ᜀ大変᠀たいへんᤀなんだ
+…そのぶん　ᜀ楽᠀たのᤀしいことも　あるけどね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>942146316</Id>
+          <Value>そういう　ものですか…
+そんな　ᜀ設定᠀せっていᤀも
+アリかも　しれませんね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>960102934</Id>
+          <Value>…よし　ᜀ設定᠀せっていᤀもᜀ直᠀なおᤀしてもらったし
+ᜀ男᠀おとこᤀのᜀ子᠀こᤀのところに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>973209856</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>992870933</Id>
+          <Value>『マズい　コーヒー』　ヒフミオレを
+ᜀ再販᠀さいはんᤀする　ᜀ設定᠀せっていᤀにしています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010172691</Id>
+          <Value>…　ᜀ非効率᠀ひこうりつᤀを　ᜀ好᠀すᤀきになる
+そういう　ᜀ設定᠀せっていᤀも
+アリかも　しれませんね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1023541504</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042154003</Id>
+          <Value>…ヒフミオレ
+『ᜀ販売中᠀はんばいちゅうᤀ』に　なってる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057095936</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076626192</Id>
+          <Value>アウウ…　ウウ…
+ぼくの　ヒフミオレ…
+もうᜀ二度᠀にどᤀと　ᜀ会᠀あᤀえないの…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091961357</Id>
+          <Value>ねえ！
+ヒフミオレ　ᜀ見᠀みᤀつけたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110311698</Id>
+          <Value>ぐすん…　ヒフミオレ　ᜀ見᠀みᤀつけたの…
+ヒフミオレ　まだ　あったんだ…
+そっか…　そっ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1124335875</Id>
+          <Value>へっ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143210514</Id>
+          <Value>え　ええええーーーーッ！？
+それ！　それって　ᜀ本当᠀ほんとうᤀに！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159201294</Id>
+          <Value>う　うん
+あっちの　ᜀ自販機᠀じはんきᤀに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175716363</Id>
+          <Value>わあーーッ！
+ぼくの　ヒフミオレ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1191313664</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210319634</Id>
+          <Value>グスン…　ヒック…
+どうして…　どうしてこんなことが…
+アウウ………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227227665</Id>
+          <Value>ねえ！　ᜀ見᠀みᤀてよ　これ！
+ᜀ夢᠀ゆめᤀみたいな　ラインナップだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242694154</Id>
+          <Value>え？
+ᜀ夢᠀ゆめᤀのようなって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1262093078</Id>
+          <Value>『ヒフミオレ　のみ
+ᜀ販売中᠀はんばいちゅうᤀのᜀ設定᠀せっていᤀ』…！？
+ヒフミオレしか　ᜀ売᠀うᤀってない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276117512</Id>
+          <Value>セ　セットモン
+やりすぎだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294467855</Id>
+          <Value>う　うわーん！
+ネットで　マズいコーヒーだと
+ᜀ言᠀いᤀわれても　いいんだ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311900434</Id>
+          <Value>ぼくがᜀ好᠀すᤀきってことが
+ᜀ大事᠀だいじᤀなんだ！
+たくさん　ᜀ買᠀かᤀうからね　ヒフミオレ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326449161</Id>
+          <Value>…うれしそうだし
+まあ　いいか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1342963980</Id>
+          <Value>ありがとう　セットモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359085824</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1378616080</Id>
+          <Value>んー！　ヒフミオレの
+のどに　ᜀ引᠀ひᤀっかかるᜀ甘᠀あまᤀさ！
+これだよ　これ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393426699</Id>
+          <Value>きみも　ᜀ飲᠀のᤀんでみる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1409810695</Id>
+          <Value>いただきます！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429340946</Id>
+          <Value>ᜀ練乳᠀れんにゅうᤀと　ᜀ生᠀なまᤀクリームが
+のどに　はりつく
+えげつない　ᜀ甘᠀あまᤀさだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1444807439</Id>
+          <Value>どう？　どう？
+おいしいでしょ？　そうでしょ！
+あははっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460273418</Id>
+          <Value>え　エンリョします…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1477837324</Id>
+          <Value>あれ　きみは
+ᜀ甘᠀あまᤀいものは　キライ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495269905</Id>
+          <Value>それもいいよね！
+ᜀ好᠀このᤀみは　ᜀ人᠀ひとᤀそれぞれだもん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1513095960</Id>
+          <Value>な　なんだか
+よくわからないけど…
+ᜀ本人᠀ほんにんᤀにとっては　ᜀ一大事᠀いちだいじᤀみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1530266390</Id>
+          <Value>…よし　ᜀ自販機᠀じはんきᤀを　ᜀ調᠀しらᤀべてみよう！
+ヒフミオレについて
+なにか　わかるかもしれないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545863697</Id>
+          <Value>ええと　ヒフミオレは…
+ᜀ取᠀とᤀりᜀ扱᠀あつかᤀわれて　ないみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564476181</Id>
+          <Value>このᜀ自販機᠀じはんきᤀ　ᜀ様子᠀ようすᤀがおかしいわ
+ここから　ᜀ自販機᠀じはんきᤀの
+ＡＲダンジョンに　ᜀ行᠀いᤀけそうね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579418133</Id>
+          <Value>ᜀ本当᠀ほんとうᤀ！？
+じゃあ　そういうᜀ設定᠀せっていᤀで　たのむわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_048_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1595146765</Id>
+          <Value>さあ
+ᜀ勝᠀かᤀったわよ　セットモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_059_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1614414357</Id>
+          <Value>…よし　ᜀ設定᠀せっていᤀもᜀ直᠀なおᤀしてもらったし
+ᜀ男᠀おとこᤀのᜀ子᠀こᤀのところに　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_07_087_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630667537</Id>
+          <Value>ᜀ練乳᠀れんにゅうᤀと　ᜀ生᠀なまᤀクリームが
+のどに　はりつく
+えげつない　ᜀ甘᠀あまᤀさだわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

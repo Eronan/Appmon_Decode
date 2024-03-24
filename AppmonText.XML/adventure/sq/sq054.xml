@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>196</NumberOfLabels>
+  <NumberOfStrings>196</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1966607</Id>
+          <Value>『アストラの　ノレる？
+ノレない？　ᜀ超᠀ちょうᤀノレる！』</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19923730</Id>
+          <Value>さあ！　ᜀ今日᠀きょうᤀの　ターゲットは…
+ここ　ニコタマᜀ川᠀がわᤀだ！
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36438799</Id>
+          <Value>アストラ…ボクたちは
+アプチューブの　ᜀ撮影᠀さつえいᤀに
+ᜀ来᠀きᤀたんじゃないだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52691725</Id>
+          <Value>そうだった！
+ᜀ今日᠀きょうᤀの　ターゲットは
+セブンコードアプモンか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70386448</Id>
+          <Value>ᜀ今᠀いまᤀ　セブンコードアプモンって
+ᜀ言᠀いᤀったよね？
+もしかして　ハルの　ᜀ知᠀しᤀりあい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85197320</Id>
+          <Value>おまえ　ハルを
+ᜀ知᠀しᤀってるのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103940882</Id>
+          <Value>まさか　ハルが　このᜀ辺᠀へんᤀでᜀ会᠀あᤀった
+シンセツな　アプリドライヴァーって
+おまえのこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119800587</Id>
+          <Value>えーっと…
+なんてᜀ言᠀いᤀったっけな？
+たしか　ᜀ名前᠀なまえᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>134873352</Id>
+          <Value>オレは　ᰏだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154665748</Id>
+          <Value>そう　ᰏだ！
+いきなり　そんなヤツに　ᜀ会᠀あᤀえるなんて
+やっぱ　ᜀ俺᠀おれᤀたち　ᜀ超᠀ちょうᤀノレてる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171311892</Id>
+          <Value>ᜀ頼᠀たよᤀれるヤツだって
+ハルから　ᜀ聞᠀きᤀいてたんだ
+さっそくだけど　ᜀ手伝᠀てつだᤀってもらうぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729295</Id>
+          <Value>アプチューブの　ネタᜀ探᠀さがᤀし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>202768910</Id>
+          <Value>セブンコードアプモンᜀ探᠀さがᤀし
+だってば</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>219677450</Id>
+          <Value>そう　それ！
+どうだ　ᰏ
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>235667720</Id>
+          <Value>ᜀ超᠀ちょうᤀノレない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>253231629</Id>
+          <Value>ごめん　ちょっと　ᜀ今᠀いまᤀは
+いそがしくて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>269746698</Id>
+          <Value>マジかよ！？
+ᜀ超᠀ちょうᤀノレねぇ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>287834898</Id>
+          <Value>まぁいい
+ᜀ俺᠀おれᤀは　おまえが　ノってくれるまで
+ここで　ᜀ待᠀まᤀってるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>305136399</Id>
+          <Value>どうだ？　ᜀ俺᠀おれᤀと　いっしょに
+セブンコードアプモン　ᜀ探᠀さがᤀし
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>319422727</Id>
+          <Value>ᜀ超᠀ちょうᤀノレる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>337117710</Id>
+          <Value>ノレる…って
+ᜀ答᠀こたᤀえれば　いいのかな…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>355599123</Id>
+          <Value>ᰏ　ᜀ超᠀ちょうᤀノレる！！
+ᜀ俺᠀おれᤀは　マジノレてる　アプチューバー
+アストラだ　よろしくな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>370541069</Id>
+          <Value>アストラ？
+めずらしい　ᜀ名前᠀なまえᤀだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>388366862</Id>
+          <Value>ᜀ飛鳥᠀あすかᤀ　ᜀ虎次郎᠀とらじろうᤀ
+ᜀ略᠀りゃくᤀして　アストラだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>404881944</Id>
+          <Value>なんだ
+ᜀ本名᠀ほんみょうᤀは　ᜀ虎次郎᠀とらじろうᤀ　っていうのか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>421921297</Id>
+          <Value>ᜀ虎次郎᠀とらじろうᤀ　って　ᜀ呼᠀よᤀぶな！
+ᜀ俺᠀おれᤀは　アストラだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>437256713</Id>
+          <Value>わかったよ…
+よろしく　アストラ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>455082768</Id>
+          <Value>おう！
+じゃあ　さっそく
+ノリノリで　ᜀ探᠀さがᤀしにいくぜ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>474743576</Id>
+          <Value>ᜀ手伝᠀てつだᤀってくれって　ᜀ言᠀いᤀっておきながら
+オレを　おいて　いなくなっちゃった
+ᜀ連絡先᠀れんらくさきᤀも　ᜀ交換᠀こうかんᤀしてないのに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>488506121</Id>
+          <Value>えっと…　たしか
+アプチューバーって
+ᜀ言᠀いᤀってたよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>506331919</Id>
+          <Value>アプチューブからの　コメントで
+ᜀ呼᠀よᤀびかけてみるか…
+えっと…　アストラ…アストラ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>524157718</Id>
+          <Value>ニコタマᜀ川᠀がわᤀで　とったᜀ動画᠀どうがᤀが
+アップされてる…
+ᜀ投稿日時᠀とうこうにちじᤀは…　たった　ᜀ今᠀いまᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>541721367</Id>
+          <Value>ここは…　ᜀ水᠀みずᤀのᜀ流᠀ながᤀれるᜀ掲示板᠀けいじばんᤀ…
+ᜀ向᠀むᤀこうに　そんなᜀ場所᠀ばしょᤀが　あったな
+よし　ᜀ行᠀いᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>555483666</Id>
+          <Value>これでも　ᜀ泣᠀なᤀきやんでくれないのか？
+ノレねぇ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>571212044</Id>
+          <Value>どうしたんだ　アストラ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>591266579</Id>
+          <Value>このᜀ近᠀ちかᤀくで　ネタ…じゃなくて
+セブンコードアプモンを　ᜀ探᠀さがᤀしてたら
+このᜀ子᠀こᤀが　ᜀ泣᠀なᤀいてて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>609092376</Id>
+          <Value>ᜀ俺᠀おれᤀのᜀ動画᠀どうがᤀで　ᜀ笑᠀わらᤀわせようとᜀ思᠀おもᤀって
+いろいろ　やってるんだが
+ᜀ全然᠀ぜんぜんᤀ　ᜀ泣᠀なᤀきやんで　くれないんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>622854669</Id>
+          <Value>アプモンの　ᜀ力᠀ちからᤀを
+ᜀ借᠀かᤀりてみたら　どうかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>639631888</Id>
+          <Value>そのᜀ方法᠀ほうほうᤀが　あったか…！
+よし　ミュージモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>657457943</Id>
+          <Value>ᜀ音楽᠀おんがくᤀの　ᜀ流᠀ながᤀれるところに　ボクがいる
+ノー　ミュージモン！
+ノー　ライフ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>674104081</Id>
+          <Value>ミュージモン
+このᜀ子᠀こᤀの　ハートが　はずむ
+ノレる　プレイリストを　ᜀ頼᠀たのᤀむ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>690094861</Id>
+          <Value>オッケー！
+ノレる？　ノレない？
+ᜀ超᠀ちょうᤀノレるーーーー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>705298697</Id>
+          <Value>どうだ　ノレたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>724042512</Id>
+          <Value>ひっく…ひっく…
+あれ…　どうしてだろ？
+なんだか　ᜀ楽᠀たのᤀしくなってきた…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>739639820</Id>
+          <Value>ねぇ　キミ
+どうして　ᜀ泣᠀なᤀいてたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>758907668</Id>
+          <Value>ボクの　ゲームの　セーブデータが
+いきなり　ᜀ消᠀きᤀえちゃったんだ…
+がんばって　いっぱい　ᜀ集᠀あつᤀめたのに…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>775160594</Id>
+          <Value>いきなり　セーブデータが　ᜀ消᠀きᤀえた？
+もしかしたら　アプモンが
+ᜀ関係᠀かんけいᤀしてるのかも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>790495757</Id>
+          <Value>ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみるか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>809108244</Id>
+          <Value>ボクのゲームの　セーブデータが
+いきなり　ᜀ消᠀きᤀえちゃったんだ…
+がんばって　いっぱい　ᜀ集᠀あつᤀめたのに…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>826016528</Id>
+          <Value>ᜀ子᠀こᤀどもを　ᜀ泣᠀なᤀかせるなんて
+ᜀ超᠀ちょうᤀノレねぇヤツだ
+ᜀ原因᠀げんいんᤀを　ᜀ調᠀しらᤀべるぞ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>841745166</Id>
+          <Value>ᜀ子᠀こᤀどもを　ᜀ泣᠀なᤀかせるなんて
+ᜀ超᠀ちょうᤀノレねぇヤツだ
+ノリこむぞ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>857604620</Id>
+          <Value>このᜀ子᠀こᤀの　ゲームᜀ機᠀きᤀに
+ＡＲダンジョンが…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>874382092</Id>
+          <Value>おまえか
+ゲームの　セーブデータを
+ᜀ消᠀けᤀしたヤツは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>892076818</Id>
+          <Value>セブセブセブ
+これまでの　ドリョクと　ᜀ時間᠀じかんᤀが
+ᜀ水᠀みずᤀのアワ　だセブ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>908591886</Id>
+          <Value>ゲンジツは　やりᜀ直᠀なおᤀしなど
+きかないことを
+ᜀ教᠀おしᤀえてやったセブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>926024466</Id>
+          <Value>ᜀ現実᠀げんじつᤀばかりじゃ
+ᜀ疲᠀つかᤀれることも　あるから
+ゲームや　アプチューブが　あるんだろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>943588111</Id>
+          <Value>ᜀ俺᠀おれᤀたちの　ᜀ遊᠀あそᤀびᜀ場᠀ばᤀに
+ᜀ現実᠀げんじつᤀを　ᜀ持᠀もᤀちこむな！
+おまえ　ᜀ超᠀ちょうᤀノレねぇ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>958006027</Id>
+          <Value>よし　アストラ
+ここからは
+オレに　まかせてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>974127626</Id>
+          <Value>よし　ᰏ！
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>990642441</Id>
+          <Value>ᜀ超᠀ちょうᤀノレる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009517330</Id>
+          <Value>セブセブセブ
+これまでの　ドリョクと　ᜀ時間᠀じかんᤀが
+ᜀ水᠀みずᤀのアワ　だセブ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025638927</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ　ᜀ頼᠀たのᤀむぜ　ᰏ！
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040974089</Id>
+          <Value>ᜀ超᠀ちょうᤀノレる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058537995</Id>
+          <Value>たしかに　よけいな
+おᜀ世話᠀せわᤀだったセブ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075970826</Id>
+          <Value>セーブデータは
+ちゃんと　ᜀ元᠀もとᤀに
+ᜀ戻᠀もどᤀしておくセブ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094189842</Id>
+          <Value>よし　セーブデータが
+ᜀ本当᠀ほんとうᤀに　ᜀ戻᠀もどᤀったか
+あのᜀ子᠀こᤀの　ところに　ᜀ戻᠀もどᤀろうぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110967058</Id>
+          <Value>よし　セーブデータが
+ᜀ本当᠀ほんとうᤀに　ᜀ戻᠀もどᤀったか
+あのᜀ子᠀こᤀの　ところに　ᜀ戻᠀もどᤀろうぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1124991246</Id>
+          <Value>セーブデータは　どうなった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142555404</Id>
+          <Value>…！？
+ᜀ元᠀もとᤀに　もどってる！！
+よかった！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161560849</Id>
+          <Value>もし　また　データが　ᜀ消᠀けᤀされても
+ᜀ泣᠀なᤀいてる　ヒマがあったら
+ᜀ最初᠀さいしょᤀから　やりᜀ直᠀なおᤀせ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178862357</Id>
+          <Value>ᜀ現実᠀げんじつᤀも　ᜀ何度᠀なんどᤀだって
+やりᜀ直᠀なおᤀしが　きくんだぜ？
+それが　ᜀ超᠀ちょうᤀノレる　ᜀ男᠀おとこᤀってヤツだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192624907</Id>
+          <Value>うん！
+ありがとう
+ヘンな　おにいちゃん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209401871</Id>
+          <Value>ヘンな　おにいちゃん　だってよ
+ノレねぇ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227489807</Id>
+          <Value>さぁ　ᜀ気᠀きᤀをᜀ取᠀とᤀりᜀ直᠀なおᤀして
+またイチから　ネタᜀ探᠀さがᤀしだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242956302</Id>
+          <Value>セブンコードアプモンᜀ探᠀さがᤀし
+だってば</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261175312</Id>
+          <Value>また　ᜀ行᠀いᤀきᜀ先᠀さきᤀも　ᜀ言᠀いᤀわずに
+どこかに　ᜀ行᠀いᤀっちゃったよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278608148</Id>
+          <Value>こういうときは…
+アプチューブで　アストラの　ᜀ動画᠀どうがᤀを
+ᜀ検索᠀けんさくᤀ…　ᜀ検索᠀けんさくᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1296171798</Id>
+          <Value>また　ᜀ更新᠀こうしんᤀされてる！
+あいつ　ᜀ本当᠀ほんとうᤀに　セブンコードアプモン
+ᜀ探᠀さがᤀすᜀ気᠀きᤀが　あるのかな…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1313080086</Id>
+          <Value>ᜀ今度᠀こんどᤀは…ᜀ緑地公園᠀りょくちこうえんᤀだな
+ワカバと　ランカーバトルした　ᜀ公園᠀こうえんᤀだ
+よし　ᜀ行᠀いᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329201939</Id>
+          <Value>ᜀ公園᠀こうえんᤀの　ᜀ緑᠀みどりᤀって
+つかれたᜀ心᠀こころᤀを　ᜀ落᠀おᤀちつかせるよね
+あ～　いやされるなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343095050</Id>
+          <Value>ᜀ今度᠀こんどᤀは　なに？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1363280662</Id>
+          <Value>このᜀ公園᠀こうえんᤀ
+なんか　ノレねぇって　ᜀ思᠀おもᤀってたら
+ᜀ急᠀きゅうᤀに　このᜀ人᠀ひとᤀが　ᜀ苦᠀くるᤀしみだして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1380582165</Id>
+          <Value>ᜀ公園᠀こうえんᤀで　ᜀ休᠀やすᤀんでいたら…
+ᜀ急᠀きゅうᤀに　ᜀ頭᠀あたまᤀが　ᜀ痛᠀いたᤀくなったんだ
+いやされに　ᜀ来᠀きᤀたはずなのに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394869005</Id>
+          <Value>よし　ミュージモン！！
+いやされて　ノレる
+ヒーリング　ミュージックだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411908367</Id>
+          <Value>オッケー！
+いやされる？　いやされない？
+ᜀ超᠀ちょうᤀいやされるーーーー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428161294</Id>
+          <Value>あれ？
+なんだか　ᜀ少᠀すこᤀし
+キブンが　よくなってきたよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445724944</Id>
+          <Value>なんだろう…
+たしかに　このᜀ公園᠀こうえんᤀ…
+ᜀ少᠀すこᤀし　イヤな　カンジがする…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462895377</Id>
+          <Value>ᜀ他᠀ほかᤀのヤツらは　だませても
+ᜀ俺᠀おれᤀと　ミュージモンの　ᜀ耳᠀みみᤀは
+ごまかせねえぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478623764</Id>
+          <Value>ズバリ　ᜀ超᠀ちょうᤀノレねぇ　ᜀ犯人᠀はんにんᤀは
+ここに　いる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1496187662</Id>
+          <Value>ここから
+イヤなᜀ音᠀おとᤀが　ᜀ流᠀ながᤀれてる
+ᜀ超᠀ちょうᤀノレねぇ　ᜀ音᠀おとᤀだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1516372766</Id>
+          <Value>ᜀ人᠀ひとᤀのᜀ耳᠀みみᤀで　ᜀ聞᠀きᤀきᜀ取᠀とᤀれない　ᜀ超音波᠀ちょうおんぱᤀだね…
+それが　ᜀ人᠀ひとᤀによっては
+ᜀ頭᠀あたまᤀがᜀ痛᠀いたᤀくなる　ᜀ原因᠀げんいんᤀになってるんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528168971</Id>
+          <Value>よし　ＡＲダンジョンに
+ᜀ行᠀いᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1548223253</Id>
+          <Value>ᜀ少᠀すこᤀしキブンが　ᜀ良᠀よᤀくなったとはᜀ言᠀いᤀえ
+いつもみたいには　いやされないな…
+ᜀ今日᠀きょうᤀは　ホント　どうしちゃったんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564214031</Id>
+          <Value>イヤなᜀ音᠀おとᤀが　ᜀ流᠀ながᤀれてる
+ᜀ超᠀ちょうᤀノレねぇ　ᜀ音᠀おとᤀだ…
+ᜀ早᠀はやᤀいとこ　はいってみようぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580729109</Id>
+          <Value>おまえか
+ᜀ超音波᠀ちょうおんぱᤀを　ᜀ流᠀ながᤀして
+みんなの　ᜀ頭᠀あたまᤀを　ᜀ痛᠀いたᤀくしてたのは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1597244182</Id>
+          <Value>ウェ～～～～～～ィブ！
+このᜀ公園᠀こうえんᤀは　オレの　やすらぎのᜀ場᠀ばᤀだ
+ウェ～～～～～～ィブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1613759250</Id>
+          <Value>ᜀ公園᠀こうえんᤀをよごす　ニンゲンたちは
+ᜀ来᠀こᤀなくても　いいんだ
+ウェ～～～～～～ィブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630536464</Id>
+          <Value>…おまえ　ノレる？　ノレない？
+ᜀ超᠀ちょうᤀノレない！
+そのᜀ音᠀おとᤀには　ハートが　ない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1647837971</Id>
+          <Value>うるさいんだ　ウェ～～ィブ！
+トクシュな　オンパで　オマエたちを
+ᜀ戦᠀たたかᤀわせてやるんだ　ウェ～～ィブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663697680</Id>
+          <Value>うっ…　ᜀ急᠀きゅうᤀに
+アストラのことが
+イヤな　ヤツに　ᜀ思᠀おもᤀえてきた…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1679426060</Id>
+          <Value>そんな　ノレねぇᜀ音᠀おとᤀに
+ノセられるな　ᰏ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1697645331</Id>
+          <Value>ミュージモン！
+ᜀ本物᠀ほんものᤀの　ᜀ超᠀ちょうᤀノレるᜀ音᠀おとᤀを
+ᜀ聞᠀きᤀかせてやれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712980496</Id>
+          <Value>オンパモン
+キミの　ᜀ音᠀おとᤀには　ハートがない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1730282251</Id>
+          <Value>これが　ᜀ本当᠀ほんとうᤀの
+ハートを　ゆさぶる
+ミュージックさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747976724</Id>
+          <Value>イヤなᜀ感情᠀かんじょうᤀが　ᜀ消᠀きᤀえた…！
+これなら　オンパモンと　ᜀ戦᠀たたかᤀえるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764754194</Id>
+          <Value>ᜀ公園᠀こうえんᤀをよごす　ニンゲンたちは
+ᜀ来᠀こᤀなくても　いいんだ
+ウェ～～～～～～ィブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779827210</Id>
+          <Value>おまえの　ᜀ音᠀おとᤀには
+ハートが　ない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796473102</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1814299152</Id>
+          <Value>ᜀ公園᠀こうえんᤀをよごす　ニンゲンは
+ᜀ来᠀こᤀなくて　いいだって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1831076621</Id>
+          <Value>おまえは　１つ
+ᜀ大᠀おおᤀきな　ᜀ間違᠀まちがᤀいを
+おかしているぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1846280460</Id>
+          <Value>な…なんだ　ウェ～ィブ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1865024017</Id>
+          <Value>それは　おᜀ掃除᠀そうじᤀの　おばさんも
+ᜀ来᠀きᤀてくれなく　なるって　ことだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1882981137</Id>
+          <Value>そ…　それは　ᜀ困᠀こまᤀるウェ～ィブ…
+もうヘンな　ᜀ超音波᠀ちょうおんぱᤀは
+ᜀ流᠀ながᤀさないんだ　ウェ～ィブ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1897660693</Id>
+          <Value>これで　ᜀ公園᠀こうえんᤀも　ᜀ平和᠀へいわᤀになるね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>1914569230</Id>
+          <Value>よし　それじゃあ
+ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀにいくぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>1932788497</Id>
+          <Value>ふぅ～　なんだか
+ᜀ元᠀もとᤀの　いやされるᜀ公園᠀こうえんᤀに
+ᜀ戻᠀もどᤀった　ᜀ気᠀きᤀがするよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>1950614292</Id>
+          <Value>よくᜀ考᠀かんがᤀえると　このᜀ公園᠀こうえんᤀには
+ᜀ仕事᠀しごとᤀで　ᜀ悩᠀なやᤀんだとき
+いつも　ᜀ助᠀たすᤀけられてたんだよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>1965031951</Id>
+          <Value>ᜀ帰᠀かえᤀりに　ちょっと
+ゴミでも　ᜀ拾᠀ひろᤀっていこうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>1983513370</Id>
+          <Value>ᜀ結局᠀けっきょくᤀ　ᜀ今回᠀こんかいᤀ　ᜀ出会᠀であᤀったアプモンは
+セブンコードアプモンじゃ
+なかったみたいだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>1998455061</Id>
+          <Value>ᜀ一応᠀いちおうᤀ　ᜀ探᠀さがᤀすᜀ気᠀きᤀ　あったんだね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2016412434</Id>
+          <Value>セブンコードアプモンは
+ᜀ見᠀みᤀつからなかったが
+アプチューブの　ネタは　ᜀ見᠀みᤀつけたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2032534290</Id>
+          <Value>ズバリ！
+『このᜀ町᠀まちᤀの　アプリドライヴァーと
+　バトってみた』　だ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2049311506</Id>
+          <Value>もしかして…
+このᜀ町᠀まちᤀの　アプリドライヴァーって
+オレの　こと…！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065040138</Id>
+          <Value>どうだ　ᰏ
+このバトル
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2081554706</Id>
+          <Value>アストラとバトル　ノレる？ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097545477</Id>
+          <Value>ノレない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116420113</Id>
+          <Value>ごめん　ᜀ今᠀いまᤀは　ちょっと
+そういう　ᜀ気分᠀きぶんᤀじゃないかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2132017674</Id>
+          <Value>マジかよ！
+ᜀ超᠀ちょうᤀノレねぇ～…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2150499092</Id>
+          <Value>まぁ　いい
+ᜀ俺᠀おれᤀは　おまえが　バトるᜀ気᠀きᤀになるまで
+ここで　ᜀ待᠀まᤀってるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>2167407378</Id>
+          <Value>セブンコードアプモンは
+ᜀ見᠀みᤀつからなかったが
+アプチューブの　ネタは　ᜀ見᠀みᤀつけたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>2183529234</Id>
+          <Value>ズバリ！
+『このᜀ町᠀まちᤀの　アプリドライヴァーと
+　バトってみた』　だ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>2199257866</Id>
+          <Value>どうだ　ᰏ
+このバトル
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>2214854916</Id>
+          <Value>ノレ…る</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>2232156679</Id>
+          <Value>えっと…
+ノレる…　かな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>2249458185</Id>
+          <Value>さすが　ᰏだ！
+ᜀ超᠀ちょうᤀノレる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>2268070672</Id>
+          <Value>ᜀＹＥＡＨ᠀イェーᤀーーー！！
+ᜀ呼᠀よᤀばれてないのに
+ᜀ来᠀きᤀちまったぜぇーーーーーい！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>2283405839</Id>
+          <Value>なんだ　この　ᜀ超᠀ちょうᤀノレてる
+アプモンは…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>2299920906</Id>
+          <Value>オレたちの　ᜀ町᠀まちᤀの
+エムシーモンだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>2318795536</Id>
+          <Value>ᜀ話᠀はなしᤀは　ᜀ聞᠀きᤀかせてもらったぜ
+アストラの　ᜀ動画᠀どうがᤀは
+いつも　チェックしてたからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_142</Key>
+      <Values>
+        <BtxtString>
+          <Id>2335441689</Id>
+          <Value>…ってことで
+ᜀ特別出張᠀　とくべつしゅっちょうᤀ　サイバーアリーナ！
+バトルを　ᜀ始᠀はじᤀめるぜ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_143</Key>
+      <Values>
+        <BtxtString>
+          <Id>2350777102</Id>
+          <Value>おう！
+なんだか　よくわからねぇけど
+ヨロシク　たのんだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_144</Key>
+      <Values>
+        <BtxtString>
+          <Id>2368733975</Id>
+          <Value>チャレンジャーは
+ᜀ今᠀いまᤀ　ᜀ最高᠀さいこうᤀに　ノレる　アプチューバー
+ア・ス・ト・ラ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_145</Key>
+      <Values>
+        <BtxtString>
+          <Id>2384593674</Id>
+          <Value>おまえとの　バトル
+ノレる？　ノレない？
+ᜀ超᠀ちょうᤀノレる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_146</Key>
+      <Values>
+        <BtxtString>
+          <Id>2401764115</Id>
+          <Value>ᜀ対᠀たいᤀするは
+このᜀ町᠀まちᤀ　ᜀ期待᠀きたいᤀの　ドライヴァー
+ᰏ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_147</Key>
+      <Values>
+        <BtxtString>
+          <Id>2419065362</Id>
+          <Value>このᜀ町᠀まちᤀの　ᜀ代表᠀だいひょうᤀとして
+ᜀ簡単᠀かんたんᤀには　ᜀ負᠀まᤀけられない…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_148</Key>
+      <Values>
+        <BtxtString>
+          <Id>2434138636</Id>
+          <Value>ＯＫ！　イケイケ
+バトル　スタート！！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_149</Key>
+      <Values>
+        <BtxtString>
+          <Id>2452488973</Id>
+          <Value>ᜀ今᠀いまᤀの　バトルは
+ᜀ超᠀ちょうᤀノレてなかったな
+もう１ᜀ回᠀かいᤀ　とりなおすぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_150</Key>
+      <Values>
+        <BtxtString>
+          <Id>2467430670</Id>
+          <Value>バトルの　ᜀ再開᠀さいかいᤀだな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_151</Key>
+      <Values>
+        <BtxtString>
+          <Id>2484863254</Id>
+          <Value>もうᜀ準備᠀じゅんびᤀの　ᜀ確認᠀かくにんᤀはしないぜ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_152</Key>
+      <Values>
+        <BtxtString>
+          <Id>2500592136</Id>
+          <Value>チャレンジャーは
+ᰏ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_153</Key>
+      <Values>
+        <BtxtString>
+          <Id>2518811152</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ　ᜀ負᠀まᤀけるもんか！
+いくぞ　アストラ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_154</Key>
+      <Values>
+        <BtxtString>
+          <Id>2535981840</Id>
+          <Value>ᜀ対᠀たいᤀするは
+ᜀ超᠀ちょうᤀノレてる　アプチューバー
+ア・ス・ト・ラ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_155</Key>
+      <Values>
+        <BtxtString>
+          <Id>2552496654</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ超᠀ちょうᤀノレる
+バトルを　ᜀ頼᠀たのᤀむぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_156</Key>
+      <Values>
+        <BtxtString>
+          <Id>2567700748</Id>
+          <Value>バトル　スタート！！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_157</Key>
+      <Values>
+        <BtxtString>
+          <Id>2586968606</Id>
+          <Value>ᜀ勝者᠀しょうしゃᤀ！　ᰏ！！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ᠀コングラッチュレーショーンᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_158</Key>
+      <Values>
+        <BtxtString>
+          <Id>2603877137</Id>
+          <Value>ᜀ負᠀まᤀけはしたが　おかげで
+ᜀ超᠀ちょうᤀノレる　アプチューブネタを
+ᜀ撮影᠀さつえいᤀ　できたぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_159</Key>
+      <Values>
+        <BtxtString>
+          <Id>2618425617</Id>
+          <Value>さっそく　アプチューブに　アップ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_160</Key>
+      <Values>
+        <BtxtString>
+          <Id>2637824787</Id>
+          <Value>ああ　そのᜀ件᠀けんᤀだが　オマエさん
+アプリドライヴァーの　バトルは
+アプチューブに　アップᜀ禁止᠀きんしᤀだぜ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_161</Key>
+      <Values>
+        <BtxtString>
+          <Id>2653422353</Id>
+          <Value>そもそも
+アプリドライヴァー　ᜀ以外᠀いがいᤀには
+ᜀ見᠀みᤀえやしねぇからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_162</Key>
+      <Values>
+        <BtxtString>
+          <Id>2673214237</Id>
+          <Value>そういうワケで　ᜀ今回᠀こんかいᤀの　ᜀ実況動画᠀じっきょうどうがᤀは
+このオレᜀ様᠀さまᤀ　エムシーモンのほうで
+ᜀ流᠀ながᤀさせてもらったぜ　ᜀＳＯＲＲＹ᠀ソーリーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_163</Key>
+      <Values>
+        <BtxtString>
+          <Id>2689073940</Id>
+          <Value>…なんてこった　ᜀ超᠀ちょうᤀノレない！！
+こうなったら　ᜀ鼻᠀はなᤀでマカダミアナッツを
+ᜀ食᠀たᤀべる　ᜀ動画᠀どうがᤀを　とりにいくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_164</Key>
+      <Values>
+        <BtxtString>
+          <Id>2701656327</Id>
+          <Value>じゃあな　ᰏ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_165</Key>
+      <Values>
+        <BtxtString>
+          <Id>2719220236</Id>
+          <Value>アストラか…
+おもしろいヤツ　だったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_005_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2738094864</Id>
+          <Value>ᜀ今᠀いまᤀ　セブンコードアプモンって
+ᜀ言᠀いᤀったわよね？
+もしかして　ハルの　ᜀ知᠀しᤀりあい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2752119049</Id>
+          <Value>ワタシは　ᰏだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_018_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2769945102</Id>
+          <Value>ごめんね　ちょっと　ᜀ今᠀いまᤀは
+いそがしいのよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2786460172</Id>
+          <Value>アストラ？
+めずらしい　ᜀ名前᠀なまえᤀね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2804023832</Id>
+          <Value>なんだ
+ᜀ本名᠀ほんみょうᤀは　ᜀ虎次郎᠀とらじろうᤀ　っていうのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_029_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2819752458</Id>
+          <Value>わかったわ…
+よろしくね　アストラ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2840199960</Id>
+          <Value>ᜀ手伝᠀てつだᤀってって　ᜀ言᠀いᤀってたのに
+ワタシを　おいて　いなくなっちゃった
+ᜀ連絡先᠀れんらくさきᤀも　ᜀ交換᠀こうかんᤀしてないのに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2854224649</Id>
+          <Value>えっと…　たしか
+アプチューバーって
+ᜀ言᠀いᤀってたわよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_033_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2871919375</Id>
+          <Value>アプチューブからの　コメントで
+ᜀ呼᠀よᤀびかけてみましょ…
+えっと…　アストラ…アストラ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2889876246</Id>
+          <Value>ニコタマᜀ川᠀がわᤀで　とったᜀ動画᠀どうがᤀが
+アップされてるわ…
+ᜀ投稿日時᠀とうこうにちじᤀは…　たった　ᜀ今᠀いまᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2907439895</Id>
+          <Value>ここは…　ᜀ水᠀みずᤀのᜀ流᠀ながᤀれるᜀ掲示板᠀けいじばんᤀ…
+ᜀ向᠀むᤀこうに　そんなᜀ場所᠀ばしょᤀがあったわね
+よーし　ᜀ行᠀いᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_037_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2920022283</Id>
+          <Value>どうしたの　アストラ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2938110478</Id>
+          <Value>アプモンの　ᜀ力᠀ちからᤀを
+ᜀ借᠀かᤀりてみたら　どうかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2954494476</Id>
+          <Value>ＡＲフィールドに　いって
+ᜀ調᠀しらᤀべてみましょ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2971665164</Id>
+          <Value>アナタね
+ゲームの　セーブデータを
+ᜀ消᠀けᤀしたアプモンは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_060_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2988311311</Id>
+          <Value>よーし　アストラ
+ここからは
+ワタシに　まかせてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_078_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3006005776</Id>
+          <Value>また　ᜀ行᠀いᤀきᜀ先᠀さきᤀも　ᜀ言᠀いᤀわずに
+どこかに　ᜀ行᠀いᤀっちゃったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3024487190</Id>
+          <Value>また　ᜀ更新᠀こうしんᤀされてる！　アストラったら
+ᜀ本当᠀ほんとうᤀに　セブンコードアプモン
+ᜀ探᠀さがᤀすᜀ気᠀きᤀが　あるのかしら…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_081_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3041264406</Id>
+          <Value>ᜀ今度᠀こんどᤀは…　ᜀ緑地公園᠀りょくちこうえんᤀね
+ワカバと　ランカーバトルした　ᜀ公園᠀こうえんᤀね
+よーし　ᜀ行᠀いᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_083_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3054371083</Id>
+          <Value>ᜀ今度᠀こんどᤀは　なぁに？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3073245970</Id>
+          <Value>なんだろう…
+たしかに　このᜀ公園᠀こうえんᤀ…
+ᜀ少᠀すこᤀし　イヤな　カンジがするわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_094_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3088581132</Id>
+          <Value>よーし　ＡＲダンジョンに
+ᜀ行᠀いᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3107455765</Id>
+          <Value>アナタね
+ᜀ超音波᠀ちょうおんぱᤀを　ᜀ流᠀ながᤀして
+みんなの　ᜀ頭᠀あたまᤀを　ᜀ痛᠀いたᤀくしてるのは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_102_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3123315473</Id>
+          <Value>うっ…　ᜀ急᠀きゅうᤀに
+アストラのことが
+イヤな　ヤツに　ᜀ思᠀おもᤀえてきたわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_107_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3140485652</Id>
+          <Value>イヤなᜀ感情᠀かんじょうᤀが　ᜀ消᠀きᤀえた…！
+これなら　オンパモンと　ᜀ戦᠀たたかᤀえるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_110_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3155558671</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_122_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3172860180</Id>
+          <Value>ᜀ一応᠀いちおうᤀ　ᜀ探᠀さがᤀすᜀ気᠀きᤀ　あったのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_125_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3190293266</Id>
+          <Value>もしかして…
+このᜀ町᠀まちᤀの　アプリドライヴァーって
+ワタシの　こと…！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_129_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3206939153</Id>
+          <Value>ごめんね　ᜀ今᠀いまᤀは　ちょっと
+そういう　ᜀ気分᠀きぶんᤀじゃないかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_140_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3222667787</Id>
+          <Value>ワタシたちの　ᜀ町᠀まちᤀの
+エムシーモンよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_147_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3241280020</Id>
+          <Value>このᜀ町᠀まちᤀの　ᜀ代表᠀だいひょうᤀとして
+ᜀ簡単᠀かんたんᤀには　ᜀ負᠀まᤀけられないわね…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_153_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3257008655</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ　ᜀ負᠀まᤀけないわ！
+いくわよ　アストラ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_54_165_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3273261584</Id>
+          <Value>アストラか…
+おもしろいᜀ相手᠀あいてᤀ　だったわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

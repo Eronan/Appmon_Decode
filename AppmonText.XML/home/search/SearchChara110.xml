@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>リブートモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21365531</Id>
+          <Value>リブートモン…
+ᜀ終᠀おᤀわりと　ᜀ再生᠀さいせいᤀを　つかさどる
+ᜀ再起動᠀さいきどうᤀの　ᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ　アプモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798107</Id>
+          <Value>ᜀ他人᠀たにんᤀからᜀ切᠀きᤀりᜀ離᠀はなᤀし　ᜀ自᠀みずかᤀらにつなぐことで
+アイツ　みんなの　アプモンのᜀ力᠀ちからᤀを
+ᜀ吸収᠀きゅうしゅうᤀしたんだ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54788881</Id>
+          <Value>ブートモンが　ᜀ吐᠀はᤀきᜀ出᠀だᤀされても
+アプᜀ合体᠀がったいᤀが　ᜀ解᠀とᤀけないのは
+ᜀ再起動᠀さいきどうᤀしたからだって…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828246</Id>
+          <Value>どんな　ダメージをᜀ受᠀うᤀけても
+ᜀ再起動᠀さいきどうᤀすれば　ᜀ平気᠀へいきᤀだなんて…
+クソッ　そんなの　ᜀ不死身᠀ふじみᤀじゃねえか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>88081181</Id>
+          <Value>おい　ᰏ！
+ᜀ絶望的᠀ぜつぼうてきᤀな　ᜀ状況᠀じょうきょうᤀかも　しれないけど…
+オレは　オマエのこと　ᜀ信᠀しんᤀじてるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

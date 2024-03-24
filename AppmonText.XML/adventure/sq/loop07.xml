@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>110</NumberOfLabels>
+  <NumberOfStrings>110</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442314</Id>
+          <Value>もし　そこのᜀ子᠀こᤀ
+ちょっと　いいかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563916</Id>
+          <Value>はい　どうかしましたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>38535958</Id>
+          <Value>ᜀ私᠀わたしᤀは　ᜀ大学᠀だいがくᤀの　ᜀ先生᠀せんせいᤀでね
+ᜀ生徒᠀せいとᤀたちの　ᜀ家᠀いえᤀに　ᜀ行᠀いᤀく
+ᜀ用事᠀ようじᤀが　あるのだが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52953618</Id>
+          <Value>ᜀ教᠀おしᤀえてもらった　ᜀ住所᠀じゅうしょᤀに
+うまく　たどりつけないんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517520</Id>
+          <Value>ᜀ地図᠀ちずᤀは　ᜀ見᠀みᤀているんだけど…
+なんだか　スマホが
+ᜀ壊᠀こわᤀれちゃってる　みたいでね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85328400</Id>
+          <Value>え？
+スマホが　ᜀ壊᠀こわᤀれちゃったって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>107348761</Id>
+          <Value>ᜀ方角᠀ほうがくᤀがね　クルクル　ᜀ回᠀まわᤀってしまって
+ᜀ正᠀ただᤀしいᜀ方向᠀ほうこうᤀを　ᜀ向᠀むᤀいてくれないんだよ
+ᜀ生徒᠀せいとᤀの　ᜀ数᠀かずᤀも　ᜀ多᠀おおᤀいのに　ᜀ困᠀こまᤀったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>117833990</Id>
+          <Value>もしかして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135004425</Id>
+          <Value>…ᜀ見᠀みᤀつかったか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154927896</Id>
+          <Value>やっぱり　アプモンが　ᜀ原因᠀げんいんᤀだ！
+コンパスモン
+ᜀ先生᠀せんせいᤀの　スマホで　ᜀ何᠀なにᤀやってるんだよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>171705111</Id>
+          <Value>やっぱり　アプモンが　ᜀ原因᠀げんいんᤀね！
+コンパスモン
+ᜀ先生᠀せんせいᤀの　スマホで　ᜀ何᠀なにᤀやってるのよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>187433742</Id>
+          <Value>この　ᜀ先生᠀せんせいᤀは
+のんびりした　おᜀ方᠀かたᤀで
+いつも　あぶなっかしいんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>207356697</Id>
+          <Value>ᜀ先生᠀せんせいᤀを　カンペキに　ごᜀ案内᠀あんないᤀしたいが
+ᜀ案内᠀あんないᤀする　ᜀ家᠀いえᤀのᜀ数᠀かずᤀも　ᜀ多᠀おおᤀく
+ᜀ俺᠀おれᤀだけでは　ᜀ力不足᠀ちからぶそくᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>222692116</Id>
+          <Value>ᜀ誰᠀だれᤀか　ナビᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ手伝᠀てつだᤀってもらおうと　ᜀ思᠀おもᤀって
+トラブルを　ᜀ起᠀おᤀこしていたのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>240124696</Id>
+          <Value>アプリドライヴァーが　ᜀ来᠀きᤀてくれたなら
+ᜀ文句᠀もんくᤀなしだ！　さあさあ　ナビᜀ属性᠀ぞくせいᤀの
+アプモンの　ᜀ力᠀ちからᤀを　ᜀ貸᠀かᤀしてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>255066900</Id>
+          <Value>そうだ
+わずかだが　おᜀ礼᠀れいᤀも　ᜀ用意᠀よういᤀしよう
+それなら　ᜀ文句᠀もんくᤀも　あるまい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>270664209</Id>
+          <Value>そ　そんなのって　アリ？
+ᜀ心配᠀しんぱいᤀなのは　わかったけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>288228110</Id>
+          <Value>なんだか　ᜀ楽᠀たのᤀしそうだけど
+ᜀ私᠀わたしᤀの　スマホに
+ᜀ何᠀なにᤀか　あったかい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>302645513</Id>
+          <Value>あ　ああ　いえ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>320996109</Id>
+          <Value>でも　もしかしたら
+その　アプリ
+ᜀ直᠀なおᤀせるかも　しれません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>337510926</Id>
+          <Value>ᜀ本当᠀ほんとうᤀかい？
+それは　すごく　ᜀ助᠀たすᤀかるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>356778771</Id>
+          <Value>よし　ナビᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ手伝᠀てつだᤀってもらって　コンパスモンに
+ᜀ力᠀ちからᤀを　ᜀ貸᠀かᤀしてあげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>370934038</Id>
+          <Value>ᜀ道案内᠀みちあんないᤀを　ᜀ手伝᠀てつだᤀってあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>387580427</Id>
+          <Value>いいよ　コンパスモン
+ᜀ手伝᠀てつだᤀってあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>403833351</Id>
+          <Value>ᜀ本当᠀ほんとうᤀか
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>421790477</Id>
+          <Value>それで
+どれくらい　ᜀ俺᠀おれᤀたちを
+ᜀ手伝᠀てつだᤀってくれるんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2</Key>
+      <Values>
+        <BtxtString>
+          <Id>437518609</Id>
+          <Value>どれくらい　ᜀ手伝᠀てつだᤀってあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A1</Key>
+      <Values>
+        <BtxtString>
+          <Id>453640454</Id>
+          <Value>ᜀ少᠀すこᤀしだけ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>472908562</Id>
+          <Value>そうか！　ありがたいぞ
+さあ　ナビᜀ属性᠀ぞくせいᤀの　ᜀ力᠀ちからᤀを
+ᜀ貸᠀かᤀしてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A2</Key>
+      <Values>
+        <BtxtString>
+          <Id>487194886</Id>
+          <Value>ᜀ普通᠀ふつうᤀに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>507118354</Id>
+          <Value>ありがとう　ᜀ手伝᠀てつだᤀってくれるか！
+さあ　ナビᜀ属性᠀ぞくせいᤀの　ᜀ力᠀ちからᤀを
+ᜀ貸᠀かᤀしてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A3</Key>
+      <Values>
+        <BtxtString>
+          <Id>520487173</Id>
+          <Value>たくさん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>540934932</Id>
+          <Value>ᜀ本当᠀ほんとうᤀか！？　ᜀ感謝᠀かんしゃᤀするぞ！
+さあ　ナビᜀ属性᠀ぞくせいᤀの　ᜀ力᠀ちからᤀを
+ᜀ貸᠀かᤀしてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>558105362</Id>
+          <Value>ああ　また　ᜀ来᠀きᤀてくれたんだね
+ᜀ今日᠀きょうᤀも　ᜀ困᠀こまᤀっているんだよ
+ᜀ生徒᠀せいとᤀのᜀ家᠀いえᤀが　わからなくてね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>573834000</Id>
+          <Value>ᜀ地図᠀ちずᤀは　ᜀ見᠀みᤀているんだけど…
+なんだか　スマホが
+ᜀ壊᠀こわᤀれちゃってる　みたいでね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>593888025</Id>
+          <Value>ᜀ方角᠀ほうがくᤀがね　クルクル　ᜀ回᠀まわᤀってしまって
+ᜀ正᠀ただᤀしいᜀ方向᠀ほうこうᤀを　ᜀ向᠀むᤀいてくれないんだよ
+ᜀ生徒᠀せいとᤀの　ᜀ数᠀かずᤀも　ᜀ多᠀おおᤀいのに　ᜀ困᠀こまᤀったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>604766475</Id>
+          <Value>それって　もしかして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>624034329</Id>
+          <Value>やあ　また　ᜀ来᠀きᤀてくれたな！
+さあさあ　ᜀ先生᠀せんせいᤀを　ごᜀ案内᠀あんないᤀしてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>642122518</Id>
+          <Value>ᜀ先生᠀せんせいᤀを　ᜀ案内᠀あんないᤀ　してくれたなら
+わずかだが　おᜀ礼᠀れいᤀも　しよう！
+それなら　ᜀ文句᠀もんくᤀも　あるまい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>657982231</Id>
+          <Value>やっぱり　コンパスモン！
+ᜀ先生᠀せんせいᤀを　ᜀ手伝᠀てつだᤀって　ほしいからって
+また　ジャマを　して…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>674104078</Id>
+          <Value>なんだか　ᜀ楽᠀たのᤀしそうだけど
+ᜀ私᠀わたしᤀの　スマホに
+ᜀ何᠀なにᤀか　あったかい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>688521481</Id>
+          <Value>あ　ああ　いえ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>706872077</Id>
+          <Value>でも　もしかしたら
+その　アプリ
+ᜀ直᠀なおᤀせるかも　しれません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>723386894</Id>
+          <Value>ᜀ本当᠀ほんとうᤀかい？
+それは　すごく　ᜀ助᠀たすᤀかるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>742654739</Id>
+          <Value>よし　ナビᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ手伝᠀てつだᤀってもらって　コンパスモンに
+ᜀ力᠀ちからᤀを　ᜀ貸᠀かᤀしてあげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>759300882</Id>
+          <Value>ああ　また　ᜀ来᠀きᤀてくれたんだね
+ᜀ今᠀いまᤀも　ᜀ困᠀こまᤀっているんだよ
+ᜀ生徒᠀せいとᤀのᜀ家᠀いえᤀが　わからなくてね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>775160592</Id>
+          <Value>ᜀ地図᠀ちずᤀは　ᜀ見᠀みᤀているんだけど…
+なんだか　スマホが
+ᜀ壊᠀こわᤀれちゃってる　みたいでね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>795214617</Id>
+          <Value>ᜀ方角᠀ほうがくᤀがね　クルクル　ᜀ回᠀まわᤀってしまって
+ᜀ正᠀ただᤀしいᜀ方向᠀ほうこうᤀを　ᜀ向᠀むᤀいてくれないんだよ
+ᜀ生徒᠀せいとᤀの　ᜀ数᠀かずᤀも　ᜀ多᠀おおᤀいのに　ᜀ困᠀こまᤀったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>806093067</Id>
+          <Value>それって　もしかして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>825360921</Id>
+          <Value>やあ　また　ᜀ来᠀きᤀてくれたな！
+さあさあ　ᜀ先生᠀せんせいᤀを　ごᜀ案内᠀あんないᤀしてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>843449110</Id>
+          <Value>ᜀ先生᠀せんせいᤀを　ᜀ案内᠀あんないᤀ　してくれたなら
+わずかだが　おᜀ礼᠀れいᤀも　しよう！
+それなら　ᜀ文句᠀もんくᤀも　あるまい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>859308823</Id>
+          <Value>やっぱり　コンパスモン！
+ᜀ先生᠀せんせいᤀを　ᜀ手伝᠀てつだᤀって　ほしいからって
+また　ジャマを　して…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>875430670</Id>
+          <Value>なんだか　ᜀ楽᠀たのᤀしそうだけど
+ᜀ私᠀わたしᤀの　スマホに
+ᜀ何᠀なにᤀか　あったかい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>889848073</Id>
+          <Value>あ　ああ　いえ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>908198669</Id>
+          <Value>でも　もしかしたら
+その　アプリ
+ᜀ直᠀なおᤀせるかも　しれません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>924713486</Id>
+          <Value>ᜀ本当᠀ほんとうᤀかい？
+それは　すごく　ᜀ助᠀たすᤀかるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>943981331</Id>
+          <Value>よし　ナビᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ手伝᠀てつだᤀってもらって　コンパスモンに
+ᜀ力᠀ちからᤀを　ᜀ貸᠀かᤀしてあげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>959185682</Id>
+          <Value>おや　ᜀ君᠀きみᤀだね
+さっきは　ありがとう
+おかげで　スマホは　ᜀ快適᠀かいてきᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>973734153</Id>
+          <Value>それは　よかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>991429136</Id>
+          <Value>コンパスモンも
+キゲン　なおして　くれたのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009517326</Id>
+          <Value>ああ　おかげさまで
+ᜀ先生᠀せんせいᤀを　カンペキに
+ごᜀ案内᠀あんないᤀ　できているぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025114634</Id>
+          <Value>ただ　ᜀ先生᠀せんせいᤀは
+おいそがしいᜀ身᠀みᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043596050</Id>
+          <Value>たくさん　ᜀ手伝᠀てつだᤀってくれるのは
+ありがたい！
+また　ᜀ力᠀ちからᤀを　ᜀ貸᠀かᤀしてくれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060766487</Id>
+          <Value>そうでないと　こうやって
+ᜀ壊᠀こわᤀれたふりを　して
+ᜀ手伝᠀てつだᤀいを　ᜀ求᠀もとᤀめないと　いけないからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076101903</Id>
+          <Value>あれ？
+また　スマホの　ᜀ調子᠀ちょうしᤀが
+おかしくなってしまったな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093927696</Id>
+          <Value>ちょっと　コンパスモン！
+ᜀ心配᠀しんぱいᤀなのは　わかるけど
+それ　ᜀ他᠀ほかᤀに　やりかたないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1112015638</Id>
+          <Value>しかたない…　ナビᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ手伝᠀てつだᤀってもらって　コンパスモンに
+ᜀ力᠀ちからᤀを　ᜀ貸᠀かᤀしてあげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125908758</Id>
+          <Value>ᜀ道案内᠀みちあんないᤀを　ᜀ手伝᠀てつだᤀってあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142555147</Id>
+          <Value>いいよ　コンパスモン
+ᜀ手伝᠀てつだᤀってあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158808071</Id>
+          <Value>ᜀ本当᠀ほんとうᤀか
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176765197</Id>
+          <Value>それで
+どれくらい　ᜀ俺᠀おれᤀたちを
+ᜀ手伝᠀てつだᤀってくれるんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195246361</Id>
+          <Value>ダメだ！　これでは
+ᜀ先生᠀せんせいᤀを　カンペキに　ごᜀ案内᠀あんないᤀするには
+ᜀ力᠀ちからᤀが　ᜀ足᠀たᤀりないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210450450</Id>
+          <Value>また　ᜀ力᠀ちからᤀを　ᜀ貸᠀かᤀしてくれるのを
+ᜀ待᠀まᤀっているからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226048012</Id>
+          <Value>よし　これで　どうかな？
+コンパスモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244267277</Id>
+          <Value>ああ！　これなら
+ᜀ先生᠀せんせいᤀを　カンペキに
+ごᜀ案内᠀あんないᤀ　できそうだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260520205</Id>
+          <Value>ありがとう
+ᜀ俺᠀おれᤀも　ᜀ壊᠀こわᤀれたふりを
+しないで　すむよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278739219</Id>
+          <Value>それなら　よかった！
+ᜀ先生᠀せんせいᤀ　これで　スマホが
+ちゃんと　ᜀ使᠀つかᤀえると　ᜀ思᠀おもᤀいますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1295123217</Id>
+          <Value>ああ　ᜀ本当᠀ほんとうᤀだ！
+ちゃんと　ᜀ動᠀うごᤀいているみたいだね
+キミ　ᜀ助᠀たすᤀかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310720528</Id>
+          <Value>ᜀ俺᠀おれᤀからも　ᜀ礼᠀れいᤀを　ᜀ言᠀いᤀうぞ
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327890959</Id>
+          <Value>これは　ᜀ俺᠀おれᤀからの　ᜀ礼᠀れいᤀだ
+ᜀ受᠀うᤀけᜀ取᠀とᤀってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1347420952</Id>
+          <Value>ᜀ先生᠀せんせいᤀは　ᜀ明日᠀あしたᤀも
+ᜀ生徒᠀せいとᤀのᜀ家᠀いえᤀに　ᜀ向᠀むᤀかう　ᜀ予定᠀よていᤀらしい
+また　ᜀ会᠀あᤀったら　よろしく　たのむぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361183248</Id>
+          <Value>うん　いいᜀ感᠀かんᤀじ　じゃないかな
+コンパスモン　これで　どう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379533593</Id>
+          <Value>とても　いいぞ！
+これなら　かなりのᜀ間᠀あいだᤀ
+ᜀ先生᠀せんせいᤀを　カンペキに　ごᜀ案内᠀あんないᤀできる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394737933</Id>
+          <Value>ありがとう
+ᜀ俺᠀おれᤀも　ᜀ壊᠀こわᤀれたふりを
+しないで　すむよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412956947</Id>
+          <Value>それなら　よかった！
+ᜀ先生᠀せんせいᤀ　これで　スマホが
+ちゃんと　ᜀ使᠀つかᤀえると　ᜀ思᠀おもᤀいますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428423185</Id>
+          <Value>ああ　ᜀ本当᠀ほんとうᤀだ！
+ちゃんと　ᜀ動᠀うごᤀいているみたいだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445331726</Id>
+          <Value>いつもより
+ᜀ調子᠀ちょうしᤀが　いいくらいだ
+キミ　ᜀ助᠀たすᤀかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1461715472</Id>
+          <Value>ᜀ俺᠀おれᤀからも　ᜀ礼᠀れいᤀを　ᜀ言᠀いᤀうぞ
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478885903</Id>
+          <Value>これは　ᜀ俺᠀おれᤀからの　ᜀ礼᠀れいᤀだ
+ᜀ受᠀うᤀけᜀ取᠀とᤀってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1498415896</Id>
+          <Value>ᜀ先生᠀せんせいᤀは　ᜀ明日᠀あしたᤀも
+ᜀ生徒᠀せいとᤀのᜀ家᠀いえᤀに　ᜀ向᠀むᤀかう　ᜀ予定᠀よていᤀらしい
+また　ᜀ会᠀あᤀったら　よろしく　たのむぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511522829</Id>
+          <Value>よし！　コンパスモン
+これなら　カンペキでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529742094</Id>
+          <Value>ああ！　どこまででも
+ᜀ先生᠀せんせいᤀを　カンペキに
+ごᜀ案内᠀あんないᤀ　できそうだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545339658</Id>
+          <Value>これなら
+ᜀ壊᠀こわᤀれたふりなんて
+しなくても　いいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1563951891</Id>
+          <Value>それなら　よかった！
+ᜀ先生᠀せんせいᤀ　これで　スマホが
+ちゃんと　ᜀ使᠀つかᤀえると　ᜀ思᠀おもᤀいますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579418129</Id>
+          <Value>ああ　ᜀ本当᠀ほんとうᤀだ！
+ちゃんと　ᜀ動᠀うごᤀいているみたいだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1598161690</Id>
+          <Value>ᜀ調子᠀ちょうしᤀも　いいみたいだし
+ᜀ実᠀じつᤀに　カンペキだよ
+これならᜀ安心᠀あんしんᤀして　ᜀ案内᠀あんないᤀしてもらえるね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612579340</Id>
+          <Value>せ…　ᜀ先生᠀せんせいᤀ！
+ᜀ感無量᠀かんむりょうᤀです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1629881103</Id>
+          <Value>これも　おᜀ前᠀まえᤀが
+ᜀ手伝᠀てつだᤀってくれた　おかげだ
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646658063</Id>
+          <Value>これは　ᜀ俺᠀おれᤀからの　ᜀ礼᠀れいᤀだ
+ᜀ受᠀うᤀけᜀ取᠀とᤀってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1666188056</Id>
+          <Value>ᜀ先生᠀せんせいᤀは　ᜀ明日᠀あしたᤀも
+ᜀ生徒᠀せいとᤀのᜀ家᠀いえᤀに　ᜀ向᠀むᤀかう　ᜀ予定᠀よていᤀらしい
+また　ᜀ会᠀あᤀったら　よろしく　たのむぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680081678</Id>
+          <Value>ほら　コンパスモン！
+これで　もうしばらく
+カンペキで　いられるでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1696072205</Id>
+          <Value>いやあ　すまないな
+かさねがさね　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1714684691</Id>
+          <Value>まったくもう…
+ᜀ先生᠀せんせいᤀ　これで　スマホが
+ちゃんと　ᜀ使᠀つかᤀえると　ᜀ思᠀おもᤀいますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731592977</Id>
+          <Value>ああ　ᜀ本当᠀ほんとうᤀだ！
+ちゃんと　ᜀ動᠀うごᤀいているみたいだね
+ᜀ安心᠀あんしんᤀしたよ　ありがとう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1746928144</Id>
+          <Value>ᜀ俺᠀おれᤀからも　ᜀ礼᠀れいᤀを　ᜀ言᠀いᤀうぞ
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1766851352</Id>
+          <Value>ᜀ先生᠀せんせいᤀは　ᜀ明日᠀あしたᤀも
+ᜀ生徒᠀せいとᤀのᜀ家᠀いえᤀに　ᜀ向᠀むᤀかう　ᜀ予定᠀よていᤀらしい
+また　ᜀ会᠀あᤀったら　よろしく　たのむぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1783235350</Id>
+          <Value>しかたない…　ナビᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ手伝᠀てつだᤀってもらって　コンパスモンに
+ᜀ力᠀ちからᤀを　ᜀ貸᠀かᤀしてあげようかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_062_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796866571</Id>
+          <Value>いいわよ　コンパスモン
+ᜀ手伝᠀てつだᤀってあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813381645</Id>
+          <Value>よし　これで　どうかしら？
+コンパスモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_07_075_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1831076369</Id>
+          <Value>うん　いいᜀ感᠀かんᤀじ　じゃないかしら
+コンパスモン　これで　どう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>167</NumberOfLabels>
+  <NumberOfStrings>167</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2490898</Id>
+          <Value>このミハマᜀ港᠀こうᤀに　ウィルスᜀ化᠀かᤀした
+アプモンが　いるんだよな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18350603</Id>
+          <Value>オウジの　ᜀ話᠀はなしᤀだと
+そうらしいけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34603528</Id>
+          <Value>あれ？
+ᰏ　あのᜀ子᠀こᤀ…！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53347091</Id>
+          <Value>ええっと…
+オレより　ᜀ先᠀さきᤀに　サイバーアリーナを
+ᜀ出᠀でᤀたんじゃ　なかったっけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69468944</Id>
+          <Value>うるさいわね！
+ほんのちょっと
+ᜀ遠回᠀とおまわᤀり　してきただけよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86115085</Id>
+          <Value>あー
+このᜀ子᠀こᤀ　そういえば
+ᜀ方向᠀ほうこうᤀオンチだったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102236684</Id>
+          <Value>それで　ᜀ遠回᠀とおまわᤀりに
+なっちゃったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>122028823</Id>
+          <Value>ナビアプリの　アプモン
+ナビモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりればいいのに…
+そうすれば　ᜀ目的地᠀もくてきちᤀに　すぐᜀ行᠀いᤀけるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137364240</Id>
+          <Value>ナビモンに　ᜀ調᠀しらᤀべてもらっても
+ᜀ迷᠀まよᤀっちゃうものは
+ᜀ迷᠀まよᤀっちゃうのよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>155845404</Id>
+          <Value>おおぅ…　ナビモンの
+ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりても　ᜀ迷᠀まよᤀうのか
+そうとう　ᜀ重症᠀じゅうしょうᤀの　ᜀ方向᠀ほうこうᤀオンチなんだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>172229400</Id>
+          <Value>とにかく　いいこと！？
+ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀは
+アタシが　ᜀ先᠀さきᤀに　ᜀ解決᠀かいけつᤀするんだからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187171347</Id>
+          <Value>アンタたちは　ᜀ気楽᠀きらくᤀに
+ᜀ観光᠀かんこうᤀでも　していなさいよっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203686671</Id>
+          <Value>カヨ　ᜀ行᠀いᤀっちゃったな
+それで　ᰏ
+ロギモンたちは　どうするんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221905683</Id>
+          <Value>うん　ミハマᜀ港᠀こうᤀの　ᜀ騒動᠀そうどうᤀなら
+リョウジたちが
+ᜀ何᠀なにᤀか　ᜀ知᠀しᤀっているかもしれない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239469335</Id>
+          <Value>ミハマᜀ団᠀だんᤀの　アジト…
+ᜀ倉庫街᠀そうこがいᤀの　ᜀ南西᠀なんせいᤀの　ᜀ倉庫᠀そうこᤀ
+ᜀ行᠀いᤀってみようと　ᜀ思᠀おもᤀうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>253886993</Id>
+          <Value>そうか　わかったぞ！
+ミハマᜀ団᠀だんᤀの　トコに　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271844114</Id>
+          <Value>よう　ᰏ！
+リョウジさんなら　ᜀ奥᠀おくᤀに　いるぜ
+おᜀ前᠀まえᤀなら　ᜀ大歓迎᠀だいかんげいᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868298</Id>
+          <Value>おひさしぶりだコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>304349713</Id>
+          <Value>よくᜀ来᠀きᤀたな　ᰏ
+ᜀ今日᠀きょうᤀは　なんの　ᜀ用᠀ようᤀだい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>321520398</Id>
+          <Value>ᜀ前᠀まえᤀに　ᜀ来᠀きᤀたとき
+ウェザーモンの
+ᜀ騒動᠀そうどうᤀが　あっただろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>338166544</Id>
+          <Value>ああ
+おᜀ前᠀まえᤀさんを　うたがっちまった
+あの　ᜀ騒動᠀そうどうᤀのことか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>356778774</Id>
+          <Value>あのᜀ後᠀あとᤀで　このᜀ町᠀まちᤀに　ウィルスᜀ化᠀かᤀした
+アプモンのᜀ騒動᠀そうどうᤀが　あるらしいんだけど
+ᜀ知᠀しᤀらないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>373424919</Id>
+          <Value>ウィルスᜀ化᠀かᤀした　アプモンのᜀ騒動᠀そうどうᤀねぇ…
+あれほどの　ᜀ大᠀おおᤀきな　ᜀ騒動᠀そうどうᤀは
+ᜀ聞᠀きᤀかないなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>387449356</Id>
+          <Value>コソモン
+ᜀ何᠀なにᤀか　ᜀ知᠀しᤀってるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>404095248</Id>
+          <Value>ᜀ特᠀とくᤀには　ᜀ聞᠀きᤀいていないコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>423101205</Id>
+          <Value>でも　ᜀ裏口᠀うらくちᤀコミの　ᜀ情報᠀じょうほうᤀを
+ᜀ探᠀さがᤀしてみるコソ
+ちょっと　ᜀ待᠀まᤀってコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>436863493</Id>
+          <Value>どうだい？
+コソモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>454296079</Id>
+          <Value>リョウジ
+このニュースが　あやしいコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>472646418</Id>
+          <Value>「ミハマᜀ港᠀こうᤀの　ニューファッション
+　へんてこコーデが
+　ブームの　きざし！！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>487981581</Id>
+          <Value>へんてこコーデが　ブーム？
+なんだ　そりゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>506856213</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ᜀ赤᠀あかᤀレンガショップにある
+アパレルショップの
+ᜀ裏口᠀うらくちᤀコミだコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>524157715</Id>
+          <Value>ᜀ人気᠀にんきᤀの　ファッションコーデを
+あつかっていた　アパレルショップが
+ウェザーモンᜀ騒動᠀そうどうᤀの　あとから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>540148500</Id>
+          <Value>へんてこコーデばっかり
+あつかうようになって
+おᜀ客᠀きゃくᤀさんが　ᜀ困᠀こまᤀっているんだコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>557974293</Id>
+          <Value>ᜀ一部᠀いちぶᤀのᜀ人᠀ひとᤀにだけ
+ᜀ迷惑᠀めいわくᤀを　かけているから
+ᜀ目立᠀めだᤀつᜀ騒動᠀そうどうᤀに　なってないんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>572523024</Id>
+          <Value>ᜀ時期᠀じきᤀも　ᜀ同᠀おなᤀじみたいだから
+きっと　それだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>589169419</Id>
+          <Value>うん
+ᜀ赤᠀あかᤀレンガショップを
+ᜀ調᠀しらᤀべてみようか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>606732819</Id>
+          <Value>どうやら　コソモンの　ᜀ情報᠀じょうほうᤀが
+ᜀ役᠀やくᤀに　ᜀ立᠀たᤀったようだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>622592532</Id>
+          <Value>ᰏ
+ミハマᜀ団᠀だんᤀも　ᜀ手伝᠀てつだᤀってやろうか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>640418577</Id>
+          <Value>いや　このᜀ件᠀けんᤀは
+Ｃランクマスターの
+カヨとの　ᜀ勝負᠀しょうぶᤀでもあるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>657195788</Id>
+          <Value>だから　ウィルスᜀ化᠀かᤀした
+アプモンの　ところには
+オレたちだけで　ᜀ行᠀いᤀくよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>673973009</Id>
+          <Value>そうか
+ミハマᜀ団᠀だんᤀは　いつでも
+おᜀ前᠀まえᤀさんの　ᜀ味方᠀みかたᤀだからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>689963533</Id>
+          <Value>ᜀ何᠀なにᤀか　あったときには
+ᜀ声᠀こえᤀを　かけてくれよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>705167877</Id>
+          <Value>うん
+そうするよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>722075913</Id>
+          <Value>それじゃ　またな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>739377675</Id>
+          <Value>また
+いつでも　ᜀ来᠀くᤀるコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>759169815</Id>
+          <Value>おᜀ前᠀まえᤀさんは　ミハマᜀ団᠀だんᤀの　ᜀ一員᠀いちいんᤀだ
+ᜀ何᠀なにᤀか　あったときには
+ᜀ声᠀こえᤀを　かけてくれよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>775684883</Id>
+          <Value>へんてこコーデの　ᜀ騒動᠀そうどうᤀは
+ᜀ赤᠀あかᤀレンガショップにある
+アパレルショップで　ᜀ起᠀おᤀきているコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>791282446</Id>
+          <Value>きっと　そこに　ᜀ探᠀さがᤀしてる
+ウィルスᜀ化᠀かᤀした
+アプモンが　いるコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>807666442</Id>
+          <Value>ウィルスᜀ化᠀かᤀした
+アプモンが　いるのは
+このおᜀ店᠀みせᤀかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>825623314</Id>
+          <Value>とりあえず
+おᜀ店᠀みせᤀのᜀ人᠀ひとᤀや　おᜀ客᠀きゃくᤀさんに
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみようか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>841876240</Id>
+          <Value>はい　なんでしょうか？
+このおᜀ店᠀みせᤀで　ᜀ変᠀かᤀわったことが
+なかったか…　ですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>857211406</Id>
+          <Value>そうですねえ
+ᜀ特᠀とくᤀに　いつもどおりですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>874381836</Id>
+          <Value>ここで　ᜀ変᠀かᤀわったことは
+ᜀ起᠀おᤀきてないみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>893649687</Id>
+          <Value>このᜀ店᠀みせᤀの　コーデは　ᜀ安心᠀あんしんᤀできるけど
+となりの　ショップの　コーデは
+へんてこコーデって　ᜀ言᠀いᤀわれているんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>908198415</Id>
+          <Value>へんてこコーデを　ᜀ出᠀だᤀすのって
+このショップじゃ　ないのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>925106954</Id>
+          <Value>ウィルスᜀ化᠀かᤀした
+アプモンが　いるのは
+このおᜀ店᠀みせᤀかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>943063826</Id>
+          <Value>とりあえず
+おᜀ店᠀みせᤀのᜀ人᠀ひとᤀや　おᜀ客᠀きゃくᤀさんに
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみようか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>958530317</Id>
+          <Value>え？
+ᜀ特᠀とくᤀに　ᜀ変᠀かᤀわったことが
+なかったかですって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>976093968</Id>
+          <Value>おかげさまで　いつものように
+おᜀ客様᠀きゃくさまᤀに　ᜀ愛᠀あいᤀされる
+ショップですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>991822348</Id>
+          <Value>ここで　ᜀ変᠀かᤀわったことは
+ᜀ起᠀おᤀきてないみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010565904</Id>
+          <Value>ここの　ᜀ北᠀きたᤀにあるおᜀ店᠀みせᤀ…
+ᜀ最近᠀さいきんᤀ　へんてこなコーデを
+ᜀ出᠀だᤀすのよね　なんなのかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025638927</Id>
+          <Value>へんてこコーデを　ᜀ出᠀だᤀすのって
+このショップじゃ　ないのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042285322</Id>
+          <Value>ウィルスᜀ化᠀かᤀした
+アプモンが　いるのは
+このショップかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058275852</Id>
+          <Value>やっぱり
+ここに　ᜀ現᠀あらわᤀれたわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075184142</Id>
+          <Value>カヨ！
+カヨも　ここに　ᜀ来᠀きᤀてたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093141265</Id>
+          <Value>どうやら　アンタも
+このアパレルショップが　あやしいと
+ᜀ気᠀きᤀづいたようね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110049553</Id>
+          <Value>でも　ザンネン
+このおᜀ店᠀みせᤀには　ウィルスᜀ化᠀かᤀした
+アプモンは　いないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125515789</Id>
+          <Value>アタシが
+ちゃんと　ᜀ調᠀しらᤀべたからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1144914708</Id>
+          <Value>でも　ᜀ赤᠀あかᤀレンガショップには　もう2つ
+アパレルショップが　あるから
+きっと　そっちにいるに　ᜀ違᠀ちがᤀいないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160250128</Id>
+          <Value>そうとᜀ決᠀きᤀまれば　こんなところに
+ᜀ用᠀ようᤀは　ないわね
+バイバイ　ᰏ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178469141</Id>
+          <Value>どうして　ここが　ᜀ出口᠀でぐちᤀじゃないのよ！
+ここが　ᜀ出口᠀でぐちᤀのはずでしょ！
+まったく　おかしなᜀ店᠀みせᤀね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194853142</Id>
+          <Value>カヨ…
+こんな　ᜀ小᠀ちいᤀさなᜀ店᠀みせᤀでも　ᜀ迷᠀まよᤀうなんて
+ヒドい　ᜀ方向᠀ほうこうᤀオンチだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210712849</Id>
+          <Value>さて　どうしようか
+カヨは　ここには　ᜀ何᠀なにᤀもないって
+ᜀ言᠀いᤀってたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226834698</Id>
+          <Value>ウィルスᜀ化᠀かᤀした
+アプモンが　いるのは
+このショップかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243873809</Id>
+          <Value>カヨは　もうᜀ調᠀しらᤀべて
+ここじゃないって　ᜀ言᠀いᤀってたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1262092823</Id>
+          <Value>ᜀ念᠀ねんᤀのため　おᜀ店᠀みせᤀのᜀ人᠀ひとᤀや
+おᜀ客᠀きゃくᤀさんに　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277166351</Id>
+          <Value>やっぱり
+コーデアプリの　ᜀ調子᠀ちょうしᤀが
+おかしいのよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294598676</Id>
+          <Value>どうして　ᜀ希望᠀きぼうᤀと　ᜀ違᠀ちがᤀうコーデが
+ᜀ出᠀でᤀてきちゃうのかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311900439</Id>
+          <Value>ここの　コーデ
+ᜀ前᠀まえᤀは　とっても　ᜀ評判᠀ひょうばんᤀよかったのに
+どうしちゃったのかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327235597</Id>
+          <Value>へんてこな　コーデばっかり
+ᜀ出᠀でᤀてきちゃうのよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345454866</Id>
+          <Value>ᜀ洋服᠀ようふくᤀの　ᜀ広告᠀こうこくᤀがある…
+ここから　ＡＲダンジョンにも
+つながってるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361576722</Id>
+          <Value>コーデの　アプリが
+おかしくなっているなら
+このＡＲダンジョンが　あやしいけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1378353933</Id>
+          <Value>でも　カヨは
+ᜀ全部᠀ぜんぶᤀ　ᜀ調᠀しらᤀべたって
+ᜀ言᠀いᤀってなかったか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395786510</Id>
+          <Value>まさかとは　ᜀ思᠀おもᤀうけど
+ᜀ方向᠀ほうこうᤀオンチだから
+ᜀ見᠀みᤀつけられなかったとか…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411384076</Id>
+          <Value>そうだな！
+あのᜀ子᠀こᤀなら
+ありえる　ᜀ話᠀はなしᤀだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428423435</Id>
+          <Value>じゃあ　とりあえず
+この　ＡＲダンジョンを
+ᜀ調᠀しらᤀべてみようか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445856014</Id>
+          <Value>あ～ら　おᜀ客様᠀きゃくさまᤀには
+こちらの　ᜀ服᠀ふくᤀが
+おᜀ似合᠀にあᤀいですわ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1461191184</Id>
+          <Value>いた！
+ウィルスᜀ化᠀かᤀした　アプモンだっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478361872</Id>
+          <Value>こいつは
+コーディネートアプリの　アプモン
+コーデモンだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1497498390</Id>
+          <Value>おᜀ客様᠀きゃくさまᤀ　いけませんわ～
+そんな　ナンセンスで　ブッサブサで
+ダッサダサな　おᜀ洋服᠀ようふくᤀを　ᜀ着᠀きᤀては～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1512964882</Id>
+          <Value>コーデのことなら
+ミハマᜀ港᠀こうᤀの　ファッションリーダー
+コーデモンに　おまかせあれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528431117</Id>
+          <Value>えっ　オレのᜀ服᠀ふくᤀ
+そんなに　センスないかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546781456</Id>
+          <Value>ウィルスᜀ化᠀かᤀした　コーデモンの
+ᜀ言᠀いᤀうことだぞ
+マジメに　ᜀ聞᠀きᤀいちゃ　ダメだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562510094</Id>
+          <Value>あぁ　そうだった
+オレのᜀ服᠀ふくᤀ
+そんなに　おかしくないよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579680531</Id>
+          <Value>よし！
+コーデモンを　ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀすために
+まずは　バトルだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594622471</Id>
+          <Value>ええっ
+ミスったか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1614021398</Id>
+          <Value>ほ～ら　やっぱり
+おᜀ客様᠀きゃくさまᤀ　おᜀ洋服᠀ようふくᤀの　センスが
+おᜀ悪᠀わるᤀいのですわ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1629356558</Id>
+          <Value>そんなことないよ！
+ᜀ次᠀つぎᤀは　ᜀ負᠀まᤀけないから！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1648493334</Id>
+          <Value>おᜀ客様᠀きゃくさまᤀ　いけませんわ～
+そんな　ナンセンスで　ブッサブサで
+ダッサダサな　おᜀ洋服᠀ようふくᤀを　ᜀ着᠀きᤀては～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663304461</Id>
+          <Value>オレのセンス
+そんなに　ᜀ悪᠀わるᤀくないこと
+ᜀ見᠀みᤀせてやるから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1678901772</Id>
+          <Value>あわわわ…
+ワタクシは　いったい～？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1696727567</Id>
+          <Value>おお　ᜀ無事᠀ぶじᤀに
+ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀったみたいだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712980497</Id>
+          <Value>コーデモン
+キミは　ウィルスᜀ化᠀かᤀ　していたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1730150929</Id>
+          <Value>ウィルスᜀ化᠀かᤀ？　ああっ
+きっと　あのときで　ございますわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1748108051</Id>
+          <Value>ᜀ急᠀きゅうᤀに　ᜀ現᠀あらわᤀれた　バイラモンに
+おかしなガスを
+ふきかけられたので　ございます！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1763312143</Id>
+          <Value>それからのこと
+あまり　ᜀ覚᠀おぼᤀえておりません…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1780220428</Id>
+          <Value>やっぱり　バイラモンが
+ここにも　ᜀ来᠀きᤀていたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1798832923</Id>
+          <Value>ああ…
+ワタクシったら　へんてこなコーデを
+おᜀ客様᠀きゃくさまᤀに　ᜀ紹介᠀しょうかいᤀしてしまったのですね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1816134420</Id>
+          <Value>このᜀ先᠀さきᤀ　いったい　どんなᜀ顔᠀かおᤀをして
+おᜀ客様᠀きゃくさまᤀに　コーデを
+ᜀ紹介᠀しょうかいᤀすればいいのか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1833698070</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀだぞ　コーデモン！
+どうせ　ᜀ普通᠀ふつうᤀの　ᜀ人間᠀にんげんᤀには
+アプモンは　ᜀ見᠀みᤀえないから　ᜀ平気᠀へいきᤀだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1848378128</Id>
+          <Value>い…　いや　ロギモン
+そういう　ᜀ問題᠀もんだいᤀじゃないと
+ᜀ思᠀おもᤀうんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1866334998</Id>
+          <Value>あのさ　コーデモン　ᜀ今᠀いまᤀまでᜀ以上᠀いじょうᤀに
+がんばって　すごいコーデを
+おすすめすれば　いいんじゃないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1883112213</Id>
+          <Value>そうですわね！　そうでございます！
+これからは　よりすばらしい　コーデを
+ᜀ提供᠀ていきょうᤀできるよう　がんばりますわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1898316306</Id>
+          <Value>ウィルスᜀ化᠀かᤀから　ᜀ助᠀たすᤀけていただき
+ありがとうございました～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1913258250</Id>
+          <Value>うん　それじゃあね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1932395280</Id>
+          <Value>ああ！　もしかして
+ウィルスᜀ化᠀かᤀした　アプモン
+もう　ᜀ退治᠀たいじᤀしちゃったの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1949041422</Id>
+          <Value>ᜀ抜᠀ぬᤀけがけして
+ᜀ勝手᠀かってᤀに　ウィルスを
+ᜀ除去᠀じょきょᤀしちゃったのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1965687567</Id>
+          <Value>ᜀ抜᠀ぬᤀけがけって…
+カヨが　この　ＡＲダンジョンを
+ᜀ見落᠀みおᤀとしただけだろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982464782</Id>
+          <Value>うるさいわね！
+ᜀ用事᠀ようじᤀが　すんだのなら
+さっさと　ᜀ帰᠀かえᤀりなさいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1999897358</Id>
+          <Value>いや…　オレが　ᜀ帰᠀かえᤀるのは
+ᜀ別᠀べつᤀに　いいけどさ
+また　ᜀ道᠀みちᤀに　ᜀ迷᠀まよᤀうなよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>2017592083</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀよ！
+オウジᜀ様᠀さまᤀの　ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀるのに
+ᜀ道᠀みちᤀに　ᜀ迷᠀まよᤀったりしないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>2033451792</Id>
+          <Value>だって　アタシは　オウジᜀ様᠀さまᤀと
+ᜀ運命᠀うんめいᤀのᜀ糸᠀いとᤀで
+むすばれているんだから！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>2050097940</Id>
+          <Value>…あー　はいはい
+それより　ᜀ約束᠀やくそくᤀした
+Ｃランカーバトルのこと　ᜀ忘᠀わすᤀれないでね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065433353</Id>
+          <Value>じゃあ　ロギモン
+サイバーアリーナに
+ᜀ帰᠀かえᤀろうか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>2080637187</Id>
+          <Value>おう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>2100036366</Id>
+          <Value>…ᜀ何᠀なにᤀよ？
+ᜀ迷᠀まよᤀってるワケじゃないわ
+さっさと　ᜀ出᠀でᤀていきなさいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116420365</Id>
+          <Value>さぁ　コピペモン
+バイラモンの　ᜀ痕跡᠀こんせきᤀ
+コピーしてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>2132410894</Id>
+          <Value>ᜀ了解᠀りょうかいᤀだよ　カヨちー
+いっくよーー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>2148532744</Id>
+          <Value>はーい　カヨちー
+コピーできたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2168062741</Id>
+          <Value>よくやったわ　コピペモン
+それじゃあ　ᜀ急᠀いそᤀいで
+オウジᜀ様᠀さまᤀの　ᜀ元᠀もとᤀに　ᜀ帰᠀かえᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2184708886</Id>
+          <Value>だ・か・ら
+ᜀ迷᠀まよᤀってる　ワケじゃ　ないってば！
+ᜀ心配᠀しんぱいᤀなんて　よけいな　おᜀ世話᠀せわᤀよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2200699663</Id>
+          <Value>コーデアプリの　ᜀ調子᠀ちょうしᤀが
+ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀったわ！
+よかった～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2217739024</Id>
+          <Value>このショップの　コーデ
+ᜀ元᠀もとᤀの　いいセンスの　コーデに
+ᜀ戻᠀もどᤀったみたいだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2234516237</Id>
+          <Value>あえて　へんてこコーデを
+おᜀ願᠀ねがᤀいするᜀ人᠀ひとᤀが
+ᜀ結構᠀けっこうᤀ　いるんだって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2250637839</Id>
+          <Value>ᜀ事件᠀じけんᤀは　ᜀ無事᠀ぶじᤀに
+ᜀ解決᠀かいけつᤀ　できたようだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2266104078</Id>
+          <Value>えっ　なんで　ᜀ知᠀しᤀってるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2286420756</Id>
+          <Value>ᜀ俺᠀おれᤀたち　ミハマᜀ団᠀だんᤀを
+ᜀ甘᠀あまᤀく　ᜀ見᠀みᤀてもらっちゃ　ᜀ困᠀こまᤀるな！
+ミハマᜀ港᠀こうᤀのことなら　まかせておけよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2301887253</Id>
+          <Value>またᜀ来᠀こᤀいよ　ᰏ！
+おᜀ前᠀まえᤀさんは
+ミハマᜀ団᠀だんᤀの　ᜀ一員᠀いちいんᤀ　なんだからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>2318009105</Id>
+          <Value>ᰏ　おめでとうだコソ！
+な～んでも　ᜀ解決᠀かいけつᤀしちゃって
+かっこいいコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2333606411</Id>
+          <Value>オウジの　ᜀ話᠀はなしᤀだと
+そうらしいわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2351956756</Id>
+          <Value>ええっと…
+ワタシより　ᜀ先᠀さきᤀに　サイバーアリーナを
+ᜀ出᠀でᤀたんじゃ　なかったっけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2369389331</Id>
+          <Value>うん　ミハマᜀ港᠀こうᤀの　ᜀ騒動᠀そうどうᤀなら
+リョウジたちが
+ᜀ何᠀なにᤀか　ᜀ知᠀しᤀっているかもしれないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2386952983</Id>
+          <Value>ミハマᜀ団᠀だんᤀの　アジト…
+ᜀ倉庫街᠀そうこがいᤀの　ᜀ南西᠀なんせいᤀの　ᜀ倉庫᠀そうこᤀ
+ᜀ行᠀いᤀってみようと　ᜀ思᠀おもᤀうの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2402026255</Id>
+          <Value>ᜀ前᠀まえᤀに　ᜀ来᠀きᤀたとき
+ウェザーモンの
+ᜀ騒動᠀そうどうᤀが　あったでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2420507414</Id>
+          <Value>あのᜀ後᠀あとᤀで　このᜀ町᠀まちᤀに　ウィルスᜀ化᠀かᤀした
+アプモンのᜀ騒動᠀そうどうᤀが　あるらしいんだけど
+ᜀ知᠀しᤀらないかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2435449616</Id>
+          <Value>いや　このᜀ件᠀けんᤀは
+Ｃランクマスターの
+カヨとの　ᜀ勝負᠀しょうぶᤀでもあるの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2452357901</Id>
+          <Value>だから　ウィルスᜀ化᠀かᤀした
+アプモンの　ところには
+ワタシたちだけで　ᜀ行᠀いᤀくわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2469790482</Id>
+          <Value>とりあえず
+おᜀ店᠀みせᤀのᜀ人᠀ひとᤀや　おᜀ客᠀きゃくᤀさんに
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_053_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2484994572</Id>
+          <Value>ここで　ᜀ変᠀かᤀわったことは
+ᜀ起᠀おᤀきてないみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_137_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2501771788</Id>
+          <Value>ここで　ᜀ変᠀かᤀわったことは
+ᜀ起᠀おᤀきてないみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_065_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2520253206</Id>
+          <Value>カヨ…
+こんな　ᜀ小᠀ちいᤀさなᜀ店᠀みせᤀでも　ᜀ迷᠀まよᤀうなんて
+ヒドい　ᜀ方向᠀ほうこうᤀオンチなのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_066_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2536243985</Id>
+          <Value>さて　どうしようかな
+カヨは　ここには　ᜀ何᠀なにᤀもないって
+ᜀ言᠀いᤀってたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2554069528</Id>
+          <Value>ᜀ念᠀ねんᤀのため　おᜀ店᠀みせᤀのᜀ人᠀ひとᤀや
+おᜀ客᠀きゃくᤀさんに　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_074_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2570191634</Id>
+          <Value>ᜀ洋服᠀ようふくᤀの　ᜀ広告᠀こうこくᤀがある…
+ここから　ＡＲダンジョンにも
+つながってるみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_079_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2586051339</Id>
+          <Value>じゃあ　とりあえず
+この　ＡＲダンジョンを
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_081_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2602041873</Id>
+          <Value>いた！
+ウィルスᜀ化᠀かᤀした　アプモンだわっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_085_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2619081230</Id>
+          <Value>えっ　ワタシのᜀ服᠀ふくᤀ
+そんなに　センスないかなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_087_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2636382990</Id>
+          <Value>あぁ　そうだったわ
+ワタシのᜀ服᠀ふくᤀ
+そんなに　おかしくないよね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_088_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2653422355</Id>
+          <Value>よーし！
+コーデモンを　ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀすために
+まずは　バトルよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2668495369</Id>
+          <Value>ええっ
+ミスっちゃった！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_091_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2686321166</Id>
+          <Value>そんなことないわ！
+ᜀ次᠀つぎᤀは　ᜀ負᠀まᤀけないから！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2703622925</Id>
+          <Value>ワタシのセンス
+そんなに　ᜀ悪᠀わるᤀくないこと
+ᜀ見᠀みᤀせてあげるから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_096_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2719744530</Id>
+          <Value>コーデモン
+アナタは　ウィルスᜀ化᠀かᤀ　していたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_100_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2736390667</Id>
+          <Value>やっぱり　バイラモンが
+ここにも　ᜀ来᠀きᤀてたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_111_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2754347791</Id>
+          <Value>ᜀ抜᠀ぬᤀけがけって…
+カヨが　この　ＡＲダンジョンを
+ᜀ見落᠀みおᤀとしただけでしょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_113_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2771911440</Id>
+          <Value>いや…　ワタシが　ᜀ帰᠀かえᤀるのは
+ᜀ別᠀べつᤀに　いいんだけど
+また　ᜀ道᠀みちᤀに　ᜀ迷᠀まよᤀわないでよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_27_117_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2786984713</Id>
+          <Value>じゃあ　ロギモン
+サイバーアリーナに
+ᜀ帰᠀かえᤀりましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

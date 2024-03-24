@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>84</NumberOfLabels>
+  <NumberOfStrings>84</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1704214</Id>
+          <Value>ᜀ水質研究所᠀　すいしつけんきゅうじょᤀは　ここか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19661331</Id>
+          <Value>ここが　おかしなことに　なったから
+ᜀ町中᠀まちじゅうᤀが　ᜀ大᠀おおᤀさわぎなんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36569871</Id>
+          <Value>さわぎの　ᜀ原因᠀げんいんᤀがないか
+ᜀ研究所᠀けんきゅうじょᤀのまわりを
+しらべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52560656</Id>
+          <Value>んん～？
+ここを　かぎつけてきた
+アプリドライヴァーが　いるのぉ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69337871</Id>
+          <Value>ᰏ！
+あっちの　ほうから
+ヘンなᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88212247</Id>
+          <Value>おᜀ前᠀まえᤀだな！
+ᜀ研究所᠀けんきゅうじょᤀのシステムに　イタズラして
+ᜀ町᠀まちᤀに　さわぎを　ᜀ起᠀おᤀこしているのは！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102892054</Id>
+          <Value>そうだよぉ
+このᜀ騒動᠀そうどうᤀは　ボクが　ᜀ起᠀おᤀこしてるの～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>120062733</Id>
+          <Value>みんな　ᜀ困᠀こまᤀってるんだぞ
+こんなことは　ᜀ今᠀いまᤀすぐ
+やめるんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>136839953</Id>
+          <Value>イヤだよぉ
+ボクは　ᜀ人᠀ひとᤀを　ᜀ困᠀こまᤀらせたいの
+ガマン　できないの～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>155583252</Id>
+          <Value>このᜀ水質研究所᠀すいしつけんきゅうじょᤀは
+ᜀ人᠀ひとᤀを　ᜀ困᠀こまᤀらせるのに
+とっても　ᜀ便利᠀べんりᤀな　ᜀ場所᠀ばしょᤀなの～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171049748</Id>
+          <Value>ここに　ᜀ立᠀たᤀてこもって
+もっと　もっと
+ᜀ大混乱᠀だいこんらんᤀを　ᜀ起᠀おᤀこしてやる～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>186253588</Id>
+          <Value>ᜀ早᠀はやᤀく　このアプモンを　ᜀ止᠀とᤀめないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>204473112</Id>
+          <Value>ロギモンに　まかせろ！
+ここから　ᜀ研究所᠀けんきゅうじょᤀの　セキュリティに
+ログインするぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>218497286</Id>
+          <Value>うわわわっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>236192017</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀか　ロギモン！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>254411536</Id>
+          <Value>ᜀ中᠀なかᤀの　アプモンが
+ジャマしてるみたいだ…
+ログイン　なかなか　むずかしいぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271057426</Id>
+          <Value>ロギモンでも　ダメか…
+ᜀ何᠀なにᤀか　ᜀ他᠀ほかᤀに　ᜀ方法᠀ほうほうᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>290063126</Id>
+          <Value>ᜀ他᠀ほかᤀの　ᜀ方法᠀ほうほうᤀ…　それなら　ᰏ
+ᜀ他᠀ほかᤀの　アプモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりれば
+なんとか　なるかも　しれないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_018_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>305529617</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ一時的᠀いちじてきᤀに　セキュリティを
+ᜀ止᠀とᤀめてもらうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_018_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>322700052</Id>
+          <Value>ロギモンが　そのᜀ間᠀あいだᤀに　ログインして
+ここの　セキュリティの
+ᜀ解除᠀かいじょᤀコード　ᜀ取᠀とᤀってくる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_018_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>338559764</Id>
+          <Value>それなら　ᜀ原因᠀げんいんᤀの　アプモンがいる
+ＡＲダンジョンにも
+ログイン　できるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>353501455</Id>
+          <Value>アプモンのᜀ力᠀ちからᤀを　かりる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>371720978</Id>
+          <Value>そうだぞ　ᰏ！
+ここのセキュリティ　あるタイミングで
+ガードが　ゆるくなってる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>388760335</Id>
+          <Value>セキュリティが　ゆるくなった
+タイミングで　ロギモンが
+システムに　ログインできれば…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>405275405</Id>
+          <Value>セキュリティ　システムから
+ᜀ解除᠀かいじょᤀコードを
+もらうことが　できるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>422707985</Id>
+          <Value>そのᜀ解除᠀かいじょᤀコードが　あれば
+イタズラしている
+アイツのところに　ᜀ行᠀いᤀけるんだね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>437256711</Id>
+          <Value>うん　ᰏ
+そのᜀ通᠀とおᤀり！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>456786705</Id>
+          <Value>ガードの　ゆるくなる　タイミングを
+ツールᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ教᠀おしᤀえてもらえば　いいんだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>471204363</Id>
+          <Value>わかった　ロギモン！
+すぐに　やってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>490865432</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀアプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+さわぎを　おこしている
+アプモンの　ところへ　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>506987282</Id>
+          <Value>ᜀ指定᠀していᤀされたᜀ時間᠀じかんᤀで　とめて
+ガードの　ゆるくなる　タイミングを
+ᜀ教᠀おしᤀえてくれ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_018_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>523633425</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ一時的᠀いちじてきᤀに　セキュリティを
+ᜀ止᠀とᤀめてもらうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_018_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>540803860</Id>
+          <Value>ロギモンが　そのᜀ間᠀あいだᤀに　ログインして
+ここの　セキュリティの
+ᜀ解除᠀かいじょᤀコード　ᜀ取᠀とᤀってくる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_018_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>556663572</Id>
+          <Value>それなら　ᜀ原因᠀げんいんᤀの　アプモンがいる
+ＡＲダンジョンにも
+ログイン　できるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>571867659</Id>
+          <Value>わかった　ロギモン！
+すぐに　やってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>589169170</Id>
+          <Value>うーん…
+もう１ᜀ度᠀どᤀ　ᜀ挑戦᠀ちょうせんᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>606208531</Id>
+          <Value>そうだぞ　ᰏ！
+ᜀ準備᠀じゅんびᤀ　できたら　もう１ᜀ度᠀どᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>621674763</Id>
+          <Value>ᜀ今᠀いまᤀだ　ロギモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>638714377</Id>
+          <Value>よし　まかせとけ！
+ログインするぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>656278032</Id>
+          <Value>セキュリティᜀ解除᠀かいじょᤀコードを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>672137485</Id>
+          <Value>やった！　ᜀ成功᠀せいこうᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>689832467</Id>
+          <Value>どんなもんだ！
+ロギモン　つなぐの　ᜀ大得意᠀だいとくいᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>707658511</Id>
+          <Value>さあ　ᰏ！
+ᜀ解除᠀かいじょᤀコード　ᜀ使᠀つかᤀって
+ＡＲダンジョンに　ᜀ行᠀いᤀくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>724828692</Id>
+          <Value>うん　このᜀ事件᠀じけんᤀの　ᜀ原因᠀げんいんᤀの
+アプモンのところに　ᜀ早᠀はやᤀく　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>740557583</Id>
+          <Value>イタズラをしている　アプモンは
+ここの　ＡＲダンジョンに
+いるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>757072654</Id>
+          <Value>ウェ～ザ～！
+こんたトコまで　はいってきて
+しつこいヤツなの～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>773587470</Id>
+          <Value>アイツは　ᜀ天気᠀てんきᤀアプリの
+ウェザーモンだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>791675416</Id>
+          <Value>ウェ～ザ～！　ウェ～ザ～！
+ᜀ本日᠀ほんじつᤀは　ᜀ晴᠀はᤀれᜀ時々᠀ときどきᤀイタズラなの～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>807273226</Id>
+          <Value>あのウェザーモン
+ウィルスᜀ化᠀かᤀしてるな
+もしかして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>824312589</Id>
+          <Value>プロテクモンのときみたいに
+ウィルスガスを
+ふきかけられたのかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>839647751</Id>
+          <Value>うん…
+きっと　そうだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>857735949</Id>
+          <Value>ウェザーモン！
+みんなを　ᜀ困᠀こまᤀらせるのは
+やめるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>874251021</Id>
+          <Value>イヤなの～！
+やめてほしいなら　力づくで
+とめてみなよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>890110470</Id>
+          <Value>ウェ～ザ～！
+しつこ～い！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>907280654</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>924320270</Id>
+          <Value>ウェ～ザ～
+ボク　いったい　ᜀ何᠀なにᤀを…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>943194897</Id>
+          <Value>ウェザーモンは　ウィルスᜀ化᠀かᤀして
+ᜀ研究所᠀けんきゅうじょᤀの　システムを
+めちゃくちゃに　してたんだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>958137103</Id>
+          <Value>ええ～？
+ボク　そんなこと　してたの～？
+ごめんなさぁい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>975176208</Id>
+          <Value>まぁ…　とにかく
+ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀって　よかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>995230492</Id>
+          <Value>ホント　ごめんね～
+ボクは　そのᜀ日᠀ひᤀの　ᜀ天気᠀てんきᤀに　ᜀ合᠀あᤀわせて
+おᜀ水᠀みずᤀを　ᜀ管理᠀かんりᤀする　おᜀ仕事᠀しごとᤀに　ᜀ戻᠀もどᤀるね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009517328</Id>
+          <Value>ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀしてくれて
+ホントに　ありがと～
+じゃあ　ばいば～い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025901330</Id>
+          <Value>ᰏ
+ウェザーモン　ᜀ戻᠀もどᤀったから
+もうトラブルは　なくなったはずだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043202830</Id>
+          <Value>そうだね
+じゃあ　ᜀ町᠀まちᤀのᜀ様子᠀ようすᤀを
+ᜀ確᠀たしᤀかめに　ᜀ戻᠀もどᤀろうか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_001_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058668822</Id>
+          <Value>ᜀ水質研究所᠀　すいしつけんきゅうじょᤀは　ここね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077150480</Id>
+          <Value>さわぎの　ᜀ原因᠀げんいんᤀがないか
+ᜀ研究所᠀けんきゅうじょᤀの　まわりを
+ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094451991</Id>
+          <Value>アナタね！
+ᜀ研究所᠀けんきゅうじょᤀのシステムに　イタズラして
+ᜀ町᠀まちᤀに　さわぎを　ᜀ起᠀おᤀこしているのは！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109918476</Id>
+          <Value>みんな　ᜀ困᠀こまᤀってるのよ
+こんなことは　ᜀ今᠀いまᤀすぐ
+やめなさい！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125646609</Id>
+          <Value>ᜀ早᠀はやᤀく　アイツを　ᜀ止᠀とᤀめないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142161681</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀ？　ロギモン！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160905489</Id>
+          <Value>そのᜀ解除᠀かいじょᤀコードが　あれば
+イタズラしている
+アプモンのところに　ᜀ行᠀いᤀけるのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175978508</Id>
+          <Value>わかったわ　ロギモン！
+すぐに　やってみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195508504</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀアプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+さわぎを　おこしている
+アプモンの　ところへ　ᜀ行᠀いᤀくわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_029_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209532940</Id>
+          <Value>わかった　ロギモン！
+すぐに　やってみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1225654539</Id>
+          <Value>ᜀ今᠀いまᤀよ　ロギモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242562829</Id>
+          <Value>やった！　ᜀ成功᠀せいこうᤀよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261830678</Id>
+          <Value>ええ　このᜀ事件᠀じけんᤀの　ᜀ原因᠀げんいんᤀの
+アプモンのところに　ᜀ早᠀はやᤀく　ᜀ行᠀いᤀきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277428495</Id>
+          <Value>イタズラをしている　アプモンは
+ここの　ＡＲダンジョンに
+いるはずだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293812491</Id>
+          <Value>あのウェザーモン
+ウィルスᜀ化᠀かᤀしてるわね
+もしかして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309409800</Id>
+          <Value>うん…
+きっと　そうだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327497997</Id>
+          <Value>ウェザーモン！
+みんなを　ᜀ困᠀こまᤀらせるのは
+やめるのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343488270</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_053_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361052177</Id>
+          <Value>まぁ…　とにかく
+ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀって　よかったわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1378878223</Id>
+          <Value>そうだね
+じゃあ　ᜀ町᠀まちᤀのᜀ様子᠀ようすᤀを
+ᜀ確᠀たしᤀかめに　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_22_030_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394475539</Id>
+          <Value>うーん…
+もう１ᜀ度᠀どᤀ　ᜀ挑戦᠀ちょうせんᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

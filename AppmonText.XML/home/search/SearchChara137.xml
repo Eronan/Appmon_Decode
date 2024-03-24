@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>ピーポモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21889813</Id>
+          <Value>ᜀ注意報᠀ちゅういほうᤀのアプリ　ピーポモン！
+ᜀ周囲᠀しゅういᤀのᜀ危険᠀きけんᤀを　ᜀ察知᠀さっちᤀして
+サイレンで　ᜀ伝᠀つたᤀえてくれる　アプモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749275</Id>
+          <Value>ヒフミがᜀ丘中学校᠀おかちゅうがっこうᤀでは　プロテクモンと
+ᜀ学校᠀がっこうᤀの　ᜀ安全᠀あんぜんᤀを　ᜀ守᠀まもᤀっているぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

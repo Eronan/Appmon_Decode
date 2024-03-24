@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>DEF_DECK_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>アプリデッキ０１</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DEF_DECK_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>アプリデッキ０２</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DEF_DECK_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078984</Id>
+          <Value>アプリデッキ０３</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DEF_DECK_NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>50725126</Id>
+          <Value>アプリデッキ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

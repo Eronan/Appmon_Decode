@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786700</Id>
+          <Value>Ａランクマスターとバトル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880597</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435029</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989461</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543893</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172098325</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205652757</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239207189</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272761621</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>マコトに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316053</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323093269</Id>
+          <Value>ついに　マコトと　Ａランカーバトル！
+このバトルに　ᜀ勝᠀かᤀったら
+ᜀ引退᠀いんたいᤀの　ᜀ真意᠀しんいᤀを　ᜀ聞᠀きᤀきだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

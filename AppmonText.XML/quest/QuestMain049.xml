@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179919</Id>
+          <Value>サイバーアリーナのᜀ不調᠀ふちょうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957138</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798105</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72352537</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066002</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105906969</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620434</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139461401</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174866</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173015833</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729298</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206570265</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283730</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240124697</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838162</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273679129</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286392594</Id>
+          <Value>ハイエンドＧＰ　Ｂランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307233561</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324010777</Id>
+          <Value>ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｂランク」！
+サイバーアリーナが　ᜀ不調᠀ふちょうᤀなのが
+ᜀ心配᠀しんぱいᤀだけど…　ᜀ復旧᠀ふっきゅうᤀを　ᜀ祈᠀いのᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>CONFIRMATION</Key>
+      <Values>
+        <BtxtString>
+          <Id>918027</Id>
+          <Value>ᰀを
+アプモンチップにします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826316</Id>
+          <Value>ᰀを
+アプモンチップにしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ERROR</Key>
+      <Values>
+        <BtxtString>
+          <Id>35521039</Id>
+          <Value>アプモンチップは
+これᜀ以上᠀いじょうᤀ　ᜀ持᠀もᤀてません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APPLI_ARISE</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118347</Id>
+          <Value>アプリアライズしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

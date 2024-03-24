@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>5899035</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ時᠀ときᤀはᜀ来᠀きᤀて　ᜀ次᠀つぎᤀなるチャレンジ　ᜀ意味重᠀いみおもᤀし
+サイバーアリーナで　ᜀ友᠀ともᤀのᜀ声᠀こえᤀを　ᜀ聞᠀きᤀけ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21103381</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ次᠀つぎᤀなる　ᜀ１歩᠀いっぽᤀを　ᜀ記᠀しるᤀしたければ
+ハイエンドＡランクを　きわめるべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39584539</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ苦悩᠀くのうᤀする　ᜀ友᠀ともᤀに　ᜀ心配᠀しんぱいᤀする　ᜀ友᠀ともᤀあり
+ᜀ表᠀おもてᤀと　ᜀ出᠀いずᤀれば　ᜀ出会᠀であᤀいが　あるだろう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55968537</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ川᠀かわᤀの　ほとりに　たたずむ　ᜀ友᠀ともᤀの　ᜀ姿᠀すがたᤀ
+ᜀ彼᠀かれᤀの　ᜀ言葉᠀ことばᤀに　ᜀ耳᠀みみᤀを　かたむけるべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828248</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ風雲᠀ふううんᤀ　ᜀ急᠀きゅうᤀを　つげる　ニコタマのᜀ地᠀ちᤀ
+カオスゲートを　ᜀ見᠀みᤀつけだすべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88474391</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+カオスの　ᜀ鍵᠀かぎᤀは　いま　いづこ
+バスの　ᜀ憩᠀いこᤀいし　ᜀ場所᠀ばしょᤀへと　ᜀ進᠀すすᤀめ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>105120531</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+カオスの　ᜀ鍵᠀かぎᤀは　いま　いづこ
+ᜀ学᠀まなᤀびやᜀ前᠀まえᤀの　ᜀ板᠀いたᤀを　ᜀ見᠀みᤀよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>122028820</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+カオスの　ᜀ鍵᠀かぎᤀ　そろいしᜀ時᠀ときᤀ
+ᜀ友᠀ともᤀ　ᜀ待᠀まᤀつ　ゲートに　ᜀ向᠀むᤀかうべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>140247831</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ友᠀ともᤀのᜀ心᠀こころᤀに　ᜀ触᠀ふᤀれるᜀ時᠀ときᤀは　ᜀ来᠀きᤀたり
+ᜀ勝᠀かᤀって　ᜀ思᠀おもᤀいのたけを　ᜀ引᠀ひᤀきᜀ出᠀だᤀすべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>OBJ_SEWER2</Key>
+      <Values>
+        <BtxtString>
+          <Id>5374746</Id>
+          <Value>ᜀ都市管理᠀としかんりᤀシステムの　ᜀ操作盤᠀そうさばんᤀがある
+ᜀ電気量᠀でんきりょうᤀの　ᜀ配分᠀はいぶんᤀなんかも
+ここで　ᜀ計測᠀けいそくᤀしているみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SEWER3</Key>
+      <Values>
+        <BtxtString>
+          <Id>22151962</Id>
+          <Value>ᜀ都市管理᠀としかんりᤀシステムの　ᜀ操作盤᠀そうさばんᤀがある
+ᜀ町᠀まちᤀのための　あらゆるネットワークが
+うまく　ᜀ動᠀うごᤀくように　ᜀ支᠀ささᤀえてる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>36307475</Id>
+          <Value>ボクは　モトモト　ᜀ都内᠀とないᤀノ
+ゲーむセんターで　ᜀ働᠀はたらᤀイてイまシた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>55706393</Id>
+          <Value>あルᜀ日᠀ひᤀ　ᜀ故障᠀こしょうᤀシてシまっテ　ᜀ修理᠀しゅうりᤀニ
+ᜀ出᠀だᤀサれたのでスが　ᜀ目᠀めᤀガ　ᜀ覚᠀さᤀめタら
+ここニ…　どうイうことでシょうカ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

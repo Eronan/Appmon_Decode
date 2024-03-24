@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>4064017</Id>
+          <Value>まさか　ᜀ本当᠀ほんとうᤀに　おᜀ前᠀まえᤀと
+バトルすることに　なるなんて
+あのᜀ時᠀ときᤀは　ᜀ思᠀おもᤀってなかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>20185875</Id>
+          <Value>あのᜀ時᠀ときᤀは　キズナを　つなげたいから
+バトルしたいんだって
+オンモンが　ᜀ言᠀いᤀってたっけ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>39584539</Id>
+          <Value>ᜀ当᠀あᤀたりᜀ前᠀まえᤀだけど　あのᜀ時᠀ときᤀとは　ちがう
+おᜀ前᠀まえᤀは　ᜀ強᠀つよᤀくなったし
+ᜀ俺᠀おれᤀだって　ᜀ自分᠀じぶんᤀの　ᜀ立場᠀たちばᤀを　ᜀ知᠀しᤀられてる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>54788889</Id>
+          <Value>それに　おᜀ前᠀まえᤀとの　キズナなら
+とっくに　つながってる　つもりだ
+…だからこそ　ᜀ全力᠀ぜんりょくᤀで　ᜀ相手᠀あいてᤀをするよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>69600015</Id>
+          <Value>ᰏ…
+おᜀ前᠀まえᤀの　ᜀ友᠀ともᤀだちとして…
+Ａランクマスターとしてな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

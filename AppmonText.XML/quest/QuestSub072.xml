@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179918</Id>
+          <Value>ᜀ臆病᠀おくびょうᤀなドライヴァー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>ヒフミが丘・お花見公園</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39584537</Id>
+          <Value>ᜀ依頼人᠀いらいにんᤀの　バディ　スパモンが
+おᜀ花見公園᠀はなみこうえんᤀに　ᜀ取᠀とᤀりᜀ残᠀のこᤀされている
+ᜀ依頼人᠀いらいにんᤀの　ᜀ代᠀かᤀわりに　ᜀ助᠀たすᤀけにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>ヒフミが丘・お花見公園ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435030</Id>
+          <Value>スパモンが　ᜀ電灯᠀でんとうᤀの　ＡＲダンジョンに
+ᜀ逃᠀にᤀげこんでしまった！
+ᜀ追᠀おᤀいかけて　スパモンを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066002</Id>
+          <Value>ヒフミが丘・お花見公園ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989462</Id>
+          <Value>スパモンが　ᜀ電灯᠀でんとうᤀの　ＡＲダンジョンに
+ᜀ逃᠀にᤀげこんでしまった！
+ᜀ追᠀おᤀいかけて　スパモンを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620434</Id>
+          <Value>ヒフミが丘・お花見公園ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199257</Id>
+          <Value>スパモンは　ᜀ警戒᠀けいかいᤀするあまり
+こちらに　ᜀ攻撃᠀こうげきᤀしてきた！　ᜀ手荒᠀てあらᤀだけど
+ここは　ᜀ戦᠀たたかᤀって　おとなしくさせよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912718</Id>
+          <Value>ヒフミが丘・ケータイショップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172884759</Id>
+          <Value>ᜀ依頼人᠀いらいにんᤀの　ᜀ代理᠀だいりᤀで　ᜀ来᠀きᤀたことが
+スパモンに　ᜀ伝᠀つたᤀわった
+さあ　ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467150</Id>
+          <Value>ヒフミが丘・ケータイショップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206439191</Id>
+          <Value>ᜀ依頼人᠀いらいにんᤀの　ᜀ代理᠀だいりᤀで　ᜀ来᠀きᤀたことが
+スパモンに　ᜀ伝᠀つたᤀわった
+さあ　ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021582</Id>
+          <Value>ヒフミが丘・ケータイショップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239993623</Id>
+          <Value>ᜀ依頼人᠀いらいにんᤀの　ᜀ代理᠀だいりᤀで　ᜀ来᠀きᤀたことが
+スパモンに　ᜀ伝᠀つたᤀわった
+さあ　ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576014</Id>
+          <Value>ヒフミが丘・ケータイショップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273548055</Id>
+          <Value>ᜀ依頼人᠀いらいにんᤀの　ᜀ代理᠀だいりᤀで　ᜀ来᠀きᤀたことが
+スパモンに　ᜀ伝᠀つたᤀわった
+さあ　ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130446</Id>
+          <Value>ヒフミが丘・ケータイショップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307102487</Id>
+          <Value>ᜀ依頼人᠀いらいにんᤀの　ᜀ代理᠀だいりᤀで　ᜀ来᠀きᤀたことが
+スパモンに　ᜀ伝᠀つたᤀわった
+さあ　ᜀ依頼人᠀いらいにんᤀの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324535068</Id>
+          <Value>スパモンを　ᜀ連᠀つᤀれᜀ出᠀だᤀすことが　できた
+ᜀ依頼人᠀いらいにんᤀも　スパモンも　ᜀ臆病᠀おくびょうᤀだったけど
+ᜀ似᠀にᤀたᜀ者同士᠀ものどうしᤀの　いいコンビだった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

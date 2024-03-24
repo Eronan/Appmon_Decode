@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>16</NumberOfLabels>
+  <NumberOfStrings>16</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>SEARCH_QR</Key>
+      <Values>
+        <BtxtString>
+          <Id>3932947</Id>
+          <Value>ＱＲコードを　ᜀ探᠀さがᤀしています
+ᜀ点線᠀てんせんᤀのわくを　ᜀ目安᠀めやすᤀにして
+ＱＲコードを　あわせてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>HIT_QR</Key>
+      <Values>
+        <BtxtString>
+          <Id>18743575</Id>
+          <Value>ＱＲコードᜀ読取᠀よみとりᤀにᜀ成功᠀せいこうᤀしました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>UNLOCK_APPMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>34472459</Id>
+          <Value>ᰀが
+アンロックされました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_APPMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380745</Id>
+          <Value>ᰀを
+ᜀ手᠀てᤀにいれました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>68420108</Id>
+          <Value>ᰀを
+×　ᬁ　ᜀ手᠀てᤀにいれました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OVER_READ_COUNT</Key>
+      <Values>
+        <BtxtString>
+          <Id>86770201</Id>
+          <Value>ᜀ本日᠀ほんじつᤀのＱＲコードᜀ読取回数᠀よみとりかいすうᤀが
+ᜀ残᠀のこᤀっていません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OVER_READ_COUNT_B</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513753</Id>
+          <Value>ᜀ本日᠀ほんじつᤀのＱＲコードᜀ読取回数᠀よみとりかいすうᤀが
+ᜀ残᠀のこᤀっていません
+※ローカルᜀ対戦᠀たいせんᤀでᜀ回復᠀かいふくᤀできます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ERROR_READ_FAILED</Key>
+      <Values>
+        <BtxtString>
+          <Id>119275798</Id>
+          <Value>ＱＲコードᜀ読取᠀よみとりᤀにᜀ失敗᠀しっぱいᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ERROR_OTHER_QR</Key>
+      <Values>
+        <BtxtString>
+          <Id>135660042</Id>
+          <Value>このＱＲコードは
+ᜀ使用᠀しようᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ERROR_ALREADY_READED</Key>
+      <Values>
+        <BtxtString>
+          <Id>152568333</Id>
+          <Value>すでに　ᜀ読᠀よᤀんだことがある
+ＱＲコードです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_OVER_APPMON_COUNT</Key>
+      <Values>
+        <BtxtString>
+          <Id>169738767</Id>
+          <Value>アプモンチップは
+これᜀ以上᠀いじょうᤀ　ᜀ持᠀もᤀてません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_OVER_ITEM_COUNT</Key>
+      <Values>
+        <BtxtString>
+          <Id>186122767</Id>
+          <Value>ᰀは
+これᜀ以上᠀いじょうᤀ　ᜀ持᠀もᤀてません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_RESULT</Key>
+      <Values>
+        <BtxtString>
+          <Id>203293196</Id>
+          <Value>ＱＲコードᜀ読取᠀よみとりᤀを
+ᜀ中断᠀ちゅうだんᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_NOT_LUCKY_APPMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>219677200</Id>
+          <Value>このアプモンは
+ラッキーアプモンでは　ありません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_OVER_ITEM_COUNT_PTN_B</Key>
+      <Values>
+        <BtxtString>
+          <Id>238289683</Id>
+          <Value>ᰀは
+×９９９　ᜀ以上᠀いじょうᤀ　ᜀ持᠀もᤀてませんが
+ᜀ受᠀うᤀけᜀ取᠀とᤀってもよろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAIELD_CANNOT_READ_CODE</Key>
+      <Values>
+        <BtxtString>
+          <Id>256115478</Id>
+          <Value>ＱＲコードᜀ読取᠀よみとりᤀにᜀ失敗᠀しっぱいᤀしました
+ᜀ最新᠀さいしんᤀのᜀ更新᠀こうしんᤀデータを
+ᜀ確認᠀かくにんᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048844</Id>
+          <Value>エムシーモンにᜀ呼᠀よᤀばれて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563916</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38142743</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118348</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697175</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜁ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105251607</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜂ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138806039</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜃ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172360471</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜄ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205914903</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜅ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239469335</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜆ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273023767</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜇ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>サイバーアリーナに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306578199</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜈ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323355415</Id>
+          <Value>エムシーモンから　ᜀ急᠀いそᤀいで
+ᜀ戻᠀もどᤀってこいと　ᜀ連絡᠀れんらくᤀが　ᜀ入᠀はいᤀった…
+サイバーアリーナに　ᜈ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>109</NumberOfLabels>
+  <NumberOfStrings>109</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442314</Id>
+          <Value>あ…　あなたの　それ
+アプリドライヴですね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18219530</Id>
+          <Value>アプリドライヴを
+ᜀ知᠀しᤀってるんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36438545</Id>
+          <Value>はい　ᜀ俺᠀おれᤀも　ᜀ持᠀もᤀってるんですよ
+ᜀ同᠀おなᤀじ　アプリドライヴァーですね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53478163</Id>
+          <Value>あなたは　バトルを　するᜀ人᠀ひとᤀですか？
+よければ　おゆずりしたい
+アイテムが　あるんです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>67764490</Id>
+          <Value>えっ　いいんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87294740</Id>
+          <Value>はい　ᜀ俺᠀おれᤀは　あまり
+バトルは　しないので
+ᜀ持᠀もᤀてᜀ余᠀あまᤀして　いるんですよ　…ふわぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103547415</Id>
+          <Value>すみません　あくびが…
+ᜀ今日᠀きょうᤀは　ᜀ少᠀すこᤀし　ᜀ寝不足᠀ねぶそくᤀなもので</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119276048</Id>
+          <Value>センセイ　あくびした～
+おねむなの？　ねる？　ねるよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_008_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>134349057</Id>
+          <Value>！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>153747986</Id>
+          <Value>まだ　ᜀ寝᠀ねᤀないです…
+ᜀ今᠀いまᤀは　おᜀ話᠀はなᤀしᜀ中᠀ちゅうᤀ　ですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>169739021</Id>
+          <Value>もしかして
+この　スリープモンが
+あなたの　バディアプモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>186516237</Id>
+          <Value>もしかして
+この　スリープモンが
+アナタの　バディアプモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>205390614</Id>
+          <Value>はい　ᜀ夜更᠀よふᤀかしして　ᜀ仕事᠀しごとᤀしていると
+いつも　このᜀ子᠀こᤀが
+ᜀ眠᠀ねむᤀらせに　きてくれるんですが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>220594706</Id>
+          <Value>ᜀ熱心᠀ねっしんᤀすぎて
+ᜀ少᠀すこᤀし　ᜀ困᠀こまᤀっても　いるんですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>238158612</Id>
+          <Value>だって　センセイは
+ボクが　ねかしつけてあげないと！
+ᜀ今᠀いまᤀも　おねむでしょ？　もう　ねむる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>255984405</Id>
+          <Value>だから　ᜀ今᠀いまᤀは　ダメですよ
+このあとの　ᜀ打᠀うᤀちᜀ合᠀あᤀわせで
+ᜀ担当᠀たんとうᤀさんが　ᜀ困᠀こまᤀってしまいます…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>270271242</Id>
+          <Value>でも　ねるよね？
+もう　ねよう！
+おやすみ　センセイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>289145617</Id>
+          <Value>うう…　よかったら　スリープモンを
+ᜀ説得᠀せっとくᤀしてくれませんか？
+ᜀ俺᠀おれᤀは　もう…　ᜀ眠᠀ねむᤀたくて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>302252291</Id>
+          <Value>すう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>319422727</Id>
+          <Value>ᜀ寝᠀ねᤀちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>337642000</Id>
+          <Value>よし！　ᜀ今日᠀きょうᤀも　センセイを
+ねむらせて　あげました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>356516626</Id>
+          <Value>アプモンが　ᜀ原因᠀げんいんᤀと　なると
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりないと
+ᜀ起᠀おᤀこせないかも　しれないな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>372900626</Id>
+          <Value>スリープモンには
+ᜀ少᠀すこᤀし　ᜀ悪᠀わるᤀいᜀ気᠀きᤀが　するけど
+おにいさんを　ᜀ起᠀おᤀこしてあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>387186960</Id>
+          <Value>おにいさんを　ᜀ起᠀おᤀこしてあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>403833358</Id>
+          <Value>ええ～
+センセイ　おこしちゃうの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>421790481</Id>
+          <Value>ダメダメ！
+ボク　ジャマするからね！
+おこせるものなら　おこしてみろー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>439747348</Id>
+          <Value>スリープモンが　ジャマしてくる…！
+これは　ᜀ本気᠀ほんきᤀだして　ᜀ起᠀おᤀこさないと
+いけないみたいだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2</Key>
+      <Values>
+        <BtxtString>
+          <Id>454557969</Id>
+          <Value>どれくらいᜀ本気᠀ほんきᤀで　ᜀ起᠀おᤀこす？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A1</Key>
+      <Values>
+        <BtxtString>
+          <Id>470417670</Id>
+          <Value>ᜀ少᠀すこᤀしだけ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>488505870</Id>
+          <Value>スリープモン　おにいさんには
+ᜀ起᠀おᤀきてもらうからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A2</Key>
+      <Values>
+        <BtxtString>
+          <Id>503972102</Id>
+          <Value>ᜀ普通᠀ふつうᤀに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>522715916</Id>
+          <Value>おにいさんには　ちゃんと
+ᜀ起᠀おᤀきてもらわないと！
+いくよ　スリープモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A3</Key>
+      <Values>
+        <BtxtString>
+          <Id>537264389</Id>
+          <Value>たくさん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>556139027</Id>
+          <Value>よし！　おにいさんには
+ᜀ何᠀なにᤀが　なんでも　ᜀ起᠀おᤀきてもらうぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>572654351</Id>
+          <Value>ああ　このᜀ前᠀まえᤀの
+アプリドライヴァーさん　ですね
+こんにちは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>590873363</Id>
+          <Value>ᜀ今日᠀きょうᤀも　あなたに　おゆずりしたい
+アイテムが　あるんです
+ᜀ受᠀うᤀけᜀ取᠀とᤀって　くれますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>605422090</Id>
+          <Value>ᜀ本当᠀ほんとうᤀですか？
+うれしいです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>622985743</Id>
+          <Value>はい　ᜀ俺᠀おれᤀが　ᜀ持᠀もᤀっていても
+しかたのない　もので…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>637796612</Id>
+          <Value>ふわぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>657064720</Id>
+          <Value>センセイ　あくびした～
+おねむなの？　ねる？　ねるよね？
+せんせい　おやすみなさい～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>675283735</Id>
+          <Value>ᜀ困᠀こまᤀりました…　よかったら
+スリープモンを　ᜀ説得᠀せっとくᤀしてくれませんか？
+ᜀ俺᠀おれᤀは　もう…　ねむたくて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>688128259</Id>
+          <Value>すう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>705298695</Id>
+          <Value>ᜀ寝᠀ねᤀちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>723517968</Id>
+          <Value>よし！　ᜀ今日᠀きょうᤀも　センセイを
+ねむらせて　あげました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>742392594</Id>
+          <Value>アプモンが　ᜀ原因᠀げんいんᤀと　なると
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりないと
+ᜀ起᠀おᤀこせないかも　しれないな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>758776594</Id>
+          <Value>スリープモンには
+ᜀ少᠀すこᤀし　ᜀ悪᠀わるᤀいᜀ気᠀きᤀが　するけど
+おにいさんを　ᜀ起᠀おᤀこしてあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>772145414</Id>
+          <Value>すう　すう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>791937809</Id>
+          <Value>すっかり　ᜀ眠᠀ねむᤀっちゃってる…
+たしか　スリープモンの
+ᜀ説得᠀せっとくᤀを　たのまれたんだっけ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>808583953</Id>
+          <Value>おにいさん　ᜀ仕事中᠀しごとちゅうᤀだし
+オレに　ᜀ渡᠀わたᤀしたいものが
+あるみたい　だったし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>823656972</Id>
+          <Value>おにいさんには
+ᜀ起᠀おᤀきて　もらわないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>843055890</Id>
+          <Value>アプモンが　ᜀ原因᠀げんいんᤀと　なると
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりないと
+ᜀ起᠀おᤀこせないかも　しれないな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>859439890</Id>
+          <Value>スリープモンには
+ᜀ少᠀すこᤀし　ᜀ悪᠀わるᤀいᜀ気᠀きᤀが　するけど
+おにいさんを　ᜀ起᠀おᤀこしてあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>874512913</Id>
+          <Value>ああ　アプリドライヴァーさん
+さっきは　ありがとう　ございました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>893387539</Id>
+          <Value>ᜀ明日᠀あしたᤀに　なったら　また　ᜀ何᠀なにᤀか
+おᜀ渡᠀わたᤀしできると　ᜀ思᠀おもᤀうので
+よければ　いらして　くださいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>907411985</Id>
+          <Value>もう！
+せっかく　ねむらせて　あげたのに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>925500179</Id>
+          <Value>スリープモン
+そういうのは　ᜀ眠᠀ねむᤀっても　いいときに
+おᜀ願᠀ねがᤀいします…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>942539537</Id>
+          <Value>…そうだ！
+このᜀ人᠀ひとᤀが　おこしちゃうなら
+ᜀ今᠀いまᤀ　ねむったって　いいでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>959316753</Id>
+          <Value>ボク　センセイに　ねむってほしい！
+キミが　また　センセイの　こと
+おこして　くれるよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>974651665</Id>
+          <Value>ᜀ先生᠀せんせいᤀを　ᜀ起᠀おᤀこしてあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>990642444</Id>
+          <Value>そういうのは　ちょっと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007944203</Id>
+          <Value>もう！　つまんないのー
+じゃあ　またね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025508110</Id>
+          <Value>うんうん　そうじゃなくちゃ！
+じゃあ　センセイ
+おやすみなさい～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041236487</Id>
+          <Value>えっ　ちょっと
+スリープモン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057227011</Id>
+          <Value>すぅ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1074397447</Id>
+          <Value>ᜀ寝᠀ねᤀちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093665554</Id>
+          <Value>スリープモンが　ᜀ眠᠀ねむᤀらせちゃうなら
+あらためて　ちゃんと
+ᜀ起᠀おᤀこしてあげないとな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108607498</Id>
+          <Value>センセイ　おやすみ～
+おやすみなさい～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1124991243</Id>
+          <Value>ううん　ᜀ困᠀こまᤀったな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141899787</Id>
+          <Value>ううん…
+おはよう　ございます…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158808077</Id>
+          <Value>ああー！
+センセイ　おきちゃったあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178075922</Id>
+          <Value>スリープモン　ᜀ眠᠀ねむᤀっても
+いいときに　してくださいって
+ᜀ何度᠀なんどᤀも　ᜀ言᠀いᤀっているでしょう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1191969035</Id>
+          <Value>はぁい　きを　つけるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208746252</Id>
+          <Value>ええと　なんでしたっけ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227621136</Id>
+          <Value>そうだ　アプリドライヴァーの
+あなたに　おᜀ渡᠀わたᤀししたいものが
+あったんでした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245709075</Id>
+          <Value>ᜀ明日᠀あしたᤀに　なったら　また　ᜀ何᠀なにᤀか
+おᜀ渡᠀わたᤀしできると　ᜀ思᠀おもᤀうので
+よければ　いらして　くださいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1259340299</Id>
+          <Value>はっ…！
+おはよう　ございます！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276248589</Id>
+          <Value>ぶー！
+センセイ　おきちゃったあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1295516434</Id>
+          <Value>スリープモン　ᜀ眠᠀ねむᤀっても
+いいときに　してくださいって
+ᜀ何度᠀なんどᤀも　ᜀ言᠀いᤀっているでしょう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309409547</Id>
+          <Value>はぁい　きを　つけるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326186764</Id>
+          <Value>ええと　なんでしたっけ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345061648</Id>
+          <Value>そうだ　アプリドライヴァーの
+あなたに　おᜀ渡᠀わたᤀししたいものが
+あったんでした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1363149587</Id>
+          <Value>ᜀ明日᠀あしたᤀに　なったら　また　ᜀ何᠀なにᤀか
+おᜀ渡᠀わたᤀしできると　ᜀ思᠀おもᤀうので
+よければ　いらして　くださいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376780810</Id>
+          <Value>わあっ！？
+おはようございます！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395524372</Id>
+          <Value>すごい…　とても　ᜀ目᠀めᤀが　ᜀ覚᠀さᤀめました！
+さすがは
+アプリドライヴァーさんですね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410466317</Id>
+          <Value>ああー！
+センセイ　おきちゃったあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429734162</Id>
+          <Value>スリープモン　ᜀ眠᠀ねむᤀっても
+いいときに　してくださいって
+ᜀ何度᠀なんどᤀも　ᜀ言᠀いᤀっているでしょう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1443627275</Id>
+          <Value>はぁい　きを　つけるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460404492</Id>
+          <Value>ええと　なんでしたっけ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479279376</Id>
+          <Value>そうだ　アプリドライヴァーの
+あなたに　おᜀ渡᠀わたᤀししたいものが
+あったんでした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495794196</Id>
+          <Value>ᜀ今回᠀こんかいᤀは　おᜀ世話᠀せわᤀに　なりました
+ありがとう　ございました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1514144531</Id>
+          <Value>ᜀ明日᠀あしたᤀに　なったら　また　ᜀ何᠀なにᤀか
+おᜀ渡᠀わたᤀしできると　ᜀ思᠀おもᤀうので
+よければ　いらして　くださいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527644682</Id>
+          <Value>はっ…
+おはようございます…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1544290571</Id>
+          <Value>センセイ　おはようー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1563427601</Id>
+          <Value>スリープモンが
+ᜀ何度᠀なんどᤀも　すみません…
+ᜀ悪᠀わるᤀいᜀ子᠀こᤀじゃ　ないんですけどね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1581253395</Id>
+          <Value>ᜀ明日᠀あしたᤀに　なったら　また　ᜀ何᠀なにᤀか
+おᜀ渡᠀わたᤀしできると　ᜀ思᠀おもᤀうので
+よければ　いらして　くださいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596326417</Id>
+          <Value>それでは　ありがとう　ございました
+また　よろしく　おᜀ願᠀ねがᤀいしますね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1614938898</Id>
+          <Value>アプモンが　ᜀ原因᠀げんいんᤀと　なると
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりないと
+ᜀ起᠀おᤀこせないかも　しれないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1631191827</Id>
+          <Value>スリープモンには
+ᜀ少᠀すこᤀし　ᜀ悪᠀わるᤀいᜀ気᠀きᤀが　するけど
+おにいさんを　ᜀ起᠀おᤀこしてあげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1647837972</Id>
+          <Value>スリープモンが　ジャマしてくるわ…！
+これは　ᜀ本気᠀ほんきᤀだして　ᜀ起᠀おᤀこさないと
+いけないみたいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663566604</Id>
+          <Value>おにいさんには　ちゃんと
+ᜀ起᠀おᤀきてもらわないと！
+いくわよ　スリープモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680343572</Id>
+          <Value>よーし！　おにいさんには
+ᜀ何᠀なにᤀが　なんでも　ᜀ起᠀おᤀきてもらうわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1698824978</Id>
+          <Value>アプモンが　ᜀ原因᠀げんいんᤀと　なると
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりないと
+ᜀ起᠀おᤀこせないかも　しれないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1715077907</Id>
+          <Value>スリープモンには
+ᜀ少᠀すこᤀし　ᜀ悪᠀わるᤀいᜀ気᠀きᤀが　するけど
+おにいさんを　ᜀ起᠀おᤀこしてあげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731330832</Id>
+          <Value>すっかり　ᜀ眠᠀ねむᤀっちゃってる…
+たしか　スリープモンの
+ᜀ説得᠀せっとくᤀを　たのまれたのよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1748108049</Id>
+          <Value>おにいさん　ᜀ仕事中᠀しごとちゅうᤀだし
+ワタシに　ᜀ渡᠀わたᤀしたいものが
+あるみたい　だったし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1763181069</Id>
+          <Value>おにいさんには
+ᜀ起᠀おᤀきて　もらわないとね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1782711058</Id>
+          <Value>アプモンが　ᜀ原因᠀げんいんᤀと　なると
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりないと
+ᜀ起᠀おᤀこせないかも　しれないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1798963987</Id>
+          <Value>スリープモンには
+ᜀ少᠀すこᤀし　ᜀ悪᠀わるᤀいᜀ気᠀きᤀが　するけど
+おにいさんを　ᜀ起᠀おᤀこしてあげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_12_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1815216914</Id>
+          <Value>スリープモンが　ᜀ眠᠀ねむᤀらせちゃうなら
+あらためて　ちゃんと
+ᜀ起᠀おᤀこしてあげなくっちゃね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

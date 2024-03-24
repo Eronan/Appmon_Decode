@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048844</Id>
+          <Value>レイというᜀ少年᠀しょうねんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>ヨンゲン通り・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37618451</Id>
+          <Value>こちらのことを　ᜀ知᠀しᤀってるみたいだけど
+いったい　ᜀ誰᠀だれᤀだろう？
+どうやら　ᜀ用᠀ようᤀが　あるみたいだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>ヨンゲン通り・コンビニＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517522</Id>
+          <Value>レイは　コンビニの　ＡＲダンジョンに
+はいっていってしまった
+ここは　ᜀ追᠀おᤀいかけるしか　ないか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066002</Id>
+          <Value>ヨンゲン通り・コンビニＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104727316</Id>
+          <Value>レイたちが　ハッキングしているᜀ間᠀あいだᤀ
+キャメラモンの　ᜀ相手᠀あいてᤀを　することに
+なんだか　むちゃくちゃだよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227211</Id>
+          <Value>ヨンゲン通り・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199256</Id>
+          <Value>レイは　ᜀ次᠀つぎᤀのᜀ場所᠀ばしょᤀに　ᜀ行᠀いᤀってしまった…
+とりあえず　ＡＲダンジョンを　ᜀ出᠀でᤀて
+レイの　ᜀ指示᠀しじᤀを　ᜀ待᠀まᤀとう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781643</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146909</Id>
+          <Value>ヨンゲンᜀ山᠀さんᤀの　ᜀ展望台広場᠀てんぼうだいひろばᤀに　ᜀ来᠀こᤀいと
+レイは　ᜀ言᠀いᤀってきている
+…ᜀ付᠀つᤀきᜀ合᠀あᤀうのは　これっきりに　しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729298</Id>
+          <Value>ヨンゲン山・山頂掲示板ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205259539</Id>
+          <Value>ᜀ掲示板᠀けいじばんᤀの　ＡＲダンジョンに
+レイは　はいっていった
+ᜀ次᠀つぎᤀは　ᜀ何᠀なにᤀを　やらされるのかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283730</Id>
+          <Value>ヨンゲン山・山頂掲示板ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238945045</Id>
+          <Value>レイの　ᜀ強引᠀ごういんᤀな　やりᜀ方᠀かたᤀのせいで
+ライブラモンと　ᜀ戦᠀たたかᤀうことに！
+ごめんね　ライブラモン…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182791</Id>
+          <Value>レイに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272368403</Id>
+          <Value>レイは　ライブラモンだけじゃなく
+こちらにも　ハッキングしてきた！
+ᜀ何᠀なにᤀが　ᜀ彼᠀かれᤀを　そこまでさせる…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999371</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305398543</Id>
+          <Value>レイは　ハッキングするだけして
+すぐに　いなくなってしまった
+ᜀ彼᠀かれᤀを　ᜀ追᠀おᤀいかけてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323486487</Id>
+          <Value>レイは　もう　どこにも　いなかった
+ᜀ態度᠀たいどᤀがᜀ悪᠀わるᤀくて　ᜀ強引᠀ごういんᤀだったけど
+どこか　さみしいᜀ目᠀めᤀを　していたな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

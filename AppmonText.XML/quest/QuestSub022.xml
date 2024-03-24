@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1704208</Id>
+          <Value>ᜀ水道᠀すいどうᤀをᜀ元᠀もとᤀにᜀ戻᠀もどᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432842</Id>
+          <Value>ミハマ港・水質研究所</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39060253</Id>
+          <Value>ᜀ町᠀まちᤀのᜀ水道᠀すいどうᤀが　おかしくなっている！
+アプモンが　ᜀ水質研究所᠀すいしつけんきゅうじょᤀで　イタズラを
+しているせいかも？　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987274</Id>
+          <Value>ミハマ港・水質研究所</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72614685</Id>
+          <Value>ᜀ町᠀まちᤀのᜀ水道᠀すいどうᤀが　おかしくなっている！
+アプモンが　ᜀ水質研究所᠀すいしつけんきゅうじょᤀで　イタズラを
+しているせいかも？　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541706</Id>
+          <Value>ミハマ港・水質研究所</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989460</Id>
+          <Value>セキュリティの　ガードが　かたい…
+ここは　ツールᜀ属性᠀ぞくせいᤀの　アプモンの
+ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて　ログインしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>水質研究所のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138806041</Id>
+          <Value>セキュリティを　ᜀ突破᠀とっぱᤀできた！
+ᜀ研究所᠀けんきゅうじょᤀの　ＡＲダンジョンに　はいって
+アプモンの　イタズラを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>水質研究所のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172360473</Id>
+          <Value>セキュリティを　ᜀ突破᠀とっぱᤀできた！
+ᜀ研究所᠀けんきゅうじょᤀの　ＡＲダンジョンに　はいって
+アプモンの　イタズラを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>水質研究所のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205914905</Id>
+          <Value>セキュリティを　ᜀ突破᠀とっぱᤀできた！
+ᜀ研究所᠀けんきゅうじょᤀの　ＡＲダンジョンに　はいって
+アプモンの　イタズラを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>水質研究所のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239469337</Id>
+          <Value>セキュリティを　ᜀ突破᠀とっぱᤀできた！
+ᜀ研究所᠀けんきゅうじょᤀの　ＡＲダンジョンに　はいって
+アプモンの　イタズラを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>水質研究所のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273023769</Id>
+          <Value>セキュリティを　ᜀ突破᠀とっぱᤀできた！
+ᜀ研究所᠀けんきゅうじょᤀの　ＡＲダンジョンに　はいって
+アプモンの　イタズラを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>水質研究所のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306578201</Id>
+          <Value>セキュリティを　ᜀ突破᠀とっぱᤀできた！
+ᜀ研究所᠀けんきゅうじょᤀの　ＡＲダンジョンに　はいって
+アプモンの　イタズラを　ᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323748632</Id>
+          <Value>ウィルスᜀ化᠀かᤀしていた　ウェザーモンを
+ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀしてあげた
+ᜀ水道᠀すいどうᤀトラブルは　これにて　ᜀ解決᠀かいけつᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

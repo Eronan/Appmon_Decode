@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>26</NumberOfLabels>
+  <NumberOfStrings>26</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2621968</Id>
+          <Value>ＡＲダンジョンの　ᜀ入口᠀いりぐちᤀは
+そこの　ᜀ充電機᠀じゅうでんきᤀだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19006219</Id>
+          <Value>タッチで　ᜀ画面᠀がめんᤀを
+タップ！　タップ！
+タップップゥ～～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36176656</Id>
+          <Value>おᜀ前᠀まえᤀだな？
+ここで　ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめてる
+アプモンは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53216015</Id>
+          <Value>な　な　なんのことタップか～？
+タップモン
+ᜀ何᠀なにᤀも　ᜀ知᠀しᤀらないタップ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70910740</Id>
+          <Value>オヤビンに
+ここで　ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめてろ　なんて
+ᜀ全然᠀ぜんぜんᤀ　ᜀ言᠀いᤀわれてないタップ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85721615</Id>
+          <Value>どうやら　こいつで
+ᜀ間違᠀まちがᤀいない　みたいだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103809808</Id>
+          <Value>なんで　わかったタップか～！
+ジャマᜀ者᠀ものᤀは　タップで
+プチッと　ハイジョするタップ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751753</Id>
+          <Value>タップ！　タップ！
+タップップゥ～～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135528718</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>153879058</Id>
+          <Value>なかなか　ᜀ手᠀てᤀごわいタップ…！
+こうなったら　ᜀ奥᠀おくᤀのᜀ手᠀てᤀタップ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>168034564</Id>
+          <Value>なにっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>186515983</Id>
+          <Value>ᜀ秘技᠀ひぎᤀ！
+「ᜀ逃᠀にᤀげるがᜀ勝᠀かᤀち」タップ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>201457920</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283975</Id>
+          <Value>オンモンたち…
+ᜀ負᠀まᤀけたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>237109775</Id>
+          <Value>いや　オレたちの　ᜀ勝᠀かᤀちだよ…
+なんか　しっくり　こないけどね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576010</Id>
+          <Value>ごᜀ苦労᠀くろうᤀであった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>269222155</Id>
+          <Value>あれ　エムシーモンは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>290194201</Id>
+          <Value>エムシーモンᜀ殿᠀どのᤀなら
+ᜀ電気᠀でんきᤀの　ᜀ供給᠀きょうきゅうᤀが　ᜀ始᠀はじᤀまったゆえ
+サイバーアリーナへ　ᜀ舞᠀まᤀいᜀ戻᠀もどᤀられたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>304743183</Id>
+          <Value>ええーっ！！
+じゃあ　もう　ハイエンドＧＰが
+ᜀ始᠀はじᤀまっちゃってるってこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>319422730</Id>
+          <Value>あいつ　セッカチだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>338952978</Id>
+          <Value>さあ　おᜀ主᠀ぬしᤀらも
+サイバーアリーナへ　ᜀ急᠀いそᤀぐがよい！
+ケントウを　ᜀ祈᠀いのᤀっておるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>352452864</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>371196430</Id>
+          <Value>どうやら　このᜀ子᠀こᤀで
+ᜀ間違᠀まちがᤀいない　みたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>387318031</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>402915587</Id>
+          <Value>えっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_11_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>421790225</Id>
+          <Value>ううん　ワタシたちの　ᜀ勝᠀かᤀちだよ…
+なんか　しっくり　こないけどね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>22545178</Id>
+          <Value>ここは　ヒフミがᜀ丘中学校᠀おかちゅうがっこうᤀ
+ᰏたちが　ᜀ通᠀かよᤀう　ᜀ学校᠀がっこうᤀだ
+ᜀ今日᠀きょうᤀは　ᜀ休᠀やすᤀみだから　ᜀ人᠀ひとᤀはᜀ多᠀おおᤀくないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39322404</Id>
+          <Value>１ᜀ階᠀かいᤀは　１ᜀ年生᠀ねんせいᤀのᜀ教室᠀きょうしつᤀと　ᜀ職員室᠀しょくいんしつᤀがある
+ᜀ保健室᠀ほけんしつᤀには　バッテリモンが
+いるから　ᜀ要᠀ようᤀチェックだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>56886048</Id>
+          <Value>ᜀ休᠀やすᤀみᜀ中᠀ちゅうᤀは　１ᜀ階北側᠀かいきたがわᤀへのᜀ通用口᠀つうようぐちᤀが
+ᜀ施錠᠀せじょうᤀされているから　ᜀ行᠀いᤀくときは
+２ᜀ階᠀かいᤀから　ᜀ回᠀まわᤀりᜀ込᠀こᤀんでくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828250</Id>
+          <Value>２ᜀ階᠀かいᤀは　２ᜀ年生᠀ねんせいᤀの　ᜀ教室᠀きょうしつᤀがある…
+なになに　ᰏの　クラスは
+ᜀ北側校舎᠀きたがわこうしゃᤀの　２－２っと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>89785117</Id>
+          <Value>３ᜀ階᠀かいᤀは　３ᜀ年生᠀ねんせいᤀの　ᜀ教室᠀きょうしつᤀと
+ᜀ音楽室᠀おんがくしつᤀが　ある！
+ᜀ北西᠀ほくせいᤀには　ᜀ屋上᠀おくじょうᤀへの　ᜀ階段᠀かいだんᤀがあるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

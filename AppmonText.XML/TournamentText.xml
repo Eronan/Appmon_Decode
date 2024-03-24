@@ -1,0 +1,2148 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>215</NumberOfLabels>
+  <NumberOfStrings>215</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>RANK_NAME_S</Key>
+      <Values>
+        <BtxtString>
+          <Id>131329</Id>
+          <Value>S</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RANK_NAME_A</Key>
+      <Values>
+        <BtxtString>
+          <Id>16908545</Id>
+          <Value>A</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RANK_NAME_B</Key>
+      <Values>
+        <BtxtString>
+          <Id>33685761</Id>
+          <Value>B</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RANK_NAME_C</Key>
+      <Values>
+        <BtxtString>
+          <Id>50462977</Id>
+          <Value>C</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RANK_NAME_D</Key>
+      <Values>
+        <BtxtString>
+          <Id>67240193</Id>
+          <Value>D</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RANK_NAME_E</Key>
+      <Values>
+        <BtxtString>
+          <Id>84017409</Id>
+          <Value>E</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RANK_NAME_F</Key>
+      <Values>
+        <BtxtString>
+          <Id>100794625</Id>
+          <Value>F</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RANK_NAME_NONE</Key>
+      <Values>
+        <BtxtString>
+          <Id>117571841</Id>
+          <Value>－</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>UNIT_RANK</Key>
+      <Values>
+        <BtxtString>
+          <Id>134480131</Id>
+          <Value>ランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>REWARD_MONEY_NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>151126274</Id>
+          <Value>賞金</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_NOT_QUALIFIED_EVO_LEVEL</Key>
+      <Values>
+        <BtxtString>
+          <Id>171311890</Id>
+          <Value>メインデッキに　ᰀᜀ以外᠀いがいᤀの
+アプモンがᜀ編成᠀へんせいᤀされているため
+ᜀ参加᠀さんかᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_NOT_QUALIFIED_APP_SKILL_CATEGORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>188482327</Id>
+          <Value>メインデッキに
+アプリᜀ技᠀わざᤀ「サポート」のアプモンが
+ᜀ編成᠀へんせいᤀされているためᜀ参加᠀さんかᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_NOT_QUALIFIED_ELEMENT</Key>
+      <Values>
+        <BtxtString>
+          <Id>205259540</Id>
+          <Value>メインデッキに　ᰀᜀ属性以外᠀ぞくせいいがいᤀの
+アプモンがᜀ編成᠀へんせいᤀされているため
+ᜀ参加᠀さんかᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>EVO_LEVEL_STANDARD</Key>
+      <Values>
+        <BtxtString>
+          <Id>218235137</Id>
+          <Value>並</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>EVO_LEVEL_SUPER</Key>
+      <Values>
+        <BtxtString>
+          <Id>235012353</Id>
+          <Value>超</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>スターターＧＰ　ビギナー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>269615374</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　ブロンズ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999368</Id>
+          <Value>ドガッチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>302776588</Id>
+          <Value>スターターＧＰ　ブロンズ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>319947022</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　シルバー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>336331017</Id>
+          <Value>ウェザドラᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>353108236</Id>
+          <Value>スターターＧＰ　シルバー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>370278670</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　ゴールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>386531591</Id>
+          <Value>ベガスᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>403439884</Id>
+          <Value>スターターＧＰ　ゴールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>420217099</Id>
+          <Value>スターターＧＰ　ＥＸ１</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>436994315</Id>
+          <Value>スターターＧＰ　ＥＸ２</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453771531</Id>
+          <Value>スターターＧＰ　ＥＸ３</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>470548748</Id>
+          <Value>スターターＧＰファイナル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>487719182</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　Ｆランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>504234251</Id>
+          <Value>エンタメパッチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>520749319</Id>
+          <Value>タイムᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>537526535</Id>
+          <Value>ワープᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>554434828</Id>
+          <Value>ハイエンドＧＰ　Ｆランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>571605262</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　Ｅランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>588120330</Id>
+          <Value>ライフパッチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>604766472</Id>
+          <Value>メディアᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>621412614</Id>
+          <Value>ブレᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>638320908</Id>
+          <Value>ハイエンドＧＰ　Ｅランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>655491342</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　Ｄランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>672137484</Id>
+          <Value>ソーシャルパッチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>688521479</Id>
+          <Value>ドリーᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>705429768</Id>
+          <Value>スコープᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>722206988</Id>
+          <Value>ハイエンドＧＰ　Ｄランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>739377422</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　Ｃランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>755892491</Id>
+          <Value>システムパッチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>772407559</Id>
+          <Value>ドスコᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>789315848</Id>
+          <Value>トリップᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>806093068</Id>
+          <Value>ハイエンドＧＰ　Ｃランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>823263502</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　Ｂランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>839778570</Id>
+          <Value>ツールパッチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>856293639</Id>
+          <Value>コーチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>873201928</Id>
+          <Value>ミエーヌᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>889979148</Id>
+          <Value>ハイエンドＧＰ　Ｂランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>907149582</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　Ａランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>923533577</Id>
+          <Value>ナビパッチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>940310792</Id>
+          <Value>レイドラᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>956956935</Id>
+          <Value>サクシᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>973865228</Id>
+          <Value>ハイエンドＧＰ　Ａランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>991035662</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　Ｓランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007550730</Id>
+          <Value>ゲームパッチᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024196872</Id>
+          <Value>ウラテクᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040974088</Id>
+          <Value>デジップᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057751308</Id>
+          <Value>ハイエンドＧＰ　Ｓランク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>1074790669</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　ＥＸ１</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091305736</Id>
+          <Value>ライブラᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108214026</Id>
+          <Value>ᜀ交流祭᠀こうりゅうさいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>1124598024</Id>
+          <Value>ランカーズマッチ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142161681</Id>
+          <Value>並アプモンᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158283529</Id>
+          <Value>トライアル　ＥＸ１</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175191819</Id>
+          <Value>ハイエンドＧＰ　ＥＸ１</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192231181</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　ＥＸ２</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208746248</Id>
+          <Value>クラフトᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1225916687</Id>
+          <Value>ゲームᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242693903</Id>
+          <Value>ツールᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258946825</Id>
+          <Value>トライアル　ＥＸ２</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1275855115</Id>
+          <Value>ハイエンドＧＰ　ＥＸ２</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292894477</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　ＥＸ３</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309409544</Id>
+          <Value>コメットᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326711057</Id>
+          <Value>ソーシャルᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343357199</Id>
+          <Value>サポートᜀ禁止大会᠀きんしたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359610121</Id>
+          <Value>トライアル　ＥＸ３</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376518411</Id>
+          <Value>ハイエンドＧＰ　ＥＸ３</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393557773</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　ＥＸ４</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410072840</Id>
+          <Value>グローブᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1427243278</Id>
+          <Value>ナビᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1444151568</Id>
+          <Value>エンタメᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460273417</Id>
+          <Value>トライアル　ＥＸ４</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1477181707</Id>
+          <Value>ハイエンドＧＰ　ＥＸ４</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494352143</Id>
+          <Value>フリーᜀ大会᠀たいかいᤀ　ファイナル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510736136</Id>
+          <Value>リバイブᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527906574</Id>
+          <Value>ᜀ大交流祭᠀　だいこうりゅうさいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1544814864</Id>
+          <Value>システムᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1561461007</Id>
+          <Value>ライフᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1578369297</Id>
+          <Value>超アプモンᜀ限定大会᠀げんていたいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594622219</Id>
+          <Value>トライアル　ファイナル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1611399436</Id>
+          <Value>ハイエンドＧＰファイナル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1628569871</Id>
+          <Value>ゲリラ：コーチモンᜀ賞᠀しょうᤀ・並</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1645347087</Id>
+          <Value>ゲリラ：コーチモンᜀ賞᠀しょうᤀ・超</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1662124303</Id>
+          <Value>ゲリラ：コーチモンᜀ賞᠀しょうᤀ・極</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1678901519</Id>
+          <Value>ゲリラ：コーチモンᜀ賞᠀しょうᤀ・神</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1695678734</Id>
+          <Value>ゲリラ：カイモンᜀ賞᠀しょうᤀ・並</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712455950</Id>
+          <Value>ゲリラ：カイモンᜀ賞᠀しょうᤀ・超</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1729233166</Id>
+          <Value>ゲリラ：カイモンᜀ賞᠀しょうᤀ・極</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1746010382</Id>
+          <Value>ゲリラ：カイモンᜀ賞᠀しょうᤀ・神</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1763311891</Id>
+          <Value>ゲリラ：ᜀ合体᠀がったいᤀロックᜀ杯᠀カップᤀ・並</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1780089107</Id>
+          <Value>ゲリラ：ᜀ合体᠀がったいᤀロックᜀ杯᠀カップᤀ・超</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796866323</Id>
+          <Value>ゲリラ：ᜀ合体᠀がったいᤀロックᜀ杯᠀カップᤀ・極</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813643539</Id>
+          <Value>ゲリラ：ᜀ合体᠀がったいᤀロックᜀ杯᠀カップᤀ・神</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1829896463</Id>
+          <Value>ゲリラ：バージョンUPᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1846542604</Id>
+          <Value>ゲリラ：ウィルスᜀ杯᠀カップᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1863319820</Id>
+          <Value>デイリーᜀ大会᠀たいかいᤀ・並</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1880097036</Id>
+          <Value>デイリーᜀ大会᠀たいかいᤀ・超</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1896874252</Id>
+          <Value>デイリーᜀ大会᠀たいかいᤀ・極</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_NAME_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1913651468</Id>
+          <Value>デイリーᜀ大会᠀たいかいᤀ・神</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1933443859</Id>
+          <Value>サイバーアリーナ　ᜀＤＥＢＵＴ᠀デビューᤀ！
+はじめのᜀ一歩᠀いっぽᤀ　まずは　ココから！
+【ᜀ推奨᠀すいしょうᤀＬＶ３】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1949827863</Id>
+          <Value>あつまれ　バトルビギナー！
+ᜀ参加条件᠀さんかじょうけんᤀは　ブロンズランクだ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1967915801</Id>
+          <Value>こんな　ᜀ出会᠀であᤀいは　ᜀＤＥＳＴＩＮＹ᠀デスティニーᤀ！
+ドガッチあつめて　ᜀＳＯ　ＨＡＰＰＹ᠀ソーハッピーᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ９】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1984299798</Id>
+          <Value>ᜀＧＯ᠀ゴーᤀ　ᜀＧＯ᠀ゴーᤀ！　チャレンジあるのみだ！
+クリアで　「シルバー」ᜀ獲得᠀かくとくᤀ　だぜい
+【ᜀ推奨᠀すいしょうᤀＬＶ７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>2000421654</Id>
+          <Value>ᜀ参加条件᠀さんかじょうけんᤀは　シルバーランク！
+サイバーアリーナ　アゲていこうぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ８】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>2018378525</Id>
+          <Value>ᜀ本日晴天᠀ほんじつせいてんᤀ！　でもバトルは　ᜀ大荒᠀おおあᤀれ！？
+ウェザドラᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ６】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>2034893594</Id>
+          <Value>ᜀＧＯ　ＦＯＲＷＡＲＤ᠀ゴー　フォワードᤀ　ᜀ駆᠀かᤀけあがれ！
+クリアで　「ゴールド」ᜀ獲得᠀かくとくᤀ　だぜい
+【ᜀ推奨᠀すいしょうᤀＬＶ１０】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>2051146517</Id>
+          <Value>ᜀ参加条件᠀さんかじょうけんᤀは　ゴールドランク
+ギラギラの　バトル　ᜀ期待᠀きたいᤀしてるぜ～！
+【ᜀ推奨᠀すいしょうᤀＬＶ１１】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>2068972316</Id>
+          <Value>ここはᜀ一発᠀いっぱつᤀ　ᜀ運᠀うんᤀをᜀ味方᠀みかたᤀに　ᜀ勝᠀かᤀちあがれ！
+ベガスᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ１２】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>2084438807</Id>
+          <Value>ᜀＣＨＡＬＬＥＮＧＥ᠀チャレンジᤀ　サイバーアリーナ
+ここから　さらに　トばしていくぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ１３】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>2102395675</Id>
+          <Value>このᜀ先᠀さきᤀ　アイテムᜀ禁止᠀きんしᤀの　ＥＸモード！
+ひとすじなわじゃー　いかないぜい
+【ᜀ推奨᠀すいしょうᤀＬＶ１６・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>2118779675</Id>
+          <Value>ツーかい　ソーかい　ヤルᜀ気᠀きᤀかい？
+まだまだ　ᜀ行᠀いᤀってみようじゃん！
+【ᜀ推奨᠀すいしょうᤀＬＶ１９・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>2135819035</Id>
+          <Value>ᜀ三日᠀みっかᤀ　あわざれば　なんとやら！
+ᜀ目᠀めᤀにもの　ᜀ見᠀みᤀせてくれよな！
+【ᜀ推奨᠀すいしょうᤀＬＶ２２・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>2152334107</Id>
+          <Value>ファイナルステージ　レッツゴー！
+この　ᜀ難関᠀なんかんᤀを　クリアしてやれ～！
+【ᜀ推奨᠀すいしょうᤀＬＶ２５・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>2168980249</Id>
+          <Value>ᜀ誰᠀だれᤀでも　ᜀ参加᠀さんかᤀＯＫの　フリーᜀ大会᠀たいかいᤀ！
+ルーキー　ᜀ大歓迎᠀だいかんげいᤀだぜい！
+【ᜀ推奨᠀すいしょうᤀＬＶ7】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>2185364246</Id>
+          <Value>ᜀ報酬᠀ほうしゅうᤀは　もちろん　エンタメパッチ！
+エンタメᜀ対策᠀たいさくᤀしたいヤツ　カモン！
+【ᜀ推奨᠀すいしょうᤀＬＶ7】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>2202796827</Id>
+          <Value>ᜀ昔᠀むかしᤀも　ᜀ今᠀いまᤀも　これからも　バトルᜀ一筋᠀ひとすじᤀ！
+タイムᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ9】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>2218918678</Id>
+          <Value>ᜀ優勝᠀ゆうしょうᤀまで　ひとっとび　してやりな！
+ワープᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ9】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>2236351258</Id>
+          <Value>カモン　ᜀ恐᠀おそᤀれᜀ知᠀しᤀらずの　ルーキーども！
+ᜀ手᠀てᤀにいれろ　Ｆランクマスターᜀ挑戦権᠀ちょうせんけんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ8】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>2253390616</Id>
+          <Value>Ｅランクᜀ以上᠀いじょうᤀなら　ᜀ誰᠀だれᤀでも　ＯＫ！
+ᜀ自分᠀じぶんᤀの　ᜀ実力᠀じつりょくᤀ　ᜀ試᠀ためᤀしていきな！
+【ᜀ推奨᠀すいしょうᤀＬＶ12】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>2269119253</Id>
+          <Value>ᜀ報酬᠀ほうしゅうᤀは　もちろん　ライフパッチ！
+ライフᜀ対策᠀たいさくᤀしたいヤツ　カモン！
+【ᜀ推奨᠀すいしょうᤀＬＶ１２】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>2285634322</Id>
+          <Value>このバトル　ノレたモンᜀ勝᠀がᤀち！
+メディアᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ14】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>2303197975</Id>
+          <Value>ᜀ示᠀しめᤀせ　ᜀ勝利᠀しょうりᤀの　ᜀ方程式᠀ほうていしきᤀ！
+ブレᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ14】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>2319713050</Id>
+          <Value>ギラついたソウル　ぶつけちゃいな！
+ᜀ手᠀てᤀにいれろ　Ｅランクマスターᜀ挑戦権᠀ちょうせんけんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ13】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>2336490262</Id>
+          <Value>Ｄランクᜀ以上᠀いじょうᤀなら　ᜀ誰᠀だれᤀでも　ＯＫ！
+ᜀ強᠀つよᤀくなりたいなら　バトルあるのみ！
+【ᜀ推奨᠀すいしょうᤀＬＶ17】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>2353267479</Id>
+          <Value>ᜀ報酬᠀ほうしゅうᤀは　もちろん　ソーシャルパッチ！
+ソーシャルᜀ対策᠀たいさくᤀしたいヤツ　カモン！
+【ᜀ推奨᠀すいしょうᤀＬＶ１７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>2369782548</Id>
+          <Value>サイバーアリーナで　イイᜀ夢᠀ゆめᤀ　みなよ！
+ドリーᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ19】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>2386690836</Id>
+          <Value>ᜀ優勝᠀ゆうしょうᤀに　ᜀ狙᠀ねらᤀいを　さだめな！
+スコープᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ19】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>2403599130</Id>
+          <Value>いいツラがまえに　なってきたじゃん？
+ᜀ手᠀てᤀにいれろ　Ｄランクマスターᜀ挑戦権᠀ちょうせんけんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ18】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>2420769558</Id>
+          <Value>Ｃランクᜀ以上᠀いじょうᤀなら　ᜀ誰᠀だれᤀでも　ＯＫ！
+バトルに　ᜀ飢᠀うᤀえたヤツら　ᜀ集᠀あつᤀまりなッ！
+【ᜀ推奨᠀すいしょうᤀＬＶ22】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>2437022486</Id>
+          <Value>ᜀ報酬᠀ほうしゅうᤀは　もちろん　システムパッチ！
+システムᜀ対策᠀たいさくᤀしたいヤツ　カモン！
+【ᜀ推奨᠀すいしょうᤀＬＶ22】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>2453930773</Id>
+          <Value>ᜀ勝利᠀しょうりᤀに　ᜀ向᠀むᤀけて　ドッカンパンチ！
+ドスコᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ24】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>2470576916</Id>
+          <Value>アプリドライヴァーには　ᜀ旅᠀たびᤀをさせろ！
+トリップᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ24】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>2488009498</Id>
+          <Value>ᜀ中堅᠀ちゅうけんᤀドライヴァーが　あつまってるぜ！
+ᜀ手᠀てᤀにいれろ　Ｃランクマスターᜀ挑戦権᠀ちょうせんけんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ23】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>2504655638</Id>
+          <Value>Ｂランクᜀ以上᠀いじょうᤀなら　ᜀ誰᠀だれᤀでも　ＯＫ！
+ᜀ血湧᠀ちわᤀき　ᜀ肉᠀にくᤀおどる　バトル　ヨロシク！
+【ᜀ推奨᠀すいしょうᤀＬＶ３０】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>2520777493</Id>
+          <Value>ᜀ報酬᠀ほうしゅうᤀは　もちろん　ツールパッチ！
+ツールᜀ対策᠀たいさくᤀしたいヤツ　カモン！
+【ᜀ推奨᠀すいしょうᤀＬＶ３０】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>2538078998</Id>
+          <Value>ᜀ負᠀まᤀけたら　ᜀ校庭᠀こうていᤀ　１００ᜀ周᠀しゅうᤀ！？
+コーチᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ32】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>2554987287</Id>
+          <Value>ᜀ能᠀のうᤀある　タカは　ᜀ爪᠀つめᤀを　ᜀ隠᠀かくᤀすってね！
+ミエーヌᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ32】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>2571895578</Id>
+          <Value>ᜀ己᠀おのれᤀの　ᜀ強᠀つよᤀさを　アピっちゃいな！
+ᜀ手᠀てᤀにいれろ　Ｂランクマスターᜀ挑戦権᠀ちょうせんけんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ31】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>2588541718</Id>
+          <Value>Ａランクᜀ以上᠀いじょうᤀなら　ᜀ誰᠀だれᤀでも　ＯＫ！
+ᜀ見᠀みᤀごたえあるバトル　ᜀ期待᠀きたいᤀしてるぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ37】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>2604532500</Id>
+          <Value>ᜀ報酬᠀ほうしゅうᤀは　もちろん　ナビパッチ！
+ナビᜀ対策᠀たいさくᤀしたいヤツ　カモン！
+【ᜀ推奨᠀すいしょうᤀＬＶ３７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>2622096154</Id>
+          <Value>ᜀ相手᠀あいてᤀの　ᜀ戦略᠀せんりゃくᤀ　ハッキングしちゃいな！
+レイドラᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ39】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>2638349077</Id>
+          <Value>ᜀ相手᠀あいてᤀの　ウラの　ウラの　ウラを　かけ
+サクシᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ39】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>2655519514</Id>
+          <Value>そろそろ　テッペン　ᜀ見᠀みᤀえてきたぜ！
+ᜀ手᠀てᤀにいれろ　Ａランクマスターᜀ挑戦権᠀ちょうせんけんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ38】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>2672689943</Id>
+          <Value>Ｓランクᜀ以上᠀いじょうᤀなら　ᜀ誰᠀だれᤀでも　ＯＫ！
+ᜀ格᠀かくᤀの　ᜀ違᠀ちがᤀいってヤツ　ᜀ見᠀みᤀせつけてやれ！
+【ᜀ推奨᠀すいしょうᤀＬＶ44】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>2688549653</Id>
+          <Value>ᜀ報酬᠀ほうしゅうᤀは　もちろん　ゲームパッチ！
+ゲームᜀ対策᠀たいさくᤀしたいヤツ　カモン！
+【ᜀ推奨᠀すいしょうᤀＬＶ４４】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>2706113305</Id>
+          <Value>バグᜀ技᠀わざᤀ　ᜀ使᠀つかᤀうのは　ᜀ勘弁᠀かんべんᤀしてくれよ？
+ウラテクᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ46】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>2722890524</Id>
+          <Value>バトルの　ᜀ情熱᠀じょうねつᤀは　ᜀ圧縮᠀あっしゅくᤀさせられない！
+デジップᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ46】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>2739798808</Id>
+          <Value>ᜀ空᠀あᤀいた　ᜀ玉座᠀ぎょくざᤀに　ᜀ誰᠀だれᤀが　ᜀ座᠀すわᤀる！？
+チャンピオン　ᜀ目指᠀めざᤀして　つきすすめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５０】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>2756838172</Id>
+          <Value>Ｓランクᜀ以上限定᠀いじょうげんていᤀの　フリーᜀ大会᠀たいかいᤀ！
+フリーとはいえ　ᜀ注目度᠀ちゅうもくどᤀ　ᜀ高᠀たかᤀいぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５１】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>2773222169</Id>
+          <Value>ᜀ勝利᠀しょうりᤀの　ᜀ二文字᠀にもじᤀを　ᜀ刻᠀きざᤀみつけなッ！
+ライブラᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５１】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>2789606168</Id>
+          <Value>あいつも　あのコも　ᜀ登場᠀とうじょうᤀ！？
+バトルを　ᜀ通᠀とおᤀして　ᜀ交流᠀こうりゅうᤀしていきな！
+【ᜀ推奨᠀すいしょうᤀＬＶ５２】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>2806907673</Id>
+          <Value>ランクマスターたちの　リベンジᜀ戦᠀せんᤀ！
+あのᜀ頃᠀ころᤀと　ᜀ同᠀おなᤀじᜀ強᠀つよᤀさだと　ᜀ思᠀おもᤀうなよ？
+【ᜀ推奨᠀すいしょうᤀＬＶ５０】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>2823029531</Id>
+          <Value>並アプモンだって　バトルしたい！
+並アプモンᜀ限定大会᠀げんていたいかいᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ49】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>2842034972</Id>
+          <Value>カモン！　チャンピオンᜀ候補生᠀こうほせいᤀ！
+ᜀ予選᠀よせんᤀを　ᜀ勝᠀かᤀちᜀ抜᠀ぬᤀいて　ᜀ本戦᠀ほんせんᤀに　ᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５２・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>2857632539</Id>
+          <Value>こんなところで　へばってらんないぜ？
+ᜀ玉座᠀ぎょくざᤀをかけたバトルは　まだ　ᜀ序盤᠀じょばんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５４・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>2873885468</Id>
+          <Value>Ｓランクᜀ以上限定᠀いじょうげんていᤀの　フリーᜀ大会᠀たいかいᤀ！
+カンタンには　ᜀ勝᠀かᤀちᜀ抜᠀ぬᤀけないぜ？
+【ᜀ推奨᠀すいしょうᤀＬＶ５７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>2890924828</Id>
+          <Value>ᜀ優勝᠀ゆうしょうᤀへの　ᜀ設計図᠀せっけいずᤀは　ᜀ書᠀かᤀけてるかい？
+クラフトᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>2907177749</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀだらけの　パラダイス！
+ゲームᜀ属性᠀ぞくせいᤀだけで　ᜀ勝᠀かᤀちᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５５】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>2923954965</Id>
+          <Value>オマエも　アイツも　ツールᜀ属性᠀ぞくせいᤀ！
+ツールᜀ属性᠀ぞくせいᤀだけで　ᜀ勝᠀かᤀちᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５６】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>2942698268</Id>
+          <Value>カモン！　チャンピオンᜀ候補生᠀こうほせいᤀ！
+ᜀ予選᠀よせんᤀを　ᜀ勝᠀かᤀちᜀ抜᠀ぬᤀいて　ᜀ本戦᠀ほんせんᤀに　ᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ５８・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>2959606556</Id>
+          <Value>ᜀ玉座᠀ぎょくざᤀへの　ᜀ切符᠀きっぷᤀは　ᜀ持᠀もᤀってるな？
+チャンピオンᜀ行᠀いᤀきᜀ特急᠀とっきゅうᤀライナー　ᜀ発進᠀はっしんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ６０・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>2974417692</Id>
+          <Value>Ｓランクᜀ以上限定᠀いじょうげんていᤀの　フリーᜀ大会᠀たいかいᤀ！
+うかつに　ᜀ近᠀ちかᤀづくと　ヤケドするぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ63】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>2990801684</Id>
+          <Value>ᜀ激᠀はげᤀしいバトルで　ᜀ星᠀ほしᤀを　ゆるがせ！
+コメットᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ63】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>3007972119</Id>
+          <Value>ソーシャルᜀ属性᠀ぞくせいᤀに　まみれちまいな！
+ソーシャルᜀ属性᠀ぞくせいᤀだけで　ᜀ勝᠀かᤀちᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ61】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>3024093972</Id>
+          <Value>サポートᜀ技᠀わざᤀには　たよれないぜ！
+ᜀ力᠀ちからᤀと　ᜀ力᠀ちからᤀの　ぶつかりあいだ！
+【ᜀ推奨᠀すいしょうᤀＬＶ62】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>3043361564</Id>
+          <Value>カモン！　チャンピオンᜀ候補生᠀こうほせいᤀ！
+ᜀ予選᠀よせんᤀを　ᜀ勝᠀かᤀちᜀ抜᠀ぬᤀいて　ᜀ本戦᠀ほんせんᤀに　ᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ64・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>3060400926</Id>
+          <Value>まだᜀ半分᠀はんぶんᤀ？　もうᜀ半分᠀はんぶんᤀ？
+ᜀ玉座᠀ぎょくざᤀへのᜀ道᠀みちᤀは　ここで　ᜀ折᠀おᤀりᜀ返᠀かえᤀしᜀ地点᠀ちてんᤀ！
+【ᜀ推奨᠀すいしょうᤀＬＶ66・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>3075343132</Id>
+          <Value>Ｓランクᜀ以上限定᠀いじょうげんていᤀの　フリーᜀ大会᠀たいかいᤀ！
+ᜀ暴᠀あばᤀれすぎて　アリーナ　ᜀ壊᠀こわᤀすなよ！
+【ᜀ推奨᠀すいしょうᤀＬＶ69】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>3092120346</Id>
+          <Value>ᜀ勝利᠀しょうりᤀの　ᜀ未来᠀みらいᤀは　ᜀ検索᠀けんさくᤀできたか？
+グローブᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ69】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>3108766489</Id>
+          <Value>ドキッ！　ナビだらけの　ᜀ限定大会᠀げんていたいかいᤀ！
+ナビᜀ属性᠀ぞくせいᤀだけで　ᜀ勝᠀かᤀちᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ67】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>3125281558</Id>
+          <Value>ᜀ真᠀しんᤀの　エンターテイナーに　ささぐ！
+エンタメᜀ属性᠀ぞくせいᤀだけで　ᜀ勝᠀かᤀちᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ68】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>3144024860</Id>
+          <Value>カモン！　チャンピオンᜀ候補生᠀こうほせいᤀ！
+ᜀ予選᠀よせんᤀを　ᜀ勝᠀かᤀちᜀ抜᠀ぬᤀいて　ᜀ本戦᠀ほんせんᤀに　ᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ７０・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>3159884571</Id>
+          <Value>チャンピオンᜀ候補᠀こうほᤀが　そろってきたな！
+ᜀ玉座᠀ぎょくざᤀは　ᜀ近᠀ちかᤀいぜ　ヒアウィーゴー！
+【ᜀ推奨᠀すいしょうᤀＬＶ72・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>3176268572</Id>
+          <Value>Ｓランクᜀ以上限定᠀いじょうげんていᤀの　フリーᜀ大会᠀たいかいᤀ！
+ᜀ最強᠀さいきょうᤀな　ヤツらが　ᜀ勢᠀せいᤀぞろいだ！！
+【ᜀ推奨᠀すいしょうᤀＬＶ７５】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>3192783643</Id>
+          <Value>バトルの　ᜀ情熱᠀じょうねつᤀは　ᜀ不屈᠀ふくつᤀで　ᜀ不滅᠀ふめつᤀ！
+リバイブᜀ杯᠀カップᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ７５】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>3208250131</Id>
+          <Value>いろんな　ヤツらが　ᜀ駆᠀かᤀけつけてきた！
+バトって　バトって　バトりまくれ！
+【ᜀ推奨᠀すいしょうᤀＬＶ77】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>3226338071</Id>
+          <Value>そんなに　システムᜀ属性᠀ぞくせいᤀが　ᜀ好᠀すᤀきなら！
+システムᜀ属性᠀ぞくせいᤀだけで　ᜀ勝᠀かᤀちᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ73】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>3241935637</Id>
+          <Value>ノーライフ　ノーライフ
+ライフᜀ属性᠀ぞくせいᤀだけで　ᜀ勝᠀かᤀちᜀ進᠀すすᤀめ！
+【ᜀ推奨᠀すいしょうᤀＬＶ74】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>3259630363</Id>
+          <Value>超アプモンたちを　ᜀ暴᠀あばᤀれさせてやりな！
+超アプモンᜀ限定大会᠀げんていたいかいᤀ　ᜀ開催᠀かいさいᤀだぜ！
+【ᜀ推奨᠀すいしょうᤀＬＶ７５】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>3277194011</Id>
+          <Value>カモン！　チャンピオンᜀ候補生᠀こうほせいᤀ！
+いよいよ　ᜀ最後᠀さいごᤀの　ᜀ予選᠀よせんᤀだぜい！
+【ᜀ推奨᠀すいしょうᤀＬＶ76・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>3293446939</Id>
+          <Value>ラストで　ファイナルで　フィナーレ！
+ᜀ優勝᠀ゆうしょうᤀしたヤツが　チャンピオンだ！！
+【ᜀ推奨᠀すいしょうᤀＬＶ78・アイテムᜀ使用不可᠀しようふかᤀ】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>3311797026</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ経験値᠀けいけんちᤀ　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>3328574242</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ経験値᠀けいけんちᤀ　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ１３】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>3345351458</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ経験値᠀けいけんちᤀ　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ３０】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>3362128674</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ経験値᠀けいけんちᤀ　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ５３】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>3378381602</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+Ｂｉｔ　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>3395158818</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+Ｂｉｔ　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ１３】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>3411936034</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+Ｂｉｔ　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ３０】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>3428713250</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+Ｂｉｔ　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ５９】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>3446014754</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ合体᠀がったいᤀロック　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>3462923042</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ合体᠀がったいᤀロック　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ２２】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>3479700258</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ合体᠀がったいᤀロック　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ４４】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>3496477474</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ合体᠀がったいᤀロック　ᜀ大量ＧＥＴ᠀たいりょうゲットᤀの　ᜀ大᠀だいᤀチャンス！
+【ᜀ推奨᠀すいしょうᤀＬＶ７１】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>3512075042</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ報酬᠀ほうしゅうᤀは　バージョンアップパッチだ！
+【ᜀ推奨᠀すいしょうᤀＬＶ７５】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>3528721186</Id>
+          <Value>ᜀ今᠀いまᤀだけ！　ᜀ限定大会᠀げんていたいかいᤀが　ᜀ開催中᠀かいさいちゅうᤀだぜ！
+ᜀ報酬᠀ほうしゅうᤀは　ウィルスプログラムだ！
+【ᜀ推奨᠀すいしょうᤀＬＶ７８】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>3545629477</Id>
+          <Value>ᜀ一日一種᠀いちにちいっしゅᤀだけ　ᜀ参加᠀さんかᤀできる　ᜀ特別大会᠀とくべつたいかいᤀだ
+ここだけのハイグレードバトルにᜀ急᠀いそᤀげ！
+【ᜀ推奨᠀すいしょうᤀＬＶ７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>3562537765</Id>
+          <Value>ᜀ一日一種᠀いちにちいっしゅᤀだけ　ᜀ参加᠀さんかᤀできる　ᜀ特別大会᠀とくべつたいかいᤀだ
+ここだけのハイグレードバトルにᜀ急᠀いそᤀげ！
+【ᜀ推奨᠀すいしょうᤀＬＶ１７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>3579314981</Id>
+          <Value>ᜀ一日一種᠀いちにちいっしゅᤀだけ　ᜀ参加᠀さんかᤀできる　ᜀ特別大会᠀とくべつたいかいᤀだ
+ここだけのハイグレードバトルにᜀ急᠀いそᤀげ！
+【ᜀ推奨᠀すいしょうᤀＬＶ３７】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>3596092197</Id>
+          <Value>ᜀ一日一種᠀いちにちいっしゅᤀだけ　ᜀ参加᠀さんかᤀできる　ᜀ特別大会᠀とくべつたいかいᤀだ
+ここだけのハイグレードバトルにᜀ急᠀いそᤀげ！
+【ᜀ推奨᠀すいしょうᤀＬＶ６５】</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

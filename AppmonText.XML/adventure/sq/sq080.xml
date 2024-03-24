@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>255</NumberOfLabels>
+  <NumberOfStrings>255</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>3539477</Id>
+          <Value>ハルᜀ君᠀くんᤀ　また　どこか　ᜀ行᠀いᤀっちゃって…
+ᜀ最近᠀さいきんᤀ　こういうの　ᜀ多᠀おおᤀいんです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21103383</Id>
+          <Value>でも　ᜀ何᠀なにᤀかに　ᜀ一生懸命᠀いっしょうけんめいᤀな
+ハルᜀ君᠀くんᤀを　ᜀ見᠀みᤀてると
+こっちまで　うれしくなるんですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_002_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>35914508</Id>
+          <Value>おう　ᰏ！
+ᜀ元気᠀げんきᤀそうじゃねーか
+ᜀ首尾᠀しゅびᤀは　どうだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_002_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>52560403</Id>
+          <Value>ちょっと…　ガッチモン
+となりに　ᜀ亜衣᠀あいᤀちゃんが　いるから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_002_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>68288779</Id>
+          <Value>ハルᜀ君᠀くんᤀ　ᜀ呼᠀よᤀんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_002_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>84935176</Id>
+          <Value>う　ううん！
+なんでも　ないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_002_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>103547668</Id>
+          <Value>ᰏ
+ᜀ交流戦᠀こうりゅうせんᤀのときは　ありがとう
+とっても　ᜀ楽᠀たのᤀしかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_002_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>121242390</Id>
+          <Value>ᜀ僕᠀ぼくᤀたち　しばらく　このᜀ町᠀まちᤀに　いるから
+また　サイバーアリーナで
+ᜀ会᠀あᤀったときは　よろしくね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>135266823</Id>
+          <Value>ああ　ᰏ！
+ᜀ待᠀まᤀってたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650570</Id>
+          <Value>ハル！　どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>170131983</Id>
+          <Value>ᜀ今日᠀きょうᤀは　ᰏたちに
+おᜀ願᠀ねがᤀいがあって　ᜀ来᠀きᤀたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>188220177</Id>
+          <Value>ハルが　オレたちに　おᜀ願᠀ねがᤀい？
+もしかして　ᜀ探᠀さがᤀしてた
+セブンコードアプモンの　ᜀ話᠀はなしᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_006_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>204210959</Id>
+          <Value>ううん　セブンコードアプモンは
+やっぱり　このᜀ町᠀まちᤀには
+いなかったみたいなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_006_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>219939345</Id>
+          <Value>そうなんだ…
+じゃあ　おᜀ願᠀ねがᤀいって　いうのは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>238289679</Id>
+          <Value>うん…　セブンコードアプモンを
+ᜀ探᠀さがᤀすためには　バトルが
+ᜀ避᠀さᤀけられないことも　あってね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>256639768</Id>
+          <Value>そこで　バトルが　ᜀ活発᠀かっぱつᤀな　このᜀ町᠀まちᤀの
+アプリドライヴァーと　ᜀ交流戦᠀こうりゅうせんᤀをして
+ᜀ学᠀まなᤀばせてもらえたらな…って</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>269353227</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>290063128</Id>
+          <Value>ᜀＹＥＳ᠀イエスᤀ！　つまり　ハルの　ᜀ仲間᠀なかまᤀたちと
+このᜀ町᠀まちᤀの　アプリドライヴァーで
+トーナメントバトルを　ᜀ行᠀おこなᤀうんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840342</Id>
+          <Value>いいᜀ提案᠀ていあんᤀだと　ᜀ思᠀おもᤀわないか？
+おたがいの　ᜀ実力᠀じつりょくᤀを　ᜀ高᠀たかᤀめあって
+ᜀ友情᠀ゆうじょうᤀを　はぐくむんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>324272925</Id>
+          <Value>ついでに　ᜀ動画᠀どうがᤀのᜀ再生回数᠀さいせいかいすうᤀも　かせげて
+ᜀ一石三鳥᠀　いっせきさんちょうᤀって　ワケさ！
+ᜀＹＥＡＡＡＡＡＡＡＡＨ᠀イエーーーーᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>337117457</Id>
+          <Value>ホント　ᜀ抜᠀ぬᤀけᜀ目᠀めᤀ　ないんだから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>357171990</Id>
+          <Value>ハルたちは　ハルを　ふくめて４ᜀ人᠀にんᤀ
+こっちも　オマエさんを　ふくめて４ᜀ人᠀にんᤀ
+チームᜀ関係᠀かんけいᤀなしの　ᜀ個人戦᠀こじんせんᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>373293844</Id>
+          <Value>オマエさんᜀ以外᠀いがいᤀの　３ᜀ人᠀にんᤀには
+ᜀ話᠀はなしᤀを　つけてある
+あとは　オマエさんᜀ次第᠀しだいᤀって　ワケだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>387973653</Id>
+          <Value>どうだ？
+ᜀ交流戦᠀こうりゅうせんᤀに　ᜀ参加᠀さんかᤀするか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>404357645</Id>
+          <Value>おもしろそうだな！
+もちろん　ᜀ参加᠀さんかᤀするよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>421265937</Id>
+          <Value>ありがとう！
+さっそく　みんなを　ᜀ呼᠀よᤀんでくるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>439616275</Id>
+          <Value>ᜀＹＥＡＨ᠀イエーᤀ！
+こっちも　エムシーモンによる
+ᜀ選抜᠀せんばつᤀメンバーを　ᜀ集᠀あつᤀめるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>455213586</Id>
+          <Value>う～ん　ᜀ今᠀いまᤀは
+ᜀ他᠀ほかᤀに　やりたいことが　あるからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>471597835</Id>
+          <Value>そっか
+また　やりたくなったら
+ᜀ声᠀こえᤀを　かけてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>491520789</Id>
+          <Value>ᜀ絶対᠀ぜったいᤀ　ᜀ盛᠀もᤀりあがるから！
+ᜀ交流戦᠀こうりゅうせんᤀを　ᜀ受᠀うᤀけるなら　また
+ハルに　ᜀ話᠀はなᤀしかけてくれᜀＹＯ᠀ヨーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>506462995</Id>
+          <Value>ᰏ！
+ᜀ交流戦᠀こうりゅうせんᤀの　ᜀ話᠀はなしᤀだけど
+まだ　ᜀ興味᠀きょうみᤀ　あるかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>523109133</Id>
+          <Value>ᜀ最近᠀さいきんᤀ　ᜀ僕᠀ぼくᤀたちも
+バトルを　することが
+ᜀ多᠀おおᤀくなってきたから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>541721368</Id>
+          <Value>バトルが　ᜀ活発᠀かっぱつᤀな　このᜀ町᠀まちᤀの
+アプリドライヴァーと　ᜀ交流戦᠀こうりゅうせんᤀをして
+ᜀ学᠀まなᤀばせて　もらえたらな…って</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>557843219</Id>
+          <Value>つまり　ハルの　ᜀ仲間᠀なかまᤀたちと
+このᜀ町᠀まちᤀの　アプリドライヴァーで
+トーナメントバトルを　ᜀ行᠀おこなᤀうんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>575275798</Id>
+          <Value>いいᜀ提案᠀ていあんᤀだと　ᜀ思᠀おもᤀわないか？
+おたがいの　ᜀ実力᠀じつりょくᤀを　ᜀ高᠀たかᤀめあって
+ᜀ友情᠀ゆうじょうᤀを　はぐくむんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>592053014</Id>
+          <Value>ハルたちは　ハルを　ふくめて４ᜀ人᠀にんᤀ
+こっちも　オマエさんを　ふくめて４ᜀ人᠀にんᤀ
+チームᜀ関係᠀かんけいᤀなしの　ᜀ個人戦᠀こじんせんᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>608174868</Id>
+          <Value>オマエさんᜀ以外᠀いがいᤀの　３ᜀ人᠀にんᤀには
+ᜀ話᠀はなしᤀを　つけてある
+あとは　オマエさんᜀ次第᠀しだいᤀって　ワケだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>622854677</Id>
+          <Value>どうだ？
+ᜀ交流戦᠀こうりゅうせんᤀに　ᜀ参加᠀さんかᤀするか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>639631896</Id>
+          <Value>ᰏ
+ᜀ交流戦᠀こうりゅうせんᤀの　ᜀ準備᠀じゅんびᤀは　できた？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>656015636</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀに　ᜀ参加᠀さんかᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>671744262</Id>
+          <Value>ᜀ始᠀はじᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>688783626</Id>
+          <Value>よし　ᜀ始᠀はじᤀめよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>707789588</Id>
+          <Value>わかった
+みんなを　ᜀ呼᠀よᤀんでくるよ
+「ᜀ交流祭᠀こうりゅうさいᤀ」　ᜀ始᠀はじᤀめよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>722206985</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>739901715</Id>
+          <Value>もうᜀ少᠀すこᤀし　ᜀ準備᠀じゅんびᤀしてくるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>758776593</Id>
+          <Value>わかった　ᜀ準備᠀じゅんびᤀが　できたら
+ᜀ僕᠀ぼくᤀに　ᜀ声᠀こえᤀを　かけてよ
+ᰏのこと　ᜀ待᠀まᤀってるから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>774242842</Id>
+          <Value>ᰏ！
+もう１ᜀ度᠀どᤀ　ᜀ交流戦᠀こうりゅうせんᤀに　ᜀ参加᠀さんかᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>790233364</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀに　ᜀ参加᠀さんかᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>805961990</Id>
+          <Value>ᜀ始᠀はじᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>823001354</Id>
+          <Value>よし　ᜀ始᠀はじᤀめよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>842007316</Id>
+          <Value>わかった
+みんなを　ᜀ呼᠀よᤀんでくるよ
+「ᜀ交流祭᠀こうりゅうさいᤀ」　ᜀ始᠀はじᤀめよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>856424713</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>874119443</Id>
+          <Value>もうᜀ少᠀すこᤀし　ᜀ準備᠀じゅんびᤀしてくるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>892994321</Id>
+          <Value>わかった　ᜀ準備᠀じゅんびᤀが　できたら
+ᜀ僕᠀ぼくᤀに　ᜀ声᠀こえᤀを　かけてよ
+ᰏのこと　ᜀ待᠀まᤀってるから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>910164757</Id>
+          <Value>ᜀ待᠀まᤀたせたな！
+ヒフミがᜀ丘᠀おかᤀ　ＶＳ　ふじみᜀ坂᠀ざかᤀ！
+ᜀ交流戦᠀こうりゅうせんᤀを　ᜀ始᠀はじᤀめるぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>928252699</Id>
+          <Value>まずは　わがᜀ町᠀まちᤀが　ほこる
+ᜀ選抜᠀せんばつᤀメンバー　オールスターズ４ᜀ名᠀めいᤀ！
+…アーンド　ᜀ応援᠀おうえんᤀ１ᜀ名᠀めいᤀの　ᜀ紹介᠀しょうかいᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>942408462</Id>
+          <Value>キャーーーーーーーーーッ！！
+オウジᜀ様᠀さまᤀ　みんなを
+たたきのめしてーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>959840795</Id>
+          <Value>ᜀ応援᠀おうえんᤀって　いっても
+ᜀ完全᠀かんぜんᤀに　オウジᜀ１人᠀ひとりᤀの　ᜀ応援᠀おうえんᤀだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>974389520</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀったーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>992215821</Id>
+          <Value>また　ミオに　ナイショで
+こんな　おもしろそーなこと
+しようっていうの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010172687</Id>
+          <Value>そんなの　おᜀ天道様᠀てんとさまᤀが
+ᜀ見逃᠀みのがᤀしても　このミオが
+ᜀ見逃᠀みのがᤀすワケないでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025639181</Id>
+          <Value>…ってワケで
+エムシーモンちゃん
+ミオも　ᜀ参加᠀さんかᤀさせて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1044382485</Id>
+          <Value>ᜀＯＨ᠀オーᤀ！　ミオの　おᜀ願᠀ねがᤀいは
+ᜀ聞᠀きᤀいてあげたいトコだが
+もう　ᜀ参加枠᠀さんかわくᤀが　いっぱいなんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059980049</Id>
+          <Value>ミオ　これは　ᜀ遊᠀あそᤀびじゃないんだ
+カヨと　いっしょに
+ᜀ応援᠀おうえんᤀに　まわれ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076888337</Id>
+          <Value>ヤダ　ヤダ　ヤダ！
+ミオだって　アプリドライヴァーだし
+ᜀ交流戦᠀こうりゅうせんᤀ　したいもん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092879115</Id>
+          <Value>まあ　まあ
+せっかく　ミオᜀ君᠀くんᤀが
+やるᜀ気᠀きᤀになってるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110049550</Id>
+          <Value>ここは　ひとつ
+クジで　ᜀ参加者᠀さんかしゃᤀを
+ᜀ決᠀きᤀめることに　しないかい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1128137494</Id>
+          <Value>ああ　オウジᜀ様᠀さまᤀ！
+こんな　ワガママᜀ娘᠀むすめᤀに
+なんてᜀ心᠀こころᤀのᜀ広᠀ひろᤀい　おᜀ言葉᠀ことばᤀ…！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1144521491</Id>
+          <Value>ᜀ俺᠀おれᤀは　それで　かまわないよ
+ミオちゃんが　いれば
+ᜀ楽᠀たのᤀしいᜀ大会᠀たいかいᤀに　なりそうだし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159201293</Id>
+          <Value>なる！　なる！
+ゼッタイ　ᜀ楽᠀たのᤀしくなる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175191820</Id>
+          <Value>オレも　かまわないけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195115281</Id>
+          <Value>ＯＫ！　それじゃ　クジで
+ᜀ参加者᠀さんかしゃᤀを　ᜀ決᠀きᤀめるぞ！！
+ᜀ文句᠀もんくᤀは　ᜀ言᠀いᤀいっこナシだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1212285715</Id>
+          <Value>というワケで　クジᜀ引᠀びᤀきの　ᜀ結果᠀けっかᤀ
+ᰏ　ナオト　マコト　ミオの
+４ᜀ名᠀めいᤀが　ᜀ参加決定᠀さんかけっていᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227752212</Id>
+          <Value>ちょっと！
+どうして　オウジᜀ様᠀さまᤀが　ハズレるのよ！
+ᜀ納得᠀なっとくᤀいかないわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244398099</Id>
+          <Value>じゃあ　ᜀ僕᠀ぼくᤀと　カヨᜀ君᠀くんᤀは
+ᜀ解説᠀かいせつᤀに　まわることに　しようか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260913425</Id>
+          <Value>えっ！
+オウジᜀ様᠀さまᤀと　ᜀ２人᠀ふたりᤀっきりで
+ᜀ解説᠀かいせつᤀ…！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276510987</Id>
+          <Value>はい！
+どこまでも
+おとも　いたします…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1297089315</Id>
+          <Value>えー
+ᜀ問題᠀もんだいᤀは　ᜀ解決᠀かいけつᤀした　みたいだから
+ᜀ次᠀つぎᤀは　ᜀ交流戦᠀こうりゅうせんᤀの　ᜀ相手᠀あいてᤀを　ᜀ紹介᠀しょうかいᤀするぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311769362</Id>
+          <Value>ハルの　ᜀ仲間᠀なかまᤀたち　なんだよね？
+いったい　どんな
+アプリドライヴァー　なんだろう…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326711057</Id>
+          <Value>メンバー　ᜀ入場᠀にゅうじょうᤀ～～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345323794</Id>
+          <Value>ᜀ対戦᠀たいせんᤀ　メンバーは
+ハル　エリ　ᜀ虎次郎᠀とらじろうᤀ　レイの
+４ᜀ名᠀めいᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360396812</Id>
+          <Value>ᜀ虎次郎᠀とらじろうᤀじゃない
+アストラだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377305098</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀ
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393426698</Id>
+          <Value>ᜀ超᠀ちょうᤀノレる！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1413743379</Id>
+          <Value>あなたのハートに　ドッカンパンチ！
+ᜀ私᠀わたしᤀこそが　ᜀ宇宙᠀うちゅうᤀのセンター
+ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀ　なんだからん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1426325764</Id>
+          <Value>…………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445987089</Id>
+          <Value>アストラに…　エリさんと　レイ！？
+ハルの　ᜀ仲間᠀なかまᤀたちって
+みんなのこと　だったんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460798217</Id>
+          <Value>ハハ…
+ってことで　みんな
+よろしく</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479672594</Id>
+          <Value>ＯＫ！
+ᜀ以上᠀いじょうᤀ　８ᜀ名᠀めいᤀによる
+トーナメントᜀ戦᠀せんᤀの　ᜀ開始᠀かいしᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1496056339</Id>
+          <Value>これは　ᜀ解説᠀かいせつᤀもだけど
+ᜀ観戦᠀かんせんᤀも　とても　ᜀ楽᠀たのᤀしみだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1513751319</Id>
+          <Value>さて…
+ᰏの　ᜀ準備᠀じゅんびᤀが　できてるなら
+ᜀ今᠀いまᤀすぐ　ᜀ始᠀はじᤀめようとᜀ思᠀おもᤀうが　どうだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528430868</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀに　ᜀ参加᠀さんかᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1544159494</Id>
+          <Value>ᜀ始᠀はじᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1561198858</Id>
+          <Value>よし　ᜀ始᠀はじᤀめよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580335890</Id>
+          <Value>イイᜀ返事᠀へんじᤀだぜ　ᰏ！
+それじゃ　「ᜀ交流祭᠀こうりゅうさいᤀ」！
+ᜀ始᠀はじᤀめるぜ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594622217</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1613759252</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀって！
+この　メンバーなら
+もっと　ちゃんと　ᜀ準備᠀じゅんびᤀしてくるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630274321</Id>
+          <Value>ᜀＯＫＡＹ᠀オーケイᤀ　ᰏ！
+ᜀ見᠀みᤀてのとおり
+トクベツな　バトルに　なるからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646526993</Id>
+          <Value>ᜀ準備᠀じゅんびᤀが　できたら
+ハルのほうに　ᜀ話᠀はなᤀしかけてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1665794841</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+スペシャルᜀ大会᠀たいかいᤀ　「ᜀ交流祭᠀こうりゅうさいᤀ」！
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680212747</Id>
+          <Value>まずは　１ᜀ回戦᠀かいせんᤀ
+ᜀ第᠀だいᤀ１バトル！
+ᰏ　ＶＳ　アストラ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1697383183</Id>
+          <Value>アストラᜀ君᠀くんᤀのバディは
+ᜀ音楽᠀おんがくᤀアプリの　アプモン
+ミュージモンだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1717043990</Id>
+          <Value>ᜀ音楽᠀おんがくᤀアプリだけに　ᜀ彼᠀かれᤀらが
+ᜀ調子᠀ちょうしᤀに　ᜀ乗᠀のᤀれるか　ᜀ乗᠀のᤀれないかが
+ᜀ勝負᠀しょうぶᤀの　ᜀ分᠀わᤀかれᜀ目᠀めᤀに　なりそうだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731855125</Id>
+          <Value>ᜀ調子᠀ちょうしᤀとは　リズムのこと　ですものね
+さすが　オウジᜀ様᠀さまᤀ
+テキカクな　ᜀ解説᠀かいせつᤀですわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1749025561</Id>
+          <Value>ᜀ準備᠀じゅんびᤀは　いいな？
+１ᜀ回戦᠀かいせんᤀ　ᜀ第᠀だいᤀ１バトルを　ᜀ始᠀はじᤀめるぜ！
+ᜀＲＥＡＤＹ᠀レディーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764360977</Id>
+          <Value>１ᜀ回戦᠀かいせんᤀ
+ᜀ第᠀だいᤀ１バトルの　ᜀ勝者᠀しょうしゃᤀは
+アストラ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779433992</Id>
+          <Value>あ～あ…
+ᜀ負᠀まᤀけちゃったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796735503</Id>
+          <Value>へへへっ！
+ᜀ超᠀ちょうᤀノレるぜぇーーーー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813905937</Id>
+          <Value>おいおい　ᰏ
+１ᜀ回戦᠀かいせんᤀで　ᜀ敗退᠀はいたいᤀか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1830945550</Id>
+          <Value>ᰏには
+ᜀ期待᠀きたいᤀしてたんだけどね…
+ᜀ残念᠀ざんねんᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1846673930</Id>
+          <Value>やっぱり
+みんな　ᜀ強᠀つよᤀいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1866990363</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀは　いつでも　ᜀ開催᠀かいさいᤀできるぜ
+また　ᜀ挑戦᠀ちょうせんᤀしたければ
+ハルに　ᜀ声᠀こえᤀを　かけてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1881014802</Id>
+          <Value>それじゃ
+またの　ごᜀ参加᠀さんかᤀ　ᜀ待᠀まᤀってるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1898447633</Id>
+          <Value>１ᜀ回戦᠀かいせんᤀ
+ᜀ第᠀だいᤀ１バトルの　ᜀ勝者᠀しょうしゃᤀは
+ᰏ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1914569236</Id>
+          <Value>よし！
+まずは　１ᜀ回戦᠀かいせんᤀ　ᜀ突破᠀とっぱᤀだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1933443856</Id>
+          <Value>ᜀ超᠀ちょうᤀノレねぇ～～～～～～！！
+このアストラを　ᜀ負᠀まᤀかしたんだ
+ᜀ他᠀ほかᤀのヤツに　ᜀ負᠀まᤀけるなよ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1948517134</Id>
+          <Value>さすが　ᰏ
+うまく　アストラᜀ君᠀くんᤀたちの
+リズムを　くるわせたね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1966080537</Id>
+          <Value>このᜀ調子᠀ちょうしᤀで
+１ᜀ回戦᠀かいせんᤀ　ᜀ第᠀だいᤀ２バトルに　ᜀ続᠀つづᤀくぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982071309</Id>
+          <Value>…これで　ᜀ全᠀ぜんᤀ４ᜀ組᠀くみᤀの
+バトルが　ᜀ終᠀おᤀわったな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>2001077019</Id>
+          <Value>ᜀ以上᠀いじょうᤀで　１ᜀ回戦᠀かいせんᤀは　ᜀ終了᠀しゅうりょうᤀだ！
+これまでの　バトルの
+ハイライトを　ᜀ振᠀ふᤀりᜀ返᠀かえᤀるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>2014970379</Id>
+          <Value>まずは　ᜀ第᠀だいᤀ１バトル
+ᰏ　ＶＳ　アストラ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>2033058577</Id>
+          <Value>これは　うまく
+ᜀ自分᠀じぶんᤀのペースで　ᜀ戦᠀たたかᤀえた
+ᰏの　ᜀ勝利᠀しょうりᤀだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>2049835788</Id>
+          <Value>ᜀ次᠀つぎᤀは　ᜀ負᠀まᤀけないぜ！
+ᜀ俺᠀おれᤀたちの　ノリに
+ᜀ巻᠀まᤀきこんでみせる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065302028</Id>
+          <Value>オレたちだって
+ᜀ負᠀まᤀけるᜀ気᠀きᤀは　ないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>2081948171</Id>
+          <Value>そして　ᜀ第᠀だいᤀ２バトル
+レイ　ＶＳ　ミオ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>2100298512</Id>
+          <Value>ミオᜀ君᠀くんᤀは　いろいろ
+ᜀ相手᠀あいてᤀのペースを　みだそうと
+がんばってたんだけどね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116682256</Id>
+          <Value>ᜀ顔色᠀かおいろᤀひとつ　ᜀ変᠀かᤀえない
+レイの　ᜀ圧勝᠀あっしょうᤀでしたわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>2131755528</Id>
+          <Value>あ～あ
+ᜀ負᠀まᤀけちゃった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>2150367766</Id>
+          <Value>ᜀ最初᠀さいしょᤀから　ᜀ結果᠀けっかᤀは　わかっていた
+ᜀ時間᠀じかんᤀの　ムダだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>2166489872</Id>
+          <Value>あいつ…
+レイと　いうのか
+ミオのカタキは　ᜀ俺᠀おれᤀが　とる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2184577810</Id>
+          <Value>おにいちゃん　そういうの　やめてよ！
+せーせーどーどー　バトルして
+ᜀ負᠀まᤀけたんだから　これで　いいの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2199520010</Id>
+          <Value>つづいて
+ᜀ第᠀だいᤀ３バトル
+ナオト　ＶS　エリ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2219180824</Id>
+          <Value>アイドルの　ᜀ魅力全開᠀みりょくぜんかいᤀで
+ドッカンパンチ…　だったっけ？
+ᜀ一撃必殺᠀いちげきひっさつᤀを　ねらった　エリᜀ君᠀くんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2234516242</Id>
+          <Value>でも　アイドルに　ᜀ興味᠀きょうみᤀのない
+ナオトには　まったく
+ᜀ通᠀つうᤀじませんでしたわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2251686675</Id>
+          <Value>くやし～！
+このᜀ私᠀わたしᤀに　ᜀ土᠀つちᤀを　つけるなんて
+タンスのᜀ角᠀かどᤀで　ドッカンパンチよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2268070672</Id>
+          <Value>ᜀ俺᠀おれᤀの　ᜀ相手᠀あいてᤀは　レイ
+あいつだけだ！
+ミオのカタキは　ᜀ俺᠀おれᤀが　とる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2283405838</Id>
+          <Value>だから　おにいちゃん
+はずかしいから　やめてってば</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2300183306</Id>
+          <Value>つづいて
+ᜀ第᠀だいᤀ４バトル
+ハル　ＶＳ　マコト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2317222418</Id>
+          <Value>これは　なかなか
+ᜀ白熱᠀はくねつᤀした　いいバトルだったね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>2336490260</Id>
+          <Value>ᜀ一見᠀いっけんᤀ　ジミに　ᜀ見᠀みᤀえる
+マコトの　ᜀ計算᠀けいさんᤀされた　ᜀ動᠀うごᤀきに
+ハルᜀ君᠀くんᤀも　まどわされてたね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>2350908172</Id>
+          <Value>ええ　あれは
+ジミでしたけど　なかなか
+いいアプローチでしたわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>2367947534</Id>
+          <Value>はいはい
+どうせ　ジミに　ᜀ戦᠀たたかᤀって
+ジミに　ᜀ負᠀まᤀけたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>2384331278</Id>
+          <Value>いや　ジミだなんて　そんな…
+すごく　ᜀ強᠀つよᤀかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>2402419475</Id>
+          <Value>ᰏ　レイ　ナオト　ハルの
+４ᜀ名᠀めいᤀが　ᜀ準決勝᠀　じゅんけっしょうᤀに
+ᜀ進出᠀しんしゅつᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>2419458834</Id>
+          <Value>ᜀ実力者᠀じつりょくしゃᤀが　ᜀ残᠀のこᤀったね
+これは　ᜀ見᠀みᤀごたえが　ありそうだよ
+カヨᜀ君᠀くんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>2435187471</Id>
+          <Value>はい
+オウジᜀ様᠀さまᤀの　ᜀ横顔᠀よこがおᤀも
+ᜀ見᠀みᤀごたえありです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>2451833611</Id>
+          <Value>ＯＫ！　それじゃ
+ᜀ次᠀つぎᤀの　バトル
+ᜀ行᠀いᤀってみようぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>2468610828</Id>
+          <Value>ᜀ準決勝᠀　じゅんけっしょうᤀ
+ᜀ第᠀だいᤀ１バトルは
+ᰏ　ＶＳ　レイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>2485518865</Id>
+          <Value>レイᜀ君᠀くんᤀの　レイドラモンは
+ᜀ超᠀ちょうᤀハッキングの　アプモンだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_142</Key>
+      <Values>
+        <BtxtString>
+          <Id>2503475989</Id>
+          <Value>うちの　セキュリティᜀ会社᠀がいしゃᤀにとっては
+なかなか　やっかいな
+ᜀ相手᠀あいてᤀだと　ᜀ思᠀おもᤀうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_143</Key>
+      <Values>
+        <BtxtString>
+          <Id>2518417933</Id>
+          <Value>オウジᜀ様᠀さまᤀ…
+レイの　ᜀ相手᠀あいてᤀは　ᰏです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_144</Key>
+      <Values>
+        <BtxtString>
+          <Id>2535457548</Id>
+          <Value>おい　ᰏ
+そいつは　ミオのカタキだ
+ᜀ負᠀まᤀけるんじゃないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_145</Key>
+      <Values>
+        <BtxtString>
+          <Id>2554594069</Id>
+          <Value>…いや　やっぱり　ᜀ俺᠀おれᤀが　ᜀ倒᠀たおᤀすから
+さっさと　ᜀ負᠀まᤀけろ！
+おᜀ前᠀まえᤀのカタキも　ᜀ俺᠀おれᤀが　とってやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_146</Key>
+      <Values>
+        <BtxtString>
+          <Id>2568225292</Id>
+          <Value>ムチャクチャ　ᜀ言᠀いᤀうなよ
+ナオト…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_147</Key>
+      <Values>
+        <BtxtString>
+          <Id>2587886363</Id>
+          <Value>ᜀ準備᠀じゅんびᤀは　いいな？
+つづいて　ᜀ準決勝᠀じゅんけっしょうᤀを　ᜀ開始᠀かいしᤀするぜ！
+ᜀＲＥＡＤＹ᠀レディーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_148</Key>
+      <Values>
+        <BtxtString>
+          <Id>2603483921</Id>
+          <Value>ᜀ準決勝᠀　じゅんけっしょうᤀ
+ᜀ第᠀だいᤀ１バトルの　ᜀ勝者᠀しょうしゃᤀは
+レイ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_149</Key>
+      <Values>
+        <BtxtString>
+          <Id>2618294792</Id>
+          <Value>あ～あ…
+ᜀ負᠀まᤀけちゃったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_150</Key>
+      <Values>
+        <BtxtString>
+          <Id>2634809609</Id>
+          <Value>このᜀ程度᠀ていどᤀか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_151</Key>
+      <Values>
+        <BtxtString>
+          <Id>2652373517</Id>
+          <Value>おいおい　ᰏ
+ここで　ᜀ敗北᠀はいぼくᤀか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_152</Key>
+      <Values>
+        <BtxtString>
+          <Id>2670985998</Id>
+          <Value>レイᜀ君᠀くんᤀは　さすがだったね
+あのᜀ冷静᠀れいせいᤀさは
+ᜀ僕᠀ぼくᤀも　ᜀ見習᠀みならᤀいたいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_153</Key>
+      <Values>
+        <BtxtString>
+          <Id>2686059019</Id>
+          <Value>あら　オウジᜀ様᠀さまᤀは
+いつも　クールですわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_154</Key>
+      <Values>
+        <BtxtString>
+          <Id>2702311946</Id>
+          <Value>やっぱり
+みんな　ᜀ強᠀つよᤀいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_155</Key>
+      <Values>
+        <BtxtString>
+          <Id>2722628379</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀは　いつでも　ᜀ開催᠀かいさいᤀできるぜ
+また　ᜀ挑戦᠀ちょうせんᤀしたければ
+ハルに　ᜀ声᠀こえᤀを　かけてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_156</Key>
+      <Values>
+        <BtxtString>
+          <Id>2736652818</Id>
+          <Value>それじゃ
+またの　ごᜀ参加᠀さんかᤀ　ᜀ待᠀まᤀってるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_157</Key>
+      <Values>
+        <BtxtString>
+          <Id>2755396371</Id>
+          <Value>ᜀ準決勝᠀　じゅんけっしょうᤀ
+ᜀ第᠀だいᤀ１バトルの　ᜀ勝者᠀しょうしゃᤀは　ᰏ！
+ᜀ調子᠀ちょうしᤀ　イイじゃ～ん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_158</Key>
+      <Values>
+        <BtxtString>
+          <Id>2770338325</Id>
+          <Value>よし！
+ᜀ準決勝᠀　じゅんけっしょうᤀも　ᜀ勝᠀かᤀてたぞ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_159</Key>
+      <Values>
+        <BtxtString>
+          <Id>2788819730</Id>
+          <Value>ᜀ勝᠀かᤀちᜀ負᠀まᤀけの　ᜀ結果᠀けっかᤀなど
+どうでもいい…
+ᜀ俺᠀おれᤀには　ᜀ興味᠀きょうみᤀのないことだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_160</Key>
+      <Values>
+        <BtxtString>
+          <Id>2802975243</Id>
+          <Value>くっ…！
+ミオのカタキを　ᰏが…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_161</Key>
+      <Values>
+        <BtxtString>
+          <Id>2822374159</Id>
+          <Value>ᰏの　ᜀ情熱᠀じょうねつᤀが
+レイᜀ君᠀くんᤀの　ᜀ冷静᠀れいせいᤀさに
+ᜀ打᠀うᤀちᜀ勝᠀かᤀったということかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_162</Key>
+      <Values>
+        <BtxtString>
+          <Id>2838102797</Id>
+          <Value>なかなか　ᜀ見᠀みᤀごたえのある
+バトルだったと
+ᜀ僕᠀ぼくᤀは　ᜀ思᠀おもᤀうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_163</Key>
+      <Values>
+        <BtxtString>
+          <Id>2854617617</Id>
+          <Value>オウジᜀ様᠀さまᤀが　そうおっしゃるなら
+カヨも　そうᜀ思᠀おもᤀいますわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_164</Key>
+      <Values>
+        <BtxtString>
+          <Id>2871263764</Id>
+          <Value>ᜀＧＯＯＤ᠀グッドᤀ！
+つづけて　ᜀ第᠀だいᤀ２バトルに　いくぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_165</Key>
+      <Values>
+        <BtxtString>
+          <Id>2889745174</Id>
+          <Value>…というわけで　ᜀ準決勝᠀じゅんけっしょうᤀは
+ᜀ終了᠀　しゅうりょうᤀだ！　それぞれの　バトルの
+ハイライトは　こちら！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_166</Key>
+      <Values>
+        <BtxtString>
+          <Id>2905080592</Id>
+          <Value>まずは　ᜀ準決勝᠀　じゅんけっしょうᤀ
+ᜀ第᠀だいᤀ１バトル
+ᰏ　ＶＳ　レイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_167</Key>
+      <Values>
+        <BtxtString>
+          <Id>2923037206</Id>
+          <Value>１ᜀ回戦᠀かいせんᤀに　ᜀ引᠀ひᤀきᜀ続᠀つづᤀき
+レイᜀ君᠀くんᤀは　ᜀ常᠀つねᤀに　ᜀ冷静᠀れいせいᤀだったね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_168</Key>
+      <Values>
+        <BtxtString>
+          <Id>2940863256</Id>
+          <Value>そのᜀ冷静᠀れいせいᤀさを　わずかでは　あるが
+ᰏの　「ᜀ勝᠀かᤀちたい」という
+ᜀ気持᠀きもᤀちが　ᜀ上᠀うわᤀまわっていたように　ᜀ思᠀おもᤀう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_169</Key>
+      <Values>
+        <BtxtString>
+          <Id>2953969934</Id>
+          <Value>ᜀ実᠀じつᤀに　いいバトルだったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_170</Key>
+      <Values>
+        <BtxtString>
+          <Id>2971009296</Id>
+          <Value>ᜀ実᠀じつᤀに　いいᜀ解説᠀かいせつᤀですわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_171</Key>
+      <Values>
+        <BtxtString>
+          <Id>2987000325</Id>
+          <Value>あれ？
+レイは…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_172</Key>
+      <Values>
+        <BtxtString>
+          <Id>3006661394</Id>
+          <Value>ヤツなら　もう　ᜀ帰᠀かえᤀっちまったゼ？
+「やるべきことが　ある」そうだ
+ᜀＣＯＯＬ᠀クールᤀな　ヤツだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_173</Key>
+      <Values>
+        <BtxtString>
+          <Id>3023045394</Id>
+          <Value>おᜀ次᠀つぎᤀは　ᜀ準決勝᠀　じゅんけっしょうᤀ
+ᜀ第᠀だいᤀ２バトル！
+ハル　ＶＳ　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_174</Key>
+      <Values>
+        <BtxtString>
+          <Id>3040346896</Id>
+          <Value>このバトルも　ᜀ２人᠀ふたりᤀに
+ᜀ大᠀おおᤀきな　ᜀ実力差᠀じつりょくさᤀは
+なかったように　ᜀ思᠀おもᤀうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_175</Key>
+      <Values>
+        <BtxtString>
+          <Id>3057124114</Id>
+          <Value>ただ　ᜀ確実᠀かくじつᤀに　ᜀ言᠀いᤀえることは
+ハルᜀ君᠀くんᤀのほうが
+バトルを　ᜀ楽᠀たのᤀしんでいたね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_176</Key>
+      <Values>
+        <BtxtString>
+          <Id>3073639191</Id>
+          <Value>ミオのカタキを　ᰏが
+ᜀ倒᠀たおᤀしてしまったから　つい　ᜀ冷静᠀れいせいᤀさを
+うしなってしまって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_177</Key>
+      <Values>
+        <BtxtString>
+          <Id>3088843281</Id>
+          <Value>おにいちゃん
+ᜀ人᠀ひとᤀのせいに　するの　よくないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_178</Key>
+      <Values>
+        <BtxtString>
+          <Id>3105227274</Id>
+          <Value>くっ……
+ᜀ俺᠀おれᤀの…ᜀ負᠀まᤀけだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_179</Key>
+      <Values>
+        <BtxtString>
+          <Id>3122266643</Id>
+          <Value>いや…
+おにいさん　ものすごく　ᜀ強᠀つよᤀかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_180</Key>
+      <Values>
+        <BtxtString>
+          <Id>3139174925</Id>
+          <Value>おᜀ世辞᠀せじᤀなんかじゃなくて
+ᜀ本当᠀ほんとうᤀにね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_181</Key>
+      <Values>
+        <BtxtString>
+          <Id>3157263123</Id>
+          <Value>…さあ！　ᜀ最後᠀さいごᤀは　ᜀ勝᠀かᤀちのこった
+ᰏと　ハルで
+ᜀ決勝戦᠀けっしょうせんᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_182</Key>
+      <Values>
+        <BtxtString>
+          <Id>3174302481</Id>
+          <Value>ここまでの　バトルを　ᜀ見᠀みᤀるかぎり
+ᜀ実力᠀じつりょくᤀは　ほとんど
+ゴカクといって　いいだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_183</Key>
+      <Values>
+        <BtxtString>
+          <Id>3189899790</Id>
+          <Value>ᜀ決勝᠀けっしょうᤀに　ふさわしい
+バトルになると　ᜀ思᠀おもᤀうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_184</Key>
+      <Values>
+        <BtxtString>
+          <Id>3206152719</Id>
+          <Value>レディース　アーンド
+ジェントルメーーーーーーン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_185</Key>
+      <Values>
+        <BtxtString>
+          <Id>3223847693</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀ
+ᜀ決勝᠀けっしょうᤀの　カードは
+ᰏ　ＶＳ　ハル！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_186</Key>
+      <Values>
+        <BtxtString>
+          <Id>3240624658</Id>
+          <Value>ハルᜀ君᠀くんᤀの　ドガッチモンは
+ᜀ超検索᠀ちょうけんさくᤀの　アプモンだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_187</Key>
+      <Values>
+        <BtxtString>
+          <Id>3257795342</Id>
+          <Value>ᰏの　あらゆるデータは
+すべて　ᜀ知᠀しᤀられていると
+ᜀ思᠀おもᤀったほうが　いいだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_188</Key>
+      <Values>
+        <BtxtString>
+          <Id>3274703632</Id>
+          <Value>ᰏは　これまでの
+ᜀ自分᠀じぶんᤀを　ᜀ超᠀こᤀえた　バトルを
+ᜀ求᠀もとᤀめられるということだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_189</Key>
+      <Values>
+        <BtxtString>
+          <Id>3292529426</Id>
+          <Value>ᜀ超検索᠀ちょうけんさくᤀの　アプモン…！
+あのᜀ子᠀こᤀが　いれば　オウジᜀ様᠀さまᤀの
+あんなデータや　こんなデータも…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_190</Key>
+      <Values>
+        <BtxtString>
+          <Id>3306947087</Id>
+          <Value>コホン…　ちょっと
+ᜀ取᠀とᤀりみだして　しまいました…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_191</Key>
+      <Values>
+        <BtxtString>
+          <Id>3323331084</Id>
+          <Value>アプモンちゃんたち
+みんな　がんばってー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_192</Key>
+      <Values>
+        <BtxtString>
+          <Id>3340894988</Id>
+          <Value>ᰏだけじゃなく
+ハルの　アプモンも
+ᜀ応援᠀おうえんᤀしてるのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_193</Key>
+      <Values>
+        <BtxtString>
+          <Id>3357803278</Id>
+          <Value>ミオにとって
+アプモンちゃんたちは
+みんな　ᜀ平等᠀びょうどうᤀなの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_194</Key>
+      <Values>
+        <BtxtString>
+          <Id>3373007370</Id>
+          <Value>ᰏ
+リラックスしていけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_195</Key>
+      <Values>
+        <BtxtString>
+          <Id>3391619852</Id>
+          <Value>このᜀ決勝戦᠀けっしょうせんᤀ
+ノレる？　ノレない？
+ᜀ超᠀ちょうᤀノレる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_196</Key>
+      <Values>
+        <BtxtString>
+          <Id>3408528144</Id>
+          <Value>ᜀ２人᠀ふたりᤀとも　がんばりなさい！
+つまんないバトルしたら
+ドッカンパンチよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_197</Key>
+      <Values>
+        <BtxtString>
+          <Id>3426485018</Id>
+          <Value>ᜀＧＲＥＡＴ᠀グレートᤀ！
+いよいよ　ᜀ待望᠀たいぼうᤀの　ᜀ決勝戦᠀けっしょうせんᤀだぜ！
+ᜀＲＥＡＤＹ᠀レディーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_198</Key>
+      <Values>
+        <BtxtString>
+          <Id>3443524381</Id>
+          <Value>「ᜀ交流祭᠀こうりゅうさいᤀ」
+ᜀ勝᠀かᤀちぬいたのは　ハル！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_199</Key>
+      <Values>
+        <BtxtString>
+          <Id>3457155592</Id>
+          <Value>あ～あ…
+ᜀ負᠀まᤀけちゃったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_200</Key>
+      <Values>
+        <BtxtString>
+          <Id>3475112462</Id>
+          <Value>ᜀ僕᠀ぼくᤀが…ᜀ優勝᠀ゆうしょうᤀ！？
+ᜀ本当᠀ほんとうᤀに！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_201</Key>
+      <Values>
+        <BtxtString>
+          <Id>3492807441</Id>
+          <Value>ᜀ決勝᠀けっしょうᤀに　ふさわしい
+いいバトルだったゼ
+ᜀ２人᠀ふたりᤀとも　ナイスファイトだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_202</Key>
+      <Values>
+        <BtxtString>
+          <Id>3510371091</Id>
+          <Value>バディとの　キズナという　ᜀ点᠀てんᤀでは
+ᰏも　ハルᜀ君᠀くんᤀも
+ほとんど　ᜀ差᠀さᤀは　なかったと　ᜀ思᠀おもᤀう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_203</Key>
+      <Values>
+        <BtxtString>
+          <Id>3526755092</Id>
+          <Value>ただ　ᜀ今回᠀こんかいᤀは　ハルᜀ君᠀くんᤀのほうが
+よりバトルを
+ᜀ楽᠀たのᤀしんでいたᜀ気᠀きᤀがするよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_204</Key>
+      <Values>
+        <BtxtString>
+          <Id>3541172746</Id>
+          <Value>やっぱり
+みんな　ᜀ強᠀つよᤀいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_205</Key>
+      <Values>
+        <BtxtString>
+          <Id>3561358106</Id>
+          <Value>ᜀ交流戦᠀こうりゅうせんᤀは　いつでもᜀ開催᠀かいさいᤀできるぜ
+また　ᜀ挑戦᠀ちょうせんᤀしたければ
+ハルに　ᜀ声᠀こえᤀを　かけてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_206</Key>
+      <Values>
+        <BtxtString>
+          <Id>3575513618</Id>
+          <Value>それじゃ
+またの　ごᜀ参加᠀さんかᤀ　ᜀ待᠀まᤀってるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_207</Key>
+      <Values>
+        <BtxtString>
+          <Id>3594519325</Id>
+          <Value>「ᜀ交流祭᠀こうりゅうさいᤀ」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_208</Key>
+      <Values>
+        <BtxtString>
+          <Id>3608936973</Id>
+          <Value>オレが　ᜀ優勝᠀ゆうしょうᤀ！？
+やったーーーっ！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_209</Key>
+      <Values>
+        <BtxtString>
+          <Id>3626894097</Id>
+          <Value>ᜀ今回᠀こんかいᤀは　ᜀ負᠀まᤀけちゃったけど
+いろんなことを
+ᜀ学᠀まなᤀばせてもらったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_210</Key>
+      <Values>
+        <BtxtString>
+          <Id>3642884622</Id>
+          <Value>すごく　ᜀ楽᠀たのᤀしかったよ
+ᜀ優勝᠀ゆうしょうᤀ　おめでとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_211</Key>
+      <Values>
+        <BtxtString>
+          <Id>3660186381</Id>
+          <Value>ᜀ２人᠀ふたりᤀとも　バディとの
+キズナを　ᜀ感᠀かんᤀじられた
+いいバトルだったね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_212</Key>
+      <Values>
+        <BtxtString>
+          <Id>3676045835</Id>
+          <Value>だけど　ᜀ今回᠀こんかいᤀは
+ᰏが　ᜀ強᠀つよᤀかった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_213</Key>
+      <Values>
+        <BtxtString>
+          <Id>3693478675</Id>
+          <Value>フフ…
+ᜀ見᠀みᤀてる　こっちまで　ᜀ熱᠀あつᤀくなったよ
+おめでとう　ᰏ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_214</Key>
+      <Values>
+        <BtxtString>
+          <Id>3709862670</Id>
+          <Value>まあ…
+ᜀ認᠀みとᤀめざるを　ᜀ得᠀えᤀないわね
+おめでとう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_215</Key>
+      <Values>
+        <BtxtString>
+          <Id>3728212752</Id>
+          <Value>けど　オウジᜀ様᠀さまᤀが　ᜀ出᠀でᤀてたら
+こうは　いかなかったってことだけ
+ᜀ覚᠀おぼᤀえて　おきなさいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_216</Key>
+      <Values>
+        <BtxtString>
+          <Id>3743023629</Id>
+          <Value>どっちの　アプモンちゃんも
+よく　がんばってたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_217</Key>
+      <Values>
+        <BtxtString>
+          <Id>3758621190</Id>
+          <Value>おめでとう！
+ᰏ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_218</Key>
+      <Values>
+        <BtxtString>
+          <Id>3778413331</Id>
+          <Value>ᜀ俺᠀おれᤀの　ライバルなら
+そうでなくては　ᜀ困᠀こまᤀる…
+だが　ᜀ次᠀つぎᤀは　こうは　いかないからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_219</Key>
+      <Values>
+        <BtxtString>
+          <Id>3794797330</Id>
+          <Value>これを　ᜀ見᠀みᤀた　アプリドライヴァーは
+みんな　バトルしたくて
+ウズウズしてるんじゃないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_220</Key>
+      <Values>
+        <BtxtString>
+          <Id>3811443473</Id>
+          <Value>それくらい
+すごく　ᜀ楽᠀たのᤀしい　バトルだったぜ
+ᜀ優勝᠀ゆうしょうᤀおめでとう　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_221</Key>
+      <Values>
+        <BtxtString>
+          <Id>3827040782</Id>
+          <Value>ハルが　ᜀ負᠀まᤀけた　このバトル
+ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_222</Key>
+      <Values>
+        <BtxtString>
+          <Id>3844604688</Id>
+          <Value>くやしいけど　ᜀ超᠀ちょうᤀノレる！！
+いいノリの　バトルだったぜ
+おめでとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_223</Key>
+      <Values>
+        <BtxtString>
+          <Id>3862430484</Id>
+          <Value>ᜀ宇宙᠀うちゅうᤀのセンターは　ᜀ私᠀わたしᤀだけど
+このサイバーアリーナのセンターは
+ᰏに　ゆずってあげるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_224</Key>
+      <Values>
+        <BtxtString>
+          <Id>3877372686</Id>
+          <Value>ᰏ
+バトルしてくれて　ありがとう
+ᜀ楽᠀たのᤀしかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_225</Key>
+      <Values>
+        <BtxtString>
+          <Id>3893756428</Id>
+          <Value>ああ　オレも
+すごく　ᜀ楽᠀たのᤀしかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_226</Key>
+      <Values>
+        <BtxtString>
+          <Id>3911058190</Id>
+          <Value>ＯＫ！！
+レディース　アーンド
+ジェントルメーーーーーーン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_227</Key>
+      <Values>
+        <BtxtString>
+          <Id>3927179787</Id>
+          <Value>アーンド　オール
+アプリドライヴァー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_228</Key>
+      <Values>
+        <BtxtString>
+          <Id>3947889435</Id>
+          <Value>ᜀＴＨＡＮＫ　ＹＯＵ᠀センキューᤀ
+ᜀＦＯＲ᠀フォーᤀ　ᜀＹＯＵＲ᠀ユアᤀ　ᜀＰＬＡＹＩＮＧ᠀プレイングᤀ！
+ᜀ次᠀つぎᤀの　バトルで　また　ᜀ会᠀あᤀおうゼ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3963224849</Id>
+          <Value>ハルが　ワタシたちに　おᜀ願᠀ねがᤀい？
+もしかして　ᜀ探᠀さがᤀしてた
+セブンコードアプモンの　ᜀ話᠀はなしᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3977904654</Id>
+          <Value>おもしろそう！
+もちろん　ᜀ参加᠀さんかᤀするわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3995075089</Id>
+          <Value>う～ん　ᜀ今᠀いまᤀは
+ᜀ他᠀ほかᤀに　やりたいことがあるから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4010672395</Id>
+          <Value>うん　ᜀ始᠀はじᤀめましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_037_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4028236051</Id>
+          <Value>もうᜀ少᠀すこᤀし　ᜀ準備᠀じゅんびᤀしてくるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4044226827</Id>
+          <Value>うん　ᜀ始᠀はじᤀめましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4061790483</Id>
+          <Value>もうᜀ少᠀すこᤀし　ᜀ準備᠀じゅんびᤀしてくるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4080534045</Id>
+          <Value>ᜀ応援᠀おうえんᤀって　いっても
+ᜀ完全᠀かんぜんᤀに　オウジᜀ１人᠀ひとりᤀの　ᜀ応援᠀おうえんᤀじゃない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_063_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4094558477</Id>
+          <Value>ワタシも　かまわないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_086_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4111335691</Id>
+          <Value>うん　ᜀ始᠀はじᤀめましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_099_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4128244232</Id>
+          <Value>あ～あ…
+ᜀ負᠀まᤀけちゃったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_107_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4146070036</Id>
+          <Value>よーし！
+まずは　１ᜀ回戦᠀かいせんᤀ　ᜀ突破᠀とっぱᤀね！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_116_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4162585101</Id>
+          <Value>ワタシたちだって
+ᜀ負᠀まᤀけるᜀ気᠀きᤀは　ないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_146_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4178969102</Id>
+          <Value>ムチャクチャ　ᜀ言᠀いᤀってるわよ
+ナオト…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_149_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195353096</Id>
+          <Value>あ～あ…
+ᜀ負᠀まᤀけちゃったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_158_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4213178901</Id>
+          <Value>よし！
+ᜀ準決勝᠀　じゅんけっしょうᤀも　ᜀ勝᠀かᤀてたわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_199_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4228907528</Id>
+          <Value>あ～あ…
+ᜀ負᠀まᤀけちゃったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_208_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4246471182</Id>
+          <Value>ワタシが　ᜀ優勝᠀ゆうしょうᤀ！？
+やったーーーっ！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_80_225_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4262986252</Id>
+          <Value>うん　ワタシも
+すごく　ᜀ楽᠀たのᤀしかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

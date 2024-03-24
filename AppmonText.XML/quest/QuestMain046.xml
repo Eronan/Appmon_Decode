@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>56</NumberOfLabels>
+  <NumberOfStrings>56</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786697</Id>
+          <Value>バイラモンをᜀ追᠀おᤀえ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563916</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37487380</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118348</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71041812</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104596244</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150676</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171705108</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205259540</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238813972</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272368404</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305922836</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319553804</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>339477268</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>353108236</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>373031700</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386662668</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>406586132</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>420217100</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>440140564</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453771532</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>473694996</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487325964</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>507249428</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>520880396</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>540803860</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554434828</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>574358292</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>587989260</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>607912724</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621543692</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>641467156</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>655098124</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>675021588</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>688652556</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>708576020</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>722206988</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>742130452</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>755761420</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>775684884</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789315852</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>809239316</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>822870284</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>842793748</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>856424716</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>876348180</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>889979148</Id>
+          <Value>バイラモンをやっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>909902612</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>926679828</Id>
+          <Value>アプモンを　ウィルスᜀ化᠀かᤀさせている
+バイラモンが　ヨンゲンᜀ通᠀どおᤀりに　いる！
+バイラモンを　やっつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

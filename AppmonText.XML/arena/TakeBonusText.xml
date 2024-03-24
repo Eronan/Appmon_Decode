@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TAKE_BONUS_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>4063772</Id>
+          <Value>ᜀ各種᠀かくしゅᤀ　ᜀ特典᠀とくてんᤀの　ᜀ受᠀うᤀけᜀ取᠀とᤀりᜀ画面᠀がめんᤀだ！
+チェックを　ᜀ忘᠀わすᤀれるなよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOT_TAKE_BONUS_WINDOW</Key>
+      <Values>
+        <BtxtString>
+          <Id>19005967</Id>
+          <Value>ᜀ受᠀うᤀけᜀ取᠀とᤀれる　ᜀ特典᠀とくてんᤀが
+ありませんでした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>3146511</Id>
+          <Value>ᰏは　ᜀ状態異常᠀じょうたいいじょうᤀ
+『オーバークロック』について
+ごᜀ存知᠀ぞんじᤀですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841242</Id>
+          <Value>「オーバークロック」に　かかった
+アプモンは　ᜀ攻撃力᠀こうげきりょくᤀが　ᜀ上᠀あᤀがるんですよ
+ᰏにも　かけてあげますね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>35127819</Id>
+          <Value>え…？　いいの？
+そんなの　ᜀ悪᠀わるᤀいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>54264599</Id>
+          <Value>いいんですよ
+ᜀ後輩᠀こうはいᤀに　いろんなことを　ᜀ教᠀おしᤀえるのが
+ᜀ先輩᠀せんぱいᤀの　ᜀ役割᠀やくわりᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>69992980</Id>
+          <Value>「オーバークロック」に　かかった
+アプモンが　ᜀ攻撃᠀こうげきᤀをするᜀ度᠀たびᤀに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_05</Key>
+      <Values>
+        <BtxtString>
+          <Id>87687953</Id>
+          <Value>ᜀ与᠀あたᤀえたダメージの　ᜀ半分᠀はんぶんᤀ
+ᜀ自分᠀じぶんᤀの　バッテリーが
+ᜀ減᠀へᤀってしまうこと　とかね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_06</Key>
+      <Values>
+        <BtxtString>
+          <Id>103678738</Id>
+          <Value>ユカリᜀ先輩᠀せんぱいᤀ　それって　つまり
+オレが　ダメージを
+ᜀ受᠀うᤀけるって　こと…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_07</Key>
+      <Values>
+        <BtxtString>
+          <Id>120455956</Id>
+          <Value>うふふ…　そのᜀ通᠀とおᤀりです
+さあ　うまく　ᜀ切᠀きᤀりᜀ抜᠀ぬᤀけて　くださいね
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_06_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>137364242</Id>
+          <Value>ユカリᜀ先輩᠀せんぱいᤀ　それって　つまり
+ワタシが　ダメージを
+ᜀ受᠀うᤀけるって　こと…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>56</NumberOfLabels>
+  <NumberOfStrings>56</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310993</Id>
+          <Value>ᜀ誘拐事件解決᠀ゆうかいじけんかいけつᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37094166</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>70648598</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104203030</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>137757462</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171311894</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>204866326</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238420758</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>271975190</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305529622</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319291656</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>339084054</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>352846088</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>372638486</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386400520</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>406192918</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>419954952</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>439747350</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453509384</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>473301782</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487063816</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>506856214</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>520618248</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>540410646</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554172680</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>573965078</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>587727112</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>607519510</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621281544</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>641073942</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>654835976</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>674628374</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>688390408</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>708182806</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>721944840</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>741737238</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>755499272</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>775291670</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789053704</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>808846102</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>822608136</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>842400534</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>856162568</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>875954966</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>889717000</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>909509398</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>926286614</Id>
+          <Value>ミオを　ᜀ無事᠀ぶじᤀに　ᜀ助᠀たすᤀけることが　できた
+そろそろ　サイバーアリーナに
+ᜀ戻᠀もどᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

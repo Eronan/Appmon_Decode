@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>132</NumberOfLabels>
+  <NumberOfStrings>132</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1049099</Id>
+          <Value>はぁー…
+どうしたら　いいんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432841</Id>
+          <Value>どうしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>37356311</Id>
+          <Value>ᜀ実᠀じつᤀは　ᜀ子᠀こᤀどもたちのᜀ間᠀あいだᤀで　はやってる
+ある　アプリが
+ᜀ問題᠀もんだいᤀに　なっててね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118348</Id>
+          <Value>どんな　アプリなんです？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70648593</Id>
+          <Value>ᜀ次᠀つぎᤀの　テストの
+ᜀ問題᠀もんだいᤀと　ᜀ答᠀こたᤀえを
+ᜀ教᠀おしᤀえてくれる　アプリ　なんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86508052</Id>
+          <Value>テストの　ᜀ答᠀こたᤀえを！？
+ᜀ最高᠀さいこうᤀの　アプリ　じゃないですか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102236683</Id>
+          <Value>ᜀ最高᠀さいこうᤀなもんか！
+カンニングだよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>122290969</Id>
+          <Value>カンニングして　ᜀ上᠀あᤀがるのは
+その　テストの　ᜀ点数᠀てんすうᤀだけで
+ᜀ実力᠀じつりょくᤀは　ᜀ全然᠀ぜんぜんᤀ　ᜀ上᠀あᤀがってないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138412818</Id>
+          <Value>だから　ᜀ結局᠀けっきょくᤀ　そのᜀ後᠀あとᤀの
+ᜀ受験᠀じゅけんᤀで　みんな　シッパイして
+オヤゴさんが　どなりこんでくる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>155452185</Id>
+          <Value>ᜀ結果᠀けっかᤀ　ᜀ信用᠀しんようᤀも　ガタおちになって
+このままじゃ　もう
+うちの　ᜀ学習塾᠀がくしゅうじゅくᤀは　オシマイだよ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>169214226</Id>
+          <Value>たしかに　それは　ᜀ問題᠀もんだいᤀかも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187564564</Id>
+          <Value>このᜀ先生᠀せんせいᤀ　ᜀ困᠀こまᤀってるみたいだし
+ᜀ手伝᠀てつだᤀって　あげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>204210706</Id>
+          <Value>よし！　ᜀ塾᠀じゅくᤀの　ᜀ生徒᠀せいとᤀたちに
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221119245</Id>
+          <Value>ᜀ子᠀こᤀどもたちの　ᜀ間᠀あいだᤀで
+カンニングの　アプリが
+はやっている　みたいなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239207191</Id>
+          <Value>カンニングしたって
+ᜀ実力᠀じつりょくᤀが　ᜀ上᠀あᤀがるわけじゃないし
+ᜀ結果᠀けっかᤀ　ᜀ信用᠀しんようᤀも　ガタおちになって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>254149145</Id>
+          <Value>このままじゃ　もう
+うちの　ᜀ学習塾᠀がくしゅうじゅくᤀは　オシマイだよ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271450644</Id>
+          <Value>このᜀ先生᠀せんせいᤀ　ᜀ困᠀こまᤀってるみたいだし
+ᜀ手伝᠀てつだᤀって　あげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>288228109</Id>
+          <Value>ᜀ子᠀こᤀどもたちの　ᜀ間᠀あいだᤀで
+カンニングの　アプリが
+はやっている　みたいなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316055</Id>
+          <Value>カンニングしたって
+ᜀ実力᠀じつりょくᤀが　ᜀ上᠀あᤀがるわけじゃないし
+ᜀ結果᠀けっかᤀ　ᜀ信用᠀しんようᤀも　ガタおちになって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>321258009</Id>
+          <Value>このままじゃ　もう
+うちの　ᜀ学習塾᠀がくしゅうじゅくᤀは　オシマイだよ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>338559506</Id>
+          <Value>まずは　ᜀ塾᠀じゅくᤀの　ᜀ生徒᠀せいとᤀたちに
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>355336973</Id>
+          <Value>ᜀ子᠀こᤀどもたちの　ᜀ間᠀あいだᤀで
+カンニングの　アプリが
+はやっている　みたいなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>373424919</Id>
+          <Value>カンニングしたって
+ᜀ実力᠀じつりょくᤀが　ᜀ上᠀あᤀがるわけじゃないし
+ᜀ結果᠀けっかᤀ　ᜀ信用᠀しんようᤀも　ガタおちになって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>388366873</Id>
+          <Value>このままじゃ　もう
+うちの　ᜀ学習塾᠀がくしゅうじゅくᤀは　オシマイだよ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>405668372</Id>
+          <Value>アプモンが　ᜀ関係᠀かんけいᤀしてるみたいだ…
+ARフィールドから　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>421921553</Id>
+          <Value>えっ？
+もう　カンニングは　おきないって？
+ᜀ本当᠀ほんとうᤀ　なのかい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>438567695</Id>
+          <Value>はい　もう
+カンニングの　アプリは
+ᜀ使᠀つかᤀえなく　なっていますよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>454820618</Id>
+          <Value>そうか！
+それなら　よかった
+ᜀ安心᠀あんしんᤀしたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>474088212</Id>
+          <Value>なんだって！　ᜀ聞᠀きᤀいたぞ！
+あのᜀ便利᠀べんりᤀな　アプリ　ᜀ急᠀きゅうᤀに
+ᜀ使᠀つかᤀえなくなったのは　オマエのせいか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>489030163</Id>
+          <Value>オレたちの　ᜀ成績᠀せいせきᤀが　ᜀ落᠀おᤀちたら
+どうしてくれるんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>503841032</Id>
+          <Value>そうだ　そうだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>521404689</Id>
+          <Value>かーちゃんに　ᜀ怒᠀おこᤀられちゃうぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>539099663</Id>
+          <Value>カンニングで　ᜀ上᠀あᤀげた
+ᜀ成績᠀せいせきᤀなんて　ニセモノだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>558367508</Id>
+          <Value>ニセモノのᜀ力᠀ちからᤀで　そのᜀ場᠀ばᤀを
+しのいだとしても　それは　ᜀ全然᠀ぜんぜんᤀ
+ᜀ自分᠀じぶんᤀの　ᜀ力᠀ちからᤀには　なっていない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>574882579</Id>
+          <Value>アプリが　ᜀ使᠀つかᤀえなくなるだけで
+ᜀ何᠀なにᤀも　できなくなって　ᜀ困᠀こまᤀるのは
+おᜀ前᠀まえᤀたち　ᜀ自身᠀じしんᤀなんだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>591397649</Id>
+          <Value>ᜀ先生᠀せんせいᤀたちは　おᜀ前᠀まえᤀたちが
+ᜀ自分᠀じぶんᤀの　ᜀ力᠀ちからᤀで　なんでも
+できるように　なってほしいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>604242179</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>622854671</Id>
+          <Value>だって　ᜀ勉強᠀べんきょうᤀって
+ちっとも　おもしろく　ないし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>640418578</Id>
+          <Value>そうか？
+ちゃんと　ᜀ向᠀むᤀきあってみれば
+ᜀ勉強᠀べんきょうᤀも　おもしろいもんだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>658375444</Id>
+          <Value>たしかに　オレも　ᜀ勉強᠀べんきょうᤀって
+ゲームでᜀ遊᠀あそᤀぶより　おもしろくないって
+ᜀ思᠀おもᤀうときも　あるけどさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>676201245</Id>
+          <Value>むずかしいᜀ問題᠀もんだいᤀの　ᜀ攻略法᠀こうりゃくほうᤀを　みつけて
+ᜀ正解᠀せいかいᤀだったときには
+やってᜀ良᠀よᤀかったなって　ᜀ思᠀おもᤀうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>692323097</Id>
+          <Value>そうだな　ᜀ勉強᠀べんきょうᤀも
+ᜀ攻略法᠀こうりゃくほうᤀを　ᜀ見᠀みᤀつけるってᜀ意味᠀いみᤀでは
+ゲームみたいな　ところもあるな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>707396119</Id>
+          <Value>ゲームみたいに　おもしろいなら
+ちゃんと　ᜀ勉強᠀べんきょうᤀするのも　ありかもな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>726401822</Id>
+          <Value>それじゃあ　ゲームみたいに
+おもしろくなるように　ᜀ工夫᠀くふうᤀして
+ᜀ勉強᠀べんきょうᤀの　ᜀ攻略法᠀こうりゃくほうᤀを　ᜀ教᠀おしᤀえてやろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>740164112</Id>
+          <Value>ᜀ攻略法᠀こうりゃくほうᤀが　あるなら
+やっても　いいかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>757989914</Id>
+          <Value>うん　ᜀ俺᠀おれᤀも
+ᜀ自分᠀じぶんᤀの　ᜀ力᠀ちからᤀで　ᜀ攻略᠀こうりゃくᤀしてみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>774898448</Id>
+          <Value>そうと　ᜀ決᠀きᤀまれば
+みんなで　ᜀ勉強᠀べんきょうᤀゲームに
+ᜀ挑戦᠀ちょうせんᤀしよう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>788922629</Id>
+          <Value>はいっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>805699845</Id>
+          <Value>はいっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>822477061</Id>
+          <Value>はいっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>839254277</Id>
+          <Value>はいっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>858391309</Id>
+          <Value>そうだ　キミ　ありがとう
+カンニング　アプリのᜀ事᠀ことᤀ
+ᜀ教᠀おしᤀえてくれて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>876741396</Id>
+          <Value>ᜀ私᠀わたしᤀも　これからは　ᜀ生徒᠀せいとᤀたちが
+ᜀ興味᠀きょうみᤀを　もってくれるような
+ᜀ授業᠀じゅぎょうᤀを　していくよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>892601109</Id>
+          <Value>ここの　ᜀ公式᠀こうしきᤀを
+このᜀ問題᠀もんだいᤀの　ウィークポイントである
+ここに　ぶつけてやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>908722956</Id>
+          <Value>そうすれば　ほら！
+ᜀ隠᠀かくᤀされた　ᜀ答᠀こたᤀえが
+ᜀ見᠀みᤀえてくるんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>925238032</Id>
+          <Value>ふふふ…
+ᜀ教᠀おしᤀえるほうも　ゲームみたいに
+ᜀ楽᠀たのᤀしくなってるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>943325974</Id>
+          <Value>このᜀ塾᠀じゅくᤀ
+マジメに　ᜀ勉強᠀べんきょうᤀすれば
+かなり　ᜀ実力᠀じつりょくᤀが　つくってᜀ話᠀はなしᤀよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>959709969</Id>
+          <Value>イマイチ　ᜀ授業᠀じゅぎょうᤀに
+ᜀ面白味᠀おもしろみᤀが　かけているのが
+タマに　キズ　なんだけどね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>976880402</Id>
+          <Value>テストの　ᜀ問題᠀もんだいᤀと　ᜀ答᠀こたᤀえを
+ᜀ教᠀おしᤀえてくれる　アプリについて
+ᜀ何᠀なにᤀか　しらない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>993133328</Id>
+          <Value>その　アプリなら
+ᜀ私᠀わたしᤀは　ᜀ使᠀つかᤀってないわ
+ᜀ自分᠀じぶんᤀのために　ならないもの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010828055</Id>
+          <Value>あっちにいる　３ᜀ人組᠀にんぐみᤀに
+ᜀ聞᠀きᤀいてみたら？
+ᜀ急᠀きゅうᤀに　ᜀ成績᠀せいせきᤀ　ᜀ上᠀あᤀがったみたいだし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026949905</Id>
+          <Value>ᜀ先生᠀せんせいᤀの　ᜀ授業᠀じゅぎょうᤀ
+ᜀ前᠀まえᤀより　なんだか　おもしろくて
+わかりやすく　なったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042678290</Id>
+          <Value>ᜀ楽᠀たのᤀしく　ᜀ勉強᠀べんきょうᤀできるなら
+そのほうが　いいわよね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060504342</Id>
+          <Value>ᜀ毎日᠀まいにちᤀ　ᜀ塾᠀じゅくᤀで　おᜀ勉強᠀べんきょうᤀ～
+あー　ホント
+ᜀ子供᠀こどもᤀは　つらいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077543698</Id>
+          <Value>テストの　ᜀ問題᠀もんだいᤀと　ᜀ答᠀こたᤀえを
+ᜀ教᠀おしᤀえてくれる　アプリについて
+ᜀ何᠀なにᤀか　しらない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093534478</Id>
+          <Value>なんだ　おᜀ前᠀まえᤀも
+ᜀ次᠀つぎᤀの　テストの
+ᜀ答᠀こたᤀえが　ᜀ知᠀しᤀりたいのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109000716</Id>
+          <Value>オマエも　オレたちの
+ᜀ仲間᠀なかまᤀに　はいるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125909008</Id>
+          <Value>そーすりゃ　もう
+テスト　なんか　ᜀ怖᠀こわᤀくないぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1144783634</Id>
+          <Value>オレたちの　ᜀ知᠀しᤀりあいが　ᜀ持᠀もᤀってる
+アプリが　テストの　ᜀ答᠀こたᤀえを
+ᜀ教᠀おしᤀえてくれるんだからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160512020</Id>
+          <Value>ᜀ答᠀こたᤀえを　ᜀ教᠀おしᤀえてくれる　アプリ！？
+そんなものが　ホントに　あるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176634125</Id>
+          <Value>なんていう　アプリだっけ？
+「ナントカモン」って
+ᜀ言᠀いᤀってたな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193935633</Id>
+          <Value>「ナントカモン」…？
+もしかして　これって
+アプモンが　ᜀ原因᠀げんいんᤀなのか…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1211892500</Id>
+          <Value>だったら　ＡＲフィールドで　ᜀ調᠀しらᤀべれば
+その　アプリを　ᜀ持᠀もᤀっているのが
+ᜀ誰᠀だれᤀなのか　わかるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1229062930</Id>
+          <Value>オレたちの　ᜀ知᠀しᤀりあいが　ᜀ持᠀もᤀってる
+アプリが　ᜀ次᠀つぎᤀの　テストの
+ᜀ答᠀こたᤀえを　ᜀ教᠀おしᤀえてくれるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243742989</Id>
+          <Value>なんていう　アプリだっけ？
+「ナントカモン」って
+ᜀ言᠀いᤀってたな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261044497</Id>
+          <Value>「ナントカモン」…？
+もしかして　これって
+アプモンが　ᜀ原因᠀げんいんᤀなのか…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278870291</Id>
+          <Value>ＡＲフィールドから　ᜀ調᠀しらᤀべてみよう！
+その　アプリを　ᜀ持᠀もᤀっているのが
+ᜀ誰᠀だれᤀなのか　わかるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294861068</Id>
+          <Value>なんでも　ᜀ答᠀こたᤀえを
+ᜀ教᠀おしᤀえてくれる　アプリ
+ᜀ使᠀つかᤀえなくなったとか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1312555793</Id>
+          <Value>おいおい　ᜀ冗談᠀じょうだんᤀじゃないぜ
+ᜀ次᠀つぎᤀの　テストの　ᜀ答᠀こたᤀえ
+わからなくっちゃ　０ᜀ点᠀てんᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329201942</Id>
+          <Value>なるほどねー
+このᜀ勉強᠀べんきょうᤀを　ᜀ攻略᠀こうりゃくᤀするには
+こんな　ᜀ方法᠀ほうほうᤀが　あったのかー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345323541</Id>
+          <Value>ᜀ強敵᠀きょうてきᤀを　ᜀ倒᠀たおᤀすみたいで
+ᜀ勉強᠀べんきょうᤀが　おもしろくなってきたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360790029</Id>
+          <Value>テストで　いいᜀ成績᠀せいせきᤀ
+とってりゃ　いいんだろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377436172</Id>
+          <Value>そうすりゃ　かーちゃんに
+ホメられる　ってもんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394082318</Id>
+          <Value>オレたちゃ
+あのアプリが　ᜀ頼᠀たよᤀりなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412301332</Id>
+          <Value>あのアプリが　ᜀ無᠀なᤀい　ᜀ生活᠀せいかつᤀなんて
+もはや　ᜀ考᠀かんがᤀえられないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428947474</Id>
+          <Value>ᜀ勉強᠀べんきょうᤀも　ᜀ考᠀かんがᤀえᜀ方᠀かたᤀで
+こんなに　おもしろかったんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445987089</Id>
+          <Value>ちゃんと　ᜀ勉強᠀べんきょうᤀしてれば
+かーちゃんに
+ᜀ心配᠀しんぱいᤀ　かけなくて　すむぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1461453324</Id>
+          <Value>ᜀ塾᠀じゅくᤀの　テストなんか
+ᜀ怖᠀こわᤀくないぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478886156</Id>
+          <Value>なにしろ　オレには
+ᜀ強᠀つよᤀ～い　ᜀ味方᠀みかたᤀが
+ついているからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495532302</Id>
+          <Value>は？　カンニングの　アプリ？
+なんのこと？
+オレは　ᜀ知᠀しᤀらないなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1512309520</Id>
+          <Value>あれ…　あれ？
+アプリが　ᜀ使᠀つかᤀえなくなってる…
+そんなはずは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528168975</Id>
+          <Value>な　なんだよ
+なんでもない　ひとりごとだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546125846</Id>
+          <Value>アプリの　ことを
+ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀしに　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1563165205</Id>
+          <Value>ᜀ考᠀かんがᤀえて　ᜀ答᠀こたᤀえを　ᜀ見᠀みᤀつけるのって
+やってみたら　おもしろいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580204816</Id>
+          <Value>そうだ！
+ᜀ過去᠀かこᤀの　テストᜀ問題᠀もんだいᤀも
+やりᜀ直᠀なおᤀして　ᜀ見᠀みᤀようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1597244180</Id>
+          <Value>このスマホ　ᜀ様子᠀ようすᤀが　おかしいけど…
+もしかして　ここに
+カンニングの　アプリが　あるのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612186128</Id>
+          <Value>このスマホ…
+セーブモンが　まだ　いるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630143244</Id>
+          <Value>テストの　ᜀ答᠀こたᤀえを
+みんなに　ᜀ見᠀みᤀせるのを
+やめて　もらわなくちゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646527245</Id>
+          <Value>ᜀ一度᠀いちどᤀ　おぼえたことは
+わすれないセブ！
+セーブモンでセブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1665139480</Id>
+          <Value>おまえだな？
+ᜀ学習塾᠀　がくしゅうじゅくᤀにいる　ᜀ生徒᠀せいとᤀたちに
+テストの　ᜀ答᠀こたᤀえを　ᜀ教᠀おしᤀえてるのは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680212750</Id>
+          <Value>おまえ　ドロボウでセブね？
+セーブモンの　コレクションは
+わたさないセブ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1697776154</Id>
+          <Value>ᜀ学習塾᠀　がくしゅうじゅくᤀの　みんなが　ᜀ困᠀こまᤀってる…
+セーブモンを　ᜀ止᠀とᤀめないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1714291473</Id>
+          <Value>ドロボウめ　また　ᜀ来᠀きᤀたでセブね？
+セーブモンの　コレクションは
+わたさないセブ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1729757711</Id>
+          <Value>どうして　みんなに
+カンニングなんか　させたんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747583758</Id>
+          <Value>カンニング？　ちがうセブ！
+セーブモンは　コレクションを
+ᜀ見᠀みᤀせただけセブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1762132231</Id>
+          <Value>コレクション？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1781793556</Id>
+          <Value>セーブモンは　なんでも
+データを　ᜀ集᠀あつᤀめて　ᜀ記録᠀きろくᤀするのが
+ᜀ大好᠀だいすᤀきセブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1799226133</Id>
+          <Value>ᜀ塾᠀じゅくᤀで　たくわえた　テストの　データは
+セーブモンの　ᜀ集᠀あつᤀめた
+ᜀ大切᠀たいせつᤀな　コレクションでセブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1815610129</Id>
+          <Value>ᜀ集᠀あつᤀめた　コレクションは
+だれかに　ᜀ見᠀みᤀてもらいたい！
+それが　コレクターᜀ魂᠀だましいᤀセブ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1833173786</Id>
+          <Value>でも　そのせいで
+みんな　ちゃんと　ᜀ実力᠀じつりょくᤀが　つかなくて
+ᜀ受験᠀じゅけんᤀに　ᜀ失敗᠀しっぱいᤀするかも　しれないんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1847984911</Id>
+          <Value>そうなのでセブか？
+みんな　よろこんで　くれてると
+ᜀ思᠀おもᤀってたセブ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1865024269</Id>
+          <Value>もう　テストの　ᜀ答᠀こたᤀえを
+みんなに　ᜀ教᠀おしᤀえるの
+やめてくれるよね…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1880490504</Id>
+          <Value>もう　２ᜀ度᠀どᤀと
+ᜀ見᠀みᤀせないセブ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1898709525</Id>
+          <Value>…わかって　くれたみたいだ
+ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀに　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1916404497</Id>
+          <Value>みんな　よろこんでくれてるから
+セイカイだと　ᜀ思᠀おもᤀっていたセブ…
+もう　２ᜀ度᠀どᤀと　ᜀ見᠀みᤀせないセブ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1931477525</Id>
+          <Value>コレクションは
+ᜀ大事᠀だいじᤀに　しまっておくことに　するセブ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1949172243</Id>
+          <Value>よーし！　ᜀ塾᠀じゅくᤀの　ᜀ生徒᠀せいとᤀたちに
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1965949458</Id>
+          <Value>まずは　ᜀ塾᠀じゅくᤀの　ᜀ生徒᠀せいとᤀたちに
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982857748</Id>
+          <Value>アプモンが　ᜀ関係᠀かんけいᤀしてるみたいね…
+ARフィールドから　ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2000683796</Id>
+          <Value>たしかに　ワタシも　ᜀ勉強᠀べんきょうᤀって
+ゲームでᜀ遊᠀あそᤀぶより　おもしろくないって
+ᜀ思᠀おもᤀうときも　あるんだけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2018378525</Id>
+          <Value>むずかしいᜀ問題᠀もんだいᤀの　ᜀ攻略法᠀こうりゃくほうᤀを　みつけて
+ᜀ正解᠀せいかいᤀだったときには
+やってᜀ良᠀よᤀかったなって　ᜀ思᠀おもᤀうのよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_070_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2032927252</Id>
+          <Value>ᜀ答᠀こたᤀえを　ᜀ教᠀おしᤀえてくれる　アプリ！？
+そんなものが　ホントに　あるのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_072_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2049573649</Id>
+          <Value>「ナントカモン」…？
+もしかして　これって
+アプモンが　ᜀ原因᠀げんいんᤀかしら…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_073_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2067530516</Id>
+          <Value>だったら　ＡＲフィールドで　ᜀ調᠀しらᤀべれば
+その　アプリを　ᜀ持᠀もᤀっているのが
+ᜀ誰᠀だれᤀなのか　わかるかもね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2083128081</Id>
+          <Value>「ナントカモン」…？
+もしかして　これって
+アプモンが　ᜀ原因᠀げんいんᤀかしら…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_077_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2101084948</Id>
+          <Value>ＡＲフィールドから　ᜀ調᠀しらᤀべてみましょ！
+その　アプリを　ᜀ持᠀もᤀっているのが
+ᜀ誰᠀だれᤀなのか　わかるかもね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116682264</Id>
+          <Value>アプリの　ことを
+ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀしに　ᜀ行᠀いᤀきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2132279824</Id>
+          <Value>このスマホ…
+セーブモンが　まだ　いるはずよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_100_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2151678744</Id>
+          <Value>アナタね？
+ᜀ学習塾᠀　がくしゅうじゅくᤀにいる　ᜀ生徒᠀せいとᤀたちに
+テストの　ᜀ答᠀こたᤀえを　ᜀ教᠀おしᤀえてるのは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_102_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2167669275</Id>
+          <Value>ᜀ学習塾᠀　がくしゅうじゅくᤀの　みんなが　ᜀ困᠀こまᤀってるわ…
+セーブモンを　ᜀ止᠀とᤀめなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_104_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2182742543</Id>
+          <Value>どうして　みんなに
+カンニングなんか　させたのよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_51_114_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2200830487</Id>
+          <Value>…わかって　くれたみたいね
+ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀに　ᜀ行᠀いᤀきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

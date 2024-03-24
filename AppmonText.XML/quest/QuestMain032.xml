@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442063</Id>
+          <Value>ミハマᜀ団᠀だんᤀの３つのᜀ試練᠀しれんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563916</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38142741</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118348</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697173</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105251605</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138806037</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172360469</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205914901</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239469333</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273023765</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>３つの試練をクリアしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306578197</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323355413</Id>
+          <Value>リョウジに　ᜀ会᠀あᤀうには　３つのᜀ試練᠀しれんᤀを
+クリアしなきゃ　いけないみたい
+とにかく　ᜀ試練᠀しれんᤀに　ᜀ挑᠀いどᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

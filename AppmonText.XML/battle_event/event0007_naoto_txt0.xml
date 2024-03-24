@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097936</Id>
+          <Value>ᰏ…
+ここまでやるとは　
+あいかわらず　ᜀ目᠀めᤀざわりなやつだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>20972308</Id>
+          <Value>（…あの　ᜀ声᠀こえᤀのᜀ主᠀ぬしᤀは　ᜀ俺᠀おれᤀたちに
+こんなことを　させるのが　
+ᜀ目的᠀もくてきᤀだったというのか…？）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>34865675</Id>
+          <Value>ナオト…？
+いま　なにかᜀ言᠀いᤀった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>52822800</Id>
+          <Value>…フン
+ᜀ俺᠀おれᤀから　ᰏに
+ᜀ伝᠀つたᤀえることなど　ᜀ何᠀なにᤀもない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>69600014</Id>
+          <Value>ᜀ行᠀いᤀくぞ　ロガモン！
+ᰏなど
+ここで　ᜀ断᠀たᤀちᜀ切᠀きᤀってやれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_05</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541705</Id>
+          <Value>はいです　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

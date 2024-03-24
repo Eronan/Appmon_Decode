@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>15</NumberOfLabels>
+  <NumberOfStrings>15</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097683</Id>
+          <Value>なんでも　かんでも
+ロックᜀ状態᠀じょうたいᤀにしてやるスワー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19530510</Id>
+          <Value>やめろ　スワイプモン！
+ᜀ赤᠀あかᤀちゃんと　おかあさんが
+ᜀ困᠀こまᤀってるだろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34996747</Id>
+          <Value>イタズラは　やめて
+ロックを　はずすんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53740307</Id>
+          <Value>スワイプで　スマホのロックᜀ解除᠀かいじょᤀ
+もう　あきあきスワー！
+これからは　ロックしてやるスワー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517523</Id>
+          <Value>スワイプで　スマホのロックᜀ解除᠀かいじょᤀ
+もう　あきあきスワー！
+これからは　ロックしてやるスワー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85197070</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102629904</Id>
+          <Value>やっぱり　スワイプで
+ロックᜀ解除᠀かいじょᤀ　するスワー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965062</Id>
+          <Value>やったな　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135922192</Id>
+          <Value>うん　これで
+おとなりのドアも　ᜀ開᠀ひらᤀくはずだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>153485841</Id>
+          <Value>ᜀ急᠀いそᤀいで　となりの　おかあさんに
+ᜀ知᠀しᤀらせに　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>170787598</Id>
+          <Value>やめなさい　スワイプモン！
+ᜀ赤᠀あかᤀちゃんと　おかあさんが
+ᜀ困᠀こまᤀってるでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>185991691</Id>
+          <Value>イタズラは　やめて
+ロックを　はずすのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>202637582</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>219808272</Id>
+          <Value>うん　これで
+おとなりのドアも　ᜀ開᠀ひらᤀくはずよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_17_010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>237502993</Id>
+          <Value>ᜀ急᠀いそᤀいで　となりの　おかあさんに
+ᜀ知᠀しᤀらせに　ᜀ行᠀いᤀきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

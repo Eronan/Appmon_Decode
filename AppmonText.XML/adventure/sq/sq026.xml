@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>175</NumberOfLabels>
+  <NumberOfStrings>175</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753042</Id>
+          <Value>ミオは　プロテクモンたちに
+ᜀ会᠀あᤀいに　ᜀ行᠀いᤀくって　ᜀ言᠀いᤀってたな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20185875</Id>
+          <Value>プロテクモンたちは
+ＡＲフィールドに　いるはずだ！
+まずは　１ᜀ階᠀かいᤀから　ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36307474</Id>
+          <Value>ミオは　プロテクモンたちに
+ᜀ会᠀あᤀいに　ᜀ行᠀いᤀくって　ᜀ言᠀いᤀってたな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53740307</Id>
+          <Value>プロテクモンたちは
+ＡＲフィールドに　いるはずだ！
+まずは　１ᜀ階᠀かいᤀから　ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70779670</Id>
+          <Value>やあ　プロテクモン
+ᜀ今日᠀きょうᤀも　ᜀ学校᠀がっこうᤀの　セキュリティを
+ᜀ守᠀まもᤀってくれて　いるんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86377231</Id>
+          <Value>おお　ᰏか
+それが　ᜀ俺᠀おれᤀと　ピーポモンの
+ᜀ仕事᠀しごとᤀだからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103285264</Id>
+          <Value>ところで　ᜀ今日᠀きょうᤀは
+ᜀ俺᠀おれᤀに　ᜀ何᠀なにᤀか　ᜀ用᠀ようᤀでも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119538189</Id>
+          <Value>ミオって　ᜀ女᠀おんなᤀのᜀ子᠀こᤀを
+ᜀ探᠀さがᤀしてるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137364240</Id>
+          <Value>ミオのほうも　プロテクモンたちを
+ᜀ探᠀さがᤀしてるはずなんだけど
+ᜀ見᠀みᤀかけてないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152437257</Id>
+          <Value>いや　あいにくだが
+ᜀ見᠀みᤀかけてないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>169214479</Id>
+          <Value>そっか
+じゃあ　まだ　ᜀ会᠀あᤀえてないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187171604</Id>
+          <Value>うん！？
+ᰏ
+ᜀ今᠀いまᤀ　ᜀ女᠀おんなᤀのᜀ子᠀こᤀって　ᜀ言᠀いᤀったな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>206832408</Id>
+          <Value>さっき　ピーポモンの　ᜀ警報᠀けいほうᤀがあってな
+ᜀ学校᠀がっこうᤀの　ＡＲダンジョンの　どこかで
+ᜀ女᠀おんなᤀのᜀ子᠀こᤀが　ᜀ迷子᠀まいごᤀに　なっているらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221512465</Id>
+          <Value>もしかして　ᰏが
+ᜀ探᠀さがᤀしている　ᜀ女᠀おんなᤀのᜀ子᠀こᤀとは
+そのᜀ子᠀こᤀのことではないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>237109776</Id>
+          <Value>ＡＲダンジョンで
+ᜀ女᠀おんなᤀのᜀ子᠀こᤀが　ᜀ迷子᠀まいごᤀ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252707342</Id>
+          <Value>ᰏ
+それ　ミオかも　しれないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271319829</Id>
+          <Value>ねぇ　プロテクモン
+その　ᜀ迷子᠀まいごᤀがいる　ＡＲダンジョンって
+どのあたりかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>287834640</Id>
+          <Value>ピーポモンは　２ᜀ階᠀かいᤀから
+ᜀ警報᠀けいほうᤀを　ᜀ出᠀だᤀしていたな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>304874259</Id>
+          <Value>そのあたりに
+ピーポモンも　いるはずだから
+くわしくは　ヤツに　ᜀ聞᠀きᤀいてみるといい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>320602636</Id>
+          <Value>２ᜀ階᠀かいᤀだね　ありがとう
+ᜀ行᠀いᤀってみるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>338559503</Id>
+          <Value>ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀは
+２ᜀ階᠀かいᤀで　ᜀ見᠀みᤀかけたらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>355205907</Id>
+          <Value>そのあたりに
+ピーポモンが　いるはずだから
+くわしくは　ヤツに　ᜀ聞᠀きᤀいてみるといい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>371852046</Id>
+          <Value>ここ　ＡＲフィールドに
+ᜀ誰᠀だれᤀか　いるみたいだ…
+もしかして　ピーポモンかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>388891407</Id>
+          <Value>ここは　ピーポモンに　まかせて
+３ᜀ階᠀かいᤀの　ＡＲダンジョンを
+ᜀ探᠀さがᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>406192912</Id>
+          <Value>ピーポモンは　２ᜀ階᠀かいᤀの
+ＡＲフィールドに　いるはずだ…
+もうᜀ少᠀すこᤀし　ᜀ探᠀さがᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>420217350</Id>
+          <Value>おおっ
+ᰏ　じゃないか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>439091983</Id>
+          <Value>ピーポモン
+ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀを
+ᜀ探᠀さがᤀしてるんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>456786704</Id>
+          <Value>それきっと　ミオって　ᜀ子᠀こᤀだよ
+ちょうど　オレも　ᜀ探᠀さがᤀしててさ
+だから　オレも　ᜀ手伝᠀てつだᤀうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>471466762</Id>
+          <Value>そうかい
+そりゃ　ᜀ助᠀たすᤀかるぜ
+ありがとな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>490078992</Id>
+          <Value>オマエさんも　ᜀ知᠀しᤀってるだろうが
+ＡＲダンジョンには　ちょっと
+ᜀ迷᠀まよᤀいやすいモノが　あるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>507904790</Id>
+          <Value>そう　むずかしいダンジョンでは
+ねぇんだが　どうやら　ᜀ女᠀おんなᤀのᜀ子᠀こᤀが
+そのᜀ中᠀なかᤀの　どこかで　ᜀ迷᠀まよᤀっているらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>521667086</Id>
+          <Value>ᜀ場所᠀ばしょᤀは　わからないのか
+ピーポモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>541328152</Id>
+          <Value>オレの　ᜀ警報᠀けいほうᤀに　ひっかかってから
+ᜀ学校᠀がっこうᤀのᜀ外᠀そとᤀに　ᜀ出᠀でᤀてないってトコまでは
+わかってるんだが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>555877134</Id>
+          <Value>あいにく　ここらの
+どの　ＡＲダンジョンかまでは
+わかってないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>575144726</Id>
+          <Value>そのᜀ迷子᠀まいごᤀちゃんが
+また　ᜀ警報᠀けいほうᤀに　ᜀ引᠀ひᤀっかかってくれれば
+わかるんだが　ᜀ今᠀いまᤀは　ᜀ探᠀さがᤀすしかねぇな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>588120584</Id>
+          <Value>ミオったら
+しかたないなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>608174869</Id>
+          <Value>そんなワケなんで　ᜀ手伝᠀てつだᤀってくれるなら
+ᜀ手分᠀てわᤀけして　ᜀ迷子᠀まいごᤀちゃんを
+ᜀ見᠀みᤀつけだして　ほしいぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>623379217</Id>
+          <Value>うん　わかった
+オレも　このあたりの
+ＡＲダンジョンを　ᜀ調᠀しらᤀべてみるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>641073938</Id>
+          <Value>それじゃあ
+このᜀ階᠀かいᤀは　オレが　ᜀ調᠀しらᤀべるから
+ᰏは　ᜀ上᠀うえᤀのᜀ階᠀かいᤀを　たのむよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>656015887</Id>
+          <Value>３ᜀ階᠀かいᤀの　ＡＲダンジョンだね
+わかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>673710863</Id>
+          <Value>ᜀ迷子᠀まいごᤀの　おじょうちゃんは
+このあたりの
+ＡＲダンジョンに　いるようだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>691012114</Id>
+          <Value>このᜀ階᠀かいᤀは　オレが　ᜀ調᠀しらᤀべるから
+ᰏは　ᜀ上᠀うえᤀのᜀ階᠀かいᤀを　たのむよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>706347535</Id>
+          <Value>３ᜀ階᠀かいᤀの　ＡＲダンジョンだね
+わかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>725091092</Id>
+          <Value>このᜀ階᠀かいᤀの　どこかの　ＡＲダンジョンで
+ミオが　ᜀ迷子᠀まいごᤀに　なってると
+ᜀ思᠀おもᤀうんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>739770895</Id>
+          <Value>ちょっと
+このあたりを　ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>755761416</Id>
+          <Value>ᰏ　ᜀ聞᠀きᤀこえるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>772669958</Id>
+          <Value>ピーポモン！
+どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>792593173</Id>
+          <Value>ᰏの　ᜀ現在地᠀げんざいちᤀから
+まっすぐ　ᜀ行᠀いᤀったところで
+ᜀ警報᠀けいほうᤀに　ᜀ反応᠀はんのうᤀが　あったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>808190738</Id>
+          <Value>そのあたりに
+ＡＲダンジョンが　あるようだな
+そこを　ᜀ調᠀しらᤀべてみて　くれないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>823263755</Id>
+          <Value>わかったよ　ピーポモン
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>840434440</Id>
+          <Value>ＡＲダンジョン…
+もしかして
+ここに　ミオが？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>857211406</Id>
+          <Value>よし
+ᜀ中᠀なかᤀを　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>873857550</Id>
+          <Value>カヨが
+まだ　ᜀ中᠀なかᤀに　いるはずだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>891552269</Id>
+          <Value>もう１ᜀ度᠀どᤀ　ᜀ出口᠀でぐちᤀを
+ᜀ探᠀さがᤀしにいってあげよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>907936524</Id>
+          <Value>ううう…
+もう　イヤぁ！！
+ᜀ出口᠀でぐちᤀは　どこよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>923927303</Id>
+          <Value>ミオ…
+じゃない？
+ねぇ　キミ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>941621775</Id>
+          <Value>オウジᜀ様᠀さまᤀー
+アタシを　ᜀ助᠀たすᤀけにᜀ来᠀きᤀてー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>956957191</Id>
+          <Value>ねぇ
+キミってば！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>975700755</Id>
+          <Value>！？
+もしかして　ᜀ助᠀たすᤀけにᜀ来᠀きᤀてくれたのは
+オウジᜀ様᠀さまᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>991166986</Id>
+          <Value>じゃないわ！
+ᜀ何᠀なにᤀよ　アンタ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009648404</Id>
+          <Value>ＡＲダンジョンで
+ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀっていうのは
+もしかして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1027867413</Id>
+          <Value>ᜀ迷子᠀まいごᤀだなんて　ᜀ失礼᠀しつれいᤀね！
+ちょっと　ᜀ出口᠀でぐちᤀを　ᜀ見᠀みᤀつけられなくて
+ᜀ困᠀こまᤀっているだけよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041760779</Id>
+          <Value>それを　ᜀ迷子᠀まいごᤀって
+ᜀ言᠀いᤀうんだろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059848975</Id>
+          <Value>キミって　たしか　オウジと
+いっしょに　いたᜀ子᠀こᤀだよね！？
+ᜀ名前᠀なまえᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077805846</Id>
+          <Value>そうよ！　カヨよ！
+ᜀ今᠀いまᤀ　ᜀ思᠀おもᤀいっきり　ᜀ忘᠀わすᤀれてたでしょ！
+いいかげん　ᜀ覚᠀おぼᤀえなさいよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093403411</Id>
+          <Value>それと　アンタ！
+オウジᜀ様᠀さまᤀのこと
+なれなれしく　ᜀ呼᠀よᤀびすてにしないでっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109394189</Id>
+          <Value>それで　カヨは
+なんでまた　こんなところで
+ウロウロしてたんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126171407</Id>
+          <Value>ここって　そんなに　むずかしい
+ＡＲダンジョンじゃ
+ないだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143079693</Id>
+          <Value>だって　アタシ
+ᜀ方向᠀ほうこうᤀオンチなのよ！
+ᜀ悪᠀わるᤀい！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161954071</Id>
+          <Value>ᜀ悪᠀わるᤀくは　ないけど…
+とにかく　ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀってのが
+ミオじゃないのは　はっきりしたワケだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176109580</Id>
+          <Value>それじゃあ　ミオは
+どこに　ᜀ行᠀いᤀったんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192100358</Id>
+          <Value>ねぇ　アンタ
+ᰏ　だっけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210712848</Id>
+          <Value>オウジᜀ様᠀さまᤀが　ᜀ気᠀きᤀにかけている
+なまいきなᜀ子᠀こᤀね
+まぁ　いいわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1229325076</Id>
+          <Value>ᜀ出口᠀でぐちᤀまで　ᜀ案内᠀あんないᤀさせてあげる
+ᜀ早᠀はやᤀく　ここから　ᜀ出᠀でᤀたいから
+ᜀ連᠀つᤀれᜀ出᠀だᤀして　ちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244267278</Id>
+          <Value>うわー
+ᜀ迷子᠀まいごᤀなのに　ものすごい
+ᜀ上᠀うえᤀから　ᜀ目線᠀めせんᤀだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261699859</Id>
+          <Value>いいこと！？
+ᜀ出口᠀でぐちᤀを　ᜀ見᠀みᤀつけて
+アタシに　ᜀ場所᠀ばしょᤀを　ᜀ教᠀おしᤀえるのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277428238</Id>
+          <Value>ほら　ᜀ早᠀はやᤀく　いきなさいよ
+こっちでしょ　ᜀ出口᠀でぐちᤀは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293419023</Id>
+          <Value>そっちは
+ᜀ今᠀いまᤀ　はいってきたほうかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>1308885251</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>1330250519</Id>
+          <Value>アタシ　ᜀ出口᠀でぐちᤀが　ᜀ見᠀みᤀつかるまで
+ここから　ᜀ動᠀うごᤀかないわ！
+ᜀ早᠀はやᤀく　ᜀ出口᠀でぐちᤀを　ᜀ見᠀みᤀつけてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343226125</Id>
+          <Value>できるだけ　ᜀ急᠀いそᤀいでね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361314573</Id>
+          <Value>………
+ったく　しょうがないなぁ…
+ᜀ出口᠀でぐちᤀを　ᜀ探᠀さがᤀすか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377829393</Id>
+          <Value>ＡＲダンジョンの
+ᜀ最深部᠀さいしんぶᤀを　ᜀ目指᠀めざᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1397359383</Id>
+          <Value>アタシ　ᜀ出口᠀でぐちᤀが　ᜀ見᠀みᤀつかるまで
+ここから　ᜀ動᠀うごᤀかないわ！
+ᜀ早᠀はやᤀく　ᜀ出口᠀でぐちᤀを　ᜀ見᠀みᤀつけてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411646221</Id>
+          <Value>………
+ったく　しょうがないなぁ…
+ᜀ出口᠀でぐちᤀを　ᜀ探᠀さがᤀすか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1426981131</Id>
+          <Value>あった　ᜀ出口᠀でぐちᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1444807183</Id>
+          <Value>あー　よかった
+やっと　ᜀ外᠀そとᤀに　ᜀ出᠀でᤀられるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463681811</Id>
+          <Value>いくら　オウジᜀ様᠀さまᤀの　たのみでも
+どこが　ᜀ出口᠀でぐちᤀか　わからないような
+ＡＲダンジョンは　もう　コリゴリね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1477050633</Id>
+          <Value>オウジの　たのみ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1496449816</Id>
+          <Value>あ…　アンタには　ᜀ関係᠀かんけいᤀのないᜀ話᠀はなしᤀよ！
+さぁ　そこを
+どいて　ちょうだい！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511391759</Id>
+          <Value>ちぇっ
+ありがとうも　ᜀ言᠀いᤀえないのかよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528562190</Id>
+          <Value>ありがとうが　ᜀ言᠀いᤀえないのは
+いけないことだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545208336</Id>
+          <Value>まぁ　いいよ
+オレたちも　ここから　ᜀ出᠀でᤀよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564345110</Id>
+          <Value>ごᜀ苦労᠀くろうᤀさん
+ᜀ迷子᠀まいごᤀの　おじょうちゃんは
+ᜀ今᠀いまᤀさっき　ᜀ無事᠀ぶじᤀに　ᜀ帰᠀かえᤀっていったぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579811600</Id>
+          <Value>うん
+でも　あのᜀ子᠀こᤀは　オレの
+ᜀ探᠀さがᤀしてたᜀ子᠀こᤀじゃなかったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1595146765</Id>
+          <Value>なんだ
+ᜀ人違᠀ひとちがᤀいだったのか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1615332116</Id>
+          <Value>そうだ　さっき　プロテクモンのトコに
+ᜀ女᠀おんなᤀのᜀ子᠀こᤀが　ᜀ訪᠀たずᤀねてきたと
+ᜀ言᠀いᤀってたが　そのᜀ子᠀こᤀのことじゃないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1628570126</Id>
+          <Value>おお！
+ピーポモン　どういうことだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1645347337</Id>
+          <Value>ᰏたちと
+ᜀ別᠀わかᤀれたあとによ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1665925914</Id>
+          <Value>ᜀ女᠀おんなᤀのᜀ子᠀こᤀがᜀ１人᠀ひとりᤀ　ᜀ俺᠀おれᤀと　プロテクモンに
+ᜀ会᠀あᤀいにきたって　プロテクモンから
+ᜀ連絡᠀れんらくᤀが　あったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1678770697</Id>
+          <Value>あー　たぶん
+そっちが　ミオだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1697383183</Id>
+          <Value>では　そのミオってᜀ子᠀こᤀは
+ᜀ迷子᠀まいごᤀじゃ　なかったんだな
+それは　よかった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1713767180</Id>
+          <Value>うん！　それじゃあ　オレ
+プロテクモンの　ところに
+ᜀ行᠀いᤀってくるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1732379409</Id>
+          <Value>ᰏの　ᜀ探᠀さがᤀしてる　ᜀ女᠀おんなᤀのᜀ子᠀こᤀは
+プロテクモンのトコに　いるらしいな
+そっちに　ᜀ行᠀いᤀってみると　いいぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747714578</Id>
+          <Value>ᜀ迷子᠀まいごᤀが　いるって　ᜀ聞᠀きᤀいたのは
+３ᜀ階᠀かいᤀの　ＡＲダンジョンだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1765671701</Id>
+          <Value>ミオが　プロテクモンの　ところに
+いるって　ᜀ話᠀はなしᤀだったな…
+ＡＲフィールドで　ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779171848</Id>
+          <Value>ミオ
+ここに　いたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1797391122</Id>
+          <Value>あっ！　ᰏ！！
+ミオね
+プロテクモンちゃんと　ᜀ会᠀あᤀえたのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1815347983</Id>
+          <Value>ᜀ実᠀じつᤀは　ᰏが　ᜀ行᠀いᤀって
+ᜀ少᠀すこᤀししてから
+このᜀ子᠀こᤀが　ここに　ᜀ来᠀きᤀたのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1832649499</Id>
+          <Value>そうだったのか！
+でも　とにかく　よかったぞ
+ミオ　ᜀ迷子᠀まいごᤀかとᜀ思᠀おもᤀって　ᜀ心配᠀しんぱいᤀしたからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1847853588</Id>
+          <Value>ᜀ迷子᠀まいごᤀ？
+ミオ　ᜀ別᠀べつᤀに　ᜀ迷᠀まよᤀったりしてないよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864631056</Id>
+          <Value>ああ
+ᜀ迷子᠀まいごᤀに　ならなかったのなら
+ᜀ別᠀べつᤀに　いいんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1881277200</Id>
+          <Value>オレは
+サイバーアリーナに　ᜀ戻᠀もどᤀるけど
+ミオは　どうする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1898578705</Id>
+          <Value>ミオは
+もうᜀ少᠀すこᤀし　プロテクモンちゃんと
+おᜀ話᠀はなしᤀしてからにする！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1913520649</Id>
+          <Value>そうか
+それじゃあ　またな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1931608847</Id>
+          <Value>そういえば　ᰏ
+『ハイエンドＧＰ　Ｃランク』は
+もう　クリアしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1947206156</Id>
+          <Value>あっ
+そういえば　まだだった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1965687570</Id>
+          <Value>おにいちゃん
+ずっと　ᜀ先᠀さきᤀに　ᜀ行᠀いᤀっちゃうわよ！
+がんばってね　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982595858</Id>
+          <Value>よし
+サイバーアリーナに　ᜀ戻᠀もどᤀって
+ハイエンドＧＰに　ᜀ参加᠀さんかᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1999242002</Id>
+          <Value>そういえば　ᰏ
+ハイエンドＧＰは
+ᜀ順調᠀じゅんちょうᤀに　ᜀ進᠀すすᤀんでるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>2015888141</Id>
+          <Value>それが　Ｃランクマスターが
+ᜀ見᠀みᤀつかってなくて
+バトルが　できないんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>2030698762</Id>
+          <Value>そうなの？　ふーん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>2050229011</Id>
+          <Value>もしかしたら
+もう　ᜀ見᠀みᤀつかったかも　しれないわ！
+エムシーモンちゃんに　ᜀ聞᠀きᤀいてみたら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>2067006225</Id>
+          <Value>うん　そうしようかな…
+サイバーアリーナに　ᜀ戻᠀もどᤀって
+エムシーモンと　ᜀ話᠀はなᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>2084307731</Id>
+          <Value>ミオは　もうᜀ少᠀すこᤀししてから　ᜀ行᠀いᤀくわ
+ᰏは　ᜀ先᠀さきᤀに
+サイバーアリーナに　ᜀ戻᠀もどᤀってていいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>2099512081</Id>
+          <Value>それから？
+プロテクモンちゃん
+もっと　いろんな　おᜀ話᠀はなしᤀして！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116813584</Id>
+          <Value>アプモンと　ᜀ話᠀はなᤀすのに
+すっかり　ᜀ夢中᠀むちゅうᤀみたいだ…
+そっとしておこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>2133066257</Id>
+          <Value>ミオは　ᜀ本当᠀ほんとうᤀに
+アプモンのことが　ᜀ好᠀すᤀきなようだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2149843727</Id>
+          <Value>いや～
+ᜀ俺᠀おれᤀも　アプモンとして
+まったく　うれしいかぎりだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_001_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2167144980</Id>
+          <Value>ミオは　プロテクモンたちに
+ᜀ会᠀あᤀいに　ᜀ行᠀いᤀくって　ᜀ言᠀いᤀってたわよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2184446740</Id>
+          <Value>プロテクモンたちは
+ＡＲフィールドに　いるはずね！
+まずは　１ᜀ階᠀かいᤀから　ᜀ探᠀さがᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2200699412</Id>
+          <Value>ミオは　プロテクモンたちに
+ᜀ会᠀あᤀいに　ᜀ行᠀いᤀくって　ᜀ言᠀いᤀってたわよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2218001172</Id>
+          <Value>プロテクモンたちは
+ＡＲフィールドに　いるはずね！
+まずは　１ᜀ階᠀かいᤀから　ᜀ探᠀さがᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_005_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2234778390</Id>
+          <Value>プロテクモン
+ᜀ今日᠀きょうᤀも　ᜀ学校᠀がっこうᤀの　セキュリティを
+ᜀ守᠀まもᤀってくれて　いるのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2250244621</Id>
+          <Value>ミオって　ᜀ女᠀おんなᤀのᜀ子᠀こᤀを
+ᜀ探᠀さがᤀしてるのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2267939600</Id>
+          <Value>ミオのほうも　プロテクモンたちを
+ᜀ探᠀さがᤀしてるはずなんだけど
+ᜀ見᠀みᤀかけなかった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2283405835</Id>
+          <Value>２ᜀ階᠀かいᤀね　ありがとう
+ᜀ行᠀いᤀってみるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2301231886</Id>
+          <Value>ここ　ＡＲフィールドに
+ᜀ誰᠀だれᤀか　いるみたいね…
+もしかして　ピーポモンかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2318402319</Id>
+          <Value>ここは　ピーポモンに　まかせて
+３ᜀ階᠀かいᤀの　ＡＲダンジョンを
+ᜀ探᠀さがᤀしにいきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2335703825</Id>
+          <Value>ピーポモンは　２ᜀ階᠀かいᤀの
+ＡＲフィールドに　いるはずね…
+もうᜀ少᠀すこᤀし　ᜀ探᠀さがᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2351825679</Id>
+          <Value>ピーポモン
+ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀを
+ᜀ探᠀さがᤀしてるんでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_028_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2369520402</Id>
+          <Value>それきっと　ミオってᜀ子᠀こᤀなのよ
+ちょうど　ワタシも　ᜀ探᠀さがᤀしているの
+だから　ワタシも　ᜀ手伝᠀てつだᤀうわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2385117970</Id>
+          <Value>うん　わかったわ
+ワタシも　このあたりの
+ＡＲダンジョンを　ᜀ調᠀しらᤀべてみるわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2400715278</Id>
+          <Value>３ᜀ階᠀かいᤀの　ＡＲダンジョンね
+わかったわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2417492494</Id>
+          <Value>３ᜀ階᠀かいᤀの　ＡＲダンジョンね
+わかったわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2434269712</Id>
+          <Value>ちょっと
+このあたりを　ᜀ探᠀さがᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_099_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2452357650</Id>
+          <Value>ᜀ迷子᠀まいごᤀが　いるって　ᜀ聞᠀きᤀいたのは
+３ᜀ階᠀かいᤀの　ＡＲダンジョンだわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2467430923</Id>
+          <Value>わかったわ　ピーポモン
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_052_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2484601359</Id>
+          <Value>よし
+ᜀ中᠀なかᤀを　ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_053_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2501247503</Id>
+          <Value>カヨが
+まだ　ᜀ中᠀なかᤀに　いるはずだね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2517762824</Id>
+          <Value>ミオ…
+じゃない？
+ねぇ　アナタ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2534146568</Id>
+          <Value>ねぇ
+アナタってば！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_063_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2551972363</Id>
+          <Value>それを　ᜀ迷子᠀まいごᤀって
+ᜀ言᠀いᤀうんじゃないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_064_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2569798414</Id>
+          <Value>アナタって　たしか　オウジと
+いっしょに　いたᜀ子᠀こᤀよね！？
+ᜀ名前᠀なまえᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2585789197</Id>
+          <Value>それで　カヨは
+なんでまた　こんなところで
+ウロウロしてるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_068_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2603221775</Id>
+          <Value>ここって　そんなに　むずかしい
+ＡＲダンジョンじゃ
+ないと　ᜀ思᠀おもᤀうけど…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_070_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2621571863</Id>
+          <Value>ᜀ悪᠀わるᤀくは　ないけど…
+とにかく　ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀってのが
+ミオじゃないのは　はっきりしたワケね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_071_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2635727373</Id>
+          <Value>それじゃあ　ミオは
+どこに　ᜀ行᠀いᤀったのかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_078_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2653291278</Id>
+          <Value>………
+ったく　しょうがないわね…
+ᜀ出口᠀でぐちᤀを　ᜀ探᠀さがᤀしましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_128_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2670723603</Id>
+          <Value>そうと　ᜀ決᠀きᤀまったら　ＡＲダンジョンの
+ᜀ最深部᠀さいしんぶᤀを　ᜀ目指᠀めざᤀしましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_078_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2686845710</Id>
+          <Value>………
+ったく　しょうがないわね…
+ᜀ出口᠀でぐちᤀを　ᜀ探᠀さがᤀしましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2702180620</Id>
+          <Value>あった　ᜀ出口᠀でぐちᤀだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_085_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2719351310</Id>
+          <Value>ちぇっ
+ありがとうも　ᜀ言᠀いᤀえないのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_087_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2736652818</Id>
+          <Value>まぁ　いいわよ
+ワタシたちも　ここから　ᜀ出᠀でᤀましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2754216720</Id>
+          <Value>うん
+でも　あのᜀ子᠀こᤀは　ワタシの
+ᜀ探᠀さがᤀしてたᜀ子᠀こᤀじゃなかったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_095_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2769289736</Id>
+          <Value>あー　たぶん
+そっちが　ミオね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2787509005</Id>
+          <Value>うん！　それじゃあ　ワタシ
+プロテクモンの　ところに
+ᜀ行᠀いᤀってくるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_100_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2805990166</Id>
+          <Value>ミオが　プロテクモンの　ところに
+いるって　ᜀ話᠀はなしᤀだったわね…
+ARフィールドで　ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_101_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2819359240</Id>
+          <Value>ミオ
+ここに　いたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_106_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2837709584</Id>
+          <Value>うん
+ᜀ迷子᠀まいごᤀに　ならなかったのなら
+ᜀ別᠀べつᤀに　いいのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_107_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2854355728</Id>
+          <Value>ワタシは
+サイバーアリーナに　ᜀ戻᠀もどᤀるけど
+ミオは　どうする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_109_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2869690889</Id>
+          <Value>そう
+それじゃあ　またね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_115_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2888172301</Id>
+          <Value>それが　Ｃランクマスターが
+ᜀ見᠀みᤀつかってなくて
+バトルが　できないのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_118_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2905867026</Id>
+          <Value>うん　そうしてみるわ…
+サイバーアリーナに　ᜀ戻᠀もどᤀって
+エムシーモンと　ᜀ話᠀はなᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_26_121_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2922251024</Id>
+          <Value>アプモンと　ᜀ話᠀はなᤀすのに
+すっかり　ᜀ夢中᠀むちゅうᤀみたいね…
+そっとしておきましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>15</NumberOfLabels>
+  <NumberOfStrings>15</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>RESULT_COMMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179918</Id>
+          <Value>エラーがᜀ発生᠀はっせいᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_DEBUG</Key>
+      <Values>
+        <BtxtString>
+          <Id>19530263</Id>
+          <Value>プログラミングエラーです
+ソースコードのᜀ修正᠀しゅうせいᤀがᜀ必要᠀ひつようᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_NETWORK_CONNECTION_IS_LOST</Key>
+      <Values>
+        <BtxtString>
+          <Id>38667032</Id>
+          <Value>ᜀ通信᠀つうしんᤀにᜀ失敗᠀しっぱいᤀしました
+ᜀ通信環境᠀つうしんかんきょうᤀをごᜀ確認᠀かくにんᤀのうえ
+もうᜀ一度᠀いちどᤀおᜀ試᠀ためᤀしください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_SESSION_CONNECTION_IS_LOST</Key>
+      <Values>
+        <BtxtString>
+          <Id>53346834</Id>
+          <Value>ᜀ通信᠀つうしんᤀがᜀ切断᠀せつだんᤀされました
+ᜀ前᠀まえᤀのᜀ画面᠀がめんᤀにもどります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_CANCELLED</Key>
+      <Values>
+        <BtxtString>
+          <Id>69206543</Id>
+          <Value>キャンセルされました
+ᜀ前᠀まえᤀのᜀ画面᠀がめんᤀにもどります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_TIME_OUT</Key>
+      <Values>
+        <BtxtString>
+          <Id>85983759</Id>
+          <Value>タイムアウトしました
+ᜀ前᠀まえᤀのᜀ画面᠀がめんᤀにもどります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_SESSION_IS_NOT_FOUND</Key>
+      <Values>
+        <BtxtString>
+          <Id>103154190</Id>
+          <Value>ᜀ選択᠀せんたくᤀされたᜀ部屋᠀へやᤀに
+ᜀ接続᠀せつぞくᤀできませんでした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_MATCHMAKE_SESSION_IS_FULL</Key>
+      <Values>
+        <BtxtString>
+          <Id>119800334</Id>
+          <Value>ᜀ選択᠀せんたくᤀされたᜀ部屋᠀へやᤀは
+すでにᜀ満員᠀まんいんᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_SESSION_IS_CLOSED</Key>
+      <Values>
+        <BtxtString>
+          <Id>137626382</Id>
+          <Value>ᜀ選択᠀せんたくᤀされたᜀ部屋᠀へやᤀは
+すでにᜀ参加᠀さんかᤀが
+ᜀ締᠀しᤀめᜀ切᠀きᤀられています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_DIFFERENT_VERSION</Key>
+      <Values>
+        <BtxtString>
+          <Id>152437260</Id>
+          <Value>バージョンが
+ᜀ一致᠀いっちᤀしませんでした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CUSTOM_ERROR_NOT_FULFILL_ENTRY</Key>
+      <Values>
+        <BtxtString>
+          <Id>171049494</Id>
+          <Value>ᜀ対戦相手᠀たいせんあいてᤀがᜀ退室᠀たいしつᤀしました
+ᜀ前᠀まえᤀのᜀ画面᠀がめんᤀにもどります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CUSTOM_ERROR_OUT_OF_MEMORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>188744468</Id>
+          <Value>エラーがᜀ発生᠀はっせいᤀしました
+ᜀ通信環境᠀つうしんかんきょうᤀのいいところで
+もうᜀ一度᠀いちどᤀおᜀ試᠀ためᤀしください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CUSTOM_ERROR_DETECT_IMPROPER</Key>
+      <Values>
+        <BtxtString>
+          <Id>204603923</Id>
+          <Value>ᜀ不正᠀ふせいᤀなデータをᜀ検知᠀けんちᤀしたため
+ᜀ対戦᠀たいせんᤀをᜀ中断᠀ちゅうだんᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BATTLE_ERROR_LOST_CLIENT</Key>
+      <Values>
+        <BtxtString>
+          <Id>221512214</Id>
+          <Value>ᜀ対戦相手᠀たいせんあいてᤀがᜀ退室᠀たいしつᤀしました
+ᜀ対戦᠀たいせんᤀをᜀ中断᠀ちゅうだんᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BATTLE_NOT_MATCH_PARAM</Key>
+      <Values>
+        <BtxtString>
+          <Id>239338258</Id>
+          <Value>ᜀ対戦᠀たいせんᤀのᜀ結果᠀けっかᤀが
+ᜀ相手᠀あいてᤀとᜀ一致᠀いっちᤀしませんでした
+ᜀ対戦᠀たいせんᤀをᜀ中断᠀ちゅうだんᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

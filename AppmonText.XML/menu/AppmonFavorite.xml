@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>14</NumberOfLabels>
+  <NumberOfStrings>14</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>FAVORITE_MAIN_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786697</Id>
+          <Value>バディᜀ設定᠀せっていᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_MAIN_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>19661583</Id>
+          <Value>ᜀ選択᠀せんたくᤀされているデッキで
+バディとなる
+アプモンをᜀ設定᠀せっていᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_SUB_01_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>34734348</Id>
+          <Value>おᜀ気᠀きᤀにいりᜀ設定᠀せっていᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_SUB_01_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>53478159</Id>
+          <Value>ᜀ選択᠀せんたくᤀされているデッキで
+おᜀ気᠀きᤀにいりの　アプモンを
+ᜀ設定᠀せっていᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_SUB_02_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>68288780</Id>
+          <Value>おᜀ気᠀きᤀにいりᜁ設定᠀せっていᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_SUB_02_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>87032591</Id>
+          <Value>ᜀ選択᠀せんたくᤀされているデッキで
+おᜀ気᠀きᤀにいりの　アプモンを
+ᜁ設定᠀せっていᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_SUB_03_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>101843212</Id>
+          <Value>おᜀ気᠀きᤀにいりᜂ設定᠀せっていᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_SUB_03_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>120587023</Id>
+          <Value>ᜀ選択᠀せんたくᤀされているデッキで
+おᜀ気᠀きᤀにいりの　アプモンを
+ᜂ設定᠀せっていᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_SUB_04_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>135397644</Id>
+          <Value>おᜀ気᠀きᤀにいりᜃ設定᠀せっていᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAVORITE_SUB_04_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>154141455</Id>
+          <Value>ᜀ選択᠀せんたくᤀされているデッキで
+おᜀ気᠀きᤀにいりの　アプモンを
+ᜃ設定᠀せっていᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DECISION_CONFIRMATION</Key>
+      <Values>
+        <BtxtString>
+          <Id>169214473</Id>
+          <Value>このᜀ内容᠀ないようᤀで
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CANCEL_CONFIRMATION</Key>
+      <Values>
+        <BtxtString>
+          <Id>187564816</Id>
+          <Value>ᜀ変更᠀へんこうᤀした　ᜀ内容᠀ないようᤀは
+ᜀ保存᠀ほぞんᤀされませんが
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RETURN_CONFIRMATION</Key>
+      <Values>
+        <BtxtString>
+          <Id>203293201</Id>
+          <Value>デッキᜀ編集᠀へんしゅうᤀに　もどります
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONF_SET_MAIN</Key>
+      <Values>
+        <BtxtString>
+          <Id>220463635</Id>
+          <Value>このデッキを　バトルで使う
+メインデッキに　ᜀ設定᠀せっていᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

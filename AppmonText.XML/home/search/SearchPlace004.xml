@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841234</Id>
+          <Value>ここは　おなじみ　サイバーアリーナ！
+エムシーモンに　ᜀ話᠀はなᤀしかければ
+ᜀ大会᠀たいかいᤀに　ᜀ参加᠀さんかᤀできるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39715618</Id>
+          <Value>ふむふむ…　ᜀ大会᠀たいかいᤀは　ᜀ三連勝᠀さんれんしょうᤀで　ᜀ優勝᠀ゆうしょうᤀ！
+バッテリーは　バトルごとに　ᜀ回復᠀かいふくᤀする
+まさに　ᜀ実力勝負᠀じつりょくしょうぶᤀなんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>54526745</Id>
+          <Value>ドライヴァーは　ここでᜀ実力᠀じつりょくᤀをᜀ競᠀きそᤀってる
+ᰏは　どうだ？
+まだまだ　ᜀ上᠀うえᤀを　ᜀ目指᠀めざᤀすだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

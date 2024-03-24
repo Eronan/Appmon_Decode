@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>40</NumberOfLabels>
+  <NumberOfStrings>40</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_022_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>524551</Id>
+          <Value>たいへんです…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_059_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>17170694</Id>
+          <Value>おかしいなー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_061_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078984</Id>
+          <Value>ああ　ちょっと～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>54264597</Id>
+          <Value>スリープᜀ状態᠀じょうたいᤀになった　アプモンが
+いつ　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀますかは
+そのときᜀ次第᠀しだいᤀスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>71566100</Id>
+          <Value>ただ　あるᜀ程度᠀ていどᤀ　ᜀ時間᠀じかんᤀがたてば
+ᜀ自然᠀しぜんᤀに　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀますスワ
+ᜀ待᠀まᤀつのも　ありスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>89391896</Id>
+          <Value>ようこそ　ここは　ミハマᜀ港᠀こうᤀデス
+ᜀ北᠀きたᤀは　ᜀ大桟橋᠀おおさんばしᤀの　ブリッジᜀ地区᠀ちくᤀ
+ᜀ南᠀みなみᤀは　ᜀ倉庫街᠀そうこがいᤀと　なっていマス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>104858390</Id>
+          <Value>ᜀ観光᠀かんこうᤀスポットとして　ᜀ多᠀おおᤀくの
+おᜀ客様᠀きゃくさまᤀに　おこしいただいております
+どうぞ　ごゆっくりデス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>121635351</Id>
+          <Value>ᜀ橋᠀はしᤀを　ᜀ渡᠀わたᤀって　ᜀ南᠀みなみᤀに　ᜀ向᠀むᤀかうと
+レンガᜀ作᠀づくᤀりの　ᜀ倉庫街᠀そうこがいᤀが　あるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>139723544</Id>
+          <Value>ᜀ昔᠀むかしᤀは　ᜀ普通᠀ふつうᤀの　ᜀ倉庫᠀そうこᤀだったけどさ
+ᜀ今᠀いまᤀは　いろんなおᜀ店᠀みせᤀが　オープンしてて
+ᜀ見᠀みᤀているだけで　ᜀ楽᠀たのᤀしいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_017_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>154272276</Id>
+          <Value>ニュースᜀ系᠀けいᤀの　アプリを　ᜀ開᠀ひらᤀいたら
+ヘンな　ᜀ情報᠀じょうほうᤀが　のってたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_018_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>171180824</Id>
+          <Value>「ミハマᜀ港᠀こうᤀに　カオスゲートᜀ出現᠀しゅつげんᤀ！」
+だってさ
+なんだろうな　カオスゲートって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_018_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>187695887</Id>
+          <Value>そんなᜀ情報᠀じょうほうᤀが…！
+これも　カオスＡＲフィールドが
+ᜀ広᠀ひろᤀがっているせいか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_018_HERO_CAR_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>204473103</Id>
+          <Value>そんなᜀ情報᠀じょうほうᤀが…！
+これも　カオスＡＲフィールドが
+ᜀ広᠀ひろᤀがっているせいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>220594709</Id>
+          <Value>このᜀ町᠀まちᤀには
+ミハマᜀ団᠀だんᤀって　ᜀ連中᠀れんちゅうᤀがいるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731478</Id>
+          <Value>ᜀ町᠀まちᤀのパトロールも　してくれるからさ
+ᜀ悪᠀わるᤀいᜀ連中᠀れんちゅうᤀじゃないんだけど
+ᜀ時々᠀ときどきᤀ　いきすぎることが　あるんだよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>255591189</Id>
+          <Value>ここは　ᜀ観光地᠀かんこうちᤀだってのに
+これだ！　ってᜀ言᠀いᤀう
+ᜀ名物料理᠀めいぶつりょうりᤀが　ないんだよねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>273023768</Id>
+          <Value>だもんで　ᜀ店主᠀てんしゅᤀが　ᜀ勝手᠀かってᤀに
+ᜀ名物᠀めいぶつᤀだって　ᜀ宣伝᠀せんでんᤀしているᜀ店᠀みせᤀが
+いくつも　あるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>287572502</Id>
+          <Value>このᜀ先᠀さきᤀには
+ᜀ水質研究所᠀　すいしつけんきゅうじょᤀが　あるの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>306578199</Id>
+          <Value>ᜀ海᠀うみᤀのᜀ水᠀みずᤀで　ᜀ飲᠀のᤀみᜀ水᠀みずᤀを　ᜀ作᠀つくᤀったり
+クリーンな　エネルギーを
+ᜀ生᠀うᤀみだしたり　しているのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>320602637</Id>
+          <Value>ミハマᜀ団᠀だんᤀって　ヤツらを
+ᜀ知᠀しᤀってるかい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>338821905</Id>
+          <Value>あいつら　まわりに
+ᜀ誰᠀だれᤀも　いないのに　ᜀ１人᠀ひとりᤀで
+おしゃべり　してたりするんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>355599120</Id>
+          <Value>オレたちは　ミハマᜀ団᠀だんᤀ！
+オレたちは　いつでも
+このᜀ町᠀まちᤀを　ᜀ守᠀まもᤀってるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>372376335</Id>
+          <Value>ミハマᜀ団᠀だんᤀがᜀ一᠀いちᤀ　ᰏ！
+オレたちは　いつでも
+オマエを　ᜀ歓迎᠀かんげいᤀするぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>390071061</Id>
+          <Value>このᜀ町᠀まちᤀを　しきっている
+ミハマᜀ団᠀だんᤀの　リーダーってのが
+スゲー　ᜀ力᠀ちからᤀもちで　ᜀ有名᠀ゆうめいᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>406455059</Id>
+          <Value>やりすぎなところも　あるけど
+ᜀ町᠀まちᤀのᜀ平和᠀へいわᤀを　ᜀ守᠀まもᤀってくれる
+いいᜀ連中᠀れんちゅうᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>424411930</Id>
+          <Value>ᜀ水質研究所᠀　すいしつけんきゅうじょᤀの　ᜀ一件᠀いっけんᤀで
+すべてを　アプリに　たよるのも
+ᜀ考᠀かんがᤀえものだと　ᜀ痛感᠀つうかんᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>440009493</Id>
+          <Value>なので　アプリに　たよらないᜀ方法᠀ほうほうᤀを
+ᜀ調᠀しらᤀべる　アプリを
+ᜀ作᠀つくᤀらなきゃ　いけませんね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_031_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>456393490</Id>
+          <Value>た　ᜀ助᠀たすᤀけてください！
+スマホの　ᜀ画面᠀がめんᤀが
+ᜀ勝手᠀かってᤀに　フリックされるんです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_032_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>474743576</Id>
+          <Value>これは　ᜀ怪奇現象᠀かいきげんしょうᤀなんでしょうか！
+あああぁぁ…　ᜀ怪奇現象᠀かいきげんしょうᤀを
+ᜀ止᠀とᤀめるアプリを　ᜀ探᠀さがᤀさなくては！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_N_032_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>490865432</Id>
+          <Value>これって　カオスＡＲフィールドが
+ᜀ広᠀ひろᤀがりはじめてるせいかな
+ᜀ早᠀はやᤀく　カオスゲートを　ᜀ解除᠀かいじょᤀしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_MIHAMA1</Key>
+      <Values>
+        <BtxtString>
+          <Id>506987283</Id>
+          <Value>インフォメーションボードには
+ミハマᜀ港᠀こうᤀの　ᜀ観光᠀かんこうᤀスポットが
+ᜀ紹介᠀しょうかいᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_MIHAMA2</Key>
+      <Values>
+        <BtxtString>
+          <Id>525468444</Id>
+          <Value>ᜀ海᠀うみᤀが　ᜀ近᠀ちかᤀいからか
+ᜀ波᠀なみᤀの　ᜀ高᠀たかᤀさや　ᜀ満潮᠀まんちょうᤀの　ᜀ時間᠀じかんᤀなどが
+ᜀ常᠀つねᤀに　ᜀ表示᠀ひょうじᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_PLANT1</Key>
+      <Values>
+        <BtxtString>
+          <Id>539755027</Id>
+          <Value>ᜀ植᠀うᤀえこみに　インフォメーションがある
+ときどき　ᜀ広告᠀こうこくᤀもながしてる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_PLANT2</Key>
+      <Values>
+        <BtxtString>
+          <Id>558367512</Id>
+          <Value>ᜀ植᠀うᤀえこみの　ᜀ情報᠀じょうほうᤀが　かかれている…
+ᜀ植᠀うᤀえかえが　されると
+ᜀ自動᠀じどうᤀで　ᜀ更新᠀こうしんᤀされるらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK3</Key>
+      <Values>
+        <BtxtString>
+          <Id>573178641</Id>
+          <Value>みかけると
+つい　チェックしてしまうけど
+ᜀ特᠀とくᤀに　のどは　かわいてないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_GLASSES1</Key>
+      <Values>
+        <BtxtString>
+          <Id>589562384</Id>
+          <Value>きれいなᜀ海᠀うみᤀが　よくᜀ見᠀みᤀえる！
+イルカとか　いないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_LABO1</Key>
+      <Values>
+        <BtxtString>
+          <Id>609616673</Id>
+          <Value>これは　ᜀ水質研究所᠀すいしつけんきゅうじょᤀの　ᜀ配電盤᠀はいでんばんᤀかな
+ᜀ大事᠀だいじᤀな　ᜀ機械᠀きかいᤀだから　シロウトが
+あまり　さわらないほうが　いいかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_LABO_FOUNTAIN1</Key>
+      <Values>
+        <BtxtString>
+          <Id>626131736</Id>
+          <Value>こんな　ᜀ目立᠀めだᤀたないところに　ᜀ噴水᠀ふんすいᤀが…
+このᜀ水᠀みずᤀ　ᜀ飲᠀のᤀめるみたいだけど
+ここまで　ᜀ人᠀ひとᤀがᜀ来᠀くᤀること　あるのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_WATER_SUPPLY1</Key>
+      <Values>
+        <BtxtString>
+          <Id>641204763</Id>
+          <Value>モニターには　１ᜀ日᠀にちᤀあたりの
+ᜀ水᠀みずᤀの　ᜀ使用量᠀しようりょうᤀが　ᜀ表示᠀ひょうじᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_YATAI3</Key>
+      <Values>
+        <BtxtString>
+          <Id>656671250</Id>
+          <Value>ピザが　ᜀ焼᠀やᤀかれている
+ピザの　ᜀ屋台᠀やたいᤀって　めずらしい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

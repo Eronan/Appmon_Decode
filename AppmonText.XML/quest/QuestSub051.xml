@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442063</Id>
+          <Value>ᜀ次᠀つぎᤀのテストも１００ᜀ点᠀てんᤀを</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826064</Id>
+          <Value>ニコタマ川・塾の生徒に話を聞こう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929177</Id>
+          <Value>ᜀ塾᠀じゅくᤀで　カンニングの　アプリが　ᜀ問題᠀もんだいᤀに
+なっている…　まずは　ᜀ塾᠀じゅくᤀの　ᜀ生徒᠀せいとᤀに
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249422</Id>
+          <Value>ニコタマ川・塾ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>70910740</Id>
+          <Value>カンニングの　アプリは
+アプモンが　ᜀ原因᠀げんいんᤀかもしれない！
+ＡＲダンジョンがないか　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803854</Id>
+          <Value>ニコタマ川・塾ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>103416590</Id>
+          <Value>ＡＲダンジョンの　ᜀ奥᠀おくᤀには
+セーブモンが　いた！
+セーブモンを　やっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965063</Id>
+          <Value>ニコタマ川・塾</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139854618</Id>
+          <Value>セーブモンは　テストの　ᜀ答᠀こたᤀえを
+ᜀ見᠀みᤀせるのを　やめると　ᜀ約束᠀やくそくᤀしてくれた
+ᜀ塾᠀じゅくᤀの　ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519495</Id>
+          <Value>ニコタマ川・塾</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173409050</Id>
+          <Value>セーブモンは　テストの　ᜀ答᠀こたᤀえを
+ᜀ見᠀みᤀせるのを　やめると　ᜀ約束᠀やくそくᤀしてくれた
+ᜀ塾᠀じゅくᤀの　ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073927</Id>
+          <Value>ニコタマ川・塾</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206963482</Id>
+          <Value>セーブモンは　テストの　ᜀ答᠀こたᤀえを
+ᜀ見᠀みᤀせるのを　やめると　ᜀ約束᠀やくそくᤀしてくれた
+ᜀ塾᠀じゅくᤀの　ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628359</Id>
+          <Value>ニコタマ川・塾</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240517914</Id>
+          <Value>セーブモンは　テストの　ᜀ答᠀こたᤀえを
+ᜀ見᠀みᤀせるのを　やめると　ᜀ約束᠀やくそくᤀしてくれた
+ᜀ塾᠀じゅくᤀの　ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182791</Id>
+          <Value>ニコタマ川・塾</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274072346</Id>
+          <Value>セーブモンは　テストの　ᜀ答᠀こたᤀえを
+ᜀ見᠀みᤀせるのを　やめると　ᜀ約束᠀やくそくᤀしてくれた
+ᜀ塾᠀じゅくᤀの　ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737223</Id>
+          <Value>ニコタマ川・塾</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307626778</Id>
+          <Value>セーブモンは　テストの　ᜀ答᠀こたᤀえを
+ᜀ見᠀みᤀせるのを　やめると　ᜀ約束᠀やくそくᤀしてくれた
+ᜀ塾᠀じゅくᤀの　ᜀ先生᠀せんせいᤀに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324535064</Id>
+          <Value>カンニングの　アプリの　ᜀ一件᠀いっけんᤀから
+ᜀ先生᠀せんせいᤀの　ᜀ授業᠀じゅぎょうᤀが　おもしろくなり
+ᜀ生徒᠀せいとᤀの　ᜀ成績᠀せいせきᤀも　ᜀ上᠀あᤀがったみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

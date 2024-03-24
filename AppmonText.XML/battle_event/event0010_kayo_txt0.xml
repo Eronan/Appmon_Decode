@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>4064020</Id>
+          <Value>アタシは　ᜀ他᠀ほかᤀの　ランカーみたいに
+おᜀ人好᠀ひとよᤀしじゃないのよ
+ᜀ御託᠀ごたくᤀは　いいから　かかってきなさい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>22283031</Id>
+          <Value>アタシたちへの　ᜀ攻撃᠀こうげきᤀは　ᜀ当᠀あᤀたらない！
+ᜀ当᠀あᤀたっても　ダメージは　ᜀ通᠀とおᤀらない！
+さっさと　ᜀ疲᠀つかᤀれᜀ果᠀はᤀててしまえばいいわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>34996749</Id>
+          <Value>アンタに
+ᜀ興味᠀きょうみᤀは　ないけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>54002446</Id>
+          <Value>アンタが　アタシに　ᜀ負᠀まᤀけて
+ᜀ泣᠀なᤀいて　ᜀ帰᠀かえᤀるところなら
+ᜀ見᠀みᤀててあげても　いいわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

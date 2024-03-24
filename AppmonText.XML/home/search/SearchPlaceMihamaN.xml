@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21889816</Id>
+          <Value>ここは　ミハマᜀ港᠀こうᤀ　ブリッジエリア！
+ᜀ観光地᠀かんこうちᤀである　ᜀ倉庫街᠀そうこがいᤀエリアの
+ᜀ玄関᠀げんかんᤀとなる　ᜀ大橋᠀おおはしᤀだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>41419551</Id>
+          <Value>ᜀ北東᠀ほくとうᤀには　ᜀ水質研究所᠀すいしつけんきゅうじょᤀがあるぞ
+そのᜀ日᠀ひᤀの　ᜀ水᠀みずᤀのᜀ状態᠀じょうたいᤀや　ᜀ天候᠀てんこうᤀをᜀ見᠀みᤀながら
+ここᜀ一帯᠀いったいᤀの　ᜀ水᠀みずᤀを　ᜀ管理᠀かんりᤀしているんだと</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

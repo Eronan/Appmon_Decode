@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19530256</Id>
+          <Value>このᜀ場所᠀ばしょᤀは　ヒフミがᜀ丘᠀おかᤀ
+ᰏが　ᜀ住᠀すᤀんでるᜀ町᠀まちᤀだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39715613</Id>
+          <Value>ここᜀ数年᠀すうねんᤀで　ᜀ近代化᠀きんだいかᤀが　ᜀ進᠀すすᤀめられている
+ᜀ都会᠀とかいᤀにᜀ近᠀ちかᤀい　ベッドタウンで　ᜀ人口᠀じんこうᤀは…
+そういう　カタいの　いらないって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55444248</Id>
+          <Value>ᜀ北地区᠀きたちくᤀの　ᜀ南側᠀みなみがわᤀにあるのが
+ᜀ噴水公園᠀ふんすいこうえんᤀ
+ᜀ大᠀おおᤀきな　ᜀ噴水᠀ふんすいᤀが　ᜀ特徴᠀とくちょうᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>72352536</Id>
+          <Value>ᜀ東側᠀ひがしがわᤀは　コンビニと　ガソリンスタンド
+それから　アプリをᜀ作᠀つくᤀる　ᜀ会社᠀かいしゃᤀがあるな
+アプモンも　よくᜀ居᠀いᤀすわってるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>89654049</Id>
+          <Value>ヒフミがᜀ丘中学校᠀おかちゅうがっこうᤀは　ᜀ町᠀まちᤀのᜀ北西᠀ほくせいᤀにあるな
+おなじみ　サイバーアリーナは
+ここの　ᜀ体育館᠀たいいくかんᤀを　おᜀ借᠀かᤀりしてるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>カレンダモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22020888</Id>
+          <Value>カレンダモンは　カレンダーのアプリだ
+いろんなᜀ予定᠀よていᤀを　ᜀ管理᠀かんりᤀするアプモンだ
+ᜀ毎日᠀まいにちᤀ　ᜀ話᠀はなᤀしかけると　いいことあるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880601</Id>
+          <Value>デイリーボーナスでは
+ᜀ一日一回᠀いちにちいっかいᤀ　アイテムがもらえるんだ！
+ᜀ毎日᠀まいにちᤀゲームやってくれよな　なーんて？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>53609237</Id>
+          <Value>ラッキーアプモンでは
+おᜀ題᠀だいᤀのアプモンの　ＱＲコードをᜀ読᠀よᤀむと
+アイテムがもらえるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697177</Id>
+          <Value>おᜀ題᠀だいᤀは　ᜀ日替᠀ひがᤀわり！
+ᜀ友᠀ともᤀだちと　ᜀ情報交換᠀じょうほうこうかんᤀしたりして
+アイテムたくさん　もらってくれよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

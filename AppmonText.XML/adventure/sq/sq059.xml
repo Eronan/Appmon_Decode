@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>93</NumberOfLabels>
+  <NumberOfStrings>93</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1049098</Id>
+          <Value>…そうだ
+もっと　デタラメに！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17564168</Id>
+          <Value>！？
+どうしたんです？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35390221</Id>
+          <Value>えっ！
+ああ　なんでもないよ
+オレの　ひとりごと　だから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>50594052</Id>
+          <Value>ふーん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69206798</Id>
+          <Value>もう！
+デタラメ　ばっかりなんだから
+もう　ᜀ知᠀しᤀらないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85328649</Id>
+          <Value>えーっ
+おかしいな　これも
+デタラメなのー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>101318921</Id>
+          <Value>どうしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119931661</Id>
+          <Value>いや　ハハハ…
+なさけない　ᜀ話᠀はなしᤀだけど
+ᜀ聞᠀きᤀいてくれるかい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>139723548</Id>
+          <Value>ᜀ彼女᠀かのじょᤀと　デートᜀ中᠀ちゅうᤀ
+いいトコ　ᜀ見᠀みᤀせようと　ᜀ思᠀おもᤀって
+ミハマᜀ港᠀こうᤀの　ᜀ名所᠀めいしょᤀの　ᜀ説明᠀せつめいᤀをしてるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>153486095</Id>
+          <Value>でも　ボク
+ミハマᜀ港᠀こうᤀのこと
+ᜀ全然᠀ぜんぜんᤀ　くわしくないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>172884758</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドᜀ頼᠀だのᤀみ　だったんだけど
+どうも　デタラメな　ᜀ説明᠀せつめいᤀばかりらしく
+ᜀ彼女᠀かのじょᤀ　ᜀ怒᠀おこᤀっちゃったんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>188482322</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドか…　アプモンが
+ᜀ関係᠀かんけいᤀしているかも　しれないし
+ちょっと　ᜀ調᠀しらᤀべてみようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>203948814</Id>
+          <Value>でも　ᜀ人᠀ひとᤀのケンカに
+クビを　つっこむと
+ロクなことに　ならないからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021579</Id>
+          <Value>ᜀ今᠀いまᤀは　やめておこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>237110026</Id>
+          <Value>アプモンの　せいなら
+この　おにいさんが
+ᜀ気᠀きᤀのどく　だからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>252969480</Id>
+          <Value>ＡＲフィールドを
+ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>273941276</Id>
+          <Value>ᜀ彼女᠀かのじょᤀと　デートᜀ中᠀ちゅうᤀ
+いいトコ　ᜀ見᠀みᤀせようと　ᜀ思᠀おもᤀって
+ミハマᜀ港᠀こうᤀの　ᜀ名所᠀めいしょᤀの　ᜀ説明᠀せつめいᤀをしてるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>287703823</Id>
+          <Value>でも　ボク
+ミハマᜀ港᠀こうᤀのこと
+ᜀ全然᠀ぜんぜんᤀ　くわしくないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>307102486</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドᜀ頼᠀だのᤀみ　だったんだけど
+どうも　デタラメな　ᜀ説明᠀せつめいᤀばかりらしく
+ᜀ彼女᠀かのじょᤀ　ᜀ怒᠀おこᤀっちゃったんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>322700050</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドか…　アプモンが
+ᜀ関係᠀かんけいᤀしているかも　しれないし
+ちょっと　ᜀ調᠀しらᤀべてみようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>337773327</Id>
+          <Value>ゴメン！
+ᜀ今度᠀こんどᤀは　デタラメじゃない
+ガイド　するからさー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>355205908</Id>
+          <Value>あれ？
+この　おにいさんの　ᜀ電子᠀でんしᤀガイドには
+ＡＲダンジョンは　ないみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>371327761</Id>
+          <Value>どういうことだ？
+アプモンが　イタズラしているんじゃ
+ないのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>388498197</Id>
+          <Value>うーん
+このまわりに　なにか　ᜀ原因᠀げんいんᤀがないか
+ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>405013265</Id>
+          <Value>…そうだ
+もっと　デタラメに！
+ウソの　ガイドを　ᜀ教᠀おしᤀえてやれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>420610575</Id>
+          <Value>え？
+デタラメ　って　どういうこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>439223061</Id>
+          <Value>わわっ！
+なんだ　オマエ！？
+ᜀ人᠀ひとᤀのᜀ話᠀はなしᤀ　ᜀ聞᠀きᤀいてんじゃねーよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>456393490</Id>
+          <Value>ウソの　ガイドが　どうのって…
+え？　もしかして　アナタが
+デタラメな　ガイドの　ᜀ犯人᠀はんにんᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>471073292</Id>
+          <Value>どひゃーっ！
+アッサリ　ばれちまった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>489947920</Id>
+          <Value>オレが　あのᜀ子᠀こᤀが　ᜀ好᠀すᤀきなのに
+あの　メガネᜀ野郎᠀やろうᤀが
+デートに　さそいやがって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>507118358</Id>
+          <Value>ᜀ悔᠀くやᤀしいから　オレの　アプモンのᜀ力᠀ちからᤀで
+デタラメな　ガイドを　してやったのが
+なぜ　わかった！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>521667084</Id>
+          <Value>いや　ᜀ全部᠀ぜんぶᤀ
+バラして　くれてるから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>538051084</Id>
+          <Value>くそっ！
+つかまって　たまるか！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>554565898</Id>
+          <Value>あっ！　ᜀ待᠀まᤀって！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>573702927</Id>
+          <Value>しょうがないなぁ
+あのᜀ人᠀ひとᤀを　ᜀ追᠀おᤀいかけて
+ちゃんと　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>591135509</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドで　イタズラしていたᜀ人᠀ひとᤀ
+どうやら　このＡＲダンジョンに
+ᜀ逃᠀にᤀげこんだ　みたいだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>605028620</Id>
+          <Value>はいって　ᜀ追᠀おᤀいかけるか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>622854926</Id>
+          <Value>どひゃーっ！
+こんなトコまで
+ᜀ追᠀おᤀいかけて　きやがった！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>641467161</Id>
+          <Value>はぁ　はぁ
+オレ　なんで　こんなに　ᜀ一生懸命᠀いっしょうけんめいᤀ
+このᜀ人᠀ひとᤀを　ᜀ追᠀おᤀいかけてるんだろ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>656409104</Id>
+          <Value>まぁ　のりかかったフネだ
+とにかく　ᜀ注意᠀ちゅういᤀしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>672662031</Id>
+          <Value>うるせえ！
+オレは　なにも　ᜀ聞᠀きᤀかないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>690488080</Id>
+          <Value>オレの　バディアプモン！
+ジショモンよ
+こいつを　ᜀ追᠀おᤀいはらってくれ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>705692170</Id>
+          <Value>ジショ～
+まかせるで　あ～る！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>722075914</Id>
+          <Value>え！　ええーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>740819730</Id>
+          <Value>どひゃーっ！
+まーた　きやがった！
+ジショモン！　また　ᜀ頼᠀たのᤀんだぜ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>756023818</Id>
+          <Value>ジショ～
+まかせるで　あ～る！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>774242830</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>790364690</Id>
+          <Value>どひゃーっ！
+ジショモンが　ᜀ負᠀まᤀけちまったーっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>805961994</Id>
+          <Value>すまないので　あ～る</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>822739210</Id>
+          <Value>さーて　おにいさん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>842138387</Id>
+          <Value>な　なんだよ
+こんなところまで　ᜀ追᠀おᤀいかけてきてさー
+オレを　ᜀ殴᠀なぐᤀろうって　いうのかー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>857604623</Id>
+          <Value>そんなこと　しないよ！
+ただ　ヒトコト　ᜀ言᠀いᤀいたいだけ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>872808709</Id>
+          <Value>ヒトコト？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>892470030</Id>
+          <Value>どんな　ᜀ理由᠀りゆうᤀがあっても
+アプモンを　ᜀ悪᠀わるᤀいことに
+ᜀ使᠀つかᤀうのは　やめようよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>908985103</Id>
+          <Value>ᜀ悪意᠀あくいᤀがないのに
+ᜀ悪᠀わるᤀいことを　しちゃうなんて
+アプモンが　かわいそうだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>924582416</Id>
+          <Value>うう…　そうだな
+オレのᜀ命令᠀めいれいᤀで　ジショモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>943325968</Id>
+          <Value>ᜀ本来᠀ほんらいᤀのᜀ仕事᠀しごとᤀじゃない
+デタラメな　ᜀ情報᠀じょうほうᤀを
+ᜀ教᠀おしᤀえさせちゃったもんな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>958530319</Id>
+          <Value>オレ
+ジショモンにも　ホント
+ᜀ悪᠀わるᤀいこと　しちゃったんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>975438610</Id>
+          <Value>すまなかった！
+ジショモン！
+オレ　すっごく　ᜀ反省᠀はんせいᤀしてるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>992740110</Id>
+          <Value>ᜀ問題᠀もんだいᤀないので　あ～る
+ワガハイは　オマエの
+バディアプモン　なのであ～る</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010041619</Id>
+          <Value>ᜀ気᠀きᤀにせず
+これからは　ᜀ正᠀ただᤀしいᜀ情報᠀じょうほうᤀを
+ᜀ教᠀おしᤀえていくので　あ～る</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024983820</Id>
+          <Value>そうだ！
+あいつらにも
+あやまっておかなきゃな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042154003</Id>
+          <Value>それじゃあな
+ᜀ注意᠀ちゅういᤀしてくれて　ありがとよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058275852</Id>
+          <Value>やれやれ
+ようやく　ᜀ終᠀おᤀわったな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076232722</Id>
+          <Value>ケンカしていた　おにいさんたち
+これで　ᜀ仲直᠀なかなおᤀり　できたかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094320916</Id>
+          <Value>このᜀ人᠀ひとᤀが　デタラメを　ᜀ言᠀いᤀっていたの
+ᜀ電子᠀でんしᤀガイドが　おかしかったから
+だったんだって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1111098131</Id>
+          <Value>ミハマᜀ港᠀こうᤀのこと
+くわしくないなら　そうᜀ言᠀いᤀってくれれば
+こんなケンカ　しなくてもᜀ良᠀よᤀかったのに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127875350</Id>
+          <Value>さっき　ᜀ友人᠀ゆうじんᤀが
+ボクのᜀ電子᠀でんしᤀガイドが　ᜀ壊᠀こわᤀれていたって
+ᜀ教᠀おしᤀえてくれたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143865879</Id>
+          <Value>ᜀ彼女᠀かのじょᤀに　ᜀ正直᠀しょうじきᤀに　ᜀ話᠀はなᤀしたら
+ᜀ許᠀ゆるᤀしてくれたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160118804</Id>
+          <Value>ᜀ彼女᠀かのじょᤀのᜀ前᠀まえᤀで　カッコつけようと
+していた　わけだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178206994</Id>
+          <Value>ᜀ知᠀しᤀらないことを
+ᜀ知᠀しᤀっているフリするᜀ方᠀ほうᤀが
+カッコᜀ悪᠀わるᤀいんだって　ᜀ学᠀まなᤀんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194590997</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドが
+デタラメに　なっているのは
+ᜀ電子᠀でんしᤀガイドの　エラーじゃなかったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1212810003</Id>
+          <Value>ᜀ掲示板᠀けいじばんᤀの　ＡＲダンジョンで
+イタズラしていたᜀ人᠀ひとᤀを　ᜀ追᠀おᤀいかけて
+ちゃんと　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀかなくちゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228800786</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドか…　アプモンが
+ᜀ関係᠀かんけいᤀしているかも　しれないし
+ちょっと　ᜀ調᠀しらᤀべてみようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244136206</Id>
+          <Value>でも　ᜀ人᠀ひとᤀのケンカに
+クビを　つっこむと
+ロクなことに　ならないからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_018_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1259340045</Id>
+          <Value>ᜀ今᠀いまᤀは　やめておきましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277297418</Id>
+          <Value>アプモンの　せいなら
+この　おにいさんが
+ᜀ気᠀きᤀのどく　だからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293287945</Id>
+          <Value>ＡＲフィールドを
+ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_503_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1312686866</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドか…　アプモンが
+ᜀ関係᠀かんけいᤀしているかも　しれないし
+ちょっと　ᜀ調᠀しらᤀべてみようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1328284436</Id>
+          <Value>あれ？
+この　おにいさんの　ᜀ電子᠀でんしᤀガイドには
+ＡＲダンジョンは　ないみたい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344537361</Id>
+          <Value>どういうこと　かしら？
+アプモンが　イタズラしているんじゃ
+ないのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361707797</Id>
+          <Value>うーん
+このまわりに　なにか　ᜀ原因᠀げんいんᤀがないか
+ᜀ調᠀しらᤀべてみようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379271441</Id>
+          <Value>しょうがないわねぇ
+あのᜀ人᠀ひとᤀを　ᜀ追᠀おᤀいかけて
+ちゃんと　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀきましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1396441877</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドで　イタズラしていたᜀ人᠀ひとᤀ
+どうやら　このＡＲダンジョンに
+ᜀ逃᠀にᤀげこんだ　みたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_037_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410334989</Id>
+          <Value>はいって　ᜀ追᠀おᤀいかけましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1430127386</Id>
+          <Value>はぁ　はぁ
+ワタシ　なんで　こんなに　ᜀ一生懸命᠀いっしょうけんめいᤀ
+このᜀ人᠀ひとᤀを　ᜀ追᠀おᤀいかけてるのかしら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445069328</Id>
+          <Value>まぁ　のりかかったフネよね
+とにかく　ᜀ注意᠀ちゅういᤀしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_047_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462239759</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479672590</Id>
+          <Value>どんな　ᜀ理由᠀りゆうᤀがあっても
+アプモンを　ᜀ悪᠀わるᤀいことに
+ᜀ使᠀つかᤀうのは　やめましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1496187663</Id>
+          <Value>ᜀ悪意᠀あくいᤀがないのに
+ᜀ悪᠀わるᤀいことを　しちゃうなんて
+アプモンが　かわいそうだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_064_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511391757</Id>
+          <Value>やれやれ
+ようやく　ᜀ終᠀おᤀわったわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_072_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1530004244</Id>
+          <Value>ᜀ電子᠀でんしᤀガイドが
+デタラメに　なっているのは
+ᜀ電子᠀でんしᤀガイドの　エラーじゃないのよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_59_073_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1548354323</Id>
+          <Value>ᜀ掲示板᠀けいじばんᤀの　ＡＲダンジョンで
+イタズラしていたᜀ人᠀ひとᤀを　ᜀ追᠀おᤀいかけて
+ちゃんと　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀかなくちゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>7</NumberOfLabels>
+  <NumberOfStrings>7</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21496601</Id>
+          <Value>このᜀ場所᠀ばしょᤀは　ヒフミがᜀ丘᠀おかᤀ　ᜀ南地区᠀みなみちくᤀ
+ᰏのᜀ家᠀いえᤀから
+さらに　ᜀ南᠀みなみᤀに　いったᜀ地域᠀ちいきᤀだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404889</Id>
+          <Value>ᜀ南地区᠀みなみちくᤀの　ᜀ中央᠀ちゅうおうᤀちかくにあるのが
+おᜀ花見公園᠀はなみこうえんᤀだ
+ᜀ今᠀いまᤀがちょうど　ᜀ見᠀みᤀごろみたいだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>57148192</Id>
+          <Value>ᜀ西側᠀にしがわᤀには　ᜀ太陽光発電所᠀たいようこうはつでんしょᤀがあるけど
+ᜀ危᠀あぶᤀないから　ᜀ敷地内᠀しきちないᤀには　ᜀ入᠀はいᤀれないぜ
+アプモンは　ᜀ普通᠀ふつうᤀにᜀ入᠀はいᤀっちゃうけどな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221464</Id>
+          <Value>ᜀ南地区᠀みなみちくᤀの　ᜀ北西᠀ほくせいᤀにあるのが
+ヒフミがᜀ丘団地᠀おかだんちᤀ！
+このへんでᜀ働᠀はたらᤀくᜀ人᠀ひとᤀが　ᜀ住᠀すᤀんでるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88343319</Id>
+          <Value>ᜀ南᠀みなみᤀのᜀ方᠀ほうᤀに　モバイルショップがあるけど
+もう　ᜀ行᠀いᤀってみたか？
+スマホがあるトコは　けっこうᜀ楽᠀たのᤀしいぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>105906968</Id>
+          <Value>ᜀ南西᠀なんせいᤀのはしっこに　ᜀ自販機᠀じはんきᤀばっかの
+ᜀ広場᠀ひろばᤀがあるぞ！　ここにしかない
+ドリンクもᜀ売᠀うᤀってるって　ᜀ知᠀しᤀってたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

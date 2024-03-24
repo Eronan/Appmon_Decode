@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917770</Id>
+          <Value>ガッチモンをᜀ救᠀すくᤀえ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>学校１階・職員室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38667033</Id>
+          <Value>ᜀ学校᠀がっこうᤀに　ᜀ閉᠀とᤀじこめられた　ガッチモン
+シャッターは　１ᜀ階᠀かいᤀの　ᜀ職員室᠀しょくいんしつᤀから
+ᜀ閉᠀とᤀじられたみたいだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>学校１階・職員室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221465</Id>
+          <Value>ᜀ学校᠀がっこうᤀに　ᜀ閉᠀とᤀじこめられた　ガッチモン
+シャッターは　１ᜀ階᠀かいᤀの　ᜀ職員室᠀しょくいんしつᤀから
+ᜀ閉᠀とᤀじられたみたいだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>学校１階・職員室</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105120535</Id>
+          <Value>１ᜀ階᠀かいᤀの　ᜀ職員室᠀しょくいんしつᤀに　はいったら
+いきなり　ピーポモンに　おそわれた！
+このアプモンが　ᜀ犯人᠀はんにんᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>ガッチモンのところへ戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>137888531</Id>
+          <Value>ピーポモンから　ᜀ解除᠀かいじょᤀコードを　
+ᜀ手᠀てᤀにいれた！
+これで　ガッチモンを　ᜀ助᠀たすᤀけられる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912718</Id>
+          <Value>ガッチモンとアプリンクしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171311892</Id>
+          <Value>オンモンに　ガッチモンを
+アプリンクさせれば　プロテクモンの
+ファイアウォールを　ᜀ突破᠀とっぱᤀできるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467150</Id>
+          <Value>ガッチモンとアプリンクしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>204866324</Id>
+          <Value>オンモンに　ガッチモンを
+アプリンクさせれば　プロテクモンの
+ファイアウォールを　ᜀ突破᠀とっぱᤀできるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021582</Id>
+          <Value>ガッチモンとアプリンクしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238420756</Id>
+          <Value>オンモンに　ガッチモンを
+アプリンクさせれば　プロテクモンの
+ファイアウォールを　ᜀ突破᠀とっぱᤀできるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576014</Id>
+          <Value>ガッチモンとアプリンクしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>271975188</Id>
+          <Value>オンモンに　ガッチモンを
+アプリンクさせれば　プロテクモンの
+ファイアウォールを　ᜀ突破᠀とっぱᤀできるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130446</Id>
+          <Value>ガッチモンとアプリンクしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305529620</Id>
+          <Value>オンモンに　ガッチモンを
+アプリンクさせれば　プロテクモンの
+ファイアウォールを　ᜀ突破᠀とっぱᤀできるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323748630</Id>
+          <Value>オンモン　ガッチモンが　アプᜀ合体᠀がったいᤀして
+ロギモンになった！　ᜀ姿᠀すがたᤀは　ᜀ変᠀かᤀわっても
+バディであることは　ᜀ変᠀かᤀわらない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

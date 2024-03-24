@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>96</NumberOfLabels>
+  <NumberOfStrings>96</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753295</Id>
+          <Value>ハロー　アプリドライヴァーさん
+キミも　アプリドライヴを
+ᜀ持᠀もᤀっているんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17695241</Id>
+          <Value>うん！
+キミも　そうなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34865679</Id>
+          <Value>そうだよ
+バディアプモンは　レコモンで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52691728</Id>
+          <Value>レック！
+アンタも　アプリドライヴァーなら
+たのみが　あるのでレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>67764489</Id>
+          <Value>えっ　たのみって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>89522965</Id>
+          <Value>このᜀ子᠀こᤀは　ピアノの　ᜀ天才᠀てんさいᤀでレック
+このᜀ子᠀こᤀの　ᜀ音᠀おとᤀを　ᜀ録音᠀ろくおんᤀするのは
+ᜀ実᠀じつᤀに　サイコーな　ᜀ心地᠀ここちᤀでレック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_006_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>101974537</Id>
+          <Value>へえ　それは
+ᜀ聞᠀きᤀいてみたいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_006_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>121242387</Id>
+          <Value>やっぱり　そうでレック？
+レコモンも　たくさんの　ᜀ人᠀ひとᤀに
+ᜀ聞᠀きᤀいてもらいたいと　ᜀ思᠀おもᤀうレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_006_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>137757457</Id>
+          <Value>だから　ドーガモンに　たのんで
+「ᜀ弾᠀ひᤀいてみた」ᜀ動画᠀どうがᤀを
+アップして　もらっていたレックが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>153879309</Id>
+          <Value>このᜀ子᠀こᤀと　きたら
+ᜀ最近᠀さいきんᤀ　ピアノを
+ᜀ弾᠀ひᤀいてくれないのでレック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>172098325</Id>
+          <Value>ドーガモンに　ᜀ渡᠀わたᤀせるᜀ曲᠀きょくᤀが　なくて
+ᜀ録音᠀ろくおんᤀの　アプリとして
+ᜀ立᠀たᤀつᜀ瀬᠀せᤀが　ないでレック…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>186778127</Id>
+          <Value>だって　ᜀ飽᠀あᤀきちゃったんだもん
+はじめは　おもしろかったけどさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>204079886</Id>
+          <Value>そんなこと　ᜀ言᠀いᤀって
+ほんとは　ピアノが
+ᜀ大好᠀だいすᤀきなはずでレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>221905684</Id>
+          <Value>だから　アンタの　アプモンの　ᜀ力᠀ちからᤀで
+このᜀ子᠀こᤀに　やるᜀ気᠀きᤀを
+ᜀ出᠀だᤀさせてほしいレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>238158606</Id>
+          <Value>また　このᜀ子᠀こᤀの
+「ᜀ弾᠀ひᤀいてみた」ᜀ動画᠀どうがᤀを
+ᜀ録音᠀ろくおんᤀしたいレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>253624846</Id>
+          <Value>ᜀ困᠀こまᤀったな　レコモンってば
+おしゃべり　なんだから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>272892694</Id>
+          <Value>ピアノの　やるᜀ気᠀きᤀか…
+エンタメの　アプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりたら
+やるᜀ気᠀きᤀを　ᜀ出᠀だᤀしてもらえるかもな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>286785810</Id>
+          <Value>ᜀ演奏᠀えんそうᤀに　ᜀ挑戦᠀ちょうせんᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>304874254</Id>
+          <Value>よし！
+やるᜀ気᠀きᤀが　ᜀ出᠀でᤀるような
+ᜀ音᠀おとᤀを　ᜀ聞᠀きᤀいてもらうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>321520146</Id>
+          <Value>へえ　それは　ᜀ楽᠀たのᤀしみだな
+どんなᜀ音᠀おとᤀを　ᜀ聞᠀きᤀかせてくれるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2</Key>
+      <Values>
+        <BtxtString>
+          <Id>337379605</Id>
+          <Value>どんなᜀ演奏᠀えんそうᤀに　ᜀ挑戦᠀ちょうせんᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A1</Key>
+      <Values>
+        <BtxtString>
+          <Id>352583940</Id>
+          <Value>カンタン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>370541067</Id>
+          <Value>アプリドライヴァーさん
+たのんだレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A2</Key>
+      <Values>
+        <BtxtString>
+          <Id>386400517</Id>
+          <Value>ᜀ普通᠀ふつうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>403964427</Id>
+          <Value>アプリドライヴァーさん
+まかせたレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A3</Key>
+      <Values>
+        <BtxtString>
+          <Id>419823877</Id>
+          <Value>むずかしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>437649931</Id>
+          <Value>アプリドライヴァーさん
+がんばってレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>454820367</Id>
+          <Value>ハロー　アプリドライヴァーさん
+また　ᜀ会᠀あᤀったね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>471859728</Id>
+          <Value>レック！　アプリドライヴァーさん
+ᜀ聞᠀きᤀいてほしいレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>492176149</Id>
+          <Value>このᜀ子᠀こᤀは　ピアノの　ᜀ天才᠀てんさいᤀでレック
+このᜀ子᠀こᤀの　ᜀ音᠀おとᤀを　ᜀ録音᠀ろくおんᤀするのは
+ᜀ実᠀じつᤀに　サイコーな　ᜀ心地᠀ここちᤀでレック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>506856209</Id>
+          <Value>だから　ドーガモンに　たのんで
+「ᜀ弾᠀ひᤀいてみた」ᜀ動画᠀どうがᤀを
+アップして　もらっていたレックが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>522978061</Id>
+          <Value>このᜀ子᠀こᤀと　きたら
+ᜀ最近᠀さいきんᤀ　ピアノを
+ᜀ弾᠀ひᤀいてくれないのでレック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>540541715</Id>
+          <Value>だから　アンタの　アプモンのᜀ力᠀ちからᤀで
+このᜀ子᠀こᤀに　やるᜀ気᠀きᤀを
+ᜀ出᠀だᤀさせてほしいレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>557056782</Id>
+          <Value>もう１ᜀ度᠀どᤀ　このᜀ子᠀こᤀの
+「ᜀ弾᠀ひᤀいてみた」ᜀ動画᠀どうがᤀを
+アップしたい　レック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>573309711</Id>
+          <Value>まったく　もう
+ᜀ毎日᠀まいにちᤀ　これなんだもん
+レコモンってば　ᜀ困᠀こまᤀったなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>591659798</Id>
+          <Value>ピアノの　やるᜀ気᠀きᤀか…
+エンタメの　アプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりたら
+やるᜀ気᠀きᤀを　ᜀ出᠀だᤀしてもらえるかもな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>605815311</Id>
+          <Value>ハロー　アプリドライヴァーさん
+また　ᜀ会᠀あᤀったね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>622854672</Id>
+          <Value>レック！　アプリドライヴァーさん
+ᜀ聞᠀きᤀいてほしいレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>643171093</Id>
+          <Value>このᜀ子᠀こᤀは　ピアノの　ᜀ天才᠀てんさいᤀでレック
+このᜀ子᠀こᤀの　ᜀ音᠀おとᤀを　ᜀ録音᠀ろくおんᤀするのは
+ᜀ実᠀じつᤀに　サイコーな　ᜀ心地᠀ここちᤀでレック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>657851153</Id>
+          <Value>だから　ドーガモンに　たのんで
+「ᜀ弾᠀ひᤀいてみた」ᜀ動画᠀どうがᤀを
+アップして　もらっていたレックが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>673973005</Id>
+          <Value>このᜀ子᠀こᤀと　きたら
+ᜀ最近᠀さいきんᤀ　ピアノを
+ᜀ弾᠀ひᤀいてくれないのでレック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>691536659</Id>
+          <Value>だから　アンタの　アプモンのᜀ力᠀ちからᤀで
+このᜀ子᠀こᤀに　やるᜀ気᠀きᤀを
+ᜀ出᠀だᤀさせてほしいレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>707920654</Id>
+          <Value>もう１ᜀ度᠀どᤀ　このᜀ子᠀こᤀの
+「ᜀ弾᠀ひᤀいてみた」ᜀ動画᠀どうがᤀを
+アップしたいレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>724304655</Id>
+          <Value>まったく　もう
+ᜀ毎日᠀まいにちᤀ　これなんだもん
+レコモンってば　ᜀ困᠀こまᤀったなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>742654742</Id>
+          <Value>ピアノの　やるᜀ気᠀きᤀか…
+エンタメの　アプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりたら
+やるᜀ気᠀きᤀを　ᜀ出᠀だᤀしてもらえるかもな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>756941326</Id>
+          <Value>ああ　アプリドライヴァーさん
+また　ᜀ来᠀きᤀてくれたんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>775684885</Id>
+          <Value>おかげさまで　ᜀ今日᠀きょうᤀは　ᜀ快調᠀かいちょうᤀ
+ᜀ何᠀なにᤀを　ᜀ弾᠀ひᤀこうか
+ᜀ考᠀かんがᤀえてるところだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>790889231</Id>
+          <Value>レックレック！　うれしいレック
+アプリドライヴァーさんの
+おかげレック～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>809108241</Id>
+          <Value>きっと　アプリドライヴァーさんなら
+このᜀ子᠀こᤀに　もっと　やるᜀ気᠀きᤀを
+ᜀ出᠀だᤀさせることも　できるレック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>824967953</Id>
+          <Value>もう１ᜀ度᠀どᤀ　アプモンの　ᜀ力᠀ちからᤀを
+ᜀ貸᠀かᤀしてくれたら
+うれしいレック～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>841351952</Id>
+          <Value>レコモンってば
+ᜀ調子᠀ちょうしᤀに　ᜀ乗᠀のᤀっちゃって…
+しかたないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>858128916</Id>
+          <Value>でも　キミのᜀ音᠀おとᤀが　また　ᜀ聞᠀きᤀけるのは
+ちょっと　うれしいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>875692821</Id>
+          <Value>もう　ᜀ今日᠀きょうᤀ
+あげられるものは　ないけど
+よかったら　また　ᜀ演奏᠀えんそうᤀしてくれる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>890765586</Id>
+          <Value>ᜀ演奏᠀えんそうᤀに　ᜀ挑戦᠀ちょうせんᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>908985102</Id>
+          <Value>よし　もっと
+やるᜀ気᠀きᤀが　ᜀ出᠀でᤀるような
+ᜀ音᠀おとᤀを　ᜀ聞᠀きᤀいてもらうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>926810899</Id>
+          <Value>ᜀ本当᠀ほんとうᤀ？　それは　ᜀ楽᠀たのᤀしみだな
+ᜀ今度᠀こんどᤀは　どんな　ᜀ音᠀おとᤀを
+ᜀ聞᠀きᤀかせてくれるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>941753101</Id>
+          <Value>ううん…
+ᜀ気持᠀きもᤀちは　うれしいけど
+あんまり　ひびかないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>960496404</Id>
+          <Value>アプリドライヴァーさんの　ᜀ音᠀おとᤀが
+ここで　ᜀ終᠀おᤀわるはずないレック！
+また　ᜀ挑戦᠀ちょうせんᤀしてほしいレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>976618257</Id>
+          <Value>…アプリドライヴァーさんの　ᜀ音᠀おとᤀ
+なんだか　いいかもね
+ちょっと　やるᜀ気᠀きᤀ　ᜀ出᠀でᤀてきたな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>990904589</Id>
+          <Value>ほ　ᜀ本当᠀ほんとうᤀレック！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009517325</Id>
+          <Value>うん　レコモン　いいよ
+１ᜀ曲分᠀きょくぶんᤀくらいは
+ᜀ録音᠀ろくおんᤀ　させてあげる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024983563</Id>
+          <Value>ᜀ本当᠀ほんとうᤀレック！？
+うれしいレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042809362</Id>
+          <Value>でも　１ᜀ曲分᠀きょくぶんᤀだけね
+ᜀ明日᠀あしたᤀに　なったら　わかんないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057489159</Id>
+          <Value>そ　そんな～…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077674770</Id>
+          <Value>それは　さておき　キミ　ありがとうね
+これ　ᜀ迷惑᠀めいわくᤀかけた　おわびと
+ᜀ私᠀わたしᤀからの　おᜀ礼᠀れいᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093010189</Id>
+          <Value>よかったら　キミのᜀ音᠀おとᤀ
+また　ᜀ聞᠀きᤀかせてもらえると
+うれしいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1111491351</Id>
+          <Value>そうレック！　ᜀ明日᠀あしたᤀレック！
+また　ᜀ明日᠀あしたᤀ　ᜀ手伝᠀てつだᤀってほしいレック！
+ᜀ待᠀まᤀってるレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1128530711</Id>
+          <Value>うん！　アプリドライヴァーさんの　ᜀ音᠀おとᤀ
+とっても　すてきだな
+ᜀ本当᠀ほんとうᤀに　やるᜀ気᠀きᤀ　ᜀ出᠀でᤀてきちゃったかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142686475</Id>
+          <Value>やったレック！
+アプリドライヴァーさん
+さすがレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160381197</Id>
+          <Value>うん　レコモン　いいよ
+ᜀ何曲᠀なんきょくᤀかは
+ᜀ録音᠀ろくおんᤀ　させてあげる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175585288</Id>
+          <Value>ほんとレック！？
+うれしいレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193804306</Id>
+          <Value>でも　ᜀ何曲᠀なんきょくᤀか　だけね
+ᜀ明日᠀あしたᤀに　なったら　わかんないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208484103</Id>
+          <Value>そ　そんな～…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228669714</Id>
+          <Value>それは　さておき　キミ　ありがとうね
+これ　ᜀ迷惑᠀めいわくᤀかけた　おわびと
+ᜀ私᠀わたしᤀからの　おᜀ礼᠀れいᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244005133</Id>
+          <Value>よかったら　キミのᜀ音᠀おとᤀ
+また　ᜀ聞᠀きᤀかせてもらえると
+うれしいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1262486295</Id>
+          <Value>そうレック！　ᜀ明日᠀あしたᤀレック！
+また　ᜀ明日᠀あしたᤀ　ᜀ手伝᠀てつだᤀってほしいレック！
+ᜀ待᠀まᤀってるレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277559568</Id>
+          <Value>…すごい
+アプリドライヴァーさんの　ᜀ音᠀おとᤀ
+まっすぐに　ひびいてくる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1295385361</Id>
+          <Value>まるで　ᜀ心᠀こころᤀが　つながるみたい
+こんなの　ᜀ聞᠀きᤀかされちゃったら
+ᜀ負᠀まᤀけてられないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311245071</Id>
+          <Value>アプリドライヴァーさん
+すごかったレック
+シンパシー　ᜀ感᠀かんᤀじたレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1328284430</Id>
+          <Value>…わかったよ　レコモン
+キミの　ᜀ気᠀きᤀがすむまで
+ᜀ録音᠀ろくおんᤀ　させてあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343357448</Id>
+          <Value>ほんとレック！？
+うれしいレック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1362625298</Id>
+          <Value>でも　この　ᜀ気持᠀きもᤀちが
+リフレインする　ᜀ間᠀あいだᤀだけね
+ᜀ明日᠀あしたᤀに　なったら　わかんないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376256263</Id>
+          <Value>そ　そんな～…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1396441874</Id>
+          <Value>それは　さておき　キミ　ありがとうね
+これ　ᜀ迷惑᠀めいわくᤀかけた　おわびと
+ᜀ私᠀わたしᤀからの　おᜀ礼᠀れいᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411777293</Id>
+          <Value>よかったら　キミのᜀ音᠀おとᤀ
+また　ᜀ聞᠀きᤀかせてもらえると
+うれしいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1430258455</Id>
+          <Value>そうレック！　ᜀ明日᠀あしたᤀレック！
+また　ᜀ明日᠀あしたᤀ　ᜀ手伝᠀てつだᤀってほしいレック！
+ᜀ待᠀まᤀってるレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1447297815</Id>
+          <Value>うん！　アプリドライヴァーさんの　ᜀ音᠀おとᤀ
+とっても　すてきだな
+ᜀ本当᠀ほんとうᤀに　やるᜀ気᠀きᤀ　ᜀ出᠀でᤀてきちゃったかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463288595</Id>
+          <Value>こんなᜀ音᠀おとᤀ　ᜀ聞᠀きᤀかされちゃうと
+ホントに　やるᜀ気᠀きᤀ　ᜀ出᠀だᤀさないわけには
+いかないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479541526</Id>
+          <Value>ありがとうね
+アプリドライヴァーさん
+よかったら　またᜀ明日᠀あしたᤀも　ᜀ聞᠀きᤀかせてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1496187411</Id>
+          <Value>そうレック！　ᜀ明日᠀あしたᤀレック！
+ᜀ楽᠀たのᤀしみにして　ᜀ待᠀まᤀってるレック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510867466</Id>
+          <Value>うん！
+アナタも　そうなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1531314966</Id>
+          <Value>ピアノの　やるᜀ気᠀きᤀねぇ…
+エンタメの　アプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりたら
+やるᜀ気᠀きᤀを　ᜀ出᠀だᤀしてもらえるかしら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546519311</Id>
+          <Value>よーし！
+やるᜀ気᠀きᤀが　ᜀ出᠀でᤀるような
+ᜀ音᠀おとᤀを　ᜀ聞᠀きᤀいてもらうわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_028_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564869398</Id>
+          <Value>ピアノの　やるᜀ気᠀きᤀねぇ…
+エンタメの　アプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりたら
+やるᜀ気᠀きᤀを　ᜀ出᠀だᤀしてもらえるかしら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_037_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1581646614</Id>
+          <Value>ピアノの　やるᜀ気᠀きᤀねぇ…
+エンタメの　アプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりたら
+やるᜀ気᠀きᤀを　ᜀ出᠀だᤀしてもらえるかしら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_11_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596982031</Id>
+          <Value>よーし　もっと
+やるᜀ気᠀きᤀが　ᜀ出᠀でᤀるような
+ᜀ音᠀おとᤀを　ᜀ聞᠀きᤀいてもらうわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

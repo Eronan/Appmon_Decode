@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>128</NumberOfLabels>
+  <NumberOfStrings>128</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917770</Id>
+          <Value>ᜀ一難去᠀いちなんさᤀって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749525</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71303957</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104858389</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138412821</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171967253</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205521685</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239076117</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272630549</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306184981</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319291656</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>339739413</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>352846088</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>373293845</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386400520</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>406848277</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>419954952</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>440402709</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453509384</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>473957141</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487063816</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>507511573</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>520618248</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>541066005</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554172680</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>574620437</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>587727112</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>608174869</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621281544</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>641729301</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>654835976</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>675283733</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>688390408</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>708838165</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>721944840</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>742392597</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>755499272</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>775947029</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789053704</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>809501461</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>822608136</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>843055893</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>856162568</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>876610325</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>889717000</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>910164757</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>923271432</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>943719189</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>956825864</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>977273621</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>990380296</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010828053</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>1023934728</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>1044382485</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057489160</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077936917</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091043592</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>1111491349</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>1124598024</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>1145045781</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158152456</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178600213</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>1191706888</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>1212154645</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>1225261320</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245709077</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258815752</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>1279263509</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292370184</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>1312817941</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>1325924616</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>1346372373</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359479048</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379926805</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393033480</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>1413481237</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>1426587912</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>1447035669</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460142344</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>1480590101</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493696776</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>1514144533</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527251208</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>1547698965</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>1560805640</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>1581253397</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594360072</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>1614807829</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>1627914504</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>1648362261</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>1661468936</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>1681916693</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>1695023368</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>1715471125</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>1728577800</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>1749025557</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>1762132232</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>1782579989</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>1795686664</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>1816134421</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1829241096</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1849688853</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1862795528</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1883243285</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1896349960</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1916797717</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1929904392</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1950352149</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1963458824</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1983906581</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1997013256</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>2017461013</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>2030567688</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>2051015445</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>2064122120</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>2084569877</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097676552</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>2118124309</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>2134901525</Id>
+          <Value>カオスＡＲフィールドは　ᜀ解除᠀かいじょᤀされた
+サイバーアリーナが　ᜀ復旧᠀ふっきゅうᤀしたか
+ᜀ確認᠀かくにんᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

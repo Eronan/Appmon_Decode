@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>CONFIRM_RESET_DATA</Key>
+      <Values>
+        <BtxtString>
+          <Id>2359822</Id>
+          <Value>ᜀ現在᠀げんざいᤀのセーブデータは
+ᜀ消᠀きᤀえますがよろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CANNOT_LOAD_PATCH_VER</Key>
+      <Values>
+        <BtxtString>
+          <Id>21234451</Id>
+          <Value>バージョンがᜀ正᠀ただᤀしくありません
+ᜀ更新᠀こうしんᤀデータをダウンロードして
+ゲームをᜀ起動᠀きどうᤀしᜀ直᠀なおᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CANNOT_LOAD_INHERIT_DATA</Key>
+      <Values>
+        <BtxtString>
+          <Id>35521034</Id>
+          <Value>ᜀ引᠀ひᤀきᜀ継᠀つᤀぎデータは
+ᜀ使用᠀しようᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONFIRM_LOAD_DATA</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511818</Id>
+          <Value>このデータのつづきを
+あそびますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GENDER_MALE</Key>
+      <Values>
+        <BtxtString>
+          <Id>68026631</Id>
+          <Value>ᜀ男᠀おとこᤀのᜀ子᠀こᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GENDER_FEMALE</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803847</Id>
+          <Value>ᜀ女᠀おんなᤀのᜀ子᠀こᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLAYER_FINAL_DECIDE</Key>
+      <Values>
+        <BtxtString>
+          <Id>103023372</Id>
+          <Value>ᜀ性別᠀せいべつᤀ：ᰀ
+ᜀ名前᠀なまえᤀ：ᰁ
+これで　よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INPUT_PLAYER_NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489360</Id>
+          <Value>なまえをにゅうりょくしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ATTENTION_INPUT_NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>137626134</Id>
+          <Value>ᜀ入力᠀にゅうりょくᤀしたᜀ名前᠀なまえᤀは
+ᜀ通信相手᠀つうしんあいてᤀにᜀ公開᠀こうかいᤀされます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

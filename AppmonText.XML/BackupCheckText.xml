@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>7</NumberOfLabels>
+  <NumberOfStrings>7</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>SaveFormatStart</Key>
+      <Values>
+        <BtxtString>
+          <Id>3146512</Id>
+          <Value>セーブデータを　フォーマットして
+ゲームを　ᜀ始᠀はじᤀめる
+ᜀ準備᠀じゅんびᤀをしています。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SaveFormatEnd</Key>
+      <Values>
+        <BtxtString>
+          <Id>19137040</Id>
+          <Value>ゲームを　ᜀ始᠀はじᤀめる
+ᜀ準備᠀じゅんびᤀが　ᜀ終᠀おᤀわりました。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SaveBroken</Key>
+      <Values>
+        <BtxtString>
+          <Id>34734350</Id>
+          <Value>データが　ᜀ壊᠀こわᤀれています。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SaveDelete0</Key>
+      <Values>
+        <BtxtString>
+          <Id>52298257</Id>
+          <Value>セーブデータをᜀ削除᠀さくじょᤀします。
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SaveDelete1</Key>
+      <Values>
+        <BtxtString>
+          <Id>70386200</Id>
+          <Value>ᜀ削除᠀さくじょᤀするとᜀ元᠀もとᤀにもどすことはできません
+ᜀ本当᠀ほんとうᤀによろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SaveDelete2</Key>
+      <Values>
+        <BtxtString>
+          <Id>85328147</Id>
+          <Value>セーブデータをᜀ削除᠀さくじょᤀしています。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SaveDelete3</Key>
+      <Values>
+        <BtxtString>
+          <Id>102105363</Id>
+          <Value>セーブデータをᜀ初期化᠀しょきかᤀしました。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>4064023</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「ゲリラ：カイモンᜀ賞᠀しょうᤀ・神」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>21234461</Id>
+          <Value>「ゲリラ：カイモンᜀ賞᠀しょうᤀ・神」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>36307473</Id>
+          <Value>オレの　バディ　サテラモンで
+ᜀ勝利᠀しょうりᤀを　ᜀ狙᠀ねらᤀいᜀ撃᠀うᤀちだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>55182100</Id>
+          <Value>わたくし　ᜀ強᠀つよᤀいヒトが　ᜀ好᠀すᤀきなの
+ᜀ特᠀とくᤀに　神アプモンを　ᜀ使᠀つかᤀうヒトは
+ᜀ最高᠀さいこうᤀに　わたくしの　タイプよ…♪</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>69468688</Id>
+          <Value>ダメダモンは　ダメじゃないもん！
+それを　ᜀ証明᠀しょうめいᤀするもん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>89260834</Id>
+          <Value>バイオモンによる　ᜀ全᠀ぜんᤀパラメータの
+ᜀ強化᠀きょうかᤀは　ᜀ長期戦᠀ちょうきせんᤀにおいて　ᜀ特᠀とくᤀに　ᜀ有効᠀ゆうこうᤀだ
+さあ　オペを　はじめようか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989463</Id>
+          <Value>みんな　ᜀ声援᠀せいえんᤀよろしく！
+エムシーモン　アツいᜀ実況᠀じっきょうᤀ　たのむよ！
+さあ　ᜀ盛᠀もᤀりあがっていきましょー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>120980240</Id>
+          <Value>ぼくが　アプモンだったらなあ…
+そしたら　ᜀ好᠀すᤀきなアプモンと
+アプᜀ合体᠀がったいᤀできるのになあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>135528971</Id>
+          <Value>よろしくお願いします！
+（仮テキスト）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>8</NumberOfLabels>
+  <NumberOfStrings>8</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>OBJ_SEWER1</Key>
+      <Values>
+        <BtxtString>
+          <Id>6030106</Id>
+          <Value>ᜀ都市管理᠀としかんりᤀシステムの　ᜀ操作盤᠀そうさばんᤀがある
+このᜀ上᠀うえᤀを　ᜀ走᠀はしᤀるᜀ道路᠀どうろᤀの
+ᜀ交通量᠀こうつうりょうᤀの　ᜀ測定᠀そくていᤀをしているみたい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SEWER2</Key>
+      <Values>
+        <BtxtString>
+          <Id>22151962</Id>
+          <Value>ᜀ都市管理᠀としかんりᤀシステムの　ᜀ操作盤᠀そうさばんᤀがある
+ᜀ電気量᠀でんきりょうᤀの　ᜀ配分᠀はいぶんᤀなんかも
+ここで　ᜀ計測᠀けいそくᤀしているみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SEWER3</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929178</Id>
+          <Value>ᜀ都市管理᠀としかんりᤀシステムの　ᜀ操作盤᠀そうさばんᤀがある
+ᜀ町᠀まちᤀのための　あらゆるネットワークが
+うまく　ᜀ動᠀うごᤀくように　ᜀ支᠀ささᤀえてる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>52429580</Id>
+          <Value>おっと　キミ
+こんなところで
+ᜀ遊᠀あそᤀんじゃ　いけないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>72090392</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀでは　ヒフミがᜀ丘᠀おかᤀのᜀ町᠀まちᤀの
+ᜀ都市管理᠀としかんりᤀシステムの　ネットワークが
+ᜀ整備᠀せいびᤀされているんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>89916193</Id>
+          <Value>ᜀ町᠀まちᤀのᜀ地下᠀ちかᤀでは　ᜀ交通量᠀こうつうりょうᤀを　ᜀ測定᠀そくていᤀしたり
+ᜀ雨水᠀あまみずᤀを　どのᜀ水路᠀すいろᤀに　ᜀ流᠀ながᤀすか
+ᜀ計算᠀けいさんᤀしたり…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>105251607</Id>
+          <Value>ᜀ町᠀まちᤀの　あちこちで　ᜀ作᠀つくᤀったᜀ電気᠀でんきᤀを
+あまったり　たりなくなったり
+しないように　ᜀ分配᠀ぶんぱいᤀしたり…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>120718099</Id>
+          <Value>まあ　いろいろやってるのさ
+そういう　ᜀ大事᠀だいじᤀなところ　だから
+イタズラしたら　ダメだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

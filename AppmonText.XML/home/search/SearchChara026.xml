@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262404</Id>
+          <Value>ミハマ団</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20972308</Id>
+          <Value>ミハマᜀ港᠀こうᤀを　ᜀ庭᠀にわᤀとする
+コミュニティグループ　「ミハマᜀ団᠀だんᤀ」だ
+コソモンパーカーが　トレードマーク！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>39322392</Id>
+          <Value>ᜀ独自᠀どくじᤀの　コミュニティを　ᜀ持᠀もᤀっていて
+その　ᜀ団結力᠀だんけつりょくᤀは　ダテじゃない！
+ᜀ裏口᠀うらくちᤀコミの　チカラ　ᜀ甘᠀あまᤀくᜀ見᠀みᤀるなよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55575325</Id>
+          <Value>リーダーは　リョウジ！
+ᜀ団員᠀だんいんᤀからの　ᜀ圧倒的᠀あっとうてきᤀな　ᜀ信頼᠀しんらいᤀには
+カリスマᜀ性᠀せいᤀってヤツを　ᜀ感᠀かんᤀじちまうな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>72745753</Id>
+          <Value>ミハマᜀ団᠀だんᤀのᜀ掟᠀おきてᤀ！
+その１　ミハマᜀ港᠀こうᤀのᜀ平和᠀へいわᤀをᜀ守᠀まもᤀること
+その２　ほしいᜀ物᠀ものᤀにはᜀ対価᠀たいかᤀをᜀ払᠀はらᤀうこと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>89522967</Id>
+          <Value>その３　ミハマᜀ団᠀だんᤀはᜀ秘密᠀ひみつᤀをᜀ守᠀まもᤀること
+その４　ᜀ仲間᠀なかまᤀを　ᜀ信頼᠀しんらいᤀすること…
+まだまだあるって？　ᜀ覚᠀おぼᤀえられねーよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

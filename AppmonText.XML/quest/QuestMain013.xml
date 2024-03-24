@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>オフラインのナゾ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694989</Id>
+          <Value>ニコタマ川・ワカバと話そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37618449</Id>
+          <Value>ワカバに　ᜀ声᠀こえᤀを　かけて
+ニコタマᜀ川᠀がわᤀの　オフラインᜀ化᠀かᤀの
+ᜀ原因᠀げんいんᤀを　ᜀ調᠀しらᤀべよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249422</Id>
+          <Value>ニコタマ川をあちこち調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435029</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803854</Id>
+          <Value>ニコタマ川をあちこち調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989461</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358286</Id>
+          <Value>ニコタマ川をあちこち調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543893</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912718</Id>
+          <Value>ニコタマ川をあちこち調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172098325</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467150</Id>
+          <Value>ニコタマ川をあちこち調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205652757</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021582</Id>
+          <Value>ニコタマ川をあちこち調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239207189</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576014</Id>
+          <Value>ニコタマ川をあちこち調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272761621</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130446</Id>
+          <Value>ニコタマ川をあちこち調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316053</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323093269</Id>
+          <Value>Ｆランクマスターを　ᜀ見᠀みᤀつけた！
+けど　オフラインで　ランカーバトルが
+できない…　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀしだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

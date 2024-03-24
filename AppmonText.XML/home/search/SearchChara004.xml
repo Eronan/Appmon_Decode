@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262403</Id>
+          <Value>ナオト</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22020889</Id>
+          <Value>ナオトは　ᰏの　ᜀ幼᠀おさなᤀなじみだ
+ᰏとは　ᜀ生᠀うᤀまれたᜀ病院᠀びょういんᤀから
+ずっとᜀ一緒᠀いっしょᤀ…　ᜀ腐᠀くさᤀれᜀ縁᠀えんᤀって　ヤツか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37094163</Id>
+          <Value>ᜀ昔᠀むかしᤀから　ᰏや　ミオと
+いっしょに　ゲームして　ᜀ遊᠀あそᤀぶことが
+ᜀ多᠀おおᤀかったんだって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>53740310</Id>
+          <Value>ᰏとは　ケンカばっかだけど
+いざってᜀ時᠀ときᤀは　ᜀ息᠀いきᤀぴったりってウワサ！
+…　ホントかよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>72745751</Id>
+          <Value>こうᜀ見᠀みᤀえて　ᜀ好᠀すᤀきなᜀ食᠀たᤀべᜀ物᠀ものᤀは　プリンだ
+ᰏのᜀ分᠀ぶんᤀも　ᜀ食᠀たᤀべちゃって
+ケンカしたᜀ事᠀ことᤀが　ᜀ何度᠀なんどᤀもあるんだって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

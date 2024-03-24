@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NOT_FOUND</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195094</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+まわりを　ᜀ注意深᠀ちゅういぶかᤀく　ᜀ調᠀しらᤀべれば
+ᜀ道᠀みちᤀは　ひらかれるでしょう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOT_FOUND_DEBUG</Key>
+      <Values>
+        <BtxtString>
+          <Id>18744079</Id>
+          <Value>ファイル名ᰊの
+ラベル名ᰋの
+テキストが取得できませんでした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

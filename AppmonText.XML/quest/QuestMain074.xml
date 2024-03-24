@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917770</Id>
+          <Value>まだᜀ終᠀おᤀわってない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880596</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435028</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989460</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543892</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172098324</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205652756</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239207188</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272761620</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316052</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323093268</Id>
+          <Value>エムシーモンから　ᜀ連絡᠀れんらくᤀが　きた！
+いったい　なんの　ᜀ用᠀ようᤀだろう？
+とにかく　サイバーアリーナに　ᜀ行᠀いᤀこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524551</Id>
+          <Value>カベモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22807327</Id>
+          <Value>ᜀ壁紙᠀かべがみᤀのアプリ　カベモンだ！
+ᜀ壁᠀かべᤀに　ᜀ投影᠀とうえいᤀした　ᜀ光景᠀こうけいᤀを　ᜀ具現化᠀ぐげんかᤀする
+ᜀ能力᠀のうりょくᤀを　ᜀ持᠀もᤀつ　アプモンだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38667032</Id>
+          <Value>ヨンゲンᜀ通᠀どおᤀりでは　カベモンがᜀ投影᠀とうえいᤀした
+ᜀ壁᠀かべᤀが　ᜀ本物᠀ほんものᤀにᜀ見᠀みᤀえて
+ᜀ通᠀とおᤀれないことが　あるみたいだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55182101</Id>
+          <Value>ＡＲフィールドでなら　ᜀ話᠀はなしᤀができるから
+ᜀ道᠀みちᤀを　ᜀ塞᠀ふさᤀいで　ジャマなᜀ時᠀ときᤀは
+ᜀ話᠀はなᤀしかけて　どいてもらえよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

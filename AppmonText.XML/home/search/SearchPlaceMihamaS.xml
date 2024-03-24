@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>23724830</Id>
+          <Value>ここは　ミハマᜀ港᠀こうᤀ　ᜀ倉庫街᠀そうこがいᤀエリア！
+ᜀ廃倉庫᠀はいそうこᤀを　ᜀ改築᠀かいちくᤀして　ᜀ観光地᠀かんこうちᤀとして
+ᜀ楽᠀たのᤀしめるように　ᜀ整備᠀せいびᤀされたᜀ場所᠀ばしょᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39060249</Id>
+          <Value>ᜀ観光地᠀かんこうちᤀだけど　ᜀ名物᠀めいぶつᤀがないとかで
+ᜀ屋台᠀やたいᤀは　こぞって　ᜀ名物᠀めいぶつᤀをうたってるぞ
+…ラインナップは　ᜀ独特᠀どくとくᤀだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>56361755</Id>
+          <Value>ᜀ趣᠀おもむきᤀのある　ᜀ外見᠀がいけんᤀの　ᜀ倉庫᠀そうこᤀでは
+ショッピングが　ᜀ楽᠀たのᤀしめるぞ
+ᜀ店᠀みせᤀをᜀ探᠀さがᤀすときは　ᜀ看板᠀かんばんᤀを　よくᜀ見᠀みᤀろよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>73007901</Id>
+          <Value>ミハマᜀ団᠀だんᤀは　ᜀ一番᠀いちばんᤀ　ᜀ南西᠀なんせいᤀの　ᜀ倉庫᠀そうこᤀを
+ᜀ拠点᠀きょてんᤀに　しているみたいだ…
+ᜀ見張᠀みはᤀりが　いるから　ᜀ気᠀きᤀをつけろよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

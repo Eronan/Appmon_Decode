@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917771</Id>
+          <Value>おとなりさんをᜀ救᠀すくᤀえ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694989</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39453465</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249421</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>73007897</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803853</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106562329</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>140116761</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173671193</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>207225625</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240780057</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274334489</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>となりの家のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307888921</Id>
+          <Value>となりのᜀ家᠀いえᤀにも　ＡＲダンジョンが！
+ᜀ家᠀いえᤀのᜀ中᠀なかᤀでは　ᜀ赤᠀あかᤀちゃんが　ᜀ泣᠀なᤀいている…
+ᜀ急᠀いそᤀいで　ロックを　ᜀ解除᠀かいじょᤀさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322044692</Id>
+          <Value>ᜀ悪᠀わるᤀさしていた　アプモンを　やっつけた
+もう　こんなことが　ᜀ起᠀おᤀきなければ
+いいけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

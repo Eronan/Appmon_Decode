@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195094</Id>
+          <Value>ᜀ検᠀けんᤀ■ア■■では　ᜀ今᠀いまᤀ■るᜀ町᠀まちᤀの■■■
+■■■■■■　■■の■■を…
+ガチ■■　…■い　だいじょ■■か？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20972308</Id>
+          <Value>■い■■■■■■ᜀ危᠀あぶᤀな■ぞ■■■■■■
+■■■■■■■■■■■■どこ■■■■
+ᜀ気᠀きᤀをつけ■■■■■■■■■■■■</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

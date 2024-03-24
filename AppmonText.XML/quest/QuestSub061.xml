@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442063</Id>
+          <Value>ᜀ旅行᠀りょこうᤀカバンのᜀ行方᠀ゆくえᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826063</Id>
+          <Value>ミハマ港・駐車場近くのコンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880596</Id>
+          <Value>アプリドライヴァーの　おにいさんが
+ᜀ旅行᠀りょこうᤀカバンを　なくしたみたい
+ᜀ探᠀さがᤀすの　ᜀ手伝᠀てつだᤀって　あげようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380495</Id>
+          <Value>ミハマ港・駐車場近くのコンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435028</Id>
+          <Value>アプリドライヴァーの　おにいさんが
+ᜀ旅行᠀りょこうᤀカバンを　なくしたみたい
+ᜀ探᠀さがᤀすの　ᜀ手伝᠀てつだᤀって　あげようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934927</Id>
+          <Value>ミハマ港・駐車場近くのコンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106955552</Id>
+          <Value>ᜀ旅行᠀りょこうᤀカバンは　コンビニに　あったけど
+ᜀ受᠀うᤀけᜀ取᠀とᤀるのに　ᜀ本人確認᠀ほんにんかくにんᤀが　ᜀ必要᠀ひつようᤀみたい
+３つの　ᜀ質問᠀しつもんᤀに　ᜀ答᠀こたᤀえよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489359</Id>
+          <Value>ミハマ港・駐車場近くのコンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199256</Id>
+          <Value>カバンから　トリップモンが　ᜀ現᠀あらわᤀれた！
+どうやら　こちらを　ドロボウだと
+ᜀ思᠀おもᤀってるみたい…　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀかなきゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650569</Id>
+          <Value>ミハマ港・ブリッジ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146904</Id>
+          <Value>トリップモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけ
+ᜀ無事᠀ぶじᤀに　ᜀ旅行᠀りょこうᤀカバンを　ᜀ受᠀うᤀけᜀ取᠀とᤀれた
+おにいさんの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205001</Id>
+          <Value>ミハマ港・ブリッジ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701336</Id>
+          <Value>トリップモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけ
+ᜀ無事᠀ぶじᤀに　ᜀ旅行᠀りょこうᤀカバンを　ᜀ受᠀うᤀけᜀ取᠀とᤀれた
+おにいさんの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759433</Id>
+          <Value>ミハマ港・ブリッジ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255768</Id>
+          <Value>トリップモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけ
+ᜀ無事᠀ぶじᤀに　ᜀ旅行᠀りょこうᤀカバンを　ᜀ受᠀うᤀけᜀ取᠀とᤀれた
+おにいさんの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313865</Id>
+          <Value>ミハマ港・ブリッジ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810200</Id>
+          <Value>トリップモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけ
+ᜀ無事᠀ぶじᤀに　ᜀ旅行᠀りょこうᤀカバンを　ᜀ受᠀うᤀけᜀ取᠀とᤀれた
+おにいさんの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>ミハマ港・ブリッジ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364632</Id>
+          <Value>トリップモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけ
+ᜀ無事᠀ぶじᤀに　ᜀ旅行᠀りょこうᤀカバンを　ᜀ受᠀うᤀけᜀ取᠀とᤀれた
+おにいさんの　ところへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323486488</Id>
+          <Value>ᜀ旅行᠀りょこうᤀカバンを　おにいさんに　ᜀ渡᠀わたᤀした！
+おにいさんは　うっかりᜀ者᠀ものᤀだったけど
+トリップモンは　しっかりしてたなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

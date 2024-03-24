@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>113</NumberOfLabels>
+  <NumberOfStrings>113</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_029_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>393478</Id>
+          <Value>…さがってて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_062_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>17039620</Id>
+          <Value>くすん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_065_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078983</Id>
+          <Value>たすけてなの～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_066_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>50725126</Id>
+          <Value>…　こいつだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_063_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>67502342</Id>
+          <Value>こまったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_05_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672779</Id>
+          <Value>こちら　コールモンだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_05_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>102498831</Id>
+          <Value>おお　ᰋか
+そのᜀ節᠀せつᤀは　ᜀ世話᠀せわᤀになった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_05_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>120324876</Id>
+          <Value>ではまた　ᜀ気᠀きᤀがむいたら
+ᜀ電話᠀でんわᤀを　かけてくれ
+ᜀ待᠀まᤀっているぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150672</Id>
+          <Value>ᜀ今᠀いまᤀ　ᜀ隠᠀かくᤀれんぼ　してるんだ
+オレが　オニで　あとᜀ２人᠀ふたりᤀが
+どこかに　ᜀ隠᠀かくᤀれてるの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>153879311</Id>
+          <Value>ジェットモンのアプリ
+チョーベンリだよなー
+ᜀ足᠀あしᤀが　ᜀ速᠀はやᤀくなるんだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172229397</Id>
+          <Value>うわ　ᜀ見᠀みᤀつかった！
+…と　ᜀ思᠀おもᤀったら　ᜀ知᠀しᤀらないᜀ人᠀ひとᤀだった
+ᜀ今᠀いまᤀね　ᜀ隠᠀かくᤀれんぼしてるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>191103774</Id>
+          <Value>オレは　ᜀ木᠀きᤀとᜀ同化᠀どうかᤀして　ᜀ隠᠀かくᤀれᜀ中᠀ちゅうᤀ
+ᜀ題᠀だいᤀして　ᜀ木᠀きᤀをᜀ隠᠀かくᤀすには　ᜀ森᠀もりᤀのᜀ中作戦᠀なかさくせんᤀ！
+あ　ちなみにここ　オレんᜀ家᠀ちᤀね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>204473105</Id>
+          <Value>ぐー　ぐー…　むにゃ…？
+あ…　おはようございます…
+ぼく　ᜀ隠᠀かくᤀれんぼ　してるんです…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>222429975</Id>
+          <Value>ᜀ果報᠀かほうᤀは　ᜀ寝᠀ねᤀてᜀ待᠀まᤀて　ᜀ作戦᠀さくせんᤀです…
+ᜀ見᠀みᤀつかるまでは
+ここで　ᜀ寝᠀ねᤀてます…　ZZZ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255765</Id>
+          <Value>ᜀ今᠀いまᤀでこそ　ᜀ住宅街᠀じゅうたくがいᤀだけど
+ᜀ昔᠀むかしᤀは　このあたりも　ᜀ山᠀やまᤀだったのよ
+ᜀ北᠀きたᤀのᜀ山᠀やまᤀも　いつか　なくなるかもね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_008_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>256115477</Id>
+          <Value>なんだか　ᜀ山᠀やまᤀのほうに　ᜀ近᠀ちかᤀづくと
+アプリの　ᜀ調子᠀ちょうしᤀが　おかしくなるのよ
+よくないものでも　あるのかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_008_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>269746698</Id>
+          <Value>これって　もしかして
+カオスゲートが…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>287965963</Id>
+          <Value>ヨンゲンᜀ通᠀どおᤀりには
+アプリドライヴァーが
+ᜀ多᠀おおᤀい　ᜀ気᠀きᤀがするな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>304874256</Id>
+          <Value>Ｃランクマスターのカヨも　いるし
+ウワサでは　もっとᜀ強᠀つよᤀいヤツも
+いるらしいぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_010_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>322175759</Id>
+          <Value>ᜀ俺᠀おれᤀの　バディアプモンが
+ᜀ山᠀やまᤀのほうに　ᜀ近᠀ちかᤀづくのを
+すげー　イヤがってるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_011_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>338297614</Id>
+          <Value>なんか　イヤな　ᜀ空気᠀くうきᤀが
+ᜀ広᠀ひろᤀがってるんだとか
+なんなんだろうな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_011_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>354943509</Id>
+          <Value>カオスゲートだ…！
+ᜀ早᠀はやᤀく　ᜀ解除᠀かいじょᤀしに　ᜀ行᠀いᤀかなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_011_HERO_CAR_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>371720725</Id>
+          <Value>カオスゲートね…！
+ᜀ早᠀はやᤀく　ᜀ解除᠀かいじょᤀしに　ᜀ行᠀いᤀかなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>387187211</Id>
+          <Value>いらっしゃいませ
+からあげ　あげたてです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>407241494</Id>
+          <Value>もう　ᜀ少年᠀しょうねんᤀって　ᜀ年᠀としᤀじゃないけど
+ᜀ今᠀いまᤀでも　ᜀ少年᠀しょうねんᤀマンガは　ᜀ読᠀よᤀむよ
+おもしろいよね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>421790476</Id>
+          <Value>おᜀ菓子᠀かしᤀの　オマケを
+あつめてるんだ！
+コンプしてやるんだから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>441058074</Id>
+          <Value>ヨンゲンᜀ通᠀どおᤀりの　コンビニは
+あつかっている　ᜀ日用品᠀にちようひんᤀの　ᜀ種類᠀しゅるいᤀが
+ᜀ多᠀おおᤀくて　とても　ᜀ助᠀たすᤀかるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>456786704</Id>
+          <Value>ᜀ子᠀こᤀどもに　「どうして　レンジで
+あたためることを　チンするって
+ᜀ言᠀いᤀうの？」って　ᜀ聞᠀きᤀかれたの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>473301775</Id>
+          <Value>ᜀ昔᠀むかしᤀの　ᜀ電子᠀でんしᤀレンジは
+あたためᜀ終᠀おᤀわったときに
+チンってᜀ鳴᠀なᤀってたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>490078994</Id>
+          <Value>ᜀ今᠀いまᤀの　レンジって
+チンって　ᜀ鳴᠀なᤀらないから
+ᜀ表現᠀ひょうげんᤀを　ᜀ変᠀かᤀえるべきかもね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>507511573</Id>
+          <Value>なぜ　ナビᜀ属性᠀ぞくせいᤀは
+ソーシャルᜀ属性᠀ぞくせいᤀに　ᜀ弱᠀よわᤀいんだろう
+いったい　どういうᜀ理由᠀りゆうᤀが…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>523371285</Id>
+          <Value>このᜀ世界᠀せかいᤀでは
+ᜀ言葉᠀ことばᤀでは　ᜀ説明᠀せつめいᤀできないことが
+たくさんあるスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>540934934</Id>
+          <Value>アプモンの　ᜀ属性᠀ぞくせいᤀの　ᜀ相性᠀あいしょうᤀも
+その１つスワ
+ᜀ深᠀ふかᤀく　ᜀ考᠀かんがᤀえては　いけないスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>558367509</Id>
+          <Value>アプモンは　ᜀ主婦᠀しゅふᤀの　ᜀ味方᠀みかたᤀタップ
+おᜀ料理᠀りょうりᤀ　おそうじ　エトセトラ
+アプモンも　おᜀ手伝᠀てつだᤀいしてるタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>573178387</Id>
+          <Value>ボクは　モトモト　ᜀ都内᠀とないᤀノ
+ゲーむセんターで　ᜀ働᠀はたらᤀイてイまシた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_S_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>592577305</Id>
+          <Value>あルᜀ日᠀ひᤀ　ᜀ故障᠀こしょうᤀシてシまっテ　ᜀ修理᠀しゅうりᤀニ
+ᜀ出᠀でᤀサれたのでスが　ᜀ目᠀めᤀガ　ᜀ覚᠀さᤀめタら
+ここニ…　どうイうことでシょうカ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>607388434</Id>
+          <Value>このᜀ先᠀さきᤀは　と　ᜀ通᠀とおᤀせないんだな
+アプリドライヴァーは
+と　ᜀ特᠀とくᤀに　ダメなんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>621674765</Id>
+          <Value>ぐ　ググゥ　スヤ　なんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>639107595</Id>
+          <Value>ここの　カベモンは
+ᜀ眠᠀ねむᤀってるみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>655884811</Id>
+          <Value>ここの　カベモンは
+ᜀ眠᠀ねむᤀってるみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>674890516</Id>
+          <Value>ホンモノの　カベだったら
+ᜀ頭᠀あたまᤀ　ブツけちゃうんだな…
+き　ᜀ気᠀きᤀをつけて　ᜀ調᠀しらᤀべてほしいんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>689570319</Id>
+          <Value>ジャマして　ᜀ悪᠀わるᤀかったんだな
+ど　どくんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>708313875</Id>
+          <Value>カベの　ᜀ壁紙᠀かべがみᤀを　ᜀ貼᠀はᤀっていると
+ホンモノの　カベに
+み　ᜀ見᠀みᤀえてしまう　みたいなんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>723124751</Id>
+          <Value>ジャマして　ᜀ悪᠀わるᤀかったんだな
+ど　どくんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>742130450</Id>
+          <Value>か　カベモンじゃなくて　カベなんだな
+ᜀ誰᠀だれᤀが　なんと　ᜀ言᠀いᤀおうと　カベ…
+…もしかして　バレてるんだな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>756679183</Id>
+          <Value>ジャマして　ᜀ悪᠀わるᤀかったんだな
+ど　どくんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>775422738</Id>
+          <Value>スマホを　ᜀ使᠀つかᤀってるなら
+か　ᜀ壁紙᠀かべがみᤀは　かかせないんだな
+いつでも　そばに　い　いるんだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>790233615</Id>
+          <Value>ジャマして　ᜀ悪᠀わるᤀかったんだな
+ど　どくんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>808452626</Id>
+          <Value>ᜀ燃᠀もᤀえるゴミ！　ᜀ燃᠀もᤀえないゴミ！
+ᜀ資源᠀しげんᤀゴミ！　ᜀ大型᠀おおがたᤀゴミ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>823788048</Id>
+          <Value>データに　ᜀ分別᠀ぶんべつᤀも　クソも
+ねえけど～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>843580182</Id>
+          <Value>ふ　ᜀ復元᠀ふくげんᤀか？　ᜀ復元᠀ふくげんᤀするのか？
+ゴミᜀ箱᠀ばこᤀを　ひっくりᜀ返᠀かえᤀして
+データを　ᜀ掘᠀ほᤀりかえすんだろ～？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>857342482</Id>
+          <Value>でも　あれって
+チョッピリ　キモチよかったり　して～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>876217108</Id>
+          <Value>オイオイ～　オマエの　スマホ
+いらないデータが　あふれてないか～？
+ᜀ容量᠀ようりょうᤀ　パンパンじゃ　ねえか～？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>892732181</Id>
+          <Value>ᜀ記念写真᠀きねんしゃしんᤀも　ゲームのアプリも
+まとめて　キレイに　してやろうか～？
+スッキリ　するぜ～？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>910557972</Id>
+          <Value>ᜀ捨᠀すᤀててくれ～　ナンカᜀ捨᠀すᤀててくれよ～
+ゴミᜀ箱᠀ばこᤀの　ᜀ中身᠀なかみᤀが　ᜀ空᠀からᤀっぽで
+ᜀ落᠀おᤀちつかねえんだよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>925238033</Id>
+          <Value>オマエの　スマホから
+ナンカ　ᜀ捨᠀すᤀててもいいか？　ダメ？
+チクショ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>944374551</Id>
+          <Value>ᜀ空᠀からᤀにしてくれ～　ᜀ空᠀からᤀにしてくれよ～
+ゴミᜀ箱᠀ばこᤀの　ᜀ中᠀なかᤀに　ナンカ　ᜀ残᠀のこᤀってると
+ᜀ落᠀おᤀちつかねえんだよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>959185683</Id>
+          <Value>オマエの　スマホも　ᜀ空᠀からᤀっぽになれば
+キモチわかるぜ～？　イヤか？
+チクショ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>977142548</Id>
+          <Value>ヨンゲンᜀ通᠀どおᤀりの　アプモンは
+み　みんな　カヨと　カゲフミが
+す　ᜀ好᠀すᤀきなんだな　ᜀ仲᠀なかᤀよし　なんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>993264405</Id>
+          <Value>ᜀ２人᠀ふたりᤀを　ᜀ助᠀たすᤀけてくれた
+ᰏも
+よ　ヨンゲンᜀ通᠀どおᤀりの　ᜀ仲間᠀なかまᤀなんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008337675</Id>
+          <Value>ナンだよ～
+もう　オマエの
+ジャマ　してねえだろ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>1028391703</Id>
+          <Value>オレᜀ様᠀さまᤀは　ここから　ᜀ動᠀うごᤀくᜀ気᠀きᤀはねえな！
+ᜀ話᠀はなᤀせば　どいてくれる　カベモンと
+いっしょに　されちゃ　ᜀ困᠀こまᤀるぜ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_GOMI_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>1044251416</Id>
+          <Value>ᜀ現実世界᠀げんじつせかいᤀなら　スルーできるだろ～？
+ここを　ᜀ通᠀とおᤀりたきゃ
+そっちから　ᜀ通᠀とおᤀってくれよな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058800142</Id>
+          <Value>ぐ　ググゥ　…ハッ
+ね　ね　ᜀ寝᠀ねᤀちゃってたんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_KABE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075446287</Id>
+          <Value>ジャマして　ᜀ悪᠀わるᤀかったんだな
+ど　どくんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092485649</Id>
+          <Value>あらあら！　まあまあ！
+あなた　アプリドライヴァーさんね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108214280</Id>
+          <Value>うん　オレはᰏだよ
+キミは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_101_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125122569</Id>
+          <Value>うん　ワタシはᰏだよ
+アナタは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143079696</Id>
+          <Value>ᰏちゃんね！
+ᜀ私᠀わたしᤀは　ショッピングのアプリ
+カイモンよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1162216216</Id>
+          <Value>ドライヴァーさんたちの
+おᜀ買᠀かᤀいものを　ᜀ手伝᠀てつだᤀっているの
+ᜀ必要᠀ひつようᤀなᜀ物᠀ものᤀがあれば　ᜀ買᠀かᤀっていってね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175847438</Id>
+          <Value>うん　ありがとう　カイモン！
+よろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MOVE_NOT_KAYO_HOUSE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193411084</Id>
+          <Value>ᜀ今᠀いまᤀは　カヨのᜀ家᠀いえᤀに
+ᜀ用事᠀ようじᤀは　ないかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MOVE_NOT_KAGEHUMI_HOUSE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210319374</Id>
+          <Value>ᜀ今᠀いまᤀは　カゲフミのᜀ家᠀いえᤀに
+ᜀ用事᠀ようじᤀは　ないかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227358991</Id>
+          <Value>インフォメーションボードがある
+ニュースも　みられるし
+ᜀ書᠀かᤀきこみもできる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245578007</Id>
+          <Value>タッチすると　ᜀ町会᠀ちょうかいᤀの　おᜀ知᠀しᤀらせや
+ᜀ世界᠀せかいᤀの　ニュースが
+ᜀ表示᠀ひょうじᤀされるみたい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_LIGHT1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260519953</Id>
+          <Value>ᜀ街灯᠀がいとうᤀがある
+まだ　ᜀ昼᠀ひるᤀだから　ついていないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_LIGHT3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1280181017</Id>
+          <Value>ちかくの　ᜀ街灯᠀がいとうᤀと　ᜀ連動᠀れんどうᤀして
+ᜀ車᠀くるまᤀや　ᜀ歩行者᠀ほこうしゃᤀの　うごきにあわせて
+あかるくなる　しくみになっている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK0</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292108036</Id>
+          <Value>ヴイィ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311244823</Id>
+          <Value>いらっしゃいませ
+ᜀ商品᠀しょうひんᤀのボタンを　ᜀ選᠀えらᤀんでください…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1330643738</Id>
+          <Value>ᜀ自動販売機᠀じどうはんばいきᤀがある…
+ウェブで　ᜀ商品᠀しょうひんᤀを　ᜀ管理᠀かんりᤀしているから
+ᜀ売᠀うᤀりきれているのを　ᜀ見᠀みᤀたことがない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344930577</Id>
+          <Value>みかけると
+つい　チェックしてしまうけど
+ᜀ特᠀とくᤀに　のどは　かわいてないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_INFO3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1362756121</Id>
+          <Value>ᜀ不動産᠀ふどうさんᤀの　ᜀ広告᠀こうこくᤀが　ᜀ流᠀ながᤀれている
+どうやら　ここは　ᜀ空᠀あᤀきᜀ家᠀やᤀみたい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_INFO4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1380320025</Id>
+          <Value>このᜀ端末᠀たんまつᤀは　セキュリティᜀ会社᠀がいしゃᤀに
+つながっている
+ヨンゲンᜀ通᠀どおᤀりの　ᜀ防犯対策᠀ぼうはんたいさくᤀらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_YONGEN1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395917336</Id>
+          <Value>ᜀ北᠀きたᤀにある　ヨンゲンᜀ山᠀さんᤀの
+ᜀ登山案内᠀とざんあんないᤀが　ᜀ表示᠀ひょうじᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412563476</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ᜀ品᠀しなᤀぞろえは　それなり　ってところかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428947476</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ゲームの　おともに　しようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445986836</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ᜀ新商品᠀しんしょうひんᤀは　あるかなあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462764053</Id>
+          <Value>ティッシュや　ᜀ洗剤᠀せんざいᤀなどの
+ᜀ生活用品᠀せいかつようひんᤀも　ᜀ置᠀おᤀいてある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE5</Key>
+      <Values>
+        <BtxtString>
+          <Id>1480065814</Id>
+          <Value>アイスの　ᜀ冷蔵᠀れいぞうᤀケースが　ᜀ置᠀おᤀいてある
+ᜀ暑᠀あつᤀくなると
+つい　ᜀ食᠀たᤀべたくなるなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE6</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494876685</Id>
+          <Value>よくᜀ冷᠀ひᤀえた
+ドリンクが　ᜀ並᠀ならᤀんでる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE7</Key>
+      <Values>
+        <BtxtString>
+          <Id>1513358096</Id>
+          <Value>この　ドリンクケースには
+おᜀ酒᠀さけᤀが　ならんでる…
+ᜀ自分᠀じぶんᤀには　ᜀ用᠀ようᤀがないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_MAGAZINE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529742092</Id>
+          <Value>ᜀ雑誌売᠀ざっしうᤀりᜀ場᠀ばᤀでは
+ゲームの　ᜀ雑誌᠀ざっしᤀを
+つい　さがしてしまう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_CM1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545863695</Id>
+          <Value>ᜀ新商品᠀しんしょうひんᤀの
+ᜀ広告᠀こうこくᤀが　ᜀ流᠀ながᤀれてる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_CM2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562903062</Id>
+          <Value>スマホアプリの　CMに
+アプリᜀ山᠀やまᤀ４７０が　ᜀ出演᠀しゅつえんᤀしてる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_MACHINE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579942418</Id>
+          <Value>ATMや　コピーᜀ機᠀きᤀが　ᜀ置᠀おᤀいてある
+いざってᜀ時᠀ときᤀに　たよりになる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_MAGAZINE3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1595671051</Id>
+          <Value>…ほ　ᜀ他᠀ほかᤀのところを
+ᜀ調᠀しらᤀべにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_MAGAZINE3_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612579343</Id>
+          <Value>…とくに　ᜀ調᠀しらᤀべるべきものは
+ᜀ置᠀おᤀいてないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_KITCHEN1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1632502550</Id>
+          <Value>ＩＨᜀ調理器᠀ちょうりきᤀの　システムキッチンだ
+このあたりでは　ガスコンロよりも
+ᜀ使᠀つかᤀってる　ᜀ家᠀いえᤀが　ᜀ多᠀おおᤀいᜀ気᠀きᤀがする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_KITCHEN2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1647575574</Id>
+          <Value>きれいに　ᜀ片付᠀かたづᤀいた　キッチンだ
+ᜀ使᠀つかᤀいやすく　まとめてある　ᜀ感᠀かんᤀじがする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_OVEN2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1664484113</Id>
+          <Value>ᜀ電子᠀でんしᤀレンジが　ᜀ置᠀おᤀいてある
+チンして　ᜀ作᠀つくᤀるごはんも
+なかなか　あなどれない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_OVEN3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1681785622</Id>
+          <Value>ᜀ電子᠀でんしᤀレンジがある！
+ᜀ一度᠀いちどᤀ　ゆでたまごを　ᜀ作᠀つくᤀろうとして
+ᜀ爆発᠀ばくはつᤀさせたっけ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_FREEZER1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1698300437</Id>
+          <Value>ᜀ人᠀ひとᤀの　ᜀ家᠀いえᤀの　ᜀ冷蔵庫᠀れいぞうこᤀを
+ᜀ勝手᠀かってᤀに　ᜀ開᠀あᤀけるわけには　いかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_FREEZER3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1714422542</Id>
+          <Value>ᜀ冷蔵庫᠀れいぞうこᤀがある
+だいぶ　ᜀ大᠀おおᤀきいから
+いろんなものが　ᜀ入᠀はいᤀりそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_TV2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1732117268</Id>
+          <Value>テレビが　ᜀ置᠀おᤀいてある
+ᜀ毎朝᠀まいあさᤀのニュースは　ᜀ家᠀いえᤀによって
+ᜀ好᠀このᤀみが　わかれるところかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_TV3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747321360</Id>
+          <Value>テレビを　ᜀ見᠀みᤀるときは
+ᜀ画面᠀がめんᤀから　ᜀ離᠀はなᤀれないと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOOK2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1766064920</Id>
+          <Value>ᜀ本棚᠀ほんだなᤀだ…
+ᜀ自分᠀じぶんᤀもᜀ知᠀しᤀってる　ᜀ本᠀ほんᤀがᜀ置᠀おᤀいてあると
+ちょっと　ᜀ親近感᠀しんきんかんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_PC1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1782842135</Id>
+          <Value>パソコンが　ᜀ置᠀おᤀいてある
+そのᜀ人᠀ひとᤀの　ᜀ個人情報᠀こじんじょうほうᤀだから
+じろじろᜀ見᠀みᤀるのは　よくないかも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CLOSET2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1798832917</Id>
+          <Value>タンスが　ある！
+ᜀ見᠀みᤀかけると　つい　ᜀ調᠀しらᤀべてしまうけど
+これは　そういう　ゲームじゃない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_GAME4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1816396566</Id>
+          <Value>こ　このゲームᜀ機᠀きᤀは…！　ᜀ全世界᠀ぜんせかいᤀで
+１０００ᜀ台᠀だいᤀしか　ᜀ売᠀うᤀられていない
+ᜀ限定᠀げんていᤀモデルだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_GAME4_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1833304854</Id>
+          <Value>こ　このゲームᜀ機᠀きᤀは…！　ᜀ全世界᠀ぜんせかいᤀで
+１０００ᜀ台᠀だいᤀしか　ᜀ売᠀うᤀられていない
+ᜀ限定᠀げんていᤀモデルだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOOK4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1850344218</Id>
+          <Value>ᜀ建築᠀けんちくᤀの　ᜀ参考書᠀さんこうしょᤀが　ᜀ並᠀ならᤀんでいる
+カゲフミは　ᜀ将来᠀しょうらいᤀ　ᜀ建築士᠀けんちくしᤀに
+なりたいのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOOK5</Key>
+      <Values>
+        <BtxtString>
+          <Id>1866859285</Id>
+          <Value>ᜀ自分᠀じぶんᤀも　ᜀ持᠀もᤀっている　マンガが　ある
+カゲフミは　マンガについているᜀ帯᠀おびᤀは
+そのままに　しておくᜀ派᠀はᤀみたい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_TV1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1884816154</Id>
+          <Value>ᜀ最新式᠀さいしんしきᤀの　テレビがある
+テレビᜀ番組᠀ばんぐみᤀや　インターネットᜀ動画᠀どうがᤀから
+ᜀ好᠀このᤀみのᜀ番組᠀ばんぐみᤀを　さがす　ᜀ機能付᠀きのうつᤀき！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

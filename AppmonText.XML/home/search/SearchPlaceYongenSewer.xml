@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>5899032</Id>
+          <Value>ここは　ヨンゲンᜀ通᠀どおᤀりの　ᜀ下水道᠀げすいどうᤀだな
+ᜀ水᠀みずᤀに　ᜀ電気᠀でんきᤀに　インターネット
+あらゆる　ᜀ生活᠀せいかつᤀを　ᜀ支᠀ささᤀえるᜀ場所᠀ばしょᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>22020886</Id>
+          <Value>ヒフミがᜀ丘᠀おかᤀと　ᜀ同᠀おなᤀじように
+ᜀ都市管理᠀としかんりᤀシステムが　ᜀ通᠀とおᤀってるぜ
+ᜀ見᠀みᤀえないトコロが　ᜀ大事᠀だいじᤀなトコロってね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

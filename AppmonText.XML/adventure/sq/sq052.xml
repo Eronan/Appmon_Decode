@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>76</NumberOfLabels>
+  <NumberOfStrings>76</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1573642</Id>
+          <Value>どうしよう…
+どうしよう…
+なんで　なんでえ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563916</Id>
+          <Value>ど　どうかしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36176408</Id>
+          <Value>いえっ！　そんな！
+ᜀ人様᠀ひとさまᤀに　おᜀ話᠀はなしᤀするほどの　ことでは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52298257</Id>
+          <Value>でも　もしかしたら
+ᜀ力᠀ちからᤀになれるかも　しれないし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70910745</Id>
+          <Value>うう…
+でも　ᜀ大᠀たいᤀしたことじゃ　ないんです
+ᜀ宅配便᠀たくはいびんᤀが　ᜀ届᠀とどᤀかないだけ　なんです…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88867608</Id>
+          <Value>とびっきりの　ᜀ速達᠀そくたつᤀで
+ᜀ空輸᠀くうゆᤀをおねがいした　ᜀ荷物᠀にもつᤀなんですけど
+ᜀ時間᠀じかんᤀになっても　ᜀ届᠀とどᤀかないんです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>104596241</Id>
+          <Value>しかも　ᜀ配達員᠀はいたついんᤀさんに
+ᜀ連絡᠀れんらくᤀも　とれないんですよ…
+ᜀ急᠀いそᤀいでるのに　どうしよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>120980244</Id>
+          <Value>なんて　ᜀ言᠀いᤀわれても
+ᜀ困᠀こまᤀっちゃいますよね…
+ああ　でも　ᜀ本当᠀ほんとうᤀに　どうしよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138019605</Id>
+          <Value>ᜀ宅配便᠀たくはいびんᤀが　ᜀ届᠀とどᤀかないᜀ上᠀うえᤀに
+ᜀ連絡᠀れんらくᤀまで　とれないなんて
+おかしいな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>157025052</Id>
+          <Value>ᜀ配達中᠀はいたつちゅうᤀに　ᜀ何᠀なにᤀか　あったのかもしれない
+このᜀ人᠀ひとᤀのスマホから　ᜀ配達履歴᠀はいたつりれきᤀをᜀ見᠀みᤀれば
+ᜀ調᠀しらᤀべられるんじゃ　ないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171180821</Id>
+          <Value>よし　ＡＲフィールドで
+このᜀ人᠀ひとᤀの　スマホを　ᜀ調᠀しらᤀべてみよう！
+なにか　わかるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187171351</Id>
+          <Value>ああ　どうしよう…
+ᜀ宅配便᠀たくはいびんᤀが　ぜんぜん　ᜀ届᠀とどᤀかないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>204342030</Id>
+          <Value>もしかして　ᜀ途中᠀とちゅうᤀで
+なにかあったのかなあ…
+ᜀ本当᠀ほんとうᤀに　どうしよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221250325</Id>
+          <Value>ＡＲフィールドで
+このᜀ人᠀ひとᤀの　スマホを　ᜀ調᠀しらᤀべてみよう！
+なにか　わかるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>237372174</Id>
+          <Value>あっ　きみ！
+さっきは　ᜀ話᠀はなしᤀを
+ᜀ聞᠀きᤀいてくれて　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>256377626</Id>
+          <Value>たったᜀ今᠀いまᤀ　ᜀ連絡᠀れんらくᤀがᜀ入᠀はいᤀって
+ᜀ配達᠀はいたつᤀの　ᜀ飛行機᠀ひこうきᤀが　ᜀ止᠀とᤀまってたことが
+わかったのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>273416985</Id>
+          <Value>ᜀ宅配便᠀たくはいびんᤀは　とびっきりの　ᜀ速達᠀そくたつᤀで
+もうᜀ少᠀すこᤀしで　ここに　ᜀ届᠀とどᤀくって！
+わたし　ᜀ待᠀まᤀってることにするよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868298</Id>
+          <Value>それなら　よかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>304874005</Id>
+          <Value>でも　そんなに　ᜀ急᠀いそᤀいで
+いったい　ᜀ何᠀なにᤀを　ᜀ注文᠀ちゅうもんᤀしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>318898434</Id>
+          <Value>えっ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>336199943</Id>
+          <Value>ᜀ何᠀なにᤀをって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>355599121</Id>
+          <Value>そんなの…
+ᜀ花᠀はなᤀも　ᜀ恥᠀はᤀじらう　ᜀ乙女᠀おとめᤀに
+そんなこと　ᜀ言᠀いᤀえないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>370409997</Id>
+          <Value>ええーっ！？
+それって　どういうことさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>389022485</Id>
+          <Value>まあまあ
+ᜀ一生懸命᠀　いっしょうけんめいᤀ　やってくれて
+ᜀ本当᠀ほんとうᤀに　ありがとうね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>404750862</Id>
+          <Value>ᜀ本当᠀ほんとうᤀに　ᜀ中身᠀なかみᤀは
+なんだったんだろう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>421528082</Id>
+          <Value>さっきは　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてくれて
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>440140561</Id>
+          <Value>ᜀ今᠀いまᤀ　ᜀ宅配便᠀たくはいびんᤀが
+とびっきりの　ᜀ速達᠀そくたつᤀで
+こっちに　ᜀ向᠀むᤀかってる　ところだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>454951439</Id>
+          <Value>ᜀ今回᠀こんかいᤀは
+ᜀ本当᠀ほんとうᤀに　ありがとうね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>473432852</Id>
+          <Value>あっ　このあいだの　きみ！
+おかげさまで　ついさっき
+ᜀ無事᠀ぶじᤀに　ᜀ荷物᠀にもつᤀが　ᜀ届᠀とどᤀいたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>487981578</Id>
+          <Value>ᜀ本当᠀ほんとうᤀ？
+それなら　よかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>505152014</Id>
+          <Value>それで　その
+ᜀ荷物᠀にもつᤀの　ᜀ中身᠀なかみᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>522060306</Id>
+          <Value>そ　そんな
+ᜀ乙女᠀おとめᤀにᜀ向᠀むᤀかって　なんてこと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>538444302</Id>
+          <Value>だから　それって
+どういうことなんだよ　もう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>557974295</Id>
+          <Value>ここから　ＡＲダンジョンにᜀ入᠀はいᤀれば
+ᜀ宅配便᠀たくはいびんᤀの　ᜀ配達履歴᠀はいたつりれきᤀが
+たどれるかも　しれない…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>572785421</Id>
+          <Value>ᜀ誰᠀だれᤀか　いる！
+しかも　ウィルスᜀ化᠀かᤀしてる
+みたいだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>588120585</Id>
+          <Value>ああ～？
+なんだ　テメェは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>606339605</Id>
+          <Value>オレは　ᰏだよ
+そっちこそ　ᜀ誰᠀だれᤀか　ᜀ聞᠀きᤀきたいんだけど！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>622199309</Id>
+          <Value>オレは　フライトの　アプリ
+ジェットモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>643171094</Id>
+          <Value>ただいま　ᜀ注文᠀ちゅうもんᤀの　ᜀ荷物᠀にもつᤀが
+とびっきりの　ᜀ速達᠀そくたつᤀで　ᜀ届᠀とどᤀくように
+ᜀ空᠀そらᤀのᜀ便᠀びんᤀを　ᜀ手配中᠀てはいちゅうᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>656015890</Id>
+          <Value>あれ？
+ちゃんと　ᜀ仕事᠀しごとᤀしてるみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>674104083</Id>
+          <Value>でも　ウィルスᜀ化᠀かᤀ
+してるんだよね…？
+なにか　おかしなこと　ᜀ起᠀おᤀきてないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>689308169</Id>
+          <Value>おかしなことなんか
+ᜀ何᠀なにᤀも　ねえな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>705954313</Id>
+          <Value>あ～　ただ　ひとつ
+ᜀ言᠀いᤀうなら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>725353234</Id>
+          <Value>さっきから　ᜀ配達᠀はいたつᤀルートにある
+ᜀ飛行機᠀ひこうきᤀが　ᜀ同᠀おなᤀじところを
+グルグルしてるんだよなァ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>738984203</Id>
+          <Value>えっ？　どういうこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>756417038</Id>
+          <Value>おもしろいから
+ずっと　グルグルさせてるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>777782053</Id>
+          <Value>ᜀ管制塔᠀かんせいとうᤀに　アクセスして
+ᜀ着陸地点᠀　ちゃくりくちてんᤀに　ᜀ障害物᠀しょうがいぶつᤀあり　ᜀ旋回᠀せんかいᤀせよ！
+とびっきりの　ᜀ高速᠀こうそくᤀで！　ってな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>792724243</Id>
+          <Value>…まさか　ᜀ宅配便᠀たくはいびんᤀに
+ᜀ使᠀つかᤀわれてる　ᜀ飛行機᠀ひこうきᤀが
+ᜀ着陸᠀ちゃくりくᤀできてない　ってこと！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>808059662</Id>
+          <Value>た　ᜀ大変᠀たいへんᤀだ！
+なんとかしなくちゃ！
+ジェットモンを　ᜀ止᠀とᤀめよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>823263755</Id>
+          <Value>なんだァ～？
+ジャマするんじゃねー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>840827407</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ
+ジェットモンを　ᜀ止᠀とᤀめないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>856818187</Id>
+          <Value>なんだァ～？
+ジャマするんじゃねー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>875823891</Id>
+          <Value>フゥ…
+なんだか　ᜀ明᠀あᤀけᜀ方᠀がたᤀのᜀ空᠀そらᤀみたいに
+ス～ッキリした　ᜀ気分᠀きぶんᤀだぜ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>892863253</Id>
+          <Value>スッキリは　よかったけど
+ᜀ早᠀はやᤀく　ᜀ飛行機᠀ひこうきᤀ　おろしてあげて！
+まだ　グルグルしてるんでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>909116183</Id>
+          <Value>そうだった！
+そんじゃ　もうᜀ一度᠀いちどᤀ　ᜀ管制塔᠀かんせいとうᤀに
+アクセスして…　っと</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>924975636</Id>
+          <Value>よし　これで
+ᜀ正常᠀せいじょうᤀどおりの　ᜀ運航᠀うんこうᤀだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>941097488</Id>
+          <Value>ほっ…
+とりあえず　ひとᜀ安心᠀あんしんᤀだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>960496406</Id>
+          <Value>もー…　ナビᜀ属性᠀ぞくせいᤀの　アプモンでしょ？
+ウィルスᜀ化᠀かᤀしてたからって
+こういうことには　ᜀ気᠀きᤀをつけてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>974127372</Id>
+          <Value>おお！　ᜀ気᠀きᤀをつけるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>995230486</Id>
+          <Value>それじゃ　ᜀ今回᠀こんかいᤀは　ありがとうな
+ᜀ例᠀れいᤀの　ᜀ荷物᠀にもつᤀは　ᜀ最短᠀さいたんᤀルートで
+ここまでᜀ来᠀くᤀるように　ᜀ手配᠀てはいᤀしておくぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008206349</Id>
+          <Value>うん　ありがとう！
+おねがいね　ジェットモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1023672579</Id>
+          <Value>ああ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043333907</Id>
+          <Value>さてと…
+これで　ᜀ解決᠀かいけつᤀしたのかな？
+おねえさんのところに　ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060766485</Id>
+          <Value>ᜀ宅配便᠀たくはいびんᤀが　ᜀ届᠀とどᤀかないᜀ上᠀うえᤀに
+ᜀ連絡᠀れんらくᤀまで　とれないなんて
+おかしいわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1079771932</Id>
+          <Value>ᜀ配達中᠀はいたつちゅうᤀに　ᜀ何᠀なにᤀか　あったのかもしれない
+このᜀ人᠀ひとᤀのスマホから　ᜀ配達履歴᠀はいたつりれきᤀをᜀ見᠀みᤀれば
+ᜀ調᠀しらᤀべられるんじゃ　ないかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094189846</Id>
+          <Value>よし　ＡＲフィールドで
+このᜀ人᠀ひとᤀの　スマホを　ᜀ調᠀しらᤀべてみましょ！
+きっと　なにか　わかるはずよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110835990</Id>
+          <Value>ＡＲフィールドで
+このᜀ人᠀ひとᤀの　スマホを　ᜀ調᠀しらᤀべてみましょ！
+きっと　なにか　わかるはずよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125384717</Id>
+          <Value>ええーっ！？
+それって　どういうことよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_033_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142293005</Id>
+          <Value>だから　それって
+どういうことなのよ　もう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1162085143</Id>
+          <Value>ここから　ＡＲダンジョンにᜀ入᠀はいᤀれば
+ᜀ宅配便᠀たくはいびんᤀの　ᜀ配達履歴᠀はいたつりれきᤀが
+たどれるかも　しれないわね…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176896269</Id>
+          <Value>ᜀ誰᠀だれᤀか　いるわ！
+しかも　ウィルスᜀ化᠀かᤀしてる
+みたいだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_037_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193542165</Id>
+          <Value>ワタシは　ᰏだよ
+そっちこそ　ᜀ誰᠀だれᤀか　ᜀ聞᠀きᤀきたいんだけど！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209664018</Id>
+          <Value>あれ？
+ちゃんと　ᜀ仕事᠀しごとᤀしてるみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227752211</Id>
+          <Value>でも　ウィルスᜀ化᠀かᤀ
+しているのよね…？
+なにか　おかしなこと　ᜀ起᠀おᤀきてないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244398351</Id>
+          <Value>た　ᜀ大変᠀たいへんᤀだ！
+なんとかしなくちゃ！
+ジェットモンを　ᜀ止᠀とᤀめましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_52_063_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261437716</Id>
+          <Value>さてと…
+これで　ᜀ解決᠀かいけつᤀしたかしら？
+おねえさんのところに　ᜀ戻᠀もどᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

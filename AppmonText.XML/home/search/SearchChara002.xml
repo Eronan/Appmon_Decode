@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262403</Id>
+          <Value>イツキ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>19399440</Id>
+          <Value>オンラインゲームアプリ
+オンモンを　バディアプモンとする
+アプリドライヴァーだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>36963092</Id>
+          <Value>ᰏと　ᜀ同᠀おなᤀじように
+つながりをᜀ求᠀もとᤀめて　サイバーアリーナに
+やってきたって　ハナシだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54526741</Id>
+          <Value>どこかで　ちがうᜀ選択᠀せんたくᤀを　していたら
+ᜀ世界᠀せかいᤀを　ᜀ救᠀すくᤀっていたのは
+イツキだったかもな！　なーんて？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

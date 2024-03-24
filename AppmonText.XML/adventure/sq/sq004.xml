@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>207</NumberOfLabels>
+  <NumberOfStrings>207</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>655626</Id>
+          <Value>うーん　どうしよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17695238</Id>
+          <Value>ああ　ᰏちゃん
+こんにちは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34210058</Id>
+          <Value>どうかしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>54002454</Id>
+          <Value>やだな　ᜀ聞᠀きᤀこえちゃってた？
+ᜀ実᠀じつᤀは　スマホの　ᜀ充電᠀じゅうでんᤀケーブルが
+こわれちゃったのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>72352539</Id>
+          <Value>ᜀ南地区᠀みなみちくᤀの　ケータイショップで　ᜀ使᠀つかᤀえる
+ᜀ充電᠀じゅうでんᤀケーブルのᜀ引換券᠀ひきかえけんᤀが　あるから
+ᜀ使᠀つかᤀいたいんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88343317</Id>
+          <Value>ᜀ期限᠀きげんᤀが　ᜀ今日᠀きょうᤀまでなんだ
+でも　ᜀ今日᠀きょうᤀは　ᜀ用事᠀ようじᤀがあるから
+ᜀ家᠀いえᤀを　はなれられないの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103678734</Id>
+          <Value>あはは　ᜀ困᠀こまᤀっちゃってさ
+ᜀ引換券᠀ひきかえけんᤀは
+あきらめるしか　ないのかもね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489611</Id>
+          <Value>えーっ
+そんな　もったいない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135660046</Id>
+          <Value>そうなんだよね
+だから　どうしようかなって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>153879314</Id>
+          <Value>そうだ　ᰏちゃんが
+かわりに　ᜀ充電᠀じゅうでんᤀケーブルを
+もらってきてくれるとか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>168952332</Id>
+          <Value>…なんてね
+キミも　いそがしそうだし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>188613397</Id>
+          <Value>ᜀ南地区᠀みなみちくᤀの　ケータイショップまで
+おつかいに　ᜀ行᠀いᤀくくらい
+ᜀ手伝᠀てつだᤀってあげられそうだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203555595</Id>
+          <Value>うん　いいよ！
+ᜀ充電᠀じゅうでんᤀケーブル
+もらってきてあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>219677195</Id>
+          <Value>ᜀ本当᠀ほんとうᤀ！？
+とっても　たすかるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>236716563</Id>
+          <Value>じゃあ…
+はい　これが　ᜀ引換券᠀ひきかえけんᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>254280215</Id>
+          <Value>ᜀ充電᠀じゅうでんᤀケーブルのᜀ引換券᠀ひきかえけんᤀを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>268566784</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>287048204</Id>
+          <Value>ᜀ言᠀いᤀうほどの　ことじゃ
+ないかも　しれないけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316052</Id>
+          <Value>ケータイショップは
+ᜀ今᠀いまᤀいる　ᜀ北地区᠀きたちくᤀをᜀ出᠀でᤀて
+ᜀ南地区᠀みなみちくᤀの　ᜀ奥᠀おくᤀに　あるからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>321258256</Id>
+          <Value>おᜀ手伝᠀てつだᤀい　ひきうけてくれて
+ありがとう！
+よろしくね　ᰏちゃん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>340787995</Id>
+          <Value>ᜀ南地区᠀みなみちくᤀの　ケータイショップで　ᜀ使᠀つかᤀえる
+ᜀ充電᠀じゅうでんᤀケーブルのᜀ引換券᠀ひきかえけんᤀが　あるから
+ᜀ使᠀つかᤀいたいんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>356778773</Id>
+          <Value>ᜀ期限᠀きげんᤀが　ᜀ今日᠀きょうᤀまでなんだ
+でも　ᜀ今日᠀きょうᤀは　ᜀ用事᠀ようじᤀがあるから
+ᜀ家᠀いえᤀを　はなれられないの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>373424916</Id>
+          <Value>ケータイショップは
+ᜀ今᠀いまᤀいる　ᜀ北地区᠀きたちくᤀをᜀ出᠀でᤀて
+ᜀ南地区᠀みなみちくᤀの　ᜀ奥᠀おくᤀに　あるからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>388367120</Id>
+          <Value>おᜀ手伝᠀てつだᤀい　ひきうけてくれて
+ありがとう！
+よろしくね　ᰏちゃん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>406323989</Id>
+          <Value>いらっしゃいませ
+ごᜀ用件᠀ようけんᤀの　あるᜀ方᠀かたᤀは
+ᜀ受付表᠀うけつけひょうᤀを　おうけとりください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>422183696</Id>
+          <Value>いらっしゃいませ！
+モバイルショップ
+ヒフミがᜀ丘᠀おかᤀ　ᜀ支店᠀してんᤀです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>439354126</Id>
+          <Value>ᜀ店員᠀てんいんᤀロボットの
+ソルティが　ᜀ優秀᠀ゆうしゅうᤀで
+いつも　たよっちゃうんですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>455213836</Id>
+          <Value>…なんだ？
+ᜀ俺᠀おれᤀなんかの　ことは
+ほうっておいてくれないか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>471073290</Id>
+          <Value>！セマイャシッライ
+！セマイャシッライ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>489292305</Id>
+          <Value>ᜀ止᠀とᤀまって！　ᜀ止᠀とᤀまってってば！
+ああもう　どうして　こんなことに？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>506069774</Id>
+          <Value>あっ…　いらっしゃいませ！
+すいません
+ᜀ立᠀たᤀてᜀ込᠀こᤀんで　おりまして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>521798161</Id>
+          <Value>うん…？
+なんだか　ᜀ様子᠀ようすᤀが　おかしいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>541197078</Id>
+          <Value>ᜀ充電᠀じゅうでんᤀケーブルの
+ᜀ引換᠀ひきかえᤀが　できるか
+ᜀ店員᠀てんいんᤀさんに　ᜀ話᠀はなしᤀをᜀ聞᠀きᤀいてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>554959370</Id>
+          <Value>！セマイャシッライ
+！セマイャシッライ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>572391953</Id>
+          <Value>なんだろう
+ᜀ調子᠀ちょうしᤀが　ᜀ悪᠀わるᤀいみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>590480149</Id>
+          <Value>あの　すみません
+ᜀ充電᠀じゅうでんᤀケーブルの　ᜀ引換᠀ひきかえᤀに
+ᜀ来᠀きᤀたんですけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>607257363</Id>
+          <Value>はい　ᜀ充電᠀じゅうでんᤀケーブルですね？
+ᜀ少々᠀しょうしょうᤀ　おᜀ待᠀まᤀちくださ…
+あっ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>621019395</Id>
+          <Value>あっ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>641467154</Id>
+          <Value>ソルティᜀ君᠀くんᤀ　ソルティᜀ君᠀くんᤀ
+ちょっと　ᜀ充電᠀じゅうでんᤀケーブルの
+ᜀ在庫᠀ざいこᤀなんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>655622666</Id>
+          <Value>！セマイャシッライ
+！セマイャシッライ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>672006663</Id>
+          <Value>だ　ダメだ！
+どうしよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>689046025</Id>
+          <Value>その　ロボット
+どうしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>707002897</Id>
+          <Value>それが　ᜀ今朝᠀けさᤀから
+ᜀ調子᠀ちょうしᤀが　おかしいんですよ
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>724435482</Id>
+          <Value>せっかく　ᜀ新機種᠀しんきしゅᤀの　ᜀ発売日᠀はつばいびᤀなのに
+それどころじゃ　なくって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>741999378</Id>
+          <Value>ああ！　おᜀ客᠀きゃくᤀさんに
+こんな　みっともないこと　ᜀ言᠀いᤀって
+ᜀ申᠀もうᤀしᜀ訳᠀わけᤀありません！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>759169813</Id>
+          <Value>ᜀ充電᠀じゅうでんᤀケーブルの　ᜀ引換᠀ひきかえᤀは
+そういうわけで　ロボットが
+ᜀ落᠀おᤀちついてからに　させてください！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>773063178</Id>
+          <Value>！セマイャシッライ
+！セマイャシッライ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>789578248</Id>
+          <Value>ああ　どうしよう
+まいったなあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>807928590</Id>
+          <Value>…これじゃ
+いつまで　ᜀ待᠀まᤀっても
+ᜀ引換᠀ひきかえᤀできそうにないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>825754388</Id>
+          <Value>ロボットの　ᜀ調子᠀ちょうしᤀがおかしいの…
+もしかして　アプモンが
+ᜀ原因᠀げんいんᤀだったり　するかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>840303113</Id>
+          <Value>ＡＲフィールドを
+ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>856949258</Id>
+          <Value>！セマイャシッライ
+！セマイャシッライ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>873464328</Id>
+          <Value>ああ　どうしよう
+まいったなあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>893125394</Id>
+          <Value>あっ　ᜀ充電᠀じゅうでんᤀケーブルですよね
+ロボットが　ᜀ落᠀おᤀちつくまで
+ᜀ少々᠀しょうしょうᤀ　おまちください！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>908591886</Id>
+          <Value>…これじゃ
+いつまで　ᜀ待᠀まᤀっても
+ᜀ引換᠀ひきかえᤀできそうにないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>925631247</Id>
+          <Value>アプモンの　せいかもしれないし
+ＡＲフィールドで
+ロボットを　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>943063826</Id>
+          <Value>ＡＲフィールドで　ᜀ調᠀しらᤀべてみると…
+なんだか　ロボットのデータが
+ぐちゃぐちゃに　なってるみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>959709974</Id>
+          <Value>どうしてだろう？
+ここだけじゃ　わからないや
+ᜀ他᠀ほかᤀのところに　ᜀ問題᠀もんだいᤀがあるのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>975045133</Id>
+          <Value>このあたりを　もうᜀ少᠀すこᤀし
+ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>992346896</Id>
+          <Value>ねえ…　もしかして　ロボットが
+おかしいことについて
+なにかしらない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008337421</Id>
+          <Value>…ᜀ俺᠀おれᤀなんて
+ほうっておいて　くれないか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024721423</Id>
+          <Value>ええっ
+そういうわけには　いかないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040974341</Id>
+          <Value>オレは　ᰏ
+キミは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058669070</Id>
+          <Value>ᜀ俺᠀おれᤀは　コンパスのアプリ
+コンパスモン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1073873153</Id>
+          <Value>…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1090650369</Id>
+          <Value>…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1107558659</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125384714</Id>
+          <Value>…コ　コンパスモン
+なにかあったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1145176855</Id>
+          <Value>…この　コンパスモン
+スマホに　ᜀ初期搭載᠀しょきとうさいᤀされる
+アプリの　ᜀ一᠀ひとᤀつとして　ᜀ活躍᠀かつやくᤀしていた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161822997</Id>
+          <Value>しかし　ᜀ今度᠀こんどᤀ
+ᜀ発売᠀はつばいᤀされる　ᜀ新機種᠀しんきしゅᤀから
+ᜀ搭載᠀とうさいᤀされないことに　なった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178075923</Id>
+          <Value>つまり　おはらいᜀ箱᠀ばこᤀと　いうやつだ
+いまどき　コンパスなど
+ᜀ必要᠀ひつようᤀないというわけだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192100109</Id>
+          <Value>そんなことが あったんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210974992</Id>
+          <Value>そのことを　ᜀ考᠀かんがᤀえると
+なんだか
+ᜀ調子᠀ちょうしᤀが　ᜀ悪᠀わるᤀくなって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227358990</Id>
+          <Value>なんだか
+ᜀ周᠀まわᤀりの　ᜀ磁場᠀じばᤀまで
+ノイズが　ひどくなるようで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243611916</Id>
+          <Value>！セマイャシッライ
+！セッマャシ　！セッマ
+！マママ　！－マ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1259995917</Id>
+          <Value>うわー！
+ソルティが
+ますます　おかしなことに！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277559568</Id>
+          <Value>ひどくなるようで…
+っていうか
+ᜀ実際᠀じっさいᤀ　ひどくなってるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293550092</Id>
+          <Value>ねえ　コンパスモン
+きげんを　ᜀ直᠀なおᤀしてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309803021</Id>
+          <Value>はぁ…
+もう　ほうっておいてくれ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1328415505</Id>
+          <Value>ᜀ困᠀こまᤀってるᜀ人᠀ひとᤀも　いるんだし
+ますます
+ほうっておくわけに　いかないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344012812</Id>
+          <Value>…よし　なんとかして
+ᜀ説得᠀せっとくᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359479047</Id>
+          <Value>コンパスモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379795732</Id>
+          <Value>だから　ほうっておいてくれ
+どうせ　ᜀ俺᠀おれᤀなんて　アプリは
+もう　ᜀ誰᠀だれᤀにも　ᜀ使᠀つかᤀわれやしないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394344213</Id>
+          <Value>コンパスアプリなんて　ᜀ誰᠀だれᤀもᜀ使᠀つかᤀわない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1409810695</Id>
+          <Value>そんなことない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429734169</Id>
+          <Value>そんなことないよ
+だって　アプリは　ᜀ必要᠀ひつようᤀなᜀ人᠀ひとᤀがいるから
+ᜀ生᠀うᤀまれたんでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1443496201</Id>
+          <Value>それは　そうだが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463943959</Id>
+          <Value>それでも　ᜀ実際᠀じっさいᤀに　ᜀ使᠀つかᤀわれないから
+こうやって
+ᜀ削除᠀さくじょᤀされる　ᜀ運命᠀うんめいᤀにあるわけで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479148303</Id>
+          <Value>どうせ　あっても
+ᜀ容量᠀ようりょうᤀを　くうだけの
+ジャマアプリと　いうわけだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493696776</Id>
+          <Value>そうかもしれない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510736139</Id>
+          <Value>そうかもしれないけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528693265</Id>
+          <Value>もう　いいんだ
+ほうっておいてくれ　ᜀ俺᠀おれᤀなんて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1543897349</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562247693</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1578238225</Id>
+          <Value>コンパスアプリなんて　ジャマなだけ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594097923</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1610875139</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1629225489</Id>
+          <Value>ほらな
+ᜀ返᠀かえᤀすᜀ言葉᠀ことばᤀも　ないんだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646133777</Id>
+          <Value>もう　いいんだ
+ほうっておいてくれ　ᜀ俺᠀おれᤀなんて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1661337861</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1679688205</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1695154442</Id>
+          <Value>そんなことないって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1715208983</Id>
+          <Value>そんなことないって！
+どんな　アプリだって
+ᜀ使᠀つかᤀうᜀ人᠀ひとᤀと　ᜀ使᠀つかᤀわないᜀ人᠀ひとᤀが　いるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731461906</Id>
+          <Value>オレなんかは　ゲームばっかり
+スマホに　はいっているけど
+やらないᜀ人᠀ひとᤀには　ジャマなだけだろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747976724</Id>
+          <Value>…うるさい！　いいᜀ加減᠀かげんᤀにしろ！
+ᜀ調子᠀ちょうしᤀのいいことばかり　ᜀ言᠀いᤀって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764885265</Id>
+          <Value>おᜀ前᠀まえᤀ　ᜀ正直᠀しょうじきᤀなところ
+コンパスの　アプリを
+どう　ᜀ思᠀おもᤀってる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779695888</Id>
+          <Value>コンパスアプリを　どうᜀ思᠀おもᤀう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1795817737</Id>
+          <Value>めっちゃサイコー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1814823695</Id>
+          <Value>もう　サイコーだよ！
+このᜀ世᠀よᤀに　なくっちゃダメ！
+ᜀ生᠀いᤀきていけない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1831994132</Id>
+          <Value>からかっているのか！？
+そんなの　おᜀ世辞᠀せじᤀだと　すぐわかる！
+もう　ほうっておいてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1845887237</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864237581</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1880228110</Id>
+          <Value>ᜀ必要᠀ひつようᤀなんじゃないかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1900020505</Id>
+          <Value>ᜀ必要᠀ひつようᤀなんじゃないかな
+ᜀ誰᠀だれᤀもが　みんな
+ᜀ日常的᠀にちじょうてきᤀに　ᜀ使᠀つかᤀうものじゃないけどさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1917453079</Id>
+          <Value>コンパスの　アプリは
+ᜀ電波᠀でんぱᤀがないᜀ場所᠀ばしょᤀでも　ᜀ使᠀つかᤀえるし
+いざというᜀ時᠀ときᤀ　ᜀ必要᠀ひつようᤀになるでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1930035465</Id>
+          <Value>…　そうだろうか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1947992590</Id>
+          <Value>こんなᜀ俺᠀おれᤀでも
+まだ　やっていけるだろうか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1963327749</Id>
+          <Value>あんまり…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1981940241</Id>
+          <Value>あんまり…
+ᜀ使᠀つかᤀいᜀ道᠀みちᤀも　ᜀ多᠀おおᤀくないし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1997799948</Id>
+          <Value>そうだよな…
+ああ　わかっているとも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>2014970384</Id>
+          <Value>そういうわけだ
+もう　ほうっておいてくれないか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>2030436613</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>2048786957</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>2064646415</Id>
+          <Value>コンパスモンは　やっていける？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>2080768261</Id>
+          <Value>もちろん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>2098856459</Id>
+          <Value>もちろんだよ！
+ᜀ自信᠀じしんᤀを　ᜀ持᠀もᤀっ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2115764501</Id>
+          <Value>おᜀ前᠀まえᤀ　ナビモンᜀ派᠀はᤀかーーーーーーッ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2131230983</Id>
+          <Value>えっ　なに！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2149450255</Id>
+          <Value>ナビの　アプリがあるなら
+コンパスなんて　いらないだろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2166620689</Id>
+          <Value>もういい！　ほうっておいてくれ！
+ほうっておいてくれーーーーッ！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2181431557</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2199781901</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2215379212</Id>
+          <Value>やれるんじゃないスカ～？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2234122772</Id>
+          <Value>やれるんじゃないスカ～？
+ᜀ明日᠀あしたᤀから　やるᜀ気᠀きᤀ　ᜀ出᠀だᤀすんスカ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2249982478</Id>
+          <Value>やるᜀ気᠀きᤀ　ゼロじゃないか！
+バカにしてるのか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>2266759694</Id>
+          <Value>いや　なんとなく
+ᜀ選᠀えらᤀんじゃったっていうか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>2283012621</Id>
+          <Value>もういい！
+もう　ほうっておいてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>2298872069</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>2317222413</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>2332426501</Id>
+          <Value>がんばれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>2350645771</Id>
+          <Value>うん　がんばれ！
+ᜀ自信᠀じしんᤀᜀ持᠀もᤀってよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>2366112007</Id>
+          <Value>ああ…　ああ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>2386035476</Id>
+          <Value>ありがとう…
+まさか　こんなに　ᜀ優᠀やさᤀしいᜀ言葉᠀ことばᤀを
+かけてもらえると　ᜀ思᠀おもᤀわなかった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>2402026255</Id>
+          <Value>だって　コンパスモン
+すっごい　へこんでたからさ…
+ᜀ元気᠀げんきᤀでたなら　よかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>2419327764</Id>
+          <Value>…しかし
+ᜀ君᠀きみᤀの　スマホには　コンパスのアプリが
+ᜀ入᠀はいᤀっていないように　ᜀ見᠀みᤀえる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_142</Key>
+      <Values>
+        <BtxtString>
+          <Id>2432958724</Id>
+          <Value>えっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_143</Key>
+      <Values>
+        <BtxtString>
+          <Id>2452620051</Id>
+          <Value>いや　いいのだ
+ᜀ今᠀いまᤀまでは　ᜀ必要᠀ひつようᤀではなかった
+ただそれだけの　ことだからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_144</Key>
+      <Values>
+        <BtxtString>
+          <Id>2469921552</Id>
+          <Value>だが…　ᜀ俺᠀おれᤀは
+ᜀ元気᠀げんきᤀづけてくれた　ᜀ君᠀きみᤀの
+ᜀ役᠀やくᤀにたちたいと　ᜀ思᠀おもᤀう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_145</Key>
+      <Values>
+        <BtxtString>
+          <Id>2484601105</Id>
+          <Value>これを　ᜀ受᠀うᤀけᜀ取᠀とᤀってくれないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_146</Key>
+      <Values>
+        <BtxtString>
+          <Id>2501902861</Id>
+          <Value>コンパスモンのかけらを
+１００ᜀ個᠀こᤀ　ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_147</Key>
+      <Values>
+        <BtxtString>
+          <Id>2518024720</Id>
+          <Value>これ…　コンパスモンのかけらだ！
+いいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_148</Key>
+      <Values>
+        <BtxtString>
+          <Id>2536768275</Id>
+          <Value>ああ
+ᜀ使᠀つかᤀってくれた　そのᜀ時᠀ときᤀには
+ᜀ君᠀きみᤀの　ᜀ道案内᠀みちあんないᤀをしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_149</Key>
+      <Values>
+        <BtxtString>
+          <Id>2552103437</Id>
+          <Value>うん　きっとᜀ使᠀つかᤀうよ！
+ありがとう　コンパスモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_150</Key>
+      <Values>
+        <BtxtString>
+          <Id>2569142801</Id>
+          <Value>こちらこそ　ᜀ声᠀こえᤀをかけてもらって
+どんなに　うれしかったか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_151</Key>
+      <Values>
+        <BtxtString>
+          <Id>2585920013</Id>
+          <Value>ᜀ本当᠀ほんとうᤀに　ありがとう
+それでは　また　ᜀ会᠀あᤀおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_152</Key>
+      <Values>
+        <BtxtString>
+          <Id>2602304020</Id>
+          <Value>さてと
+これで　ᜀ一件落着᠀いっけんらくちゃくᤀかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_153</Key>
+      <Values>
+        <BtxtString>
+          <Id>2622489372</Id>
+          <Value>…そうだ！
+ᜀ充電᠀じゅうでんᤀケーブルの　ᜀ引換᠀ひきかえᤀにᜀ来᠀きᤀたんだった！
+ᜀ店員᠀てんいんᤀさんの　ᜀ様子᠀ようすᤀをᜀ見᠀みᤀにᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_154</Key>
+      <Values>
+        <BtxtString>
+          <Id>2635989521</Id>
+          <Value>いらっしゃいませ
+ごᜀ用件᠀ようけんᤀを　おうかがいします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_155</Key>
+      <Values>
+        <BtxtString>
+          <Id>2654077711</Id>
+          <Value>ロボットが　ᜀ直᠀なおᤀってる！
+これなら　ᜀ店員᠀てんいんᤀさんとも
+ᜀ話᠀はなしᤀができそうだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_156</Key>
+      <Values>
+        <BtxtString>
+          <Id>2670199563</Id>
+          <Value>ああ　おᜀ客᠀きゃくᤀさん！
+ようやく　ロボットが
+ᜀ落᠀おᤀちついたんですよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_157</Key>
+      <Values>
+        <BtxtString>
+          <Id>2686845458</Id>
+          <Value>ᜀ遅᠀おそᤀくなって　すみません
+ごᜀ用件᠀ようけんᤀを　おうかがいします！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_158</Key>
+      <Values>
+        <BtxtString>
+          <Id>2703753754</Id>
+          <Value>はい！
+ᜀ充電᠀じゅうでんᤀケーブルの　ᜀ引換᠀ひきかえᤀにᜀ来᠀きᤀました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_159</Key>
+      <Values>
+        <BtxtString>
+          <Id>2721448722</Id>
+          <Value>ᜀ引換券᠀ひきかえけんᤀは…
+はい！　おᜀ持᠀もᤀちですね
+ᜀ少々᠀しょうしょうᤀ　おᜀ待᠀まᤀちください！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_160</Key>
+      <Values>
+        <BtxtString>
+          <Id>2737570329</Id>
+          <Value>ソルティᜀ君᠀くんᤀ！
+ᜀ充電᠀じゅうでんᤀケーブルの　ᜀ引換᠀ひきかえᤀをおねがい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_161</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753692178</Id>
+          <Value>かしこまりました
+ᜀ少々᠀しょうしょうᤀ　おᜀ待᠀まᤀちください！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_162</Key>
+      <Values>
+        <BtxtString>
+          <Id>2768634118</Id>
+          <Value>…やったね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_163</Key>
+      <Values>
+        <BtxtString>
+          <Id>2787246610</Id>
+          <Value>おᜀ待᠀まᤀたせしました
+こちらが　ᜀ充電᠀じゅうでんᤀケーブルです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_164</Key>
+      <Values>
+        <BtxtString>
+          <Id>2803499532</Id>
+          <Value>ᜀ充電᠀じゅうでんᤀケーブルを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_165</Key>
+      <Values>
+        <BtxtString>
+          <Id>2819358987</Id>
+          <Value>ありがとうございます！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_166</Key>
+      <Values>
+        <BtxtString>
+          <Id>2837447436</Id>
+          <Value>よし
+おとなりの　おねえさんに
+ᜀ届᠀とどᤀけにᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_167</Key>
+      <Values>
+        <BtxtString>
+          <Id>2854093329</Id>
+          <Value>いらっしゃいませ
+ごᜀ用件᠀ようけんᤀを　おうかがいします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_168</Key>
+      <Values>
+        <BtxtString>
+          <Id>2873099030</Id>
+          <Value>うん！　もう　ᜀ大丈夫᠀だいじょうぶᤀそう！
+おとなりの　おねえさんに
+ᜀ充電᠀じゅうでんᤀケーブルを　ᜀ届᠀とどᤀけにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_169</Key>
+      <Values>
+        <BtxtString>
+          <Id>2889220885</Id>
+          <Value>いらっしゃいませ！
+ああ　さっきの　おᜀ客᠀きゃくᤀさん！
+ᜀ充電᠀じゅうでんᤀケーブルは　いかがでしたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_170</Key>
+      <Values>
+        <BtxtString>
+          <Id>2905080592</Id>
+          <Value>…へえ
+おとなりの　おねえさんへの
+おᜀ届᠀とどᤀけᜀ物᠀ものᤀだったんですか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_171</Key>
+      <Values>
+        <BtxtString>
+          <Id>2922251026</Id>
+          <Value>ᜀ早᠀はやᤀく　ᜀ届᠀とどᤀけてあげてください！
+きっと　あなたを
+ᜀ待᠀まᤀっていますよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_172</Key>
+      <Values>
+        <BtxtString>
+          <Id>2937979160</Id>
+          <Value>ᜀ充電᠀じゅうでんᤀケーブル　ᜀ交換᠀こうかんᤀしてきたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_173</Key>
+      <Values>
+        <BtxtString>
+          <Id>2954363402</Id>
+          <Value>ᜀ本当᠀ほんとうᤀに！？
+ありがとう　ᰏちゃん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_174</Key>
+      <Values>
+        <BtxtString>
+          <Id>2973893394</Id>
+          <Value>けっこう　ᜀ時間᠀じかんᤀがかかってたけど
+もしかして　おᜀ店᠀みせᤀが　ᜀ混᠀こᤀんでた？
+ᜀ面倒᠀めんどうᤀかけさせちゃったね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_175</Key>
+      <Values>
+        <BtxtString>
+          <Id>2988573453</Id>
+          <Value>でも　ᜀ助᠀たすᤀかっちゃった！
+また　なにかあったら
+よろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_201</Key>
+      <Values>
+        <BtxtString>
+          <Id>3004563980</Id>
+          <Value>ごめん　いまはちょっと
+やることがあって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_202</Key>
+      <Values>
+        <BtxtString>
+          <Id>3021996810</Id>
+          <Value>うんうん　そうだよね
+じゃあ　ᰏちゃん
+またᜀ今度᠀こんどᤀね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_201_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3038249486</Id>
+          <Value>ごめんなさい　いまはちょっと
+やることがあって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_028_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3055157778</Id>
+          <Value>うん…？
+なんだか　ᜀ様子᠀ようすᤀが　おかしいわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3072721679</Id>
+          <Value>…これじゃ
+いつまで　ᜀ待᠀まᤀっても
+ᜀ引換᠀ひきかえᤀできそうにないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3090678547</Id>
+          <Value>ロボットの　ᜀ調子᠀ちょうしᤀがおかしいの…
+もしかして　アプモンが
+ᜀ原因᠀げんいんᤀだったり　するのかなあ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_047_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3105227274</Id>
+          <Value>ＡＲフィールドを
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_051_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3123053327</Id>
+          <Value>…これじゃ
+いつまで　ᜀ待᠀まᤀっても
+ᜀ引換᠀ひきかえᤀできそうにないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_052_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3140223760</Id>
+          <Value>アプモンの　せいかもしれないし
+ＡＲフィールドで
+ロボットを　ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3156083213</Id>
+          <Value>このあたりを　もうᜀ少᠀すこᤀし
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3172205072</Id>
+          <Value>ええっ
+そういうわけには　いかないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_059_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3188457989</Id>
+          <Value>ワタシは　ᰏ
+アナタは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3207332624</Id>
+          <Value>ᜀ困᠀こまᤀってるᜀ人᠀ひとᤀも　いるんだし
+ますます
+ほうっておくわけに　いかないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_077_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3223061005</Id>
+          <Value>…よし　なんとかして
+ᜀ説得᠀せっとくᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_090_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3239969294</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3256746510</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_100_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3274965779</Id>
+          <Value>ワタシなんかは　ゲームばっかり
+スマホに　はいっているけど
+やらないᜀ人᠀ひとᤀには　ジャマなだけでしょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_105_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3291087630</Id>
+          <Value>もう　サイコーだわ！
+このᜀ世᠀よᤀに　なくっちゃダメ！
+ᜀ生᠀いᤀきていけないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_108_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3307078158</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_110_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3325952793</Id>
+          <Value>ᜀ必要᠀ひつようᤀなんじゃないかな
+ᜀ誰᠀だれᤀもが　みんな
+ᜀ日常的᠀にちじょうてきᤀに　ᜀ使᠀つかᤀうものじゃないけどね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_119_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3340632590</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_122_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3357016587</Id>
+          <Value>もちろんよ！
+ᜀ自信᠀じしんᤀを　ᜀ持᠀もᤀっ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_128_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3374187022</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_135_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3390964238</Id>
+          <Value>も　もうᜀ一度᠀いちどᤀ
+ᜀ挑戦᠀ちょうせんᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_140_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3408659215</Id>
+          <Value>だって　コンパスモン
+すっごい　へこんでたからさ…
+ᜀ元気᠀げんきᤀでたなら　よかったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_153_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3427926812</Id>
+          <Value>…そうだ！
+ᜀ充電᠀じゅうでんᤀケーブルの　ᜀ引換᠀ひきかえᤀにᜀ来᠀きᤀたんだった！
+ᜀ店員᠀てんいんᤀさんの　ᜀ様子᠀ようすᤀをᜀ見᠀みᤀにᜀ行᠀いᤀかなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_155_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3442606863</Id>
+          <Value>ロボットが　ᜀ直᠀なおᤀってる！
+これなら　ᜀ店員᠀てんいんᤀさんとも
+ᜀ話᠀はなしᤀができそうね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_04_168_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3460432664</Id>
+          <Value>うん！　もう　ᜀ大丈夫᠀だいじょうぶᤀそう！
+おとなりの　おねえさんに
+ᜀ充電᠀じゅうでんᤀケーブルを　ᜀ届᠀とどᤀけにいきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>11</NumberOfLabels>
+  <NumberOfStrings>11</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>いくぞ　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>20054802</Id>
+          <Value>ふっ…　ᰏ
+ずいぶん　ᜀ腕᠀うでᤀをあげたようだな
+だが　このバトル　ᜀ勝᠀かᤀつのはᜀ俺᠀おれᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>35390218</Id>
+          <Value>ナオト！
+ᜀ手᠀てᤀをぬいたりしたら
+ゆるさないからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>53478157</Id>
+          <Value>ᜀ安心᠀あんしんᤀしろ　ᰏ
+ᜀ俺᠀おれᤀは　おᜀ前᠀まえᤀにだけは
+ᜀ負᠀まᤀけられないんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>71172883</Id>
+          <Value>それは　オレもᜀ同᠀おなᤀじだ！
+オレもナオトにだけは　ᜀ負᠀まᤀけられない！
+このバトル　ぜったいにᜀ勝᠀かᤀってみせる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_00_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541705</Id>
+          <Value>いくよ！　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>102499082</Id>
+          <Value>ナオト！
+ᜀ手᠀てᤀをぬいたりしたら
+ゆるさないから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>121504531</Id>
+          <Value>それは　ワタシもᜀ同᠀おなᤀじ！
+ワタシもナオトにだけはᜀ負᠀まᤀけられない！
+このバトル　ぜったいにᜀ勝᠀かᤀってみせる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_05</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543896</Id>
+          <Value>たった２ᜀヶ月᠀かげつᤀで
+このサイバーアリーナの　ᜀ頂点᠀ちょうてんᤀにᜀ立᠀たᤀった
+ふたりのᜀ天才᠀てんさいᤀドライヴァー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_06</Key>
+      <Values>
+        <BtxtString>
+          <Id>154665747</Id>
+          <Value>ᰏとナオトのバトルが
+なんとなんとぉ　ついにᜀ実現᠀じつげんᤀ！
+ᜀＹＥＡＡＡＡＡＡＡＡＡＨ᠀イェーーーーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_07</Key>
+      <Values>
+        <BtxtString>
+          <Id>171836186</Id>
+          <Value>ᜀ最高᠀さいこうᤀのライバルによる　ᜀ最高᠀さいこうᤀのバトル！
+みんな！　このバトルは
+ᜀ見᠀みᤀのがせねぇぇぇぇゼぃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

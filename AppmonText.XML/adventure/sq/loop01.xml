@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>57</NumberOfLabels>
+  <NumberOfStrings>57</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>3932952</Id>
+          <Value>バディの　カリキュモンは
+ᜀ下水道᠀げすいどうᤀの　ᜀ都市管理᠀としかんりᤀシステムを
+よく　ᜀ見回᠀みまわᤀってるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20185873</Id>
+          <Value>ほら　こういうところって
+ᜀ数字᠀すうじᤀで　いっぱいでしょ？
+それが　ᜀ楽᠀たのᤀしいらしいんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36307725</Id>
+          <Value>そうすると　システムに
+イタズラする　アプモンを
+ᜀ見᠀みᤀつけるみたいなんだよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52953873</Id>
+          <Value>ヤツら
+あとから　あとから　わいてきて
+ᜀ数᠀かぞᤀえきれないほどで　ありマス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71041821</Id>
+          <Value>それで　ᰏが
+もし　よかったらなんだけどさ
+ᜀ下水道᠀げすいどうᤀの　ᜀ見回᠀みまわᤀり　ᜀ手伝᠀てつだᤀってくれない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87556886</Id>
+          <Value>わたしたちと　いっしょに
+ᜀ下水道᠀げすいどうᤀにいって　アプモンのᜀ影᠀かげᤀと
+バトルしてくれれば　いいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>104596240</Id>
+          <Value>ᜀ気᠀きᤀがむいたら　ᜀ手伝᠀てつだᤀってよ
+ちょっとだけ　おᜀ礼᠀れいᤀもするし…
+ここで　ᜀ待᠀まᤀってるからさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620681</Id>
+          <Value>おᜀ待᠀まᤀちしているで
+ありマス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>134611204</Id>
+          <Value>やあ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154796821</Id>
+          <Value>いまね　カリキュモンが
+ᜀ都市管理᠀としかんりᤀシステムの
+ᜀ数値᠀すうちᤀが　おかしいって　ᜀ言᠀いᤀってたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170656528</Id>
+          <Value>そうなので　ありマス！
+また　よからぬアプモンが
+ᜀ悪᠀わるᤀさしているので　ありマス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>188220182</Id>
+          <Value>わたしたちと　いっしょに
+ᜀ下水道᠀げすいどうᤀにいって　アプモンのᜀ影᠀かげᤀと
+バトルしてくれればいいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>204342032</Id>
+          <Value>ᰏには　３ᜀ回᠀かいᤀくらい
+バトルしてきて　ほしいんだけど…
+ᜀ手伝᠀てつだᤀってくれる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>220463386</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀの　ᜀ見回᠀みまわᤀりを　ᜀ手伝᠀てつだᤀおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>235536902</Id>
+          <Value>いいよ
+ひきうけた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>253624850</Id>
+          <Value>ありがとう　ᰏ！
+じゃあ　ᜀ下水道᠀げすいどうᤀにいこうか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271450893</Id>
+          <Value>ᜀ今日᠀きょうᤀは　やめとくよ
+また　ᜀ次᠀つぎᤀのᜀ機会᠀きかいᤀに
+てつだわせてもらうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>286523917</Id>
+          <Value>そっか
+じゃあ　またᜀ今度᠀こんどᤀね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>304743184</Id>
+          <Value>ᰏ！
+ᜀ下水道᠀げすいどうᤀの　ᜀ見回᠀みまわᤀり
+やりᜀ直᠀なおᤀしてくれるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>321126682</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀの　ᜀ見回᠀みまわᤀりを　ᜀ手伝᠀てつだᤀおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>337379859</Id>
+          <Value>あっ　ᰏ！
+さっきは　おᜀ手伝᠀てつだᤀい　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>356647707</Id>
+          <Value>おかげさまで　ᜀ都市管理᠀としかんりᤀシステムは
+オールグリーン
+ᜀ現在᠀げんざいᤀは　ᜀ通常運転᠀つうじょううんてんᤀでありマス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>373424918</Id>
+          <Value>またᜀ明日᠀あしたᤀも
+ᜀ大丈夫᠀だいじょうぶᤀだと　いいんだけど…
+ᜀ様子᠀ようすᤀ　ᜀ見᠀みᤀにᜀ来᠀きᤀてくれると　うれしいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>388891409</Id>
+          <Value>それじゃあ　このあたりで
+アプモンのᜀ影᠀かげᤀと
+３ᜀ回᠀かいᤀ　バトルしてきてほしいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>406061844</Id>
+          <Value>そうしたら　ᜀ都市管理᠀としかんりᤀシステムも
+ᜀ安定᠀あんていᤀする　はずだから！
+おねがいね　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>422314767</Id>
+          <Value>ᰏに　おねがいしたのは
+アプモンのᜀ影᠀かげᤀとの　バトルを
+あと３ᜀ回᠀かいᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>439091983</Id>
+          <Value>ᰏに　おねがいしたのは
+アプモンのᜀ影᠀かげᤀとの　バトルを
+あと２ᜀ回᠀かいᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>455869199</Id>
+          <Value>ᰏに　おねがいしたのは
+アプモンのᜀ影᠀かげᤀとの　バトルを
+あと１ᜀ回᠀かいᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>471466509</Id>
+          <Value>それとも　いまはあきらめて
+ᜀ町᠀まちᤀにもどる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>487719182</Id>
+          <Value>あきらめて　ᜀ町᠀まちᤀにもどる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>503841032</Id>
+          <Value>まだ　つづける！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>520749321</Id>
+          <Value>まだ　つづけるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>537788938</Id>
+          <Value>うん！
+じゃあ　よろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>554434824</Id>
+          <Value>ᜀ町᠀まちᤀに　もどる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>571736334</Id>
+          <Value>うん　ᜀ一度᠀いちどᤀ　ᜀ帰᠀かえᤀるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>588644877</Id>
+          <Value>わかったよ
+それじゃあ　ᜀ帰᠀かえᤀろうか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>605815313</Id>
+          <Value>ᰏ　すごいすごい！
+たくさん　バトルしてきてくれたね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>625083164</Id>
+          <Value>ᜀ都市管理᠀としかんりᤀシステムの
+ᜀ数値異常᠀すうちいじょうᤀは　ᜀ解消᠀かいしょうᤀされたでありマス
+すばらしいで　ありマス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>639762957</Id>
+          <Value>これなら　ᜀ今日᠀きょうᤀはもう
+ᜀ大丈夫᠀だいじょうぶᤀそうだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>657195790</Id>
+          <Value>おつかれさま　ᰏ
+ᜀ本当᠀ほんとうᤀに　ありがとう！
+じゃあ　ᜀ町᠀まちᤀにもどろうか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>673841935</Id>
+          <Value>アプモンのᜀ影᠀かげᤀと
+３ᜀ回᠀かいᤀ　バトルしてほしいって
+たのまれているけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>689307922</Id>
+          <Value>あきらめて　ᜀ下水道᠀げすいどうᤀをでる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>705167624</Id>
+          <Value>まだ　つづける！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>722338059</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀをでる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>742785810</Id>
+          <Value>そろそろ　ᜀ都市管理᠀かんりᤀシステムの
+ᜀ異常᠀いじょうᤀは　ᜀ直᠀なおᤀったかな…？
+ᜀ一度᠀いちどᤀ　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>756023568</Id>
+          <Value>クラスメイトのところに　もどる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>772014340</Id>
+          <Value>もどる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>788791556</Id>
+          <Value>まだまだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>807404048</Id>
+          <Value>バッテリー　なくなっちゃったの？
+ちょっと　ᜀ待᠀まᤀっててね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>824312340</Id>
+          <Value>クラスメイトは　ᰏに
+バッテリーチャージャーXを　ᜀ使᠀つかᤀった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>840696336</Id>
+          <Value>はい　これでᜀ大丈夫᠀だいじょうぶᤀ！
+まだ　つづける？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>856162568</Id>
+          <Value>まだ　つづける？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>874250766</Id>
+          <Value>これ　おᜀ礼᠀れいᤀだよ
+よかったら　またよろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>890765836</Id>
+          <Value>バージョンアップパッチを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>906625290</Id>
+          <Value>まだ　つづけるわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>924057870</Id>
+          <Value>うん　ᜀ一度᠀いちどᤀ　ᜀ帰᠀かえᤀるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_01_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>944374549</Id>
+          <Value>そろそろ　ᜀ都市管理᠀としかんりᤀシステムの
+ᜀ異常᠀いじょうᤀは　ᜀ直᠀なおᤀったかな…？
+ᜀ一度᠀いちどᤀ　ᜀ報告᠀ほうこくᤀしに　いきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

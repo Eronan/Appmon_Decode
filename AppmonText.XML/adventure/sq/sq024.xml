@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>71</NumberOfLabels>
+  <NumberOfStrings>71</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2621970</Id>
+          <Value>オレっちの　ᜀ試練᠀しれんᤀのᜀ対価᠀たいかᤀは
+ミハマスペシャルクレープだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18874897</Id>
+          <Value>オレっち　ᜀ今᠀いまᤀすぐ　ᜀ食᠀たᤀべたくて
+しかたないんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_002_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>39322390</Id>
+          <Value>ᜀ他᠀ほかᤀの　ᜀ屋台᠀やたいᤀから　はなれた　ところの
+ᜀ屋台᠀やたいᤀから　ただよう　ᜀ甘᠀あまᤀいᜀ香᠀かおᤀり…
+くうっ　ᜀ楽᠀たのᤀしみに　ᜀ待᠀まᤀってるからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>53740308</Id>
+          <Value>おっ！　ᜀ待᠀まᤀってたよー　ᜀ待᠀まᤀちかねたよー
+ᜀ早᠀はやᤀく　オレっちに
+クレープを　おくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>69862157</Id>
+          <Value>ミハマᜀ港名物᠀こうめいぶつᤀ
+ミハマスペシャルクレープ！
+これで　いいんだよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>86508301</Id>
+          <Value>ミハマᜀ港名物᠀こうめいぶつᤀ
+ミハマスペシャルクレープ！
+これで　いいのよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>103678736</Id>
+          <Value>もちろんだよ！　これだよ　これ！
+クレープに　つつまれた
+サックサクの　「ガッチモナカ」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>120980240</Id>
+          <Value>ガッチモナカと　ᜀ生᠀なまᤀクリームが
+バツグンに　ᜀ合᠀あᤀうんだよなぁ！
+う～ん！　やっぱり　うまい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>137757455</Id>
+          <Value>よし！　オマエさんのことは
+オレっちが　ᜀ認᠀みとᤀめてやるぜ！
+ᜀ試練᠀しれんᤀ　ᜀ合格᠀ごうかくᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>152961806</Id>
+          <Value>ᰏは
+ミハマᜀ団᠀だんᤀの　ᜀ試練᠀しれんᤀを
+クリアした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>171705107</Id>
+          <Value>オマエさん　いかにも　オヤツに
+ᜀ目᠀めᤀがないってᜀ顔᠀かおᤀしてるのに
+ちゃんとクレープを　ᜀ持᠀もᤀってきたしな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>186253841</Id>
+          <Value>オレっち
+オマエさんのこと　ᜀ気᠀きᤀにいったぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>204210961</Id>
+          <Value>いつか　ᜀ友情᠀ゆうじょうᤀの　しるしに
+ミハマスペシャルクレープを
+おごらせてくれ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021582</Id>
+          <Value>クレープを　おごってもらう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>235274502</Id>
+          <Value>よろこんで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>251789568</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>271057678</Id>
+          <Value>うん！　よろこんで！！
+ミハマスペシャルクレープ
+ホントに　おいしそうだしね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>288359185</Id>
+          <Value>そうか　そうか！
+いやー　ᜀ話᠀はなしᤀのわかるヤツだ
+オレっち　ますます　ᜀ気᠀きᤀにいった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>305398545</Id>
+          <Value>オヤツを　ᜀ取᠀とᤀったこと
+リョウジさんに　ゆるしてもらって
+ミハマᜀ団᠀だんᤀに　はいれるといいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>319422727</Id>
+          <Value>ᜀ悪᠀わるᤀいから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>335675648</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>353632528</Id>
+          <Value>いやぁ　そんなの　ᜀ悪᠀わるᤀいから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>371852049</Id>
+          <Value>そうか　そうか！
+ケンキョな　ヤツだな！
+オレっち　ますます　ᜀ気᠀きᤀにいった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>389284625</Id>
+          <Value>オヤツを　ᜀ取᠀とᤀったこと
+リョウジさんに　ゆるしてもらって
+ミハマᜀ団᠀だんᤀに　はいれるといいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>405144333</Id>
+          <Value>ミハマᜀ港名物᠀こうめいぶつᤀ
+ミハマスペシャルクレープ！
+おいしいわよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>422970129</Id>
+          <Value>サクサクのᜀ歯᠀はᤀごたえが　たまらない
+「ガッチモナカ」を　クレープが
+やさしくつつんで　おいしいわよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>438698767</Id>
+          <Value>ᜀ手᠀てᤀに　いれなきゃいけないのは
+このクレープだな
+１つ　くださーい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>453247235</Id>
+          <Value>はーい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>471597583</Id>
+          <Value>あら　おかしいわ
+クレープが　ᜀ焼᠀やᤀけないみたい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>487588362</Id>
+          <Value>えっと…
+どうかしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>507118352</Id>
+          <Value>クレープを　ᜀ焼᠀やᤀく　ᜀ機械᠀きかいᤀが
+ᜀ急᠀きゅうᤀに　ᜀ動᠀うごᤀかなくなったの
+ᜀ困᠀こまᤀったわねぇ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>522191632</Id>
+          <Value>ᰏ？
+もしかして　ここでも　アプモンが
+イタズラしているのかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_031B</Key>
+      <Values>
+        <BtxtString>
+          <Id>541721368</Id>
+          <Value>うーん　ᜀ最近᠀さいきんᤀの　ᜀ電化製品᠀でんかせいひんᤀは
+ᜀ電子᠀でんしᤀレンジも　ᜀ冷蔵庫᠀れいぞうこᤀも…
+ネットに　つながっているもんな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_031B_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>558498584</Id>
+          <Value>うーん　ᜀ最近᠀さいきんᤀの　ᜀ電化製品᠀でんかせいひんᤀは
+ᜀ電子᠀でんしᤀレンジも　ᜀ冷蔵庫᠀れいぞうこᤀも…
+ネットに　つながっているもんね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>572260877</Id>
+          <Value>ちょっと　ＡＲフィールドで
+ᜀ調᠀しらᤀべてみようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>590349070</Id>
+          <Value>ᜀ困᠀こまᤀったわ
+ᜀ機械᠀きかいᤀが　ᜀ動᠀うごᤀかなくて
+クレープが　ᜀ焼᠀やᤀけないのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>606601745</Id>
+          <Value>その　クレープのᜀ機械᠀きかいᤀ
+たぶん　ᜀ動᠀うごᤀくと　ᜀ思᠀おもᤀいますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>621281544</Id>
+          <Value>えっ　そうなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>638976523</Id>
+          <Value>あら　ホント！
+ちゃんと　ᜀ動᠀うごᤀくわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>658506520</Id>
+          <Value>じゃあ　ちょっと　ためしに
+クレープを　ᜀ焼᠀やᤀいてみようかしら
+この１ᜀ枚᠀まいᤀは　ᜀ無料᠀むりょうᤀサービスしちゃうね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>673710862</Id>
+          <Value>は～い　どうぞ！
+ミハマᜀ港名物᠀こうめいぶつᤀ
+ミハマスペシャルクレープよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>691405585</Id>
+          <Value>サクサクのᜀ歯᠀はᤀごたえが　たまらない
+「ガッチモナカ」を　クレープが
+やさしくつつんで　おいしいのよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>705429771</Id>
+          <Value>ありがとうございます！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>724304659</Id>
+          <Value>ᰏ！
+このクレープ　おいしそうだぞ！
+ᜀ食᠀たᤀべないのか！？　ᜀ食᠀たᤀべないのか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>739901968</Id>
+          <Value>う　うん…
+ᜀ本当᠀ほんとうᤀに　おいしそうだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>757859087</Id>
+          <Value>ううう…　ᜀ試練᠀しれんᤀのためには
+ガマン　ガマン！
+ちゃんと　ᜀ届᠀とどᤀけなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>774243085</Id>
+          <Value>ミハマᜀ港名物᠀こうめいぶつᤀ
+ミハマスペシャルクレープ！
+おいしいわよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>792068881</Id>
+          <Value>サクサクのᜀ歯᠀はᤀごたえが　たまらない
+「ガッチモナカ」を　クレープが
+やさしくつつんで　おいしいわよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>806486539</Id>
+          <Value>この　ＡＲダンジョンが
+あやしいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>824181519</Id>
+          <Value>クックック…
+ᜀ我᠀わᤀが　クッキングスタジアムへ
+ようこそ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>839778827</Id>
+          <Value>え…
+クッキングスタジアム？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>860226326</Id>
+          <Value>こいつは　おᜀ料理᠀りょうりᤀアプリのクックモン！
+きっと　こいつが　ネットから
+クレープのᜀ機械᠀きかいᤀに　ᜀ悪᠀わるᤀさしてるんだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>877134617</Id>
+          <Value>ねぇ　クックモン
+ᜀ機械᠀きかいᤀを　ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀしてもらえないかな？
+クレープが　ᜀ焼᠀やᤀけなくて　ᜀ困᠀こまᤀってるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>893649690</Id>
+          <Value>クックック…
+ᜀ新᠀しんᤀメニューᜀ開発᠀かいはつᤀのために　このᜀ機械᠀きかいᤀは
+ᜀ私᠀わたしᤀが　ᜀ使᠀つかᤀっているところです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>910033435</Id>
+          <Value>ᜀ料理᠀りょうりᤀの　ᜀ最中᠀さいちゅうᤀに　やめてと　ᜀ言᠀いᤀわれて
+ᜀ手᠀てᤀをᜀ止᠀とᤀめる　シェフなど　いません！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>926286613</Id>
+          <Value>ᜀ我᠀わᤀが　ᜀ料理᠀りょうりᤀを　ジャマするものには
+フルコースを　おみまいしましょう！
+クックック！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>943063829</Id>
+          <Value>ᜀ我᠀わᤀが　ᜀ料理᠀りょうりᤀを　ジャマするものには
+フルコースを　おみまいしましょう！
+クックック！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>957612302</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>976356115</Id>
+          <Value>クックック…
+ᜀ敗者᠀はいしゃᤀは　クッキングスタジアムを
+ただ　ᜀ立᠀たᤀちᜀ去᠀さᤀるのみです…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>993919761</Id>
+          <Value>ですが　ᜀ今᠀いまᤀのバトルの　おかげで
+ᜀ新᠀しんᤀメニューが　ひらめきました
+ᜀ感謝᠀かんしゃᤀしますよ　クックック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008730895</Id>
+          <Value>よし！
+これで　クレープが
+ᜀ焼᠀やᤀけるように　なったはずだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026425620</Id>
+          <Value>ᰏ
+クレープ　ᜀ手᠀てᤀにいれて
+ᜀ早᠀はやᤀく　ᜀ試練᠀しれんᤀを　ᜀ終᠀おᤀわらせるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042022929</Id>
+          <Value>うん！
+クレープᜀ屋᠀やᤀさんに　ᜀ戻᠀もどᤀろうか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059324687</Id>
+          <Value>ᜀ手᠀てᤀに　いれなきゃいけないのは
+このクレープね
+１つ　くださーい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075577357</Id>
+          <Value>ちょっと　ＡＲフィールドで
+ᜀ調᠀しらᤀべてみようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091699211</Id>
+          <Value>この　ＡＲダンジョンが
+あやしいわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1112015641</Id>
+          <Value>ねぇ　クックモン
+ᜀ機械᠀きかいᤀを　ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀしてもらえないかな？
+クレープが　ᜀ焼᠀やᤀけなくて　ᜀ困᠀こまᤀってるのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126171406</Id>
+          <Value>うん！
+これで　クレープが
+ᜀ焼᠀やᤀけるように　なったはずね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_059_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142686226</Id>
+          <Value>うん！
+クレープᜀ屋᠀やᤀさんに　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159201295</Id>
+          <Value>う　うん…
+ᜀ本当᠀ほんとうᤀに　おいしそうね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_24_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177027341</Id>
+          <Value>ミハマᜀ港名物᠀こうめいぶつᤀ
+ミハマスペシャルクレープ！
+これで　いいのよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

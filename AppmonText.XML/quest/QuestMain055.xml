@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1573138</Id>
+          <Value>ᜀ大規模᠀だいきぼᤀなᜀ通信᠀つうしんᤀトラブル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>16908546</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38535964</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50462978</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72090396</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84017410</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105644828</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117571842</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199260</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151126274</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172753692</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>184680706</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206308124</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218235138</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239862556</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>251789570</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273416988</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285344002</Id>
+          <Value>学校</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306971420</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323748636</Id>
+          <Value>サイバーアリーナに　ᜀ大規模᠀だいきぼᤀな
+ᜀ通信᠀つうしんᤀトラブルが！　ᜀ学校᠀がっこうᤀに　ᜀ原因᠀げんいんᤀが
+あるみたい…　なんとかしなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>THEME_PRESENT</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048844</Id>
+          <Value>おᜀ手本᠀てほんᤀをおぼえよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>START_PLAYING</Key>
+      <Values>
+        <BtxtString>
+          <Id>18481427</Id>
+          <Value>おᜀ手本᠀てほんᤀどおりにᜀ演奏᠀えんそうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>END_PLAYING</Key>
+      <Values>
+        <BtxtString>
+          <Id>34341129</Id>
+          <Value>ᜀ演奏᠀えんそうᤀおわり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

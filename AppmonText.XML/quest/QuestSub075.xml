@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>524551</Id>
+          <Value>アフターデイズ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39191324</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118347</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72745756</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672779</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106300188</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227211</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139854620</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781643</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173409052</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336075</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206963484</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890507</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240517916</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444939</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274072348</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999371</Id>
+          <Value>ヨンゲン山・展望台広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307626780</Id>
+          <Value>ᜀ指定᠀していᤀされた　ᜀ大会᠀たいかいᤀで　カゲフミと
+バトルして　ᜀ優勝᠀ゆうしょうᤀしよう！　ᜀ優勝᠀ゆうしょうᤀしたら
+クラフトモンに　ᜀ報告᠀ほうこくᤀしにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323355412</Id>
+          <Value>カゲフミと　ᜀ楽᠀たのᤀしいバトルが　できた！
+カゲフミ　ᜀ前᠀まえᤀよりも　ᜀ少᠀すこᤀしだけ
+ᜀ明᠀あかᤀるくなった　ᜀ気᠀きᤀがする！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

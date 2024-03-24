@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917771</Id>
+          <Value>エリᜀ様᠀さまᤀがやってきた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432841</Id>
+          <Value>ミハマ港・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880599</Id>
+          <Value>ミハマᜀ港᠀こうᤀで　ᜀ困᠀こまᤀっているᜀ女᠀おんなᤀのᜀ子᠀こᤀを
+ᜀ見᠀みᤀつけた
+ᜀ助᠀たすᤀけに　なって　あげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380496</Id>
+          <Value>ミハマ港・コンビニＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72483606</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　コンビニに　ᜀ来᠀きᤀたけど
+アクセサリーの　ᜀ落᠀おとᤀしᜀ物᠀ものᤀは　なかった…
+ᜀ念᠀ねんᤀのため　ＡＲフィールドも　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934928</Id>
+          <Value>ミハマ港・コンビニＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104071956</Id>
+          <Value>コンビニに　ＡＲダンジョンが！
+もしかしたら　エリさんの
+アクセサリーに　ᜀ関係᠀かんけいᤀしてるかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489360</Id>
+          <Value>ミハマ港・コンビニＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139330326</Id>
+          <Value>ᜀ奥᠀おくᤀにいた　オクショモンが　エリさんの
+ᜀ大事᠀だいじᤀな　アクセサリーを　ᜀ持᠀もᤀっていた！
+ᜀ戦᠀たたかᤀって　ᜀ取᠀とᤀりᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174865</Id>
+          <Value>ミハマ港・エリさんのところに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172229396</Id>
+          <Value>オクショモンから　アクセサリーを
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀした！　ᜀ早᠀はやᤀく　ᜀ戻᠀もどᤀって
+エリさんに　ᜀ返᠀かえᤀしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467150</Id>
+          <Value>ミハマ港・エントランスゲート</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205259537</Id>
+          <Value>エリさんから　エントランスゲートに
+ᜀ来᠀くᤀるよう　ᜀ指示᠀しじᤀが　あった
+よくわからないけど　ᜀ行᠀いᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152655</Id>
+          <Value>エリさんのスマホＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239207192</Id>
+          <Value>カレンダーアプリから　エリさんの
+スケジュールが　もれているみたい！
+ＡＲダンジョンで　ᜀ原因᠀げんいんᤀを　ᜀ調᠀しらᤀべよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252707087</Id>
+          <Value>エリさんのスマホＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272499476</Id>
+          <Value>エリさんの　スケジュールの　ᜀ漏᠀ろうᤀえいは
+カレンダモンが　ᜀ原因᠀げんいんᤀだった！
+カレンダモンを　やっつけないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>エリさんに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305660691</Id>
+          <Value>なぜか　マネージャーの　ᜀ座᠀ざᤀを　かけて
+エリさんと　バトルすることに…
+ワケわかんないけど　やるしかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322437907</Id>
+          <Value>ᜀ気᠀きᤀづけば　エリさんの　マネージャーに
+ᜀ任命᠀にんめいᤀされてしまった
+リョウジに　ゆずってあげたい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>13</NumberOfLabels>
+  <NumberOfStrings>13</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MONEY_REWARD_NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>131330</Id>
+          <Value>お金</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_DAILY_BONUS</Key>
+      <Values>
+        <BtxtString>
+          <Id>20316700</Id>
+          <Value>ᜀ一日一回᠀いちにちいっかいᤀ　ボーナスで　アイテムをあげるよ
+ᜀ毎日᠀まいにちᤀ　ᜀ会᠀あᤀいにきてね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MENU_ITEM_DAILY_BONUS</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078984</Id>
+          <Value>デイリーボーナス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_LUCKY_APPMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>54526490</Id>
+          <Value>ᜀ日替᠀ひがᤀわりの　おᜀ題᠀だいᤀどおりの　アプモンチップを
+ᜀ見᠀みᤀせてくれたら　ᜀ毎日᠀まいにちᤀ　ボーナスをあげるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MENU_ITEM_LUCKY_APPMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>67633416</Id>
+          <Value>ラッキーアプモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DAILY_BONUS_ENTRANCE</Key>
+      <Values>
+        <BtxtString>
+          <Id>86639372</Id>
+          <Value>ᜀ一日一回᠀いちにちいっかいᤀ
+デイリーボーナスが
+ᜀ受᠀うᤀけᜀ取᠀とᤀれます！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ALREADY_RECEIVE</Key>
+      <Values>
+        <BtxtString>
+          <Id>103416587</Id>
+          <Value>ᜀ本日᠀ほんじつᤀの
+デイリーボーナスは
+ᜀ受᠀うᤀけᜀ取᠀とᤀりᜀ済᠀ずᤀみです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ENTRANCE_LUCKY_APPMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>120324880</Id>
+          <Value>インターネットにᜀ接続᠀せつぞくᤀして
+ラッキーアプモンを
+ᜀ更新᠀こうしんᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_LUCKY_APPMON</Key>
+      <Values>
+        <BtxtString>
+          <Id>135398153</Id>
+          <Value>ᬁ/ᬂの
+ラッキーアプモンは
+ᰀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONFIRMATION_READ</Key>
+      <Values>
+        <BtxtString>
+          <Id>153223946</Id>
+          <Value>ラッキーアプモンの
+QRコードを
+ᜀ読᠀よᤀみᜀ取᠀とᤀりますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_NEX_EXPIRATION_DATE_0</Key>
+      <Values>
+        <BtxtString>
+          <Id>181405230</Id>
+          <Value>ᜀ製品版᠀せいひんばんᤀ「デジモンユニバース　アプリモンスターズ」
+では　ラッキーアプモンから　ボーナスをもらえます
+ᜀ現在᠀げんざいᤀプレイしている　ᜀ無料配信版᠀むりょうはいしんばんᤀでは　「ᜀ期間限定᠀きかんげんていᤀ」で
+ラッキーアプモンから　ボーナスをもらえますが
+ᜀ対応期間の終了後᠀たいおうきかんしゅうりょうごᤀは　このコーナーをᜀ利用᠀りようᤀすることが
+できませんので　ごᜀ注意᠀ちゅういᤀください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_NEX_EXPIRATION_DATE_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>196609573</Id>
+          <Value>ᜀ無料配信版᠀むりょうはいしんばんᤀ「デジモンユニバース　アプリモンスターズ
+サイバーアリーナ」では
+ラッキーアプモンを　ᜀ利用᠀りようᤀすることが　できません
+（ラッキーアプモンの　ᜀ対応期間᠀たいおうきかんᤀは　ᜀ終了᠀しゅうりょうᤀしました）
+ᜀ製品版᠀せいひんばんᤀ「デジモンユニバース　アプリモンスターズ」で
+ラッキーアプモンを　おᜀ楽᠀たのᤀしみください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_PARENTAL_CONTROL</Key>
+      <Values>
+        <BtxtString>
+          <Id>205128472</Id>
+          <Value>ᜀ保護者᠀ほごしゃᤀによるᜀ使用制限᠀しようせいげんᤀにより
+「ラッキーアプモン」が
+ᜀ制限᠀せいげんᤀされています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

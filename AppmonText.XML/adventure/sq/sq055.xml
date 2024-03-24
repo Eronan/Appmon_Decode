@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>124</NumberOfLabels>
+  <NumberOfStrings>124</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442568</Id>
+          <Value>ありゃ？
+ありゃりゃりゃ？
+おかしいぞ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18350608</Id>
+          <Value>あれ？
+ᜀ先生᠀せんせいᤀ　どうしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36832020</Id>
+          <Value>おお　ᰏ　か！
+このＰＣで　ᜀ書類᠀しょるいᤀを　ᜀ作᠀つくᤀろうと
+ᜀ思᠀おもᤀっているんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53609232</Id>
+          <Value>ᜀ入力᠀　にゅうりょくᤀした　データが
+ᜀ勝手᠀かってᤀに　バラバラに
+ᜀ置᠀おᤀきかわっちゃうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69993236</Id>
+          <Value>ᜀ先生᠀せんせいᤀ
+あんまり　ＰＣ
+ᜀ得意᠀とくいᤀじゃないから　ᜀ困᠀こまᤀったなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86376981</Id>
+          <Value>データが　バラバラに…？
+もしかして　アプモンが　ᜀ原因᠀げんいんᤀかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989461</Id>
+          <Value>でも　このᜀ先生᠀せんせいᤀ
+ＰＣ　ᜀ得意᠀とくいᤀじゃないって　いってるから
+ᜀ単᠀たんᤀなる　ᜀ操作᠀そうさᤀミスかもしれないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>119931407</Id>
+          <Value>ᜀ少᠀すこᤀし　ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀて
+また　ᜀ来᠀きᤀてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>137757458</Id>
+          <Value>うん　きっと　そうだよ
+このままじゃ　ᜀ先生᠀せんせいᤀ
+ᜀ書類᠀しょるいᤀが　ᜀ作᠀つくᤀれないままだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>152306186</Id>
+          <Value>うーん　おかしいなー
+どうなってんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>171442960</Id>
+          <Value>ᜀ先生᠀せんせいᤀが　ᜀ見᠀みᤀてないうちに
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ＰＣを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>187695892</Id>
+          <Value>ああ　ᰏ！
+このＰＣで　ᜀ書類᠀しょるいᤀを　ᜀ作᠀つくᤀろうと
+ᜀ思᠀おもᤀっているんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>204604176</Id>
+          <Value>ᜀ入力᠀　にゅうりょくᤀした　データが
+ᜀ勝手᠀かってᤀに　バラバラに
+ᜀ置᠀おᤀきかわっちゃうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>220988180</Id>
+          <Value>ᜀ先生᠀せんせいᤀ
+あんまり　ＰＣ
+ᜀ得意᠀とくいᤀじゃないから　ᜀ困᠀こまᤀったなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>237371925</Id>
+          <Value>データが　バラバラに…？
+もしかして　アプモンが　ᜀ原因᠀げんいんᤀかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>254149393</Id>
+          <Value>うーん　おかしいなー
+ＰＣの　データが　バラバラになるぞ
+どうなってんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271975184</Id>
+          <Value>やっぱり　ＡＲダンジョンがある！
+ᜀ先生᠀せんせいᤀの　PCのᜀ中᠀なかᤀに
+アプモンが　いるかもしれない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>287441680</Id>
+          <Value>さてと
+とにかく　ダンジョンの　ᜀ奥᠀おくᤀに
+ᜀ行᠀いᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>302252291</Id>
+          <Value>あれ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>321651469</Id>
+          <Value>なんだ　このᜀ板᠀いたᤀ？
+ᜀ数字᠀すうじᤀのような　ものが
+ᜀ書᠀かᤀかれているけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>336724487</Id>
+          <Value>ナゾのピースを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>353763599</Id>
+          <Value>とにかく　ᜀ先᠀さきᤀへ　ᜀ急᠀いそᤀごう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>369361156</Id>
+          <Value>おーい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>387056138</Id>
+          <Value>わわっ？
+ダレか　ᜀ来᠀きᤀたデス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>404488722</Id>
+          <Value>もしかして　キミが
+ＰＣに　イタズラしている　アプモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>422970133</Id>
+          <Value>とんでもねーデス！
+まぁ　ᜀ関係᠀かんけいᤀないワケじゃ　ないですが
+パズルモンは　イタズラ　してねーデス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>439223057</Id>
+          <Value>どういうコト？
+ＰＣデータが　バラバラに　なるのに
+ᜀ関係᠀かんけいᤀは　しているんだよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>454820619</Id>
+          <Value>そうデス
+パズルモンが　データを
+バラバラに　したんデス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>471859982</Id>
+          <Value>それじゃあ　やっぱり
+パズルモンが
+イタズラしたんじゃないか！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>488899341</Id>
+          <Value>それは　ちがうデス！
+パズルモンは　データを
+バラバラに　しただけデス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>505283342</Id>
+          <Value>えーっと
+データを　バラバラにしたのは
+パズルモンだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>521929234</Id>
+          <Value>ＰＣの　イタズラは
+パズルモンは　やっていないってこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>539493134</Id>
+          <Value>そうデス　そうデス！
+パズルモンは　ただ　データを
+バラバラに　しただけデス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>555352590</Id>
+          <Value>じゃあ　イタズラしているのは
+ᜀ誰᠀だれᤀなんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>572916492</Id>
+          <Value>このＰＣの　ᜀ奥᠀おくᤀにいる
+ᜀ脳᠀のうᤀトレ　アプリの
+ブレモン　デス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>587596038</Id>
+          <Value>ブレモン！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>608174868</Id>
+          <Value>ブレモンは　ᜀ頭᠀あたまᤀいいアプモン　デス！
+むずかしい　ᜀ問題᠀もんだいᤀも
+ᜀ平気᠀へいきᤀで　ᜀ解᠀とᤀいちゃうデス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>624296723</Id>
+          <Value>パズルモンは　ブレモンのヒマつぶしに
+データを　バラバラにして
+パズルを　ᜀ提供᠀ていきょうᤀしていたデス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>640942866</Id>
+          <Value>いつもは　アッと　いうまに
+パズルを　ᜀ解᠀とᤀいているので
+ᜀ大丈夫᠀だいじょうぶᤀ　だったのデスが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>659292954</Id>
+          <Value>ᜀ今日᠀きょうᤀの　ᜀ問題᠀もんだいᤀは　なかなか　ᜀ解᠀とᤀけなくて
+バラバラなのが　ᜀ人᠀ひとᤀのᜀ目᠀めᤀに　ふれて
+イタズラみたいに　なったデス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>672268810</Id>
+          <Value>うわぁ
+ᜀ人᠀ひとᤀさわがせだなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>690225937</Id>
+          <Value>それで　ブレモンに
+パズルを　やめてもらいたいんだけど
+どこに　いるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>707396368</Id>
+          <Value>あー　それデスが
+ᜀ今᠀いまᤀは　ブレモンに
+ᜀ近᠀ちかᤀづかないほうが　いいデスよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>724435728</Id>
+          <Value>ブレモン
+パズルが　ᜀ解᠀とᤀけなくて　ᜀ奥᠀おくᤀで
+ᜀ大᠀おおᤀあばれ　しているんデス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>740295186</Id>
+          <Value>だから　パズルモンも
+ここまで　ᜀ避難᠀ひなんᤀ　してきたのデス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>756154890</Id>
+          <Value>ますます
+ᜀ人᠀ひとᤀさわがせだなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>774767374</Id>
+          <Value>でも　ᜀ今回᠀こんかいᤀにかぎって
+なんで　ブレモンは
+パズルが　ᜀ解᠀とᤀけないんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>790102292</Id>
+          <Value>そんなに　むずかしい　ᜀ問題᠀もんだいᤀなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>808190736</Id>
+          <Value>いつもと　いっしょのハズ　デス
+でも　ピースが　ᜀ足᠀たᤀりないとかで
+とけないそうデス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>822477061</Id>
+          <Value>ピース…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>843842327</Id>
+          <Value>データを　バラバラにして
+もとどおりに　ᜀ組᠀くᤀみあわせる　ᜀ問題᠀もんだいᤀデス
+ᜀ数字᠀すうじᤀが　ᜀ書᠀かᤀかれた　ᜀ板᠀いたᤀみたいなのデス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>856818188</Id>
+          <Value>んー
+どこかで　ᜀ見᠀みᤀたような…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>873071110</Id>
+          <Value>あっ！
+これかっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>891683599</Id>
+          <Value>それです！　そのピース　デス！
+なんで　アナタが
+ᜀ持᠀もᤀっているんデス？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>908067595</Id>
+          <Value>ＡＲダンジョンに
+はいってきた　ところで
+ᜀ拾᠀ひろᤀったんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>925762322</Id>
+          <Value>それが　あれば
+ブレモンの　パズルも　ᜀ解᠀とᤀけるデス！
+ブレモン　おとなしくなるデス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>941490958</Id>
+          <Value>わかった
+このピースを
+ブレモンに　ᜀ届᠀とどᤀけてくるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>958267922</Id>
+          <Value>よろしくデス！
+ブレモンは　このᜀ奥᠀おくᤀに　いるデス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>974127627</Id>
+          <Value>いた！
+アイツが　ブレモンだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>990642693</Id>
+          <Value>おーーい！
+ブレモーン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009517326</Id>
+          <Value>こうか！　イヤ　ダメだ！！
+どうしても　このパズルの
+ᜀ正解᠀せいかいᤀが　わからん！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026556688</Id>
+          <Value>ワガハイに　ᜀ解᠀とᤀけないパズルなど
+あっては　いけないハズ！
+うがーーっ！　ナゼだーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043202830</Id>
+          <Value>ᜀ解᠀とᤀけなくても　しかたないよ
+だって　パズルのピースが
+ᜀ足᠀たᤀりなかったんだもの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060635412</Id>
+          <Value>なにっ！？
+パズルのピースを　ᜀ隠᠀かくᤀしていたのか！？
+どうりで　ᜀ答᠀こたᤀえが　ᜀ出᠀でᤀないハズ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077150479</Id>
+          <Value>ワガハイを　おとしめるために
+ピースを　ᜀ隠᠀かくᤀしたのだな！？
+ᜀ絶対᠀ぜったいᤀに　ゆるせん！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091043592</Id>
+          <Value>うがーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109525010</Id>
+          <Value>ち　ᜀ違᠀ちがᤀうよ！！
+オレが　ピースを　ᜀ隠᠀かくᤀしたんじゃ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125122569</Id>
+          <Value>そんな　ムチャな！
+あーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143472655</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたからな
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161822997</Id>
+          <Value>キサマが　ᜀ負᠀まᤀけるのは
+わが　ᜀ計算᠀けいさんᤀで　ᜀ決᠀きᤀまりきっている！
+その　ᜀ証明᠀しょうめいᤀを　してやる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178075923</Id>
+          <Value>くーーーっ！
+ワガハイが　バトルに　ᜀ負᠀まᤀけるとは！？
+ᜀ読᠀よᤀみᜀ違᠀ちがᤀえるとは　なさけない！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194197776</Id>
+          <Value>ブレモン！
+オレは　ただ　ᜀ拾᠀ひろᤀったピースを
+ᜀ届᠀とどᤀけにᜀ来᠀きᤀた　だけだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1211106065</Id>
+          <Value>なにっ！？
+ピースを　ᜀ届᠀とどᤀけにᜀ来᠀きᤀた？
+ᜀ隠᠀かくᤀしていた　わけじゃないのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1229325079</Id>
+          <Value>ᜀ隠᠀かくᤀしてなんか　いないよ
+このピースが　ブレモンがᜀ挑戦᠀ちょうせんᤀしている
+パズルに　ᜀ必要᠀ひつようᤀだと　ᜀ聞᠀きᤀいたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244922642</Id>
+          <Value>そして　これで　パズルを
+ᜀ終᠀おᤀわってもらえないと
+ᜀ先生᠀せんせいᤀが　ᜀ困᠀こまᤀっちゃうんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261568789</Id>
+          <Value>なるほど　わかった！
+では　ピースを　かしてくれ
+あらためて　パズルに　ᜀ挑戦᠀ちょうせんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1275592968</Id>
+          <Value>それじゃあ　これ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292894729</Id>
+          <Value>たしかに　ピースだ
+それでは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309409545</Id>
+          <Value>ᜀ解᠀とᤀけたーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1325924616</Id>
+          <Value>えっ！　もう！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344930575</Id>
+          <Value>やはり　さきほどの
+ピースが　なかったせいで
+ᜀ解᠀とᤀくことが　できなかったのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360134665</Id>
+          <Value>あー　スッキリした
+もう　マンゾクだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377305098</Id>
+          <Value>ᜀ世話᠀せわᤀに　なったな
+では　さらばだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395655443</Id>
+          <Value>ᜀ行᠀いᤀっちゃったよ…
+でも　まあ　これで
+ᜀ先生᠀せんせいᤀのＰＣも　ᜀ戻᠀もどᤀっただろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410990355</Id>
+          <Value>ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしてみよう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1430127379</Id>
+          <Value>ᜀ先生᠀せんせいᤀ　あのᜀ後᠀あとᤀ　どうですか？
+ＰＣ　ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀっていると
+ᜀ思᠀おもᤀうんですけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445724950</Id>
+          <Value>えっ？
+あっ！　ホントだ！！
+バラバラの　ᜀ画面᠀がめんᤀが　ᜀ戻᠀もどᤀっている！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462764309</Id>
+          <Value>よし！
+これで　やっと　ᜀ仕事᠀しごとᤀのᜀ書類᠀しょるいᤀを
+ᜀ作᠀つくᤀることが　できるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1476657412</Id>
+          <Value>あ………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493434627</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1514013459</Id>
+          <Value>で！　ᜀ電源᠀でんげんᤀが　おちたーーっ！！
+オレの　ᜀ書類᠀しょるいᤀがーー
+ᜀ消᠀きᤀえてしまったーーーーーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529479956</Id>
+          <Value>…あははは
+いきおい　あまって
+ＰＣの　ᜀ電源᠀でんげんᤀを　ᜀ切᠀きᤀっちゃったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545863696</Id>
+          <Value>ダメだ　このᜀ先生᠀せんせいᤀ
+ᜀ書類᠀しょるいᤀ　できあがらないよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1563034131</Id>
+          <Value>いくら　スイッチを　ᜀ押᠀おᤀしても
+ＰＣの　ᜀ電源᠀でんげんᤀが　つかないんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579942674</Id>
+          <Value>ᜀ書類᠀しょるいᤀが　ᜀ作᠀つくᤀれない！
+オレは
+どうすれば　いいんだーーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596588811</Id>
+          <Value>えーと　ᜀ今度᠀こんどᤀは…
+ああ　ᜀ充電᠀じゅうでんᤀが
+ᜀ切᠀きᤀれてるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1613759250</Id>
+          <Value>ᜀ先生᠀せんせいᤀ
+いつ　ᜀ気᠀きᤀづくかな…
+しばらく　ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀよーっと</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1629880854</Id>
+          <Value>データが　バラバラに…？
+もしかして　アプモンが　ᜀ原因᠀げんいんᤀかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1648624405</Id>
+          <Value>でも　このᜀ先生᠀せんせいᤀ
+ＰＣ　ᜀ得意᠀とくいᤀじゃないって　いってるから
+ᜀ単᠀たんᤀなる　ᜀ操作᠀そうさᤀミスかもしれないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663435279</Id>
+          <Value>ᜀ少᠀すこᤀし　ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀて
+また　ᜀ来᠀きᤀてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1681261331</Id>
+          <Value>うん　きっと　そうね
+このままじゃ　ᜀ先生᠀せんせいᤀ
+ᜀ書類᠀しょるいᤀが　ᜀ作᠀つくᤀれないままだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1698169616</Id>
+          <Value>ᜀ先生᠀せんせいᤀが　ᜀ見᠀みᤀてないうちに
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ＰＣを　ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_503_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1713766934</Id>
+          <Value>データが　バラバラに…？
+もしかして　アプモンが　ᜀ原因᠀げんいんᤀかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731855122</Id>
+          <Value>やっぱり　ＡＲダンジョンがあったわ！
+ᜀ先生᠀せんせいᤀの　PCのᜀ中᠀なかᤀに
+アプモンが　いるかもしれないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_018_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747190544</Id>
+          <Value>さてと
+とにかく　ダンジョンの　ᜀ奥᠀おくᤀに
+ᜀ行᠀いᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764492045</Id>
+          <Value>なぁに　このᜀ板᠀いたᤀ？
+ᜀ数字᠀すうじᤀのような　ものが
+ᜀ書᠀かᤀかれているけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779958033</Id>
+          <Value>とにかく　ᜀ先᠀さきᤀへ　ᜀ急᠀いそᤀぎましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1797128722</Id>
+          <Value>もしかして　アナタが
+ＰＣに　イタズラしている　アプモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_029_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1814168335</Id>
+          <Value>それじゃあ　やっぱり
+パズルモンが
+イタズラしたんじゃないのよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1830289934</Id>
+          <Value>じゃあ　イタズラしているのは
+ᜀ誰᠀だれᤀなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1846542857</Id>
+          <Value>うわぁ
+ᜀ人᠀ひとᤀさわがせねぇ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1863451145</Id>
+          <Value>ますます
+ᜀ人᠀ひとᤀさわがせねぇ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_053_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1879966218</Id>
+          <Value>あっ！
+これの　ことねっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1897792019</Id>
+          <Value>ＡＲダンジョンに　はいってきたところで
+ᜀ拾᠀ひろᤀったのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1914569486</Id>
+          <Value>わかったわ
+このピースを
+ブレモンに　ᜀ届᠀とどᤀけてくるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_059_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1930691083</Id>
+          <Value>いたわ！
+あのᜀ子᠀こᤀが　ブレモンね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1948516883</Id>
+          <Value>ち　ᜀ違᠀ちがᤀうわよ！！
+ワタシが　ピースを　ᜀ隠᠀かくᤀしたんじゃ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1965425166</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_072_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982858001</Id>
+          <Value>ブレモン！
+ワタシは　ただ　ᜀ拾᠀ひろᤀったピースを
+ᜀ届᠀とどᤀけにᜀ来᠀きᤀた　だけなのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_074_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2001077015</Id>
+          <Value>ᜀ隠᠀かくᤀしてなんか　いないよ
+このピースが　ブレモンがᜀ挑戦᠀ちょうせんᤀしている
+パズルに　ᜀ必要᠀ひつようᤀだと　ᜀ聞᠀きᤀいたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_075_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2016674577</Id>
+          <Value>そして　これで　パズルを
+ᜀ終᠀おᤀわってもらえないと
+ᜀ先生᠀せんせいᤀが　ᜀ困᠀こまᤀっちゃうのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_084_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2033189651</Id>
+          <Value>ᜀ行᠀いᤀっちゃったわ…
+でも　まあ　これで
+ᜀ先生᠀せんせいᤀのＰＣも　ᜀ戻᠀もどᤀったでしょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_085_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2048524564</Id>
+          <Value>ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしてみましょ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_55_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2066350859</Id>
+          <Value>えーと　ᜀ今度᠀こんどᤀは…
+ああ　ᜀ充電᠀じゅうでんᤀが
+ᜀ切᠀きᤀれてるみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

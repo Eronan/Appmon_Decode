@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262404</Id>
+          <Value>アストラ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22807328</Id>
+          <Value>ノレる？　ノレない？　ᜀ超᠀ちょうᤀノレる！
+ᜀ大人気᠀だいにんきᤀアプチューバー　アストラ　こと
+ᜀ飛鳥虎次郎᠀あすかとらじろうᤀだ！　…ᜀ本名᠀ほんみょうᤀ　ᜀ言᠀いᤀうなって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37487382</Id>
+          <Value>バディアプモンは
+ᜀ音楽᠀おんがくᤀアプリの　ミュージモン！
+ᜀ２人᠀ふたりᤀの　ᜀ相性᠀あいしょうᤀは　バッチリだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

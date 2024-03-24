@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>11</NumberOfLabels>
+  <NumberOfStrings>11</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>CHECKING</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753048</Id>
+          <Value>ᜀ無料配信版᠀　むりょうはいしんばんᤀのセーブデータを
+ᜀ確認᠀かくにんᤀしています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOT_FOUND</Key>
+      <Values>
+        <BtxtString>
+          <Id>19530264</Id>
+          <Value>ᜀ無料配信版᠀　むりょうはいしんばんᤀのセーブデータが
+ᜀ見᠀みᤀつかりませんでした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OLD_VERSION</Key>
+      <Values>
+        <BtxtString>
+          <Id>39453472</Id>
+          <Value>ᜀ無料配信版᠀　むりょうはいしんばんᤀのセーブデータをᜀ引᠀ひᤀきᜀ継᠀つᤀぐには
+ᜀ更新᠀こうしんᤀデータをダウンロードして
+ゲームをᜀ起動᠀きどうᤀしᜀ直᠀なおᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAUTION_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>54788884</Id>
+          <Value>セーブデータのᜀ引᠀ひᤀきᜀ継᠀つᤀぎをすると
+クリアᜀ済᠀ずᤀみのデータのときは
+「ᜀ自宅᠀じたくᤀ」からゲームがᜀ始᠀はじᤀまります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAUTION_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>70910746</Id>
+          <Value>また
+プレイᜀ中᠀ちゅうᤀのサブクエストは
+ᜀ受注᠀じゅちゅうᤀするᜀ前᠀まえᤀのᜀ状態᠀じょうたいᤀにもどります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAUTION_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>88081174</Id>
+          <Value>ᜀ主人公᠀しゅじんこうᤀのᜀ名前᠀なまえᤀと
+アプモンのニックネームは
+ᜀ通信相手᠀つうしんあいてᤀにᜀ公開᠀こうかいᤀされます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONFIRM_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>102367754</Id>
+          <Value>このセーブデータを
+ᜀ引᠀ひᤀきᜀ継᠀つᤀぎますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONFIRM_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>119800334</Id>
+          <Value>ᜀ現在᠀げんざいᤀのセーブデータは
+ᜀ消᠀きᤀえますがよろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PROCESS</Key>
+      <Values>
+        <BtxtString>
+          <Id>135528715</Id>
+          <Value>ᜀ引᠀ひᤀきᜀ継᠀つᤀぎᜀ中᠀ちゅうᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TAKEOVER</Key>
+      <Values>
+        <BtxtString>
+          <Id>152437008</Id>
+          <Value>セーブデータをᜀ引᠀ひᤀきᜀ継᠀つᤀぎました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_BONUS</Key>
+      <Values>
+        <BtxtString>
+          <Id>171967250</Id>
+          <Value>ᜀ引᠀ひᤀきᜀ継᠀つᤀぎᜀ特典᠀とくてんᤀがあります
+エムシーモンから
+ᜀ特典᠀とくてんᤀをᜀ受᠀うᤀけᜀ取᠀とᤀってください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

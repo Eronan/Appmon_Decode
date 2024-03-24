@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048842</Id>
+          <Value>ᜀ広᠀ひろᤀがるᜀ誤解᠀ごかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694989</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39060247</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249421</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72614679</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803853</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106169111</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139723543</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173277975</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206832407</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240386839</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273941271</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>ミハマ港・リョウジを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307495703</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324272919</Id>
+          <Value>なぜか　ᜀ水᠀みずᤀのトラブルが　ᜀ自分᠀じぶんᤀのせいに
+なってしまった！　ᜀ倉庫᠀そうこᤀに　いる
+リョウジに　ᜀ会᠀あᤀって　ᜀ誤解᠀ごかいᤀを　ᜀ解᠀とᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

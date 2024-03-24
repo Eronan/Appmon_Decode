@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917771</Id>
+          <Value>シャットモンのᜀ願᠀ねがᤀい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404884</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118347</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959316</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672779</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513748</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227211</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068180</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781643</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622612</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336075</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177044</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890507</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731476</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444939</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285908</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999371</Id>
+          <Value>リブートモンを倒そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840340</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323617556</Id>
+          <Value>シャットモンの　ᜀ声᠀こえᤀが　ᜀ聞᠀きᤀこえる…
+ᜀ彼᠀かれᤀは　リブートモンごと　ᜀ自分᠀じぶんᤀを
+ᜀ倒᠀たおᤀしてほしいと　うったえている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

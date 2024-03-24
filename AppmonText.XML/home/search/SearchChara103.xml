@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>ガシャモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20185875</Id>
+          <Value>ガシャモンは　ガシャのアプリだ
+ガシャチケットを　わたすと
+アプモンの　ガシャをᜀ引᠀ひᤀかせてくれるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38535962</Id>
+          <Value>ガシャには　ᜀ三段階᠀さんだんかいᤀあって
+超アプモンガシャは　超ᜀ以上᠀いじょうᤀ
+極アプモンガシャは　極ᤀᜀ以上᠀いじょうᤀが　ᜀ確定᠀かくていᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>53609232</Id>
+          <Value>ノーマルな　アプモンガシャでも
+極がᜀ出᠀でᤀることが　あるらしいぞ？
+レッツ　チャレンジ！　だな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

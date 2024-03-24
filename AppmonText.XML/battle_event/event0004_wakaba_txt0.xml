@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>4326164</Id>
+          <Value>ᜀ運命᠀うんめいᤀの　みちびきが　あれば
+アプモンは　ᜀ何倍᠀なんばいᤀもの　ᜀ力᠀ちからᤀを
+ᜀ発揮᠀はっきᤀすることができる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>21496599</Id>
+          <Value>フハハハハ！　さあ　ᜀ運命᠀うんめいᤀよ！
+ᜀ相手᠀あいてᤀを　ᜀ打᠀うᤀちᜀ倒᠀たおᤀすための　ᜀ力᠀ちからᤀを
+わがᜀ手᠀てᤀに　みちびけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>36700945</Id>
+          <Value>ハイな～　マスター　ワカバᜀ様᠀さまᤀ！
+バディアプモン　ガシャモン！
+ᜀ行᠀いᤀきまっせ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

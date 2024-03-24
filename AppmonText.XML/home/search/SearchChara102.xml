@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>バッテリモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21234459</Id>
+          <Value>バッテリモンは　バッテリーのアプリ
+アプリドライヴの　バッテリーを
+ᜀ回復᠀かいふくᤀしてくれる　ᜀ重要᠀じゅうようᤀキャラってヤツだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38273816</Id>
+          <Value>バトルに　ᜀ負᠀まᤀけたら　まず
+バッテリーのᜀ回復᠀かいふくᤀを　しにいくから
+ᜀ再開᠀さいかいᤀは　バッテリモンのᜀ前᠀まえᤀからになるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54919960</Id>
+          <Value>ᜀ各地᠀かくちᤀの　ガソリンスタンドに
+いてくれてる　みたいだから
+ᜀ新᠀あたらᤀしいᜀ町᠀まちᤀにᜀ行᠀いᤀったら　ᜀ探᠀さがᤀしてみろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221463</Id>
+          <Value>サイバーアリーナに　ᜀ協力᠀きょうりょくᤀしてるのは
+ᜀ友᠀ともᤀだちのエムシーモンに　ᜀ頼᠀たのᤀまれたから
+…って　アイツら　ᜀ仲᠀なかᤀいいんだ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

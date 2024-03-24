@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>22676248</Id>
+          <Value>ここは　ヒフミがᜀ丘᠀おかᤀの　ᜀ下水道᠀げすいどうᤀだな
+ᜀ水᠀みずᤀに　ᜀ電気᠀でんきᤀに　インターネット
+あらゆる　ᜀ生活᠀せいかつᤀを　ᜀ支᠀ささᤀえるᜀ場所᠀ばしょᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39060246</Id>
+          <Value>ここをᜀ通᠀とおᤀる　ᜀ都市管理᠀としかんりᤀシステムは
+このへんの　ネットワールドのᜀ流᠀ながᤀれを
+ᜀ作᠀つくᤀる　ᜀ大᠀おおᤀきなᜀ要素᠀ようそᤀに　なってるな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>38</NumberOfLabels>
+  <NumberOfStrings>38</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>Ｃランクにᜀ昇格᠀しょうかくᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404890</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959322</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513754</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068186</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622618</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177050</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731482</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285914</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840346</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319291656</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>340394778</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>352846088</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>373949210</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386400520</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>407503642</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>419954952</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>441058074</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453509384</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>474612506</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487063816</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>508166938</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>520618248</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>541721370</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554172680</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>575275802</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>587727112</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>608830234</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>625607450</Id>
+          <Value>リョウジに　ᜀ勝᠀かᤀって　Ｃランクに
+ᜀ昇格᠀しょうかくᤀした！　ᜀ次᠀つぎᤀの　Ｂランクに　ᜀ向᠀むᤀけて
+サイバーアリーナへ　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

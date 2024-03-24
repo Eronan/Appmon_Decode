@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3670807</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「トリップᜀ杯᠀カップᤀ」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841245</Id>
+          <Value>「トリップᜀ杯᠀カップᤀ」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>36963088</Id>
+          <Value>あー　てすてす　ᜀ聞᠀きᤀこえてる？
+これより　バトルを　はじめまーす
+どうぞ　よろしくおねがいします！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>52822799</Id>
+          <Value>わーい！　バトルだ　バトルだ！
+キミも　バトルすき？
+えへへ　よろしくねえ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697178</Id>
+          <Value>まいど！　ᜀ自分᠀じぶんᤀが　ᜀ対戦相手᠀たいせんあいてᤀやな！
+どっち　ᜀ勝᠀かᤀっても　ᜀ恨᠀うらᤀみっこなしやで
+よろしゅうたのむわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>88736535</Id>
+          <Value>テストの　ᜀ選択肢᠀せんたくしᤀも　サイコロで
+ᜀ決᠀きᤀめてきた…　このバトルの　ᜀ勝敗᠀しょうはいᤀも
+オレの　ダイスモンで　ᜀ決᠀きᤀめる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>104071956</Id>
+          <Value>ところで　わしの　カベモンは
+どこに　いるかのう？
+ᜀ周囲᠀しゅういᤀに　とけこんで　ᜀ見᠀みᤀえんわい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>121897750</Id>
+          <Value>ᜀ回避率᠀かいひりつᤀを　ᜀ上᠀あᤀげたって　ムダだぜ！
+アプリンクの　ᜀ力᠀ちからᤀで
+どんなᜀ技᠀わざᤀでも　ᜀ当᠀あᤀててやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>138019604</Id>
+          <Value>あっ　キミは　ᜀ旅行᠀りょこうᤀカバンの！
+あのときは　ありがとう～
+でも　ここじゃ　ᜀ手加減᠀てかげんᤀしないよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

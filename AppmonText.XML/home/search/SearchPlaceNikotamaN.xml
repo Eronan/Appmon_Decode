@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>22020884</Id>
+          <Value>ここは　ニコタマᜀ川᠀がわᤀ　ᜀ北地区᠀きたちくᤀ
+ᜀ大᠀おおᤀきなᜀ川᠀かわᤀに　ᜀ隣接᠀りんせつᤀした
+すずやかな　ᜀ都会᠀とかいᤀのᜀ一角᠀いっかくᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39453465</Id>
+          <Value>ᜀ北地区᠀きたちくᤀは　ᜀ南地区᠀みなみちくᤀに　ᜀ比᠀くらᤀべると
+ᜀ落᠀おᤀちついた　ᜀ雰囲気᠀ふんいきᤀの　エリアだな
+カフェや　ᜀ進学塾᠀しんがくじゅくᤀが　あったりするぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55051030</Id>
+          <Value>バスロータリーが　あったり
+ᜀ交通᠀こうつうᤀのᜀ便᠀べんᤀが　いいところだから
+ᜀ人᠀ひとᤀのᜀ出入᠀でいᤀりは　ᜀ多᠀おおᤀいほうみたいだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

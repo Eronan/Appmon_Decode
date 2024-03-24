@@ -1,0 +1,2036 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>202</NumberOfLabels>
+  <NumberOfStrings>202</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1573393</Id>
+          <Value>あれ？
+マンホールが　ᜀ開᠀あᤀかなくなってる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19268113</Id>
+          <Value>ᜀ事件᠀じけんᤀが　ᜀ落᠀おᤀちついたᜀ頃᠀ころᤀに
+また　ᜀ来᠀こᤀよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34079235</Id>
+          <Value>あー！
+ᰏなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52036361</Id>
+          <Value>コピペモン！
+カヨは　いないの？
+コピペモンだけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>68420112</Id>
+          <Value>うんー
+カヨちーとは　いっしょじゃないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86115083</Id>
+          <Value>だから　オイラだけ…
+ううん　みんなで
+ᜀ遊᠀あそᤀんでた　ところー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>101712140</Id>
+          <Value>みんなで　ᜀ遊᠀あそᤀんでた？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119538194</Id>
+          <Value>そうだよー！
+ᜀ下水道᠀げすいどうᤀで　ᜀ遊᠀あそᤀんでたのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137757459</Id>
+          <Value>コピーで　コピペモンを
+たくさん　ᜀ増᠀ふᤀやして　ᜀ遊᠀あそᤀんでるから
+にぎやかで　ᜀ楽᠀たのᤀしいの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>151388422</Id>
+          <Value>そうなんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170263310</Id>
+          <Value>でも　たくさん　コピーしたら
+コピペモンたちが
+ケンカ　はじめてしまったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>186778383</Id>
+          <Value>オイラの　ᜀ手᠀てᤀには　おえないの
+ᰏ
+たすけて　たすけてなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>205128469</Id>
+          <Value>コピー　コピペモンが
+コピーᜀ同士᠀どうしᤀで　ケンカしてるのか…
+なんだか　ᜀ複雑᠀ふくざつᤀなことに　なってるな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759686</Id>
+          <Value>またね　なの
+ᰏー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>237371922</Id>
+          <Value>いいよ　ᜀ下水道᠀げすいどうᤀで
+ケンカを　ᜀ止᠀とᤀめてくれば　いいんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252969481</Id>
+          <Value>わーい　ありがとう
+ありがとうなの　ᰏー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271057678</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀの
+あっちこっちに　コピペモンが
+たくさん　いるはずなの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>288490254</Id>
+          <Value>みんなに　ᜀ話᠀はなᤀしかけて
+ᜀ集᠀あつᤀめてきて　ほしいの
+オイラ　いっしょにᜀ行᠀いᤀくよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>303694348</Id>
+          <Value>さあ　ᜀ下水道᠀げすいどうᤀに
+レッツゴー　だよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>319291907</Id>
+          <Value>あー！
+ᰏなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>339346195</Id>
+          <Value>コピペモンを　たくさん　コピーして
+ᜀ下水道᠀げすいどうᤀで　ᜀ遊᠀あそᤀんでいたけど
+ケンカに　なっちゃったのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>354550543</Id>
+          <Value>オイラの　ᜀ手᠀てᤀには　おえないの
+ᰏ
+たすけて　たすけてなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>372900629</Id>
+          <Value>コピー　コピペモンが
+コピーᜀ同士᠀どうしᤀで　ケンカしてるのか…
+なんだか　ᜀ複雑᠀ふくざつᤀなことに　なってるな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>389677843</Id>
+          <Value>コピペモンを　たくさん　コピーして
+ᜀ下水道᠀げすいどうᤀで　ᜀ遊᠀あそᤀんでいたけど
+ケンカに　なっちゃったのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>405275406</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀの
+あっちこっちに　コピペモンが
+たくさん　いるはずなの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>422707983</Id>
+          <Value>みんなに　ᜀ話᠀はなᤀしかけて
+ᜀ集᠀あつᤀめてきて　ほしいの
+オイラ　いっしょに　ᜀ行᠀いᤀくよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>437912076</Id>
+          <Value>さあ　ᜀ下水道᠀げすいどうᤀに
+レッツゴー　だよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>455213842</Id>
+          <Value>ᰏ
+コピペモンが　コピーした
+コピペモンは　このあたりに　いるよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>472252946</Id>
+          <Value>ᜀ聞᠀きᤀけば　ᜀ聞᠀きᤀくほど
+ややこしい　ᜀ状況᠀じょうきょうᤀだなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>489554702</Id>
+          <Value>あっちこっちに　コピペモンが
+たくさん　いるはずだから
+みんな　ᜀ集᠀あつᤀめてほしいの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>504234503</Id>
+          <Value>たくさんって…
+どれくらい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>520356100</Id>
+          <Value>えっと…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>539230993</Id>
+          <Value>オイラが
+はじめに　コピーした　コピペモンが
+コピペモンを　コピーして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>554041605</Id>
+          <Value>う　うん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>573571858</Id>
+          <Value>コピペモンが　コピーしたコピペモンが
+ほかの　コピペモンと
+はじめのコピペモンを　コピーしたから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>587464963</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>606077707</Id>
+          <Value>みんなで　５ᜀ体᠀たいᤀ！
+５ᜀ体᠀たいᤀ　さがしてきて
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>623903504</Id>
+          <Value>５ᜀ体᠀たいᤀ…
+この　ᜀ下水道᠀げすいどうᤀで
+５ᜀ体᠀たいᤀ　ᜀ探᠀さがᤀせば　いいんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>637927685</Id>
+          <Value>そうだよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>657589010</Id>
+          <Value>コピペモンたちが　また
+コピペモンたちを　コピーするᜀ前᠀まえᤀに
+はやく　ᜀ集᠀あつᤀめて　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>674497296</Id>
+          <Value>ᜀ想像᠀そうぞうᤀするだけでも
+ちょっと　おそろしいや…
+そうだね　ᜀ早᠀はやᤀく　ᜀ探᠀さがᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>692454169</Id>
+          <Value>ありがとう　ᰏー
+オイラ　ＡＲフィールドに　ᜀ行᠀いᤀってるね
+ᜀ下水道᠀げすいどうᤀの　ᜀ入᠀いᤀりᜀ口᠀ぐちᤀ　ᜀ近᠀ちかᤀくにいるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>708444947</Id>
+          <Value>コピペモンを　たくさん　コピーして
+ᜀ下水道᠀げすいどうᤀで　ᜀ遊᠀あそᤀんでいたけど
+ケンカに　なっちゃったのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>724566801</Id>
+          <Value>あっちこっちに　コピペモンが
+たくさん　いるはずなの
+みんなで　５ᜀ体᠀たいᤀ　さがしてきて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>740819724</Id>
+          <Value>みんなに　ᜀ話᠀はなᤀしかけて
+ᜀ集᠀あつᤀめてきて　ほしいの
+おねがい　ᰏー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>757465868</Id>
+          <Value>みんなの　ᜀ居場所᠀いばしょᤀ
+なんとなく　わかるかも～
+ヒントは　いる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_046_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>773456148</Id>
+          <Value>みんなのᜀ居場所᠀いばしょᤀのヒントをᜀ聞᠀きᤀく？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>790757904</Id>
+          <Value>ᜀ今᠀いまᤀは　ᜀ大丈夫᠀だいじょうぶᤀだよ
+ありがとう　コピペモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>806093318</Id>
+          <Value>わかった
+よろしく　ᰏー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>822739209</Id>
+          <Value>むむむ…　うーん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>842269456</Id>
+          <Value>ここから　ᜀ近᠀ちかᤀくに　いるみたい
+１つᜀ目᠀めᤀの　ᜀ橋᠀はしᤀのᜀ近᠀ちかᤀくを
+さがしてみて～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>859964182</Id>
+          <Value>ここからは　ちょっと　ᜀ離᠀はなᤀれてるね
+１ᜀ番᠀ばんᤀ　ᜀ南西᠀なんせいᤀの　ᜀ橋᠀はしᤀのᜀ向᠀むᤀこうに
+いるみたいだよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>876872474</Id>
+          <Value>ここからは　ちょっと　ᜀ離᠀はなᤀれてるね
+１ᜀ番᠀ばんᤀ　ᜀ南東᠀なんとうᤀの　ᜀ通路᠀つうろᤀのᜀ途中᠀とちゅうᤀを
+さがしてみて～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>893125398</Id>
+          <Value>ᜀ反対側᠀はんたいがわᤀの　ᜀ出口᠀でぐちᤀのᜀ近᠀ちかᤀくに
+いるような　ᜀ気᠀きᤀがする～
+ᜀ話᠀はなᤀしてみて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>906756614</Id>
+          <Value>じゃあ
+よろしく　ᰏー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>924189194</Id>
+          <Value>なんだ　オマエ
+なんのᜀ用᠀ようᤀ　だよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>941490704</Id>
+          <Value>いま　みんなと　ケンカして
+ヘコんでるんだ　ほうっておいてー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>958792461</Id>
+          <Value>コピペモン　ᜀ困᠀こまᤀってたよ
+みんなと　ケンカしたから
+たすけて　ってさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>974782987</Id>
+          <Value>コピペモンの　ところに
+ᜀ戻᠀もどᤀってあげたら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>990118147</Id>
+          <Value>ううー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008468494</Id>
+          <Value>わかった　もどる　もどるのー
+おむかえ　ありがとうなの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026032149</Id>
+          <Value>コピペモンの　コピーが
+ᜀ本体᠀ほんたいᤀに　ᜀ戻᠀もどᤀっていったみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042153997</Id>
+          <Value>このᜀ調子᠀ちょうしᤀで　みんな
+ᜀ集᠀あつᤀめてあげよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059717650</Id>
+          <Value>これで　みんな　ᜀ集᠀あつᤀまったかな…？
+コピペモンのところに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1074397450</Id>
+          <Value>コピペモンの　バカー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091568138</Id>
+          <Value>なんだよ
+コピペモンの　バカ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108345101</Id>
+          <Value>ᜀ見᠀みᤀつけた！　コピペモン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127744273</Id>
+          <Value>コピーの　コピペモンᜀ同士᠀どうしᤀが
+しゃべってると　ᜀ本気᠀ほんきᤀで
+どっちが　どっちか　わからないな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143735054</Id>
+          <Value>ほら　ケンカしないで！
+コピペモン　ᜀ困᠀こまᤀってたよ
+みんなと　ケンカしたってさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159463442</Id>
+          <Value>しらないの
+そっちの　コピペモンが　ᜀ悪᠀わるᤀいの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176633874</Id>
+          <Value>しらないの　しらないのー
+そっちの　コピペモンが　ᜀ悪᠀わるᤀいの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1191444740</Id>
+          <Value>そっちー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208353030</Id>
+          <Value>そっちなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>1225785865</Id>
+          <Value>ああ　もう
+なにが　なんだか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242562829</Id>
+          <Value>オマエは　どうᜀ思᠀おもᤀうの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>1259471118</Id>
+          <Value>どっちが　ᜀ悪᠀わるᤀいとおもう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>1275724042</Id>
+          <Value>こっちの　コピペモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293550096</Id>
+          <Value>こ　こっちの
+コピペモンが　ᜀ悪᠀わるᤀい…　かな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309147400</Id>
+          <Value>しらないくせにー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326317837</Id>
+          <Value>なんにも　しらないくせにー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>1342701832</Id>
+          <Value>もう　しらない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359610122</Id>
+          <Value>しらない　しらない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377174031</Id>
+          <Value>………
+ダメだ　ᜀ混乱᠀こんらんᤀしてきた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393426699</Id>
+          <Value>ᜀ出直᠀でなおᤀしてこよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410203915</Id>
+          <Value>どっちも　ᜀ悪᠀わるᤀくない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>1427636751</Id>
+          <Value>どっちも
+ᜀ悪᠀わるᤀくないんじゃ　ないかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>1443234053</Id>
+          <Value>どっちも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460404491</Id>
+          <Value>どっちも　どっちもー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479541523</Id>
+          <Value>うん　だって
+ᜀ同᠀おなᤀじ　コピペモンなんだし
+ほんとは　ᜀ仲良᠀なかよᤀく　できるでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494221320</Id>
+          <Value>うん　オイラたち
+なかよしだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510473991</Id>
+          <Value>もう　かえろー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527251208</Id>
+          <Value>うん　そうしよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>1544290571</Id>
+          <Value>バイバイ　またね　なの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562903062</Id>
+          <Value>コピペモンの　コピーが
+ᜀ本体᠀ほんたいᤀに　ᜀ戻᠀もどᤀっていった　みたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579024909</Id>
+          <Value>このᜀ調子᠀ちょうしᤀで　みんな
+ᜀ集᠀あつᤀめてあげよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596588562</Id>
+          <Value>これで　みんな　ᜀ集᠀あつᤀまったかな…？
+コピペモンのところに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>1611268362</Id>
+          <Value>そっちの　コピペモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_142</Key>
+      <Values>
+        <BtxtString>
+          <Id>1629356561</Id>
+          <Value>うーん　そっちの
+コピペモンが　ᜀ悪᠀わるᤀいの…　かな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_143</Key>
+      <Values>
+        <BtxtString>
+          <Id>1644691720</Id>
+          <Value>しらないくせにー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_144</Key>
+      <Values>
+        <BtxtString>
+          <Id>1661862157</Id>
+          <Value>なんにも　しらないくせにー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_145</Key>
+      <Values>
+        <BtxtString>
+          <Id>1678246152</Id>
+          <Value>もう　しらない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_146</Key>
+      <Values>
+        <BtxtString>
+          <Id>1695154442</Id>
+          <Value>しらない　しらない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_147</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712718351</Id>
+          <Value>………
+ダメだ　ᜀ混乱᠀こんらんᤀしてきた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_148</Key>
+      <Values>
+        <BtxtString>
+          <Id>1728971019</Id>
+          <Value>ᜀ出直᠀でなおᤀしてこよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_149</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747059466</Id>
+          <Value>オイラ　みんなと
+ケンカ　しちゃったの
+ハンセイᜀ中᠀ちゅうᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_150</Key>
+      <Values>
+        <BtxtString>
+          <Id>1765016338</Id>
+          <Value>ハンセイᜀ中᠀ちゅうᤀだから
+もう　みんなのとこには　もどらないよ
+ほうっておいて　ほうっておいてなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_151</Key>
+      <Values>
+        <BtxtString>
+          <Id>1781269262</Id>
+          <Value>うーん　コピペモンのところに
+ᜀ戻᠀もどᤀって　もらえないと
+ᜀ困᠀こまᤀるんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_152</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796604178</Id>
+          <Value>なんとか　ᜀ説得᠀せっとくᤀできないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_153</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813381394</Id>
+          <Value>なんとか　ᜀ説得᠀せっとくᤀできないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_154</Key>
+      <Values>
+        <BtxtString>
+          <Id>1828978947</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_155</Key>
+      <Values>
+        <BtxtString>
+          <Id>1845756163</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_156</Key>
+      <Values>
+        <BtxtString>
+          <Id>1862533379</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_157</Key>
+      <Values>
+        <BtxtString>
+          <Id>1880490258</Id>
+          <Value>なんとか　ᜀ説得᠀せっとくᤀできないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_158</Key>
+      <Values>
+        <BtxtString>
+          <Id>1896087811</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_159</Key>
+      <Values>
+        <BtxtString>
+          <Id>1912865027</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_160</Key>
+      <Values>
+        <BtxtString>
+          <Id>1929904391</Id>
+          <Value>………　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_161</Key>
+      <Values>
+        <BtxtString>
+          <Id>1948517137</Id>
+          <Value>いっしょに　ハンセイしてくれるの？
+ありがとうなの
+とっても　うれしいの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_162</Key>
+      <Values>
+        <BtxtString>
+          <Id>1965425421</Id>
+          <Value>きっと　ひとりぼっちで
+コピペモン　ᜀ困᠀こまᤀってるの
+オイラ　もどるね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_163</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982333462</Id>
+          <Value>コピペモンの　コピーが
+ᜀ本体᠀ほんたいᤀに　ᜀ戻᠀もどᤀっていった　みたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_164</Key>
+      <Values>
+        <BtxtString>
+          <Id>1998455309</Id>
+          <Value>このᜀ調子᠀ちょうしᤀで　みんな
+ᜀ集᠀あつᤀめてあげよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_165</Key>
+      <Values>
+        <BtxtString>
+          <Id>2016018962</Id>
+          <Value>これで　みんな　ᜀ集᠀あつᤀまったかな…？
+コピペモンのところに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_166</Key>
+      <Values>
+        <BtxtString>
+          <Id>2031354128</Id>
+          <Value>コピペモンのところに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_167</Key>
+      <Values>
+        <BtxtString>
+          <Id>2049442576</Id>
+          <Value>コピペモン　ケンカしちゃったって
+ᜀ困᠀こまᤀってたよ
+ᜀ戻᠀もどᤀってあげて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_168</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065433104</Id>
+          <Value>もう　うるさいの
+ほうっておいてって　ᜀ言᠀いᤀったのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_169</Key>
+      <Values>
+        <BtxtString>
+          <Id>2082341644</Id>
+          <Value>うーん…
+ᜀ困᠀こまᤀったな
+ᜀ出直᠀でなおᤀしてみようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_170</Key>
+      <Values>
+        <BtxtString>
+          <Id>2098594314</Id>
+          <Value>みんなの　バカバカー
+バカバカバカなのー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_171</Key>
+      <Values>
+        <BtxtString>
+          <Id>2115240456</Id>
+          <Value>こ　コピペモン
+ᜀ落᠀おᤀちついてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_172</Key>
+      <Values>
+        <BtxtString>
+          <Id>2133590798</Id>
+          <Value>ᜀ本体᠀ほんたいᤀの　コピペモンも
+みんなと　ケンカ　しちゃって
+ᜀ困᠀こまᤀってるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_173</Key>
+      <Values>
+        <BtxtString>
+          <Id>2148925961</Id>
+          <Value>ᜀ仲直᠀なかなおᤀりして
+あげて　くれない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_174</Key>
+      <Values>
+        <BtxtString>
+          <Id>2166883091</Id>
+          <Value>しらないよ
+みんな　バカバカなの
+ᜀ仲直᠀なかなおᤀりなんか　してあげないよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_175</Key>
+      <Values>
+        <BtxtString>
+          <Id>2181955853</Id>
+          <Value>あっちいって　いってなの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_176</Key>
+      <Values>
+        <BtxtString>
+          <Id>2201617171</Id>
+          <Value>ᜀ何回᠀なんかいᤀ　ᜀ来᠀きᤀたって　ダメなのー
+みんな　バカバカなの
+ᜀ仲直᠀なかなおᤀりなんか　してあげないよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_177</Key>
+      <Values>
+        <BtxtString>
+          <Id>2215510285</Id>
+          <Value>あっちいって　いってなの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_178</Key>
+      <Values>
+        <BtxtString>
+          <Id>2234647314</Id>
+          <Value>だ　ダメだ
+ᜀ話᠀はなしᤀも　ᜀ聞᠀きᤀいてくれない…
+まずは　このバトルに　ᜀ勝᠀かᤀたないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_179</Key>
+      <Values>
+        <BtxtString>
+          <Id>2249196040</Id>
+          <Value>バッタリなのー
+やられちゃったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_180</Key>
+      <Values>
+        <BtxtString>
+          <Id>2266235152</Id>
+          <Value>コピペモン　ᜀ大丈夫᠀だいじょうぶᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_181</Key>
+      <Values>
+        <BtxtString>
+          <Id>2284847886</Id>
+          <Value>ちょっぴり　スッキリしたの
+バカバカ　ᜀ言᠀いᤀいすぎたような
+そういう　ᜀ気持᠀きもᤀちなの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_182</Key>
+      <Values>
+        <BtxtString>
+          <Id>2299658511</Id>
+          <Value>ᜀ落᠀おᤀちついたなら　よかったよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_183</Key>
+      <Values>
+        <BtxtString>
+          <Id>2316960271</Id>
+          <Value>ちなみにだけどさ…
+どうして　ケンカしちゃったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_184</Key>
+      <Values>
+        <BtxtString>
+          <Id>2334262026</Id>
+          <Value>だってー　だって
+みんな　ᜀ同᠀おなᤀじこと
+ᜀ言᠀いᤀうんだもんー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_185</Key>
+      <Values>
+        <BtxtString>
+          <Id>2351956757</Id>
+          <Value>みんなと　いろんなことが
+したいのにー
+オイラもみんなも　ᜀ同᠀おなᤀじこと　ᜀ言᠀いᤀうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_186</Key>
+      <Values>
+        <BtxtString>
+          <Id>2367947534</Id>
+          <Value>そりゃ　そうだよ
+キミたちって　おたがいのこと
+コピペ　してるんだもん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_187</Key>
+      <Values>
+        <BtxtString>
+          <Id>2383675912</Id>
+          <Value>ᜀ言᠀いᤀわれてみれば
+そのとおりだねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_188</Key>
+      <Values>
+        <BtxtString>
+          <Id>2401633040</Id>
+          <Value>オイラ
+ᜀ本体᠀ほんたいᤀのところに　もどるよ
+いろいろと　ありがとうなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_189</Key>
+      <Values>
+        <BtxtString>
+          <Id>2418541077</Id>
+          <Value>コピペモンの　コピーが
+ᜀ本体᠀ほんたいᤀに　ᜀ戻᠀もどᤀっていったみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_190</Key>
+      <Values>
+        <BtxtString>
+          <Id>2434662925</Id>
+          <Value>このᜀ調子᠀ちょうしᤀで　みんな
+ᜀ集᠀あつᤀめてあげよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_191</Key>
+      <Values>
+        <BtxtString>
+          <Id>2452226578</Id>
+          <Value>これで　みんな　ᜀ集᠀あつᤀまったかな…？
+コピペモンのところに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>2467561996</Id>
+          <Value>…よし！
+これで　ᜀ全員᠀ぜんいんᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>2484601356</Id>
+          <Value>ありがとうなの　ᰏー
+みんな　もどってきたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>2501247501</Id>
+          <Value>つ　つかれたぁ…
+なんとかなって　よかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>2517762319</Id>
+          <Value>うん　とっても　ᜀ嬉᠀うれᤀしいの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>2534408710</Id>
+          <Value>ᜀ見᠀みᤀつけた！
+コピペモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>2550661384</Id>
+          <Value>あ～　カヨちー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>2569405201</Id>
+          <Value>あ～　カヨちー！
+じゃないわよ！
+どこ　ほっつき　ᜀ歩᠀あるᤀいてたの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>2586313488</Id>
+          <Value>ᰏと
+いっしょ　だったのね　まったく…
+ちゃんと　ᜀ遊᠀あそᤀんでもらったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>2602304267</Id>
+          <Value>うんー！
+ᰏに　たくさん
+ᜀ遊᠀あそᤀんでもらったよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>2619343378</Id>
+          <Value>おかげさまで
+ᜀ大変᠀たいへんᤀなᜀ目᠀めᤀに　あったけどね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>2634809864</Id>
+          <Value>ふうん
+それなら　いいわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>2651324679</Id>
+          <Value>よくないよっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>2670068496</Id>
+          <Value>わかったわよ　ほら
+コピペモンのかけらを　あげるから
+これで　いいでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>2685272585</Id>
+          <Value>いいの？
+ありがとう　カヨ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>2703360529</Id>
+          <Value>…なんか　うまいこと
+ᜀ黙᠀だまᤀらされた　ᜀ気᠀きᤀがするんだけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>2718564614</Id>
+          <Value>ᜀ気᠀きᤀのせいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>2736128271</Id>
+          <Value>ᜀ気᠀きᤀのせい　ᜀ気᠀きᤀのせいだよー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753430031</Id>
+          <Value>じゃあ　ᜀ行᠀いᤀくわよ　コピペモン
+ほら　さっさとしなさい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>2768896265</Id>
+          <Value>はーい　カヨちー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>2785411333</Id>
+          <Value>じゃあね　ᰏ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>2802582023</Id>
+          <Value>う　うん
+またね　カヨ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>2820407824</Id>
+          <Value>…うちのᜀ子᠀こᤀと　ᜀ遊᠀あそᤀんでくれて
+ありがとね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>2836267529</Id>
+          <Value>？
+なにか　ᜀ言᠀いᤀった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>2852782346</Id>
+          <Value>なんでも　ないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>2870346253</Id>
+          <Value>まったく　もう
+あいかわらず　なんだから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_001_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2887385619</Id>
+          <Value>あれ？
+マンホールが　ᜀ開᠀ひらᤀかなくなってるわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2905080337</Id>
+          <Value>ᜀ事件᠀じけんᤀが　ᜀ落᠀おᤀちついたᜀ頃᠀ころᤀに
+また　ᜀ来᠀きᤀましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2923168534</Id>
+          <Value>コピー　コピペモンが
+コピーᜀ同士᠀どうしᤀで　ケンカしてるのね…
+なんだか　ᜀ複雑᠀ふくざつᤀなことに　なってるわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2938503697</Id>
+          <Value>いいわよ　ᜀ下水道᠀げすいどうᤀで
+ケンカを　ᜀ止᠀とᤀめてくれば　いいのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2956722966</Id>
+          <Value>コピー　コピペモンが
+コピーᜀ同士᠀どうしᤀで　ケンカしてるのね…
+なんだか　ᜀ複雑᠀ふくざつᤀなことに　なってるわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_029_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2972058130</Id>
+          <Value>ᜀ聞᠀きᤀけば　ᜀ聞᠀きᤀくほど
+ややこしい　ᜀ状況᠀じょうきょうᤀよねぇ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2989359887</Id>
+          <Value>５ᜀ体᠀たいᤀ…
+この　ᜀ下水道᠀げすいどうᤀで
+５ᜀ体᠀たいᤀ　ᜀ探᠀さがᤀせば　いいのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3006661394</Id>
+          <Value>ᜀ想像᠀そうぞうᤀするだけでも
+ちょっと　おそろしいわね…
+そうだね　ᜀ早᠀はやᤀく　ᜀ探᠀さがᤀしましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_102_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3022390030</Id>
+          <Value>コピペモン　ᜀ困᠀こまᤀってたわよ
+みんなと　ケンカしたから
+たすけて　って</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_106_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3039298069</Id>
+          <Value>コピペモンの　コピーが
+ᜀ本体᠀ほんたいᤀに　ᜀ戻᠀もどᤀっていったみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_108_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3056337427</Id>
+          <Value>これで　みんな　ᜀ集᠀あつᤀまったかな…？
+コピペモンのところに　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_112_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3073901330</Id>
+          <Value>コピーの　コピペモンᜀ同士᠀どうしᤀが
+しゃべってると　ᜀ本気᠀ほんきᤀで
+どっちが　どっちか　わからないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_113_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3089892110</Id>
+          <Value>ほら　ケンカしないで！
+コピペモン　ᜀ困᠀こまᤀってたわよ
+みんなと　ケンカしたって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_127_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3105358352</Id>
+          <Value>………
+ダメだ　ᜀ混乱᠀こんらんᤀしてきたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_128_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3121611020</Id>
+          <Value>ᜀ出直᠀でなおᤀしてきましょ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_138_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3139961365</Id>
+          <Value>コピペモンの　コピーが
+ᜀ本体᠀ほんたいᤀに　ᜀ戻᠀もどᤀっていったみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_140_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3157000723</Id>
+          <Value>これで　みんな　ᜀ集᠀あつᤀまったかな…？
+コピペモンのところに　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_147_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3172467216</Id>
+          <Value>………
+ダメだ　ᜀ混乱᠀こんらんᤀしてきたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_148_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3188719884</Id>
+          <Value>ᜀ出直᠀でなおᤀしてきましょ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_163_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3207070229</Id>
+          <Value>コピペモンの　コピーが
+ᜀ本体᠀ほんたいᤀに　ᜀ戻᠀もどᤀっていったみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_165_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3224109587</Id>
+          <Value>これで　みんな　ᜀ集᠀あつᤀまったかな…？
+コピペモンのところに　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_167_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3240755984</Id>
+          <Value>コピペモン　ケンカしちゃったって
+ᜀ困᠀こまᤀってたわよ
+ᜀ戻᠀もどᤀってあげて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_169_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3257008912</Id>
+          <Value>うーん…
+ᜀ困᠀こまᤀったわ
+ᜀ出直᠀でなおᤀしてみるしかないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_172_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3274441486</Id>
+          <Value>ᜀ本体᠀ほんたいᤀの　コピペモンも
+みんなと　ケンカ　しちゃって
+ᜀ困᠀こまᤀってるのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_178_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3291611922</Id>
+          <Value>だ　ダメだわ
+ᜀ話᠀はなしᤀも　ᜀ聞᠀きᤀいてくれない…
+まずは　このバトルに　ᜀ勝᠀かᤀたないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_182_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3306291471</Id>
+          <Value>ᜀ落᠀おᤀちついたなら　よかったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_186_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3324248847</Id>
+          <Value>それは　そうよ
+アナタたちって　おたがいのこと
+コピペ　してるんだもん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_189_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3341287957</Id>
+          <Value>コピペモンの　コピーが
+ᜀ本体᠀ほんたいᤀに　ᜀ戻᠀もどᤀっていったみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_191_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3358327315</Id>
+          <Value>これで　みんな　ᜀ集᠀あつᤀまったかな…？
+コピペモンのところに　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_65_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3373662733</Id>
+          <Value>つ　つかれたぁ…
+なんとかなって　よかったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>128</NumberOfLabels>
+  <NumberOfStrings>129</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>262404</Id>
+          <Value>なんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301767</Id>
+          <Value>レイ　こいつだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078984</Id>
+          <Value>あぁ　なるほど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249418</Id>
+          <Value>…おᜀ前᠀まえᤀが　ᰏだな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>68289034</Id>
+          <Value>ハル？
+うん　ᜀ知᠀しᤀってるけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>85852688</Id>
+          <Value>ᜀ俺᠀おれᤀも　セブンコードアプモンを
+ᜀ探᠀さがᤀしている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>104071700</Id>
+          <Value>ᜀ新海᠀しんかいᤀハルを　ᜀ手伝᠀てつだᤀったように
+このᜀ俺᠀おれᤀも　ᜀ手伝᠀てつだᤀってもらおうか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751756</Id>
+          <Value>キミ…
+ハルの　ᜀ友᠀ともᤀだちなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137233170</Id>
+          <Value>…そのようなものだ
+そんなことより　ᜀ手伝᠀てつだᤀえるのか？
+ᜀ手伝᠀てつだᤀえないのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>153616911</Id>
+          <Value>「レイとᜀ言᠀いᤀうᜀ少年᠀しょうねんᤀ」
+このクエストを　ᜀ受᠀うᤀけますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>168165637</Id>
+          <Value>やめとくよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>185860368</Id>
+          <Value>いや　ᜀ人違᠀ひとちがᤀいじゃないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>203555596</Id>
+          <Value>だったら　もう
+おᜀ前᠀まえᤀに　ᜀ用᠀ようᤀはない
+ᜀ消᠀きᤀえろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>220201484</Id>
+          <Value>ごまかしても　ᜀ無駄᠀むだᤀだ
+おᜀ前᠀まえᤀは　ᰏ　なんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>235536647</Id>
+          <Value>ᜀ手伝᠀てつだᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>253756171</Id>
+          <Value>ああ　そうだけど
+オレに　なにか
+ᜀ用᠀ようᤀでも　あるのか？</Value>
+        </BtxtString>
+        <BtxtString>
+          <Id>272499473</Id>
+          <Value>このまま　ᜀ１人᠀ひとりᤀ　ᜀ１人᠀ひとりᤀと
+ᜀ戦᠀たたかᤀって　たしかめるのは
+ᜀ効率᠀こうりつᤀが　ᜀ悪᠀わるᤀいな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>289276439</Id>
+          <Value>…おᜀ前᠀まえᤀの　ᜀ連絡先᠀れんらくさきᤀを　ᜀ教᠀おしᤀえろ
+ᜀ指示᠀しじᤀは　ᜀ追᠀おᤀって　ᜀ連絡᠀れんらくᤀする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>304480789</Id>
+          <Value>ᜀ行᠀いᤀっちゃったよ…
+なんか　ᜀ自分勝手᠀じぶんかってᤀな　ヤツだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>321782545</Id>
+          <Value>メッセージが　ᜀ届᠀とどᤀいたみたいだ…
+「レイ」？
+これが　あいつの　ᜀ名前᠀なまえᤀか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>338297611</Id>
+          <Value>「ヨンゲンᜀ通᠀どおᤀりの
+　コンビニまで　ᜀ来᠀こᤀい
+　ᜀ今᠀いまᤀ　すぐだ」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>353763600</Id>
+          <Value>ᜀ本当᠀ほんとうᤀに　ᜀ勝手᠀かってᤀだなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>371458576</Id>
+          <Value>ヨンゲンᜀ通᠀どおᤀりの　コンビニか…
+とりあえず　ᜀ行᠀いᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>387318280</Id>
+          <Value>やっと　ᜀ来᠀きᤀたか
+ᜀ遅᠀おそᤀいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>406061839</Id>
+          <Value>ᜀ今᠀いまᤀから　この　コンビニの
+システムに　ᜀ侵入᠀しんにゅうᤀする
+おᜀ前᠀まえᤀも　ᜀ来᠀こᤀい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>420610571</Id>
+          <Value>あっ！
+ちょっと　ᜀ待᠀まᤀってよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>437256460</Id>
+          <Value>あーあ　ᜀ行᠀いᤀっちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>456000275</Id>
+          <Value>コンビニのシステムに　ᜀ侵入᠀しんにゅうᤀ？
+いったい　ᜀ何᠀なにᤀをする
+つもりなんだ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>471204368</Id>
+          <Value>レイ
+よかった　ようやく　ᜀ追᠀おᤀいついた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>488637195</Id>
+          <Value>ᜀ俺᠀おれᤀは　ハックモンで
+システムに
+ハッキングを　しかける</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>503709958</Id>
+          <Value>ハックモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>521536014</Id>
+          <Value>オレは　ハッキング　アプリの
+ハックモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>540672786</Id>
+          <Value>おᜀ前᠀まえᤀと　ᜀ新海᠀しんかいᤀハルが
+ᜀ以前᠀いぜんᤀに　ᜀ接触᠀せっしょくᤀしたのを
+ᜀ知᠀しᤀっていたのも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>555745809</Id>
+          <Value>ᜀ町᠀まちᤀの　カメラを　ハッキングして
+ᜀ知᠀しᤀっていたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>571867408</Id>
+          <Value>ᜀ余計᠀よけいᤀな　ᜀ説明᠀せつめいᤀはいい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>590217999</Id>
+          <Value>ハッキング　しているᜀ間᠀あいだᤀ
+おᜀ前᠀まえᤀは
+そいつの　ᜀ相手᠀あいてᤀを　してろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>605422091</Id>
+          <Value>そいつの　ᜀ相手᠀あいてᤀ？
+えっ…　なに？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>624296471</Id>
+          <Value>ᜀ監視᠀かんしᤀキャメラ　ᜀ反応᠀はんのうᤀ！
+ᜀ怪᠀あやᤀしいヤツら　ᜀ発見᠀はっけんᤀでございます！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>638321160</Id>
+          <Value>えっ！
+ええーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>658768662</Id>
+          <Value>ᜀ俺᠀おれᤀが　ハックモンと
+システムの　ハッキングを　しているᜀ間᠀あいだᤀ
+おᜀ前᠀まえᤀは　そいつの　ᜀ相手᠀あいてᤀを　していろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>675152657</Id>
+          <Value>ᜀ監視᠀かんしᤀキャメラ　ᜀ反応᠀はんのうᤀ！
+ᜀ怪᠀あやᤀしいヤツら　ᜀ再᠀ふたたᤀび
+ᜀ発見᠀はっけんᤀでございます！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>690487828</Id>
+          <Value>ううっ　ᜀ逆光᠀ぎゃっこうᤀが…
+とても　かないません　ᜀ撤退᠀てったいᤀです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>708313875</Id>
+          <Value>あまり　ᜀ役立᠀やくだᤀつ　ᜀ情報᠀じょうほうᤀは
+ᜀ得᠀えᤀられなかったな…
+ᜀ次᠀つぎᤀを　あたってみるか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>722469132</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀってくれよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>738590981</Id>
+          <Value>…なんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>758907667</Id>
+          <Value>ᜀ何᠀なにᤀを　やってるか　わからないと
+オレも　これᜀ以上᠀いじょうᤀは
+ᜀ協力᠀きょうりょくᤀ　するわけに　いかない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>773980685</Id>
+          <Value>コンビニで　ハッキングして
+ᜀ何᠀なにᤀを　ᜀ調᠀しらᤀべたんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>791937811</Id>
+          <Value>ᜀ面倒᠀めんどうᤀな　ヤツだ…
+コンビニには　ᜀ様々᠀さまざまᤀな　データが
+ᜀ集᠀あつᤀめられている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>809239061</Id>
+          <Value>ᜀ客᠀きゃくᤀのᜀ性別᠀せいべつᤀ　ᜀ年齢᠀ねんれいᤀ…
+ᜀ買᠀かᤀった　ᜀ商品᠀しょうひんᤀの　ᜀ種類᠀しゅるいᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>826540822</Id>
+          <Value>そして　なぜか　このᜀ辺᠀あたᤀりの
+コンビニでは　ᜀ客᠀きゃくᤀの　ᜀ利用᠀りようᤀしている
+アプリまで　ᜀ記録᠀きろくᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>840958483</Id>
+          <Value>おᜀ客᠀きゃくᤀの　ᜀ使᠀つかᤀってる　アプリが？
+どうして…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>859439892</Id>
+          <Value>さあな…　とにかく　そのᜀ中᠀なかᤀから
+ᜀ見᠀みᤀなれないアプリや
+おかしなものが　ないか　ᜀ調᠀しらᤀべただけだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>872939783</Id>
+          <Value>なんのために？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>892994321</Id>
+          <Value>…ᜀ探᠀さがᤀしものを　するためだ
+それᜀ以上᠀いじょうᤀの　ことを
+おᜀ前᠀まえᤀに　ᜀ話᠀はなᤀすつもりは　ない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>910820114</Id>
+          <Value>ᜀ質問᠀しつもんᤀには　ᜀ答᠀こたᤀえたぞ
+ᜀ俺᠀おれᤀは　つぎのᜀ場所᠀ばしょᤀへ　ᜀ行᠀いᤀく
+おᜀ前᠀まえᤀは　ᜀ指示᠀しじᤀを　ᜀ待᠀まᤀて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>923140357</Id>
+          <Value>まったく…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>943719190</Id>
+          <Value>…ᜀ探᠀さがᤀしものって　なんなんだ？
+ᜀ困᠀こまᤀってるなら　ᜀ手伝᠀てつだᤀってやりたいけど
+あの　ᜀ態度᠀たいどᤀがなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>959185432</Id>
+          <Value>「ヨンゲンᜀ山᠀さんᤀの　ᜀ展望台広場᠀てんぼうだいひろばᤀ
+　すぐに　ᜀ来᠀こᤀい」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>975569425</Id>
+          <Value>なんか　ᜀ一方的᠀いっぽうてきᤀに
+コキᜀ使᠀つかᤀわれてる　だけのような…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>993133327</Id>
+          <Value>よし　もう　ᜀ今回᠀こんかいᤀだけだ
+ᜀ次᠀つぎᤀは　つきあいきれないって
+はっきり　ᜀ言᠀いᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009123863</Id>
+          <Value>ᜀ次᠀つぎᤀは　この　ᜀ電光掲示板᠀でんこうけいじばんᤀだ
+ᜀ行᠀いᤀくぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025114642</Id>
+          <Value>この　ᜀ電光掲示板᠀でんこうけいじばんᤀで
+なにを…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043727124</Id>
+          <Value>アプモンたちにも
+ネットの　ᜀ掲示板᠀けいじばんᤀには
+ᜀ書᠀かᤀきこみたくない　ᜀ情報᠀じょうほうᤀがある</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060897557</Id>
+          <Value>そういう　ᜀ情報᠀じょうほうᤀは
+ᜀ昔᠀むかしᤀながらの　アナログな　やりᜀ方᠀かたᤀで
+ᜀ伝達᠀でんたつᤀ　されている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075183887</Id>
+          <Value>ᜀ昔᠀むかしᤀながらの　やりᜀ方᠀かたᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094451986</Id>
+          <Value>ᜀ情報屋᠀じょうほうやᤀだ
+そいつに　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀきにᜀ行᠀いᤀく
+わかったら　さっさと　ᜀ来᠀こᤀい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109000718</Id>
+          <Value>わかってきたけど
+ᜀ強引᠀ごういんᤀだよな　あいつ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1129055002</Id>
+          <Value>ᜀ情報屋᠀じょうほうやᤀ…　ヒフミがᜀ丘᠀おかᤀ　ニコタマᜀ川᠀がわᤀ
+ミハマᜀ港᠀こうᤀ…　このエリアにいる
+セブンコードアプモンを　ᜀ教᠀おしᤀえろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1144128272</Id>
+          <Value>（セブンコードアプモン？
+　ᜀ前᠀まえᤀに　ハルが　ᜀ探᠀さがᤀしてた
+　アプモンの　ことか…？）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161036561</Id>
+          <Value>セブンコードアプモン？
+そのような　アプモンの　ᜀ話᠀はなしᤀは
+このあたりでは　ᜀ聞᠀きᤀきませんね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176633871</Id>
+          <Value>…ᜀ本当᠀ほんとうᤀだろうな
+ᜀ隠᠀かくᤀすと　ために　ならないぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194328849</Id>
+          <Value>ワタクシ
+ᜀ知᠀しᤀらないものは　ᜀ知᠀しᤀらないとしか
+ᜀ答᠀こたᤀえようが　ありませんので</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210581777</Id>
+          <Value>そうか…
+ᜀ今᠀いまᤀから　こいつの　ᜀ書庫᠀しょこᤀに
+ハッキングを　かける</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226310162</Id>
+          <Value>なっ！？
+なんてことを　しようとするんですか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244398098</Id>
+          <Value>おᜀ前᠀まえᤀは　さっきと　ᜀ同᠀おなᤀじように
+こいつの　ᜀ相手᠀あいてᤀを　してろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261044501</Id>
+          <Value>イヤだ
+おᜀ前᠀まえᤀの　ᜀ強引᠀ごういんᤀな　やりᜀ方᠀かたᤀには
+つきあえない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277952781</Id>
+          <Value>ᜀ教᠀おしᤀえて　ほしいのなら
+ムリヤリに　じゃなくて
+ちゃんと　ᜀ話᠀はなᤀしあって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293681168</Id>
+          <Value>ハッキングなんか
+ᜀ絶対᠀ぜったいᤀに　させませんから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310851599</Id>
+          <Value>ᜀ向᠀むᤀこうも　もう
+ᜀ話᠀はなᤀしあうᜀ気᠀きᤀは　ないらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327890963</Id>
+          <Value>ライブラモン…！
+オレは　おᜀ前᠀まえᤀと　ᜀ戦᠀たたかᤀうᜀ気᠀きᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344143890</Id>
+          <Value>ハッキングなんか
+ᜀ絶対᠀ぜったいᤀに　させませんからー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359479048</Id>
+          <Value>ライブラモン…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379009295</Id>
+          <Value>ヒドイです！
+ᜀ勝手᠀かってᤀに　ᜀ情報᠀じょうほうᤀを
+ᜀ引᠀ひᤀきᜀ出᠀だᤀすなんてーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394606606</Id>
+          <Value>あいつの　ᜀ言᠀いᤀっていたことは
+ウソじゃ　なかったようだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410990607</Id>
+          <Value>このᜀ町᠀まちᤀに
+セブンコードアプモンは　いない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428292112</Id>
+          <Value>ᜀ最初᠀さいしょᤀから　ライブラモンは
+そう　ᜀ言᠀いᤀってただろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445200399</Id>
+          <Value>ᜀ他᠀ほかᤀのヤツの　ᜀ言᠀いᤀうことなど
+ᜀ信用᠀しんようᤀ　できるか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462895381</Id>
+          <Value>まだ　これᜀ以上᠀いじょうᤀ
+ᜀ強引᠀ごういんᤀな　ᜀ調᠀しらᤀべᜀ方᠀かたᤀをするのなら
+オレが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1477968145</Id>
+          <Value>おᜀ前᠀まえᤀが　ᜀ止᠀とᤀめると　いうのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495794446</Id>
+          <Value>…そういえば
+おᜀ前᠀まえᤀの　アプモンは
+まだ　ᜀ調᠀しらᤀべていなかったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510342917</Id>
+          <Value>なにっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1527906574</Id>
+          <Value>ハッキングを　ᜀ開始᠀かいしᤀする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546126091</Id>
+          <Value>ᜀ戻᠀もどᤀってきたな
+おᜀ前᠀まえᤀの　アプモンを
+ᜀ調᠀しらᤀべさせてもらう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1561461006</Id>
+          <Value>ハッキングを　ᜀ開始᠀かいしᤀする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1577976075</Id>
+          <Value>どうだ　ᜀ終᠀おᤀわったか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596326671</Id>
+          <Value>ᜀ珍᠀めずらᤀしいアプモンも　いるが
+セブンコードアプモンは
+いないようだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612448273</Id>
+          <Value>だったら　こいつにも　ᜀ用᠀ようᤀはない
+ᜀ行᠀いᤀくぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1628045575</Id>
+          <Value>おい　ᜀ待᠀まᤀて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1644560645</Id>
+          <Value>あいつ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1661600009</Id>
+          <Value>もう　いない…　か</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680868113</Id>
+          <Value>あの　レイってやつ
+なんか　さみしいᜀ目᠀めᤀを　してたな…
+ᜀ気᠀きᤀのせいかも　しれないけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1695941131</Id>
+          <Value>また　いつか
+どこかで　ᜀ会᠀あᤀえるかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712587025</Id>
+          <Value>いいえ　ᜀ人違᠀ひとちがᤀいじゃないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1730151178</Id>
+          <Value>ええ　そうだけど
+ワタシに　なにか
+ᜀ用᠀ようᤀでも　あるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747583510</Id>
+          <Value>ᜀ行᠀いᤀっちゃったわ…
+なんだか　ᜀ自分勝手᠀じぶんかってᤀな　ᜀ人᠀ひとᤀね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764885266</Id>
+          <Value>メッセージが　ᜀ届᠀とどᤀいたみたい…
+「レイ」？
+これが　あのᜀ人᠀ひとᤀの　ᜀ名前᠀なまえᤀね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779826960</Id>
+          <Value>ᜀ本当᠀ほんとうᤀに　ᜀ勝手᠀かってᤀなのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1797653008</Id>
+          <Value>ヨンゲンᜀ通᠀どおᤀりの　コンビニね…
+とりあえず　ᜀ行᠀いᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_030_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1815085843</Id>
+          <Value>コンビニのシステムに　ᜀ侵入᠀しんにゅうᤀ？
+いったい　ᜀ何᠀なにᤀをする
+つもりなのかしら…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1829634314</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀってよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_048_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1849557780</Id>
+          <Value>ᜀ何᠀なにᤀをやってるか　わからないと
+ワタシも　これᜀ以上᠀いじょうᤀは
+ᜀ協力᠀きょうりょくᤀ　するわけに　いかないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864499726</Id>
+          <Value>コンビニで　ハッキングして
+ᜀ何᠀なにᤀを　ᜀ調᠀しらᤀべているの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_053_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1881276949</Id>
+          <Value>おᜀ客᠀きゃくᤀさんの　ᜀ使᠀つかᤀってる　アプリが？
+どうして…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_059_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1900544790</Id>
+          <Value>…ᜀ探᠀さがᤀしものって　なんなの？
+ᜀ困᠀こまᤀってるなら　ᜀ手伝᠀てつだᤀってあげたいけど
+あの　ᜀ態度᠀たいどᤀは　ᜀ良᠀よᤀくないわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1915224594</Id>
+          <Value>まったく　もう　ᜀ一方的᠀いっぽうてきᤀに
+コキᜀ使᠀つかᤀわれてる　だけだわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_062_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1932788496</Id>
+          <Value>よーし　もう　ᜀ今回᠀こんかいᤀだけよ
+ᜀ次᠀つぎᤀは　つきあいきれないって
+はっきり　ᜀ言᠀いᤀうわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1947992591</Id>
+          <Value>わかってきたけど
+ᜀ強引᠀ごういんᤀだよね　レイって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_071_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1966211856</Id>
+          <Value>（セブンコードアプモン？
+　ᜀ前᠀まえᤀに　ハルが　ᜀ探᠀さがᤀしてた
+　アプモンの　ことよね…？）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_078_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982464788</Id>
+          <Value>もう　イヤよ
+アナタの　ᜀ強引᠀ごういんᤀな　やりᜀ方᠀かたᤀには
+つきあえないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_079_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1999373069</Id>
+          <Value>ᜀ教᠀おしᤀえて　ほしいのなら
+ムリヤリに　じゃなくて
+ちゃんと　ᜀ話᠀はなᤀしあえば…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_082_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2015494675</Id>
+          <Value>ライブラモン…！
+ワタシは　アナタと　ᜀ戦᠀たたかᤀうᜀ気᠀きᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_088_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2032402960</Id>
+          <Value>ᜀ最初᠀さいしょᤀから　ライブラモンは
+そう　ᜀ言᠀いᤀってたでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_090_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2050097940</Id>
+          <Value>まだ　これᜀ以上᠀いじょうᤀ
+ᜀ強引᠀ごういんᤀな　ᜀ調᠀しらᤀべᜀ方᠀かたᤀをするなら
+ワタシが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2063859972</Id>
+          <Value>えっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_100_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2081292555</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀってよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_101_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097414404</Id>
+          <Value>もう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_102_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2114715915</Id>
+          <Value>もう　いない…　わよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_103_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2133721875</Id>
+          <Value>…レイって
+なんか　さみしいᜀ目᠀めᤀを　してたわよね…
+ᜀ気᠀きᤀのせいかも　しれないけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_66_104_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2148925964</Id>
+          <Value>また　いつか
+どこかで　ᜀ会᠀あᤀえるかしら</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179919</Id>
+          <Value>スリープ・ᜀ暁᠀あかつきᤀをおぼえず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826063</Id>
+          <Value>ミハマ港・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37487377</Id>
+          <Value>おねえさんも　まわりのᜀ人᠀ひとᤀも
+みんな　ᜀ眠᠀ねむᤀってしまっている…
+スマホの　アプリが　ᜀ原因᠀げんいんᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380495</Id>
+          <Value>ミハマ港・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71041809</Id>
+          <Value>ＡＲダンジョンには　ᜀ眠᠀ねむᤀっている
+アプモンが…　ᜀ起᠀おᤀこしてあげつつ
+ᜀ奥᠀おくᤀに　ᜀ進᠀すすᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934927</Id>
+          <Value>ミハマ港・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104596241</Id>
+          <Value>ＡＲダンジョンには　ᜀ眠᠀ねむᤀっている
+アプモンが…　ᜀ起᠀おᤀこしてあげつつ
+ᜀ奥᠀おくᤀに　ᜀ進᠀すすᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489359</Id>
+          <Value>ミハマ港・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150673</Id>
+          <Value>ＡＲダンジョンには　ᜀ眠᠀ねむᤀっている
+アプモンが…　ᜀ起᠀おᤀこしてあげつつ
+ᜀ奥᠀おくᤀに　ᜀ進᠀すすᤀんでみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152043791</Id>
+          <Value>ミハマ港・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173540120</Id>
+          <Value>ᜀ奥᠀おくᤀにいる　スリープモンの　ᜀ深᠀ふかᤀいᜀ眠᠀ねむᤀりが
+まわりのᜀ人᠀ひとᤀも　ᜀ眠᠀ねむᤀらせてしまうらしい
+ᜀ悪᠀わるᤀいけど　スリープモンを　ᜀ起᠀おᤀこそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598223</Id>
+          <Value>ミハマ港・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206832406</Id>
+          <Value>ᜀ普通᠀ふつうᤀのᜀ手段᠀しゅだんᤀじゃ　スリープモンは
+ᜀ起᠀おᤀきそうにない…　ライフᜀ属性᠀ぞくせいᤀの
+アプモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてみようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152655</Id>
+          <Value>ミハマ港・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238945043</Id>
+          <Value>ムリやり　ᜀ起᠀おᤀこされて　スリープモンは
+ᜀ怒᠀おこᤀっている…　でも　ここで
+ᜀ眠᠀ねむᤀらせるわけには　いかない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>ミハマ港・カフェ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285913</Id>
+          <Value>スリープモンは　いなくなった
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　みんなの　ᜀ眠気᠀ねむけᤀが
+ᜀ消᠀きᤀえているか　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>ミハマ港・カフェ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840345</Id>
+          <Value>スリープモンは　いなくなった
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　みんなの　ᜀ眠気᠀ねむけᤀが
+ᜀ消᠀きᤀえているか　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323486490</Id>
+          <Value>スリープモンは　いなくなったけど
+おねえさんは　ᜀ現実逃避᠀げんじつとうひᤀに　ᜀ眠᠀ねむᤀろうと
+している…　ᜀ気持᠀きもᤀちは　わかるけどね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

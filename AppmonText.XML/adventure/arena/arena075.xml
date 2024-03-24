@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195095</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「フリーᜀ大会᠀たいかいᤀ　ファイナル」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>21234461</Id>
+          <Value>「フリーᜀ大会᠀たいかいᤀ　ファイナル」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>39846684</Id>
+          <Value>ᜀ自由᠀じゆうᤀを　ᜀ司᠀つかさどᤀる　ᜀ天空᠀てんくうᤀの　ᜀ神᠀かみᤀが
+サイバーアリーナに　ᜀ間᠀まᤀもなく
+ᜀ降臨᠀こうりんᤀする…　そのᜀ瞬間᠀しゅんかんᤀを　ᜀ見届᠀みとどᤀけよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>54788883</Id>
+          <Value>このバトル　ᜀ大荒᠀おおあᤀれの　ᜀ予感᠀よかんᤀ
+でも　ᜀ大丈夫᠀だいじょうぶᤀ
+ᜀ私᠀わたしᤀには　ᜀ彼᠀かれᤀが　ついているもの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>70779668</Id>
+          <Value>バディが　ᜀ俺᠀おれᤀに　もっと　ᜀ輝᠀かがやᤀけと
+ささやいている
+しかたねェ…　ᜀ輝᠀かがやᤀくと　するか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>86901521</Id>
+          <Value>あのね！　あのね！　ぼくね
+つよい　アプモン　もってるんだよ！
+みんなにも　みてほしいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>107479838</Id>
+          <Value>ᜀ強᠀つよᤀさの　ᜀ先᠀さきᤀにあるのは　ᜀ孤独᠀こどくᤀだ
+ᜀ対等᠀たいとうᤀに　ᜀ戦᠀たたかᤀえるᜀ相手᠀あいてᤀがいない　ᜀ孤独᠀こどくᤀ…
+さあ　ᜀ私᠀わたしᤀたちの　ᜀ孤独᠀こどくᤀを　いやしてくれ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751755</Id>
+          <Value>よろしくお願いします！
+（仮テキスト）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>135528971</Id>
+          <Value>よろしくお願いします！
+（仮テキスト）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

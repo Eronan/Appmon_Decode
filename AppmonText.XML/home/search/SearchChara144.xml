@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>コピペモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21496600</Id>
+          <Value>コピペモンは　コピペのアプリ！
+ᜀ対象᠀たいしょうᤀのデータを　コピー＆ペーストで
+ᜀ本物᠀ほんものᤀそっくりの　コピーが　ᜀ作᠀つくᤀれるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>36963090</Id>
+          <Value>Cランクマスター　カヨの　バディだな
+ちょっと　マイペースすぎるけど
+カヨには　ちょうどいいのかもな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

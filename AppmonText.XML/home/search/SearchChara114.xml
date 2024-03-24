@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>タップモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20448019</Id>
+          <Value>タップモンは　タップのアプリだな
+スマホを　ᜀ使᠀つかᤀってるなら
+もちろん　ᜀ操作᠀そうさᤀはカンペキだよな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880598</Id>
+          <Value>ᜀ検索᠀けんさくᤀによると
+ツノや　ᜀ体᠀からだᤀが　ᜀ非常᠀ひじょうᤀにやわらかく
+よくᜀ溶᠀とᤀける！　…ᜀ溶᠀とᤀけるの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

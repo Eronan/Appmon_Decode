@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>11</NumberOfLabels>
+  <NumberOfStrings>11</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442319</Id>
+          <Value>ᰏ！
+バトル　すっごくᜀ楽᠀たのᤀしいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>18350856</Id>
+          <Value>これが　キズナが
+つながってるって
+ことなのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>35390219</Id>
+          <Value>そうだよ！
+オレも　オンモンも
+ナオトも　オフモンも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380496</Id>
+          <Value>みんな　つながってるんだからさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>67764742</Id>
+          <Value>フン
+くだらない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_05</Key>
+      <Values>
+        <BtxtString>
+          <Id>87294736</Id>
+          <Value>…いいか　ᰏ
+おᜀ前᠀まえᤀのᜀ言᠀いᤀう　キズナなんて
+ᜀ覚悟᠀かくごᤀのない　ᜀ偽物᠀にせものᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_06</Key>
+      <Values>
+        <BtxtString>
+          <Id>103678481</Id>
+          <Value>つながっていると　ᜀ言᠀いᤀうのなら…
+ᜀ今᠀いまᤀここで　ᜀ断᠀たᤀちᜀ切᠀きᤀってやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_07</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227209</Id>
+          <Value>ᜀ来᠀こᤀい　オフモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_08</Key>
+      <Values>
+        <BtxtString>
+          <Id>134873353</Id>
+          <Value>はいです　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>152830731</Id>
+          <Value>そうよ！
+ワタシも　オンモンも
+ナオトも　オフモンも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>168821007</Id>
+          <Value>みんな　つながってるんだから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

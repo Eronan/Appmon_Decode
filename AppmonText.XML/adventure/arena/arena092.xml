@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>4588311</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「ゲリラ：ᜀ合体᠀がったいᤀロックᜀ杯᠀カップᤀ・超」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>21758749</Id>
+          <Value>「ゲリラ：ᜀ合体᠀がったいᤀロックᜀ杯᠀カップᤀ・超」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>39846683</Id>
+          <Value>エムシーモンのᜀ動画᠀どうがᤀ　すごいᜀ再生数᠀さいせいすうᤀなの
+ᜀ映᠀うつᤀっちゃったら　ワタシも　ᜀ人気者᠀にんきものᤀ？
+キミ　いいᜀ引᠀ひᤀきᜀ立᠀たᤀてᜀ役᠀やくᤀに　なってよね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>52691724</Id>
+          <Value>バトルするとき　なんだか
+すっごく　いいきもち…
+はやく　はじめよう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517520</Id>
+          <Value>あー　てすてす　ᜀ聞᠀きᤀこえてる？
+これより　バトルを　はじめまーす
+どうぞ　よろしくおねがいします！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>86377231</Id>
+          <Value>わーい！　バトルだ　バトルだ！
+キミも　バトルすき？
+えへへ　よろしくねえ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>105251610</Id>
+          <Value>まいど！　ᜀ自分᠀じぶんᤀが　ᜀ対戦相手᠀たいせんあいてᤀやな！
+どっち　ᜀ勝᠀かᤀっても　ᜀ恨᠀うらᤀみっこなしやで
+よろしゅうたのむわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>122290967</Id>
+          <Value>テストの　ᜀ選択肢᠀せんたくしᤀも　サイコロで
+ᜀ決᠀きᤀめてきた…　このバトルの　ᜀ勝敗᠀しょうはいᤀも
+オレの　ダイスモンで　ᜀ決᠀きᤀめる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>137626388</Id>
+          <Value>ところで　わしの　カベモンは
+どこに　いるかのう？
+ᜀ周囲᠀しゅういᤀに　とけこんで　ᜀ見᠀みᤀえんわい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

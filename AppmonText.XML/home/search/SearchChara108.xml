@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>ブートモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>19792660</Id>
+          <Value>ᰏの　バディアプモン
+ブートモンだ！
+…ᜀ今᠀いまᤀさら　ᜀ言᠀いᤀうことでも　ないけどさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37618452</Id>
+          <Value>つなげることが　ᜀ何᠀なにᤀより　ᜀ大好᠀だいすᤀき
+たくさんのᜀ出会᠀であᤀいを　みんなつなげて
+ここまで　きたんだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>53871379</Id>
+          <Value>ᜀ頼᠀たのᤀむぜ　ᰏ
+オレが　ᜀ言᠀いᤀうことでも　ないけどさ
+おᜀ前᠀まえᤀに　かかってるとこ　あるだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>70124305</Id>
+          <Value>ᜀ見᠀みᤀせてやれよ！
+ブートモンと　つないできた
+キズナの　ᜀ力᠀ちからᤀって　ヤツをさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

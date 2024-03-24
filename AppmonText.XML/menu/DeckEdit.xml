@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>warning00</Key>
+      <Values>
+        <BtxtString>
+          <Id>917773</Id>
+          <Value>コストがオーバーしています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>warning01</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826063</Id>
+          <Value>アプモン数がオーバーしています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>warning02</Key>
+      <Values>
+        <BtxtString>
+          <Id>36045337</Id>
+          <Value>デッキには
+５ᜀ体以上᠀たいいじょうᤀのアプモンが　ᜀ必要᠀ひつようᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>confirmationReturn</Key>
+      <Values>
+        <BtxtString>
+          <Id>53347088</Id>
+          <Value>ᜀ変更᠀へんこうᤀした　ᜀ内容᠀ないようᤀは
+ᜀ保存᠀ほぞんᤀされませんが
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>confirmationAutoJoin</Key>
+      <Values>
+        <BtxtString>
+          <Id>68550930</Id>
+          <Value>オートᜀ編成᠀へんせいᤀをおこないますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>confirmationDecide</Key>
+      <Values>
+        <BtxtString>
+          <Id>87687958</Id>
+          <Value>バディᜀ設定᠀せっていᤀをおこないます
+いまのᜀ内容᠀ないようᤀで　デッキをᜀ保存᠀ほぞんᤀして
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>131330</Id>
+          <Value>エリ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22020887</Id>
+          <Value>あなたの　ハートに　ドッカンパンチ！
+ᜀ宇宙᠀うちゅうᤀの　センター　ᜀ花嵐᠀からんᤀエリだ！
+ᜀ上᠀うえᤀからᜀ目線᠀めせんᤀが　ᜀ今日᠀きょうᤀもキレてるな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37094163</Id>
+          <Value>アイドルグループ
+アプリᜀ山᠀やまᤀ４７０の　メンバーなんだ！
+…なーんて　もちろん　ᜀ知᠀しᤀってるよな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54002453</Id>
+          <Value>バディアプモンは
+アクションゲームアプリの　ドカモン！
+エリが　ᜀ大好᠀だいすᤀきな　ᜀ優᠀やさᤀしいヤツだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

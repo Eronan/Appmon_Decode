@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>Ｅランクマスターをᜀ探᠀さがᤀせ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17039620</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38273817</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50594052</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828249</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84148484</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105382681</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117702916</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138937113</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151257348</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172491545</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>184811780</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206045977</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218366212</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239600409</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>251920644</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273154841</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285475076</Id>
+          <Value>学校１階</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306709273</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323486489</Id>
+          <Value>Ｅランクマスター「ユカリ」は
+ᜀ学校᠀がっこうᤀの　どこかに　いるみたい
+まずは　ᜀ学校᠀がっこうᤀの　ᜀ校舎᠀こうしゃᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>131330</Id>
+          <Value>カヨ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20054556</Id>
+          <Value>ᜀ自称᠀じしょうᤀ　オウジの　ᜀ一番᠀いちばんᤀのᜀ理解者᠀りかいしゃᤀ…
+ていうか　おっかけだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929175</Id>
+          <Value>なになに　オウジに　ᜀ今᠀いまᤀまで　ᜀ送᠀おくᤀった
+メッセージᜀ数᠀すうᤀと　その　ᜀ未読数᠀みどくすうᤀは…
+うえっ　サーバーに　ᜀ負担᠀ふたんᤀかかりそう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>53740306</Id>
+          <Value>サイバーアリーナ　Ｃランクマスター！
+バディアプモンの　コピペモンとは
+ゼツミョ～な　デコボココンビだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>72090393</Id>
+          <Value>メッセージを　コピペして
+ᜀ保存᠀ほぞんᤀしておくのが　ᜀ好᠀すᤀきらしいぜ
+ᜀ後᠀あとᤀから　ᜀ何度᠀なんどᤀも　ᜀ読᠀よᤀみᜀ返᠀かえᤀすんだってさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

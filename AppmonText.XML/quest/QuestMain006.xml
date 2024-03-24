@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048844</Id>
+          <Value>ナオトとのᜀ決戦᠀けっせんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694989</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880596</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜀ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249421</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435028</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜁ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803853</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989460</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜂ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543892</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜃ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172098324</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜄ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205652756</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜅ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239207188</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜆ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272761620</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜇ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>ナオトとのバトルに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316052</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜈ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323093268</Id>
+          <Value>サイバーアリーナで　ᜀ再会᠀さいかいᤀしたのは
+ナオトと　そのバディ　オフモン！
+ᜀ挑᠀いどᤀまれた　バトルに　ᜈ応᠀おうᤀじよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>PROHIBIT_FAST_TRAVEL</Key>
+      <Values>
+        <BtxtString>
+          <Id>3539476</Id>
+          <Value>ᜀ回線᠀かいせんᤀがᜀ混᠀こᤀみᜀ合᠀あᤀっているため
+ᜀ現在᠀げんざいᤀナビゲートがᜀ行᠀おこなᤀえません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONF_FAST_TRAVEL</Key>
+      <Values>
+        <BtxtString>
+          <Id>19530258</Id>
+          <Value>ᜀ目的地᠀もくてきちᤀを「ᰀ」に
+ᜀ設定᠀せっていᤀしてᜀ移動᠀いどうᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAST_TRAVEL_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929178</Id>
+          <Value>ナビゲートをᜀ開始᠀かいしᤀします
+ᜀ歩᠀あるᤀきスマホはᜀ大変危険᠀たいへんきけんᤀです
+ᜀ周囲᠀しゅういᤀにᜀ注意᠀ちゅういᤀしてᜀ移動᠀いどうᤀしてください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

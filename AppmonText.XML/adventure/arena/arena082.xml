@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>56</NumberOfLabels>
+  <NumberOfStrings>56</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3801879</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「ハイエンドＧＰファイナル」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841245</Id>
+          <Value>「ハイエンドＧＰファイナル」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>37225232</Id>
+          <Value>また　ᜀ会᠀あᤀったね　ᰏ！
+ᜀ全力᠀ぜんりょくᤀを　ᜀ出᠀だᤀすから…
+ᜀ全力᠀ぜんりょくᤀで　かかってきて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>54002448</Id>
+          <Value>また　ᜀ会᠀あᤀったな　ᰏ！
+ᜀ全力᠀ぜんりょくᤀを　ᜀ出᠀だᤀすから…
+ᜀ全力᠀ぜんりょくᤀで　かかってこい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959318</Id>
+          <Value>ᜀ君᠀きみᤀと　ᜀ対等᠀たいとうᤀなᜀ立場᠀たちばᤀで
+バトルが　できて　うれしいよ
+さあ　ᜀ君᠀きみᤀの　ᜀ本気᠀ほんきᤀを　ᜀ見᠀みᤀせてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>87294739</Id>
+          <Value>ふっ…　ᰏ
+ずいぶん　ᜀ腕᠀うでᤀを　あげたようだな
+だが　このバトル　ᜀ勝᠀かᤀつのは　ᜀ俺᠀おれᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>101581320</Id>
+          <Value>また　ᜀ会᠀あᤀったね
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>122159896</Id>
+          <Value>さあ　これが　ᜀ本当᠀ほんとうᤀの　ᜀ決着᠀けっちゃくᤀだよ
+ᜀ全力᠀ぜんりょくᤀを　ᜀ出᠀だᤀすから…
+ᜀ全力᠀ぜんりょくᤀで　かかってきて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>135004425</Id>
+          <Value>ᜀ望᠀のぞᤀむところだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>153748242</Id>
+          <Value>…ああ　ᜀ負᠀まᤀけちゃった
+やっぱり　ᜀ本当᠀ほんとうᤀに　ᜀ強᠀つよᤀいね
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>171836182</Id>
+          <Value>アナタのこと
+ᜀ待᠀まᤀってるᜀ人᠀ひとᤀが　いるんでしょ？
+このᜀ後᠀あとᤀも　ᜀ気᠀きᤀをᜀ抜᠀ぬᤀかずに　がんばってね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>184942853</Id>
+          <Value>もちろん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>204079887</Id>
+          <Value>フフ…　ᰏ
+ᜀ君᠀きみᤀは　かならず　ここに
+たどりつくと　ᜀ思᠀おもᤀっていたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>218497285</Id>
+          <Value>オウジ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>238420502</Id>
+          <Value>ᜀ僕᠀ぼくᤀが　チャンピオンのᜀ座᠀ざᤀを　ᜀ下᠀おᤀりたのは
+ᜀ君᠀きみᤀに　ᜀ負᠀まᤀけたからじゃない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>254804754</Id>
+          <Value>ᜀ君᠀きみᤀと　ᜀ対等᠀たいとうᤀのᜀ場所᠀ばしょᤀで
+こうやって
+バトルが　したかったからさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>271581972</Id>
+          <Value>いくよ　ᰏ
+ᜀ今一度᠀いまいちどᤀ…
+ᜀ僕᠀ぼくᤀに　ᜀ君᠀きみᤀのすべてを　ᜀ見᠀みᤀせてくれ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>286917130</Id>
+          <Value>フフフ…　やっぱり
+ᜀ君᠀きみᤀは　ᜀ強᠀つよᤀいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>305660691</Id>
+          <Value>バトルは　もちろんだけど…
+それᜀ以上᠀いじょうᤀに
+ᜀ強᠀つよᤀい　ᜀ思᠀おもᤀいを　ᜀ感᠀かんᤀじてしまう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>321782293</Id>
+          <Value>ᜀ勇気᠀ゆうきᤀ…　ᜀ希望᠀きぼうᤀ…　ᜀ信頼᠀しんらいᤀ…
+…ᜀ強᠀つよᤀい　キズナをね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>338428689</Id>
+          <Value>さあ　ᰏ
+ᜀ進᠀すすᤀむといい…
+ᜀ彼᠀かれᤀが　ᜀ君᠀きみᤀを　ᜀ待᠀まᤀっているよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>355074578</Id>
+          <Value>レディース　アンド　ジェントルメン
+このᜀ時᠀ときᤀが　やってᜀ来᠀きᤀたぜーーッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>372376341</Id>
+          <Value>サイバーアリーナ
+「ハイエンドＧＰファイナル」！
+チャンピオンᜀ決定戦᠀けっていせんᤀだーーッ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>389284375</Id>
+          <Value>ᜀ長᠀ながᤀく　チャンピオンに　ᜀ君臨᠀くんりんᤀしていた
+かのᜀ帝王᠀ていおうᤀ　オウジを　くだし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>406979352</Id>
+          <Value>たった２ᜀヶ月᠀かげつᤀで
+このサイバーアリーナの　ᜀ頂点᠀ちょうてんᤀにᜀ立᠀たᤀった
+ふたりのᜀ天才᠀てんさいᤀドライヴァー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>423101203</Id>
+          <Value>ᰏとナオトのバトルが
+なんとなんとぉ　ついにᜀ実現᠀じつげんᤀ！
+ᜀＹＥＡＡＡＡＡＡＡＡＡＨ᠀イェーーーーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>440271642</Id>
+          <Value>ᜀ最高᠀さいこうᤀのライバルによる　ᜀ最高᠀さいこうᤀのバトル！
+みんな！　このバトルは
+ᜀ見᠀みᤀのがせねぇぇぇぇゼぃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>453509384</Id>
+          <Value>いくぞ　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>473039634</Id>
+          <Value>ふっ…　ᰏ
+ずいぶん　ᜀ腕᠀うでᤀをあげたようだな
+だが　このバトル　ᜀ勝᠀かᤀつのはᜀ俺᠀おれᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>488375050</Id>
+          <Value>ナオト！
+ᜀ手᠀てᤀをぬいたりしたら
+ゆるさないからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>506462989</Id>
+          <Value>ᜀ安心᠀あんしんᤀしろ　ᰏ
+ᜀ俺᠀おれᤀは　おᜀ前᠀まえᤀにだけは
+ᜀ負᠀まᤀけられないんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>524157715</Id>
+          <Value>それは　オレもᜀ同᠀おなᤀじだ！
+オレもナオトにだけは　ᜀ負᠀まᤀけられない！
+このバトル　ぜったいにᜀ勝᠀かᤀってみせる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>541066013</Id>
+          <Value>「ハイエンドＧＰファイナル」
+ᜀ勝᠀かᤀちぬいたのは　ナオト！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>556270350</Id>
+          <Value>そして　そしてぇ！
+この　サイバーアリーナの
+ᜀ新᠀あらᤀたな　チャンピオンは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>573702930</Id>
+          <Value>いや…　ᜀ俺᠀おれᤀは
+このᜀ程度᠀ていどᤀのバトルで
+チャンピオンをᜀ名乗᠀なのᤀるつもりはない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>587596037</Id>
+          <Value>ナオト…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>607257362</Id>
+          <Value>まさか　ᜀ俺᠀おれᤀと　バトルできただけで
+ᜀ満足᠀まんぞくᤀだなんて
+ᜀ思᠀おもᤀってないよな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>625214231</Id>
+          <Value>ᜀ俺᠀おれᤀは　おᜀ前᠀まえᤀの
+ᜀ真᠀しんᤀの　ᜀ実力᠀じつりょくᤀと　ᜀ戦᠀たたかᤀいたいんだ
+そうでなければ　ᜀ意味᠀いみᤀがない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>640811796</Id>
+          <Value>ᰏ
+ᜀ時᠀ときᤀを　ᜀ改᠀あらたᤀめて　ᜀ全力᠀ぜんりょくᤀで
+ᜀ俺᠀おれᤀを　ᜀ倒᠀たおᤀしにこい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>656409103</Id>
+          <Value>ᜀ俺᠀おれᤀたちの　ᜀ決着᠀けっちゃくᤀは
+まだ　ついていないぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>674235153</Id>
+          <Value>レディース　アンド　ジェントルメン
+ᜀ再᠀ふたたᤀび　このときが
+やってᜀ来᠀きᤀたぜーーッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>691798807</Id>
+          <Value>ᜀ真᠀しんᤀの　ᜀ実力᠀じつりょくᤀで　ぶつかりたいという
+ナオトの　アツい　ᜀ希望᠀きぼうᤀに
+おᜀ応᠀こたᤀえして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>708444954</Id>
+          <Value>サイバーアリーナ
+「ハイエンドＧＰファイナル」！
+ᜀ真᠀しんᤀの　チャンピオンᜀ決定戦᠀けっていせんᤀだーーッ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>724304658</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ　ᜀ俺᠀おれᤀを
+ᜀ満足᠀まんぞくᤀさせて　くれるんだろうな
+ᰏ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>741081619</Id>
+          <Value>ᜀ全力᠀ぜんりょくᤀで　かかってこい
+…このバトルも　ᜀ勝᠀かᤀつのは　ᜀ俺᠀おれᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>755630346</Id>
+          <Value>そして　そしてぇ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>774243086</Id>
+          <Value>この　サイバーアリーナの
+ᜀ新᠀あらᤀたな　チャンピオンは…
+ᰏだーーッ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_001_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>789447176</Id>
+          <Value>また　ᜀ会᠀あᤀったな
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>810025751</Id>
+          <Value>さあ　これが　ᜀ本当᠀ほんとうᤀの　ᜀ決着᠀けっちゃくᤀだ
+ᜀ全力᠀ぜんりょくᤀを　ᜀ出᠀だᤀすから…
+ᜀ全力᠀ぜんりょくᤀで　かかってこい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>822870281</Id>
+          <Value>ᜀ望᠀のぞᤀむところよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>841614098</Id>
+          <Value>…ああ　ᜀ負᠀まᤀけちゃった
+やっぱり　ᜀ本当᠀ほんとうᤀに　ᜀ強᠀つよᤀいな
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_005_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>859570966</Id>
+          <Value>キミのこと
+ᜀ待᠀まᤀってるᜀ人᠀ひとᤀが　いるんだろ？
+このᜀ後᠀あとᤀも　ᜀ気᠀きᤀをᜀ抜᠀ぬᤀかずに　がんばれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>872808709</Id>
+          <Value>もちろん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>889848073</Id>
+          <Value>いくよ！　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>907805450</Id>
+          <Value>ナオト！
+ᜀ手᠀てᤀをぬいたりしたら
+ゆるさないから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_TNMT_082_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>926810899</Id>
+          <Value>それは　ワタシもᜀ同᠀おなᤀじ！
+ワタシもナオトにだけはᜀ負᠀まᤀけられない！
+このバトル　ぜったいにᜀ勝᠀かᤀってみせる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

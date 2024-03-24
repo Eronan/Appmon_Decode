@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>42</NumberOfLabels>
+  <NumberOfStrings>42</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_076_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>524551</Id>
+          <Value>こまったわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_075_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301767</Id>
+          <Value>たのみたいダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_064_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078983</Id>
+          <Value>こまったのう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>52822798</Id>
+          <Value>キレイな　ᜀ景色᠀けしきᤀね
+がんばって　ᜀ登᠀のぼᤀったかいが
+あったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>69730833</Id>
+          <Value>ᜀ釣᠀つᤀりを　しにきたんだよ
+ᜀ魚᠀さかなᤀが　ᜀ釣᠀つᤀれたら　うれしいし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>87294737</Id>
+          <Value>こうして　ᜀ山᠀やまᤀをᜀ登᠀のぼᤀるᜀ人᠀ひとᤀと
+コミュニケーションをとるのも
+ᜀ楽᠀たのᤀしいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>100925699</Id>
+          <Value>ふー…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>119800336</Id>
+          <Value>ああ　ᜀ気᠀きᤀにしないで　くれたまえ
+すみっこが　ᜀ落᠀おᤀちつくんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>138019602</Id>
+          <Value>このヨンゲンᜀ山᠀さんᤀは
+ᜀ登山᠀とざんᤀの　ᜀ初心者᠀しょしんしゃᤀでも
+ᜀ登᠀のぼᤀりやすい　ᜀ山᠀やまᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>154796822</Id>
+          <Value>このᜀ山᠀やまᤀには　いろんな　ᜀ野鳥᠀やちょうᤀがいて
+バードウォッチングのᜀ人᠀ひとᤀが
+よく　ᜀ来᠀くᤀるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>169476622</Id>
+          <Value>キミは　バードウォッチング…
+じゃあ　なさそうだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_008_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>188482325</Id>
+          <Value>うう…
+ᜀ山᠀やまᤀの　ᜀ奥᠀おくᤀのほうに　ᜀ行᠀いᤀったら
+なんだが　ᜀ気分᠀きぶんᤀが　ᜀ悪᠀わるᤀくなったよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_009_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>205783825</Id>
+          <Value>ᜀ昔᠀むかしᤀの　イヤな　ᜀ記憶᠀きおくᤀを
+ᜀ思᠀おもᤀいᜀ出᠀だᤀしたときみたいな…
+ᜀ今日᠀きょうᤀは　もう　ᜀ帰᠀かえᤀろうかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_009_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>223085336</Id>
+          <Value>これも　カオスＡＲフィールドが
+ᜀ広᠀ひろᤀがりはじめているᜀ影響᠀えいきょうᤀ…？
+ᜀ人体᠀じんたいᤀにも　ᜀ被害᠀えいきょうᤀが　ᜀ出᠀でᤀるのか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_009_HERO_CAR_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>239862552</Id>
+          <Value>これも　カオスＡＲフィールドが
+ᜀ広᠀ひろᤀがりはじめているᜀ影響᠀えいきょうᤀ…？
+ᜀ人体᠀じんたいᤀにも　ᜀ被害᠀えいきょうᤀが　ᜀ出᠀でᤀるのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>254542357</Id>
+          <Value>ᜀ自分᠀じぶんᤀは　ヨンゲンᜀ山᠀さんᤀの　ᜀ美化᠀びかᤀに
+つとめているで　あります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>272106008</Id>
+          <Value>ポイᜀ捨᠀すᤀては　ゆるさないで　あります
+ᜀ見᠀みᤀつけたら　ᜀ即᠀そくᤀ　ᜀ始末᠀しまつᤀするで　あります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>289014545</Id>
+          <Value>ふだん…　ᜀ運動᠀うんどうᤀしないから…
+ちょっと…　ᜀ登᠀のぼᤀっただけでも…
+ᜀ息᠀いきᤀが…　はあ…　はあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>305398547</Id>
+          <Value>ねーちゃんが　へばってるから
+ちょっとだけ　ᜀ休憩᠀きゅうけいᤀしてるんだ
+まったく　しょーがねーなー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>322568981</Id>
+          <Value>このᜀ山᠀やまᤀは　おれのᜀ庭᠀にわᤀみたいなもんだ！
+このᜀ山᠀やまᤀのことなら
+なんでも　ᜀ知᠀しᤀってるぜ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>338821905</Id>
+          <Value>え？　このᜀ山᠀やまᤀにいる　アプモン？
+なんだよ　アプモンって！
+そんなの　ᜀ知᠀しᤀらねーぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_014_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>356647702</Id>
+          <Value>このᜀ山᠀やまᤀは　おれの　ᜀ庭᠀にわᤀみたいなもんだ！
+だから　このᜀ山᠀やまᤀが　ᜀ今᠀いまᤀ
+なんか　おかしいのが　わかる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_015_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>371852045</Id>
+          <Value>どう　おかしいかって？
+それが　うまく　ᜀ言᠀いᤀえたら
+ᜀ苦労᠀くろうᤀしねーよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_015_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>389546769</Id>
+          <Value>おかしいのは　きっと　このᜀ山᠀やまᤀに
+カオスゲートが　あるせいだ
+ᜀ早᠀はやᤀく　ᜀ解除᠀かいじょᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_015_HERO_CAR_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>406323985</Id>
+          <Value>おかしいのは　きっと　このᜀ山᠀やまᤀに
+カオスゲートが　あるせいね
+ᜀ早᠀はやᤀく　ᜀ解除᠀かいじょᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>422839057</Id>
+          <Value>こういうᜀ場所᠀ばしょᤀだと　ナビモンが
+ベンリだぜ！　ᜀ山᠀やまᤀのふもとまで
+ナビしてくれるからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_017_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>440271635</Id>
+          <Value>ᜀ山᠀やまᤀのᜀ奥᠀おくᤀに　ヘンなのが　あったぜ
+やばそうなᜀ感᠀かんᤀじだったから
+ᜀ近᠀ちかᤀづくのは　やめたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_017_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>455475733</Id>
+          <Value>カオスゲート…
+ᜀ早᠀はやᤀく　ᜀ解除᠀かいじょᤀしに　ᜀ行᠀いᤀかなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_YONGEN_N_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>474743577</Id>
+          <Value>ᜀ強᠀つよᤀいけど　ᜀ命中᠀めいちゅうᤀしにくい
+アプリᜀ技᠀わざᤀは　ᜀ必中᠀ひっちゅうᤀになる　アプリンクを
+ᜀ合᠀あᤀわせるのが　オススメタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK5</Key>
+      <Values>
+        <BtxtString>
+          <Id>491389716</Id>
+          <Value>ᜀ自販機᠀じはんきᤀの　ᜀ業者᠀ぎょうしゃᤀさんは
+このᜀ山᠀やまᤀを　ᜀ登᠀のぼᤀってくるのかな？
+ᜀ想像᠀そうぞうᤀしただけでも　タイヘンそう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_YONGEN1</Key>
+      <Values>
+        <BtxtString>
+          <Id>506724888</Id>
+          <Value>ᜀ北᠀きたᤀにある　ヨンゲンᜀ山᠀さんᤀの
+ᜀ登山案内᠀とざんあんないᤀが　ᜀ表示᠀ひょうじᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_YONGEN2</Key>
+      <Values>
+        <BtxtString>
+          <Id>525337364</Id>
+          <Value>このᜀ山᠀やまᤀで　ᜀ見᠀みᤀられる　ᜀ野鳥᠀やちょうᤀが
+ᜀ画像᠀がぞうᤀつきで　ᜀ説明᠀せつめいᤀされている
+いろんな　ᜀ野鳥᠀やちょうᤀが　いるみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_YONGEN3</Key>
+      <Values>
+        <BtxtString>
+          <Id>540541714</Id>
+          <Value>ヨンゲンᜀ山᠀さんᤀの　ᜀ登山᠀とざんᤀルートが
+ᜀ書᠀かᤀかれている
+けっこう　ᜀ登᠀のぼᤀってきたんだなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_YONGEN4</Key>
+      <Values>
+        <BtxtString>
+          <Id>560202526</Id>
+          <Value>ここで　ᜀ昔᠀むかしᤀ　ᜀ違法᠀いほうᤀで　ᜀ木᠀きᤀが　ᜀ伐採᠀ばっさいᤀされた
+ᜀ看板᠀かんばんᤀには　ᜀ森林᠀しんりんᤀを　ᜀ大切᠀たいせつᤀにしようという
+メッセージが　ᜀ流᠀ながᤀれている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_GLASSES2</Key>
+      <Values>
+        <BtxtString>
+          <Id>575406869</Id>
+          <Value>ガケに　ᜀ生᠀はᤀえている　ᜀ木᠀きᤀに
+ᜀ見᠀みᤀたことのない　ᜀ鳥᠀とりᤀが　ᜀ止᠀とᤀまっている
+なんて　ᜀ名前᠀なまえᤀの　ᜀ鳥᠀とりᤀだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SUBAKO1</Key>
+      <Values>
+        <BtxtString>
+          <Id>593363739</Id>
+          <Value>このᜀ巣箱᠀すばこᤀは　ᜀ野鳥᠀やちょうᤀの　ᜀ観察᠀かんさつᤀのために
+ᜀ大学᠀だいがくᤀの　ᜀ教授᠀きょうじゅᤀが　ᜀ作᠀つくᤀったものらしい
+ᜀ中᠀なかᤀには…　あっ！　ヒナがいる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_ANTENNA1</Key>
+      <Values>
+        <BtxtString>
+          <Id>607519507</Id>
+          <Value>すごい　ᜀ存在感᠀そんざいかんᤀ…
+なんだか　ᜀ秘密兵器᠀ひみつへいきᤀみたいで
+ちょっと　わくわくする！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SIGN_YONGEN1</Key>
+      <Values>
+        <BtxtString>
+          <Id>624821015</Id>
+          <Value>←ᜀ西᠀にしᤀ　ᜀ山頂᠀さんちょうᤀ
+→ᜀ東᠀ひがしᤀ　ᜀ野鳥観察᠀　やちょうかんさつᤀスポット
+…と　ᜀ書᠀かᤀかれている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SIGN_YONGEN2</Key>
+      <Values>
+        <BtxtString>
+          <Id>640549646</Id>
+          <Value>←ᜀ西᠀にしᤀ　ふもと
+→ᜀ東᠀ひがしᤀ　ᜀ山頂᠀　さんちょうᤀ
+…と　ᜀ書᠀かᤀかれている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SIGN_YONGEN3</Key>
+      <Values>
+        <BtxtString>
+          <Id>656540173</Id>
+          <Value>このᜀ先᠀さきᤀ　ᜀ山頂᠀さんちょうᤀ
+…と　ᜀ書᠀かᤀかれている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK3</Key>
+      <Values>
+        <BtxtString>
+          <Id>673841937</Id>
+          <Value>みかけると
+つい　チェックしてしまうけど
+ᜀ特᠀とくᤀに　のどは　かわいてないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_SIGN_YONGEN4</Key>
+      <Values>
+        <BtxtString>
+          <Id>691667486</Id>
+          <Value>ᜀ看板᠀かんばんᤀには　ᜀ森林᠀しんりんᤀを　ᜀ大切᠀たいせつᤀにしようという
+メッセージが　ᜀ流᠀ながᤀれている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

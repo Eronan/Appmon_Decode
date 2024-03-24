@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>79</NumberOfLabels>
+  <NumberOfStrings>79</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2884374</Id>
+          <Value>ここに
+コソモンの　ᜀ大切᠀たいせつᤀなバッジを　ᜀ取᠀とᤀった
+アプモンが　いるはず…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19137293</Id>
+          <Value>ᰏ
+この　ᜀ広᠀ひろᤀいᜀ公園᠀こうえんᤀ
+どうやって　ᜀ探᠀さがᤀす？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36045328</Id>
+          <Value>イタズラしている　アプモンの
+ᜀ情報᠀じょうほうᤀを　ᜀ集᠀あつᤀめたいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>54526739</Id>
+          <Value>ᜀ何᠀なにᤀか　ᜀ変᠀かᤀわったことが　なかったか
+ᜀ公園᠀こうえんᤀにいるᜀ人᠀ひとᤀや
+アプモンたちに　ᜀ聞᠀きᤀいてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69206547</Id>
+          <Value>わかったぞ！
+ᜀ誰᠀だれᤀか　いないか　ᜀ探᠀さがᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87819029</Id>
+          <Value>ᜀ電灯᠀でんとうᤀから　ギラリと　ᜀ光᠀ひかᤀるᜀ目᠀めᤀが
+のぞいているって
+ウワサが　あるのを　ᜀ知᠀しᤀってる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>104465172</Id>
+          <Value>なんでも　そこのᜀ橋᠀はしᤀの　ᜀ電灯᠀でんとうᤀが
+ギラリと　ᜀ光᠀ひかᤀったらしいよ
+ᜀ本当᠀ほんとうᤀかなあ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>121242385</Id>
+          <Value>ᜀ橋᠀はしᤀの　ᜀ電灯᠀でんとうᤀが
+ギラリと　ᜀ光᠀ひかᤀるって　ウワサ
+やっぱり　ᜀ気᠀きᤀのせいだったらしいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543892</Id>
+          <Value>ᜀ右᠀みぎᤀにフリック！　ᜀ左᠀ひだりᤀにフリック！
+このᜀ公園᠀こうえんᤀには　イタズラᜀ好᠀ずᤀきの
+アプモンが　いるフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>155321109</Id>
+          <Value>イタズラᜀ好᠀ずᤀきの　アプモンって…
+おᜀ前᠀まえᤀこそ　ᜀ前᠀まえᤀにジャミングモンたちと
+イタズラしてた　フリックモンだろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170787597</Id>
+          <Value>ち！　ᜀ違᠀ちがᤀうフリック～
+ᜀ同᠀おなᤀじ　フリックモンにも
+いろいろ　いるフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>189137684</Id>
+          <Value>ᜀ同᠀おなᤀじᜀ種類᠀しゅるいᤀの　アプモンは
+みんな　ᜀ似᠀にᤀたようなᜀ姿᠀すがたᤀ　してるから
+ᜀ間違᠀まちがᤀえても　しかたないな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>204735249</Id>
+          <Value>ᜀ自分᠀じぶんᤀは　イタズラなんてしない
+とっても　ᜀ良᠀よᤀいᜀ子᠀こᤀの
+フリックモンだフリック～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221774612</Id>
+          <Value>ᜀ右᠀みぎᤀにフリック！　ᜀ左᠀ひだりᤀにフリック！
+ᜀ同᠀おなᤀじフリックモンにも
+いろいろ　いるフリック～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239862548</Id>
+          <Value>ᜀ自分᠀じぶんᤀは　このᜀ公園᠀こうえんᤀの
+イタズラᜀ好᠀ずᤀきの　アプモンと　ᜀ違᠀ちがᤀって
+ᜀ良᠀いᤀいᜀ子᠀こᤀの　フリックモンだフリック～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>254804752</Id>
+          <Value>イタズラᜀ好᠀ずᤀきの　アプモン
+しばらくは　おとなしくしてるって
+ᜀ言᠀いᤀっていたフリック～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271843862</Id>
+          <Value>このᜀ公園᠀こうえんᤀの　イタズラアプモンは
+ピカピカ　ᜀ光᠀ひかᤀるものが　ᜀ大好᠀だいすᤀきタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>288228111</Id>
+          <Value>ᜀ光᠀ひかᤀるものを　ᜀ持᠀もᤀっていると
+イタズラされて
+ᜀ取᠀とᤀりあげられちゃうタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>305791763</Id>
+          <Value>ピカピカ　ᜀ光᠀ひかᤀるもの　ᜀ持᠀もᤀっていても
+もう　ᜀ取᠀とᤀりあげられないタップ
+ᜀ安心᠀あんしんᤀタップ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>321520397</Id>
+          <Value>これは…　ＡＲダンジョン！
+きっと　このᜀ奥᠀おくᤀに
+ᜀ何᠀なにᤀか　あるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>337379854</Id>
+          <Value>ロギモンも　そうᜀ思᠀おもᤀうぞ！
+ᜀ行᠀いᤀくぞ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>355468051</Id>
+          <Value>ピッカーリ！
+なーに　オレのᜀ家᠀いえᤀに
+ᜀ勝手᠀かってᤀに　あがりこんで　ᜀ来᠀きᤀてんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>370410000</Id>
+          <Value>あいつ
+ライトアプリの　ライトモンだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>390333205</Id>
+          <Value>そう！　ᜀ油断᠀ゆだんᤀしている　アプモンから
+オヤジの　ツルツルᜀ頭᠀あたまᤀまで　な～んでも
+ピッカリᜀ照᠀てᤀらす　ライトモンだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>405668624</Id>
+          <Value>ライトモン！
+おᜀ前᠀まえᤀが　このᜀ公園᠀こうえんᤀで
+イタズラしている　アプモンか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>423625493</Id>
+          <Value>イタズラだなんて　ᜀ大᠀おおᤀきな　おᜀ世話᠀せわᤀ！
+ライトモンは　イタズラを　ピッカリ
+ひらめいちゃうから　やってるだけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>438698769</Id>
+          <Value>オマエ
+コソモンの　ᜀ大切᠀たいせつᤀなバッジを
+ᜀ取᠀とᤀりあげただろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>455738125</Id>
+          <Value>ああん　バッジだぁ…？
+アイツを　おどかしたときに
+ᜀ落᠀おᤀっこちてた　バッジか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>473432851</Id>
+          <Value>あのバッジ　オレのライトを　ᜀ当᠀あᤀてると
+ピッカリピカピカ　かがやくんで
+スッゲー　ᜀ気᠀きᤀにいったんだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>489685781</Id>
+          <Value>だから　オレが　いただいて
+ᜀ記念品᠀きねんひんᤀとして　コレクションさせて
+もらったんだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>506069778</Id>
+          <Value>そのバッジは
+コソモンの　ᜀ大切᠀たいせつᤀなものなんだ
+ᜀ返᠀かえᤀしてくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>523633425</Id>
+          <Value>ヤ～ナこった！
+どうしても　ᜀ取᠀とᤀりᜀ返᠀かえᤀしたいなら
+ᜀ力᠀ちからᤀづくで　ᜀ来᠀くᤀるんだな！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>538837771</Id>
+          <Value>しかたない！
+コソモンのバッジ
+ᜀ返᠀かえᤀしてもらうぞ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>556270349</Id>
+          <Value>しつこいヤツらだな！
+バッジは　ᜀ返᠀かえᤀさないって
+ᜀ言᠀いᤀってるだろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>572654098</Id>
+          <Value>コソモンのバッジ
+ᜀ取᠀とᤀりᜀ返᠀かえᤀすまで　あきらめないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>588907020</Id>
+          <Value>まいった！　まいったよ！
+オレの　ᜀ負᠀まᤀけだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>605553167</Id>
+          <Value>それじゃあ
+コソモンのバッジ　ᜀ返᠀かえᤀすか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>624165650</Id>
+          <Value>わーったよ
+チェッ　ᜀ気᠀きᤀにいってたが　しゃーない
+ほら　ᜀ返᠀かえᤀすぜ　ᜀ持᠀もᤀっていきな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>638845449</Id>
+          <Value>コソモンのバッジを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>656802324</Id>
+          <Value>それと　みんなが　ᜀ迷惑᠀めいわくᤀするような
+イタズラは　しちゃダメだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>674104082</Id>
+          <Value>フン！
+しばらくは　おᜀ休᠀やすᤀみに　してやるよ
+だから　とっとと　ᜀ帰᠀かえᤀってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>689176845</Id>
+          <Value>バッジ　ᜀ取᠀とᤀりᜀ返᠀かえᤀしたな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>706609684</Id>
+          <Value>うん
+ᜀ急᠀いそᤀいで　コソモンに　ᜀ届᠀とどᤀけてやろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>723911440</Id>
+          <Value>おっと
+コソモンに　ᜀ会᠀あᤀうには
+ＡＲフィールドに　ᜀ行᠀いᤀかなきゃ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>739901969</Id>
+          <Value>コソモン！
+ᜀ大切᠀たいせつᤀなバッジって　これだろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>757465620</Id>
+          <Value>ああっ　そうだコソ！
+ᜀ取᠀とᤀりᜀ返᠀かえᤀしてくれて　ありがとうコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>772538635</Id>
+          <Value>よかったな　コソモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>793379608</Id>
+          <Value>これで　ᜀ帰᠀かえᤀることが　できるコソ！
+ᜀ２人᠀ふたりᤀとも　さよならコソ！
+このᜀ恩᠀おんᤀは　ᜀ一生᠀いっしょうᤀ　ᜀ忘᠀わすᤀれないコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>807010835</Id>
+          <Value>あはは
+ᜀ一生᠀いっしょうᤀだなんて　オオゲサだなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>822739210</Id>
+          <Value>コソモン　オオゲサ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>843449108</Id>
+          <Value>でも　なんだか　ᜀ２人᠀ふたりᤀには
+また　すぐᜀ会᠀あᤀうような　ᜀ気᠀きᤀがするコソ！
+そのときには　ᜀ恩返᠀おんがえᤀしするコソ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>856424712</Id>
+          <Value>ᜀ行᠀いᤀっちゃったね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>873726225</Id>
+          <Value>いいことすると　ᜀ気持᠀きもᤀちいいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>889848073</Id>
+          <Value>そうだね　ロギモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>907149833</Id>
+          <Value>エムシーモンからの
+アプリトークだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>924975634</Id>
+          <Value>ᜀＹＥＡＡＡＡＡＡＡＡＨ᠀イェーーーーᤀ！
+おᜀ待᠀まᤀたせ　ᰏ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>941490960</Id>
+          <Value>うわっ！
+エムシーモンは　アプリトークでも
+さわがしいなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>960365332</Id>
+          <Value>それが　オレᜀ様᠀さまᤀの　ᜀ持᠀もᤀちᜀ味᠀あじᤀだぜ！
+そんなことより
+ᜀＧＯＯＤ᠀グッドᤀ　ᜀＮＥＷＳ᠀ニュースᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>974389771</Id>
+          <Value>グッドニュース？
+それって　もしかして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>993395475</Id>
+          <Value>ᜀＹＥＳ᠀イエスᤀ！
+システムが　ᜀ復旧᠀ふっきゅうᤀしたぜ
+いつでも　サイバーアリーナに　ᜀ来᠀きᤀな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010172691</Id>
+          <Value>Ｄランクマスターᜀ挑戦権᠀ちょうせんけんᤀ！
+ᜀ今度᠀こんどᤀは　モノホンを
+ᜀ発行᠀はっこうᤀするぜい！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025245715</Id>
+          <Value>やった！
+すぐに　サイバーアリーナに　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042678289</Id>
+          <Value>イタズラしている　アプモンの
+ᜀ情報᠀じょうほうᤀを　ᜀ集᠀あつᤀめたいわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1061290771</Id>
+          <Value>ᜀ何᠀なにᤀか　ᜀ変᠀かᤀわったことが　なかったか
+ᜀ公園᠀こうえんᤀにいるᜀ人᠀ひとᤀや
+アプモンたちに　ᜀ聞᠀きᤀいてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077805844</Id>
+          <Value>イタズラᜀ好᠀ずᤀきの　アプモンって…
+アナタこそ　ᜀ前᠀まえᤀにジャミングモンたちと
+イタズラしてた　フリックモンでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093403405</Id>
+          <Value>これは…　ＡＲダンジョン！
+きっと　このᜀ奥᠀おくᤀに
+ᜀ何᠀なにᤀか　あるはずだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110049552</Id>
+          <Value>ライトモン！
+アナタが　このᜀ公園᠀こうえんᤀで
+イタズラしている　アプモンね！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126957842</Id>
+          <Value>そのバッジは
+コソモンの　ᜀ大切᠀たいせつᤀなものなのよ
+ᜀ返᠀かえᤀしてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_033_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143079692</Id>
+          <Value>しかたないわね！
+コソモンのバッジ
+ᜀ返᠀かえᤀしてもらうわよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159856659</Id>
+          <Value>コソモンのバッジ
+ᜀ取᠀とᤀりᜀ返᠀かえᤀすまで　あきらめないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176764948</Id>
+          <Value>それと　みんなが　ᜀ迷惑᠀めいわくᤀするような
+イタズラは　しちゃダメよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193017875</Id>
+          <Value>うん
+ᜀ急᠀いそᤀいで　コソモンに　ᜀ届᠀とどᤀけましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210581777</Id>
+          <Value>あっと
+コソモンに　ᜀ会᠀あᤀうには
+ＡＲフィールドに　ᜀ行᠀いᤀかなきゃね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226572306</Id>
+          <Value>コソモン！
+ᜀ大切᠀たいせつᤀなバッジって　これでしょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243087377</Id>
+          <Value>あはは
+ᜀ一生᠀いっしょうᤀだなんて　オオゲサね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258815752</Id>
+          <Value>そうね　ロギモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276248585</Id>
+          <Value>エムシーモンからの
+アプリトークだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293812496</Id>
+          <Value>うわっ！
+エムシーモンは　アプリトークでも
+さわがしいのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_21_062_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310458387</Id>
+          <Value>やった！
+すぐに　サイバーアリーナに　ᜀ行᠀いᤀくわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

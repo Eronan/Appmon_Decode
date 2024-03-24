@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>CONFIRM_FIRST_SAVE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1573388</Id>
+          <Value>データをᜀ保存᠀ほぞんᤀします
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONFIRM_OVER_WRITE</Key>
+      <Values>
+        <BtxtString>
+          <Id>19005971</Id>
+          <Value>データをᜀ上書᠀うわがᤀきでᜀ保存᠀ほぞんᤀします
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SAVED</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078983</Id>
+          <Value>セーブしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PROGRESS</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249418</Id>
+          <Value>セーブᜀ中᠀ちゅうᤀ･･･</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

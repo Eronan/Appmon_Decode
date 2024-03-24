@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6030106</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ町᠀まちᤀに　なやめるᜀ人᠀ひとᤀ・アプモンの　ᜀ影残᠀かげのこᤀる
+ᜀ手᠀てᤀを　ᜀ差᠀さᤀしᜀ伸᠀のᤀべれば　ᜀ開᠀ひらᤀけるᜀ道有᠀みちあᤀり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21234453</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ助᠀たすᤀけをもとめる　ᜀ声᠀こえᤀにこたえるとき
+あらたなᜀ出会᠀であᤀいが　あるでしょう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

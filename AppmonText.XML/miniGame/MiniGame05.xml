@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>DESC_0</Key>
+      <Values>
+        <BtxtString>
+          <Id>2228751</Id>
+          <Value>ᜀ画面᠀がめんᤀをタッチすると
+ᜀ眠᠀ねむᤀりをコントロールできるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>DESC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>18481427</Id>
+          <Value>ᜀ時間᠀じかんᤀになったらᜀ起᠀おᤀこしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>3670806</Id>
+          <Value>ᰏは
+ᜀ本当᠀ほんとうᤀに　バトルが　ᜀ楽᠀たのᤀしいんだね！
+わくわくしてるのが　ᜀ伝᠀つたᤀわってくる…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>19792658</Id>
+          <Value>ハル！
+ᜀ俺᠀おれᤀたちも　ᜀ本気᠀ほんきᤀでᜀ行᠀いᤀくぜ！
+アプᜀ合体᠀がったいᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>34734599</Id>
+          <Value>うん　ᜀ行᠀いᤀこう
+ガッチモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

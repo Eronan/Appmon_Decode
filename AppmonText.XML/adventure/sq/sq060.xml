@@ -1,0 +1,2928 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>276</NumberOfLabels>
+  <NumberOfStrings>276</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753298</Id>
+          <Value>ᜀ困᠀こまᤀったな
+でも　せっかくの　ᜀ休日᠀きゅうじつᤀだし
+どうしよっかなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18874894</Id>
+          <Value>ᜀ困᠀こまᤀっているみたいだ
+ᜀ話᠀はなᤀしかけてみようかな…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>34865424</Id>
+          <Value>かわいそうだけど　またᜀ今度᠀こんどᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>52691725</Id>
+          <Value>かわいそうだけど
+ᜀ準備᠀じゅんびᤀが　できてから
+またᜀ来᠀こᤀよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>68813326</Id>
+          <Value>ᜀ困᠀こまᤀったなぁ
+せっかくの　オフ　なのになぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>85459218</Id>
+          <Value>ᜀ何᠀なにᤀを　そんなに　ᜀ困᠀こまᤀってるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>102760978</Id>
+          <Value>え～と　あのさ
+ᜀ何᠀なにᤀを　そんなに　ᜀ困᠀こまᤀってるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>119800589</Id>
+          <Value>ああ　ちょうど　よかった
+ちょっと　ᜀ困᠀こまᤀったことに
+なってるのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>138281747</Id>
+          <Value>このᜀ町᠀まちᤀ　はじめて　ᜀ来᠀きᤀたから
+ᜀ勝手᠀かってᤀが　わからなくて
+どうしようかと　ᜀ思᠀おもᤀってたところなの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>152961551</Id>
+          <Value>オレに　ᜀ手伝᠀てつだᤀえることなら
+ᜀ手伝᠀てつだᤀうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>169083402</Id>
+          <Value>オレは　ᰏ
+キミ　ᜀ名前᠀なまえᤀは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>187695888</Id>
+          <Value>………はいぃ？
+ᜀ私᠀わたしᤀのこと　ᜀ知᠀しᤀってて
+ᜀ声᠀こえᤀかけてきたんじゃ　ないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>204604175</Id>
+          <Value>いや　ᜀ知᠀しᤀらないよ
+ᜀ困᠀こまᤀってるみたい　だったから
+ᜀ声᠀こえᤀかけただけ　なんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>221643536</Id>
+          <Value>あ～　それはᜀ単᠀たんᤀに
+ᜀ今᠀いまᤀ　ᜀ気᠀きᤀがついてないだけよ！
+でも　これなら　わかるでしょ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>239600404</Id>
+          <Value>「あなたのハートに　ドッカンパンチ！
+　ᜀ私᠀わたしᤀこそが　ᜀ宇宙᠀うちゅうᤀのセンター
+　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀ　なんだからん！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>256377621</Id>
+          <Value>（あ　やっば～い！　ムキになって
+　ᜀ大声᠀おおごえᤀでᜀ名前᠀なまえᤀ　ᜀ言᠀いᤀっちゃった
+　ᜀ大騒᠀おおさわᤀぎに　なるかも　どうしよ？）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>268697860</Id>
+          <Value>………？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>289014548</Id>
+          <Value>「？」　じゃないでしょ！
+なに　その　うっす～い　リアクション
+ホントの　ᜀ本気᠀ほんきᤀで　ᜀ知᠀しᤀらないの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316053</Id>
+          <Value>ᜀ宇宙᠀うちゅうᤀのセンター　ᜀ花嵐᠀からんᤀエリは？
+「アプリのᜀ数᠀かずᤀだけ　アイドルはいる」の
+アプリᜀ山᠀やまᤀ４７０は？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>319029508</Id>
+          <Value>………？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>338166546</Id>
+          <Value>？？？
+いや　なに　ᜀ言᠀いᤀってるのか
+ちょっと　よく　わからないんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>354288146</Id>
+          <Value>なに　ᜀ言᠀いᤀってるのか　わからないのは
+そっちのほうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>373031700</Id>
+          <Value>もしかして…　あなた！
+テレビとか　ᜀ見᠀みᤀないᜀ人᠀ひとᤀ！？
+アイドルとか　ᜀ興味᠀きょうみᤀないᜀ人᠀ひとᤀ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>387449360</Id>
+          <Value>いや…
+テレビは　もちろん　ᜀ見᠀みᤀるけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>404488970</Id>
+          <Value>えええ～
+テレビ　ᜀ見᠀みᤀてるのに
+わからないの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>423494420</Id>
+          <Value>（このエリᜀ様᠀さまᤀも　まだまだってことね…
+　すぐに　トップアイドルになって
+　ᜀ見返᠀みかえᤀして　やるんだからん！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>440533779</Id>
+          <Value>…あ～　でも　ᜀ考᠀かんがᤀえてみれば
+ᜀ私᠀わたしᤀのこと　ᜀ知᠀しᤀらないᜀ子᠀こᤀのほうが
+ᜀ気᠀きᤀは　ᜀ楽᠀らくᤀかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>454033929</Id>
+          <Value>あの…
+なにか　ᜀ言᠀いᤀった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>471859730</Id>
+          <Value>なんでも　ないわよ　こっちのᜀ話᠀はなしᤀ
+というわけで　ᰏくん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>491782935</Id>
+          <Value>あなた　ᜀ特別᠀とくべつᤀに　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀの
+ᜀ臨時᠀りんじᤀマネージャー　ᜀ兼᠀けんᤀ　ボディガードに
+ᜀ任命᠀にんめいᤀしてあげるわ①</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>506200855</Id>
+          <Value>うんうん　なるほど
+ᜀ臨時᠀りんじᤀマネージャー　ᜀ兼᠀けんᤀ　ボディガードね
+………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>520618248</Id>
+          <Value>って　はいぃ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>542769945</Id>
+          <Value>アプリᜀ山᠀やまᤀ４７０　「あの」ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀの
+ᜀ臨時᠀りんじᤀマネージャー　ᜀ兼᠀けんᤀ　ボディガードよ
+ᜀ光栄᠀こうえいᤀに　ᜀ思᠀おもᤀいなさいよね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>555483665</Id>
+          <Value>うわ…
+なに　この　ᜀ上᠀うえᤀからᜀ目線᠀めせんᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>573834004</Id>
+          <Value>…ちなみに
+ᜀ事務所᠀じむしょᤀが　うるさいから
+ᜀ友᠀ともᤀだちに　ᜀ自慢᠀じまんᤀとか　しないでね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>590873365</Id>
+          <Value>えっと　つまり…
+オレは　アイドルの　ᜀ臨時᠀りんじᤀマネージャー
+ᜀ兼᠀けんᤀ　ボディガードに　なるってこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>607388431</Id>
+          <Value>う～ん　よく　わからないうちに
+なんだか　ᜀ面倒᠀めんどうᤀなことに
+ᜀ巻᠀まᤀきこまれちゃったなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>625869591</Id>
+          <Value>それで　ᜀ困᠀こまᤀってるって　いうのはね
+アプリᜀ山᠀やまᤀ４７０の　ステージᜀ衣装᠀いしょうᤀに
+ᜀ特注᠀とくちゅうᤀのアクセサリーが　あるんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>640680722</Id>
+          <Value>それを　なくしちゃった　みたいなのよ
+あの　アクセサリー
+すごく　ᜀ大事᠀だいじᤀなものなのに！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>657326863</Id>
+          <Value>ᜀ大事᠀だいじᤀな　アクセサリーか…
+どこで　なくしたか
+ᜀ心当᠀こころあᤀたり　ないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>673973009</Id>
+          <Value>そうね
+オフだから　ᜀ観光᠀かんこうᤀついでに
+おしゃれな　コンビニに　ᜀ寄᠀よᤀったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>692585237</Id>
+          <Value>その　コンビニで　おᜀ買᠀かᤀいᜀ物᠀ものᤀしたᜀ時᠀ときᤀ
+ᜀ人᠀ひとᤀとぶつかって　カバンの　ᜀ中身᠀なかみᤀを
+ぶちまけちゃったんだけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>705954064</Id>
+          <Value>もしかしたら　そのᜀ時᠀ときᤀ　かも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>726663959</Id>
+          <Value>ミハマᜀ港᠀こうᤀに　コンビニは　２ᜀ件᠀けんᤀあるけど
+おしゃれなコンビニって　ᜀ言᠀いᤀうなら
+ᜀ南西᠀なんせいᤀの　ᜀ赤᠀あかᤀレンガの　コンビニかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>741344017</Id>
+          <Value>うん　わかったよ
+ミハマᜀ港᠀こうᤀの　コンビニだね
+オレ　ちょっと　ᜀ探᠀さがᤀしてくるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>759694105</Id>
+          <Value>ᜀ私᠀わたしᤀは　ここで　もうᜀ一度᠀いちどᤀ　ᜀ持᠀もᤀちᜀ物᠀ものᤀを
+たしかめᜀ直᠀なおᤀして　みるから
+よろしく　ᜀ頼᠀たのᤀんだわよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>774242837</Id>
+          <Value>あの　アクセサリー
+ホントに　ᜀ大事᠀だいじᤀな　ᜀ物᠀ものᤀなんだから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>792986389</Id>
+          <Value>おしゃれなコンビニで　カバンのᜀ中身᠀なかみᤀを
+ぶちまけちゃったから　そのᜀ時᠀ときᤀに
+アクセサリー　ᜀ落᠀おᤀとしちゃったのかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>810550038</Id>
+          <Value>ᜀ私᠀わたしᤀは　もうᜀ一度᠀いちどᤀ　ᜀ持᠀もᤀちᜀ物᠀ものᤀを
+たしかめᜀ直᠀なおᤀして　みるから
+コンビニのᜀ方᠀ほうᤀ　よろしく　ᜀ頼᠀たのᤀんだわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>824312337</Id>
+          <Value>まだ　ᜀ大事᠀だいじᤀな　アクセサリーが
+ᜀ見᠀みᤀつからないのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>841220626</Id>
+          <Value>やっぱり　あの　おしゃれなコンビニで
+ᜀ落᠀おᤀとしちゃったのかしら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>857342478</Id>
+          <Value>ここが　エリさんのᜀ言᠀いᤀってた
+コンビニだよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>875561490</Id>
+          <Value>アクセサリーが　ᜀ落᠀おᤀちていなかったか
+おᜀ店᠀みせᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀいてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>893518610</Id>
+          <Value>おᜀ店᠀みせᤀのᜀ人᠀ひとᤀも　ᜀ知᠀しᤀらなかったし
+ᜀ見᠀みᤀたところ　アクセサリーなんて
+ᜀ落᠀おᤀちてなさそうなんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>908067599</Id>
+          <Value>そうだ！
+ᜀ念᠀ねんᤀのため　ＡＲフィールドも
+たしかめておこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>923009283</Id>
+          <Value>あれ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>943457044</Id>
+          <Value>この　ＡＲダンジョン　なんかᜀ変᠀へんᤀだな
+もしかしたら　エリさんの
+アクセサリーと　ᜀ関係᠀かんけいᤀあるのかも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>957481484</Id>
+          <Value>よし
+ここも　ᜀ探᠀さがᤀしてみるか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>976880405</Id>
+          <Value>エリさん　ᜀ大事᠀だいじᤀな　アクセサリーだって
+ᜀ言᠀いᤀってたからな
+よし　がんばって　ᜀ探᠀さがᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>992740109</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ
+エリさんの　アクセサリー
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀさなくっちゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010303763</Id>
+          <Value>あれ？　あのアプモンが　ᜀ持᠀もᤀってるの…
+アクセサリー　じゃないか？
+「４７０」って　ᜀ書᠀かᤀいてある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026294547</Id>
+          <Value>たしか　エリさん
+「アプリᜀ山᠀やまᤀ４７０」が　なんとかって
+ᜀ言᠀いᤀってたよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042678541</Id>
+          <Value>どうして　アプモンが
+エリさんの　アクセサリーを
+ᜀ持᠀もᤀってるんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059455761</Id>
+          <Value>あいつ　オークションアプリの
+アプモン
+オクショモン　じゃなかったっけ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076626194</Id>
+          <Value>もしかして　エリさんの
+アクセサリーを　オークションアプリで
+ᜀ売᠀うᤀるつもりなのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093009936</Id>
+          <Value>ᜀ大事᠀だいじᤀな　アクセサリーなんだ
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀさなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110442766</Id>
+          <Value>なんとか　あいつに　ᜀ勝᠀かᤀって
+エリさんの　アクセサリー
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀさないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126564621</Id>
+          <Value>やった！
+ᜀ大事᠀だいじᤀな　アクセサリー
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀしたぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143735057</Id>
+          <Value>さっそく
+エリさんのところへ　ᜀ戻᠀もどᤀって
+アクセサリーを　ᜀ返᠀かえᤀしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159856913</Id>
+          <Value>エリさん！
+ほら　アクセサリー　ᜀ見᠀みᤀつかったよ
+これでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177027345</Id>
+          <Value>ᰏくん！
+あなた　ᜀ今᠀いまᤀ　ＡＲダンジョンから
+ᜀ出᠀でᤀてこなかった！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192755724</Id>
+          <Value>もしかして　ᰏくんも
+アプリドライヴァーなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210188555</Id>
+          <Value>え…　そうだけど…
+ᰏくん「も」　ってことは
+まさか　エリさんも！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227620884</Id>
+          <Value>ᜀ私᠀わたしᤀが　アプリドライヴァーってことは
+ᜀ事務所᠀じむしょᤀには　ナイショなの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244136206</Id>
+          <Value>だから　ᰏくん
+このᜀ秘密᠀ひみつᤀは　ᜀ誰᠀だれᤀにも
+ナイショ　だからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261568789</Id>
+          <Value>エリちゃん　エリちゃん！
+アプリドライヴァーなら
+ワスも　ᜀ紹介᠀しょうかいᤀして　ほしいだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276641805</Id>
+          <Value>え…　なに？
+ᜀ誰᠀だれᤀが　しゃべってるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293681168</Id>
+          <Value>ワスは　エリちゃんの
+バディアプモン　ドカモンだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311245073</Id>
+          <Value>エリちゃん
+ワスを　アプリアライズして
+ᜀ紹介᠀しょうかいᤀして　ほしいだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1328022287</Id>
+          <Value>も～　ドカモンが　ᜀ出᠀でᤀてくると
+ややこしくなるから
+ᜀ今᠀いまᤀは　ダメ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343488526</Id>
+          <Value>エリちゃん
+アプリアライズ　してして～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360003343</Id>
+          <Value>そこで　おとなしくしてなさい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1375994116</Id>
+          <Value>ワス～…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1396704026</Id>
+          <Value>さて　ᰏくん
+ᜀ臨時᠀りんじᤀとはいえ　さすがは　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀの
+マネージャー　ᜀ兼᠀けんᤀ　ボディガード！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412039438</Id>
+          <Value>アクセサリーは　ᜀ見᠀みᤀつけるし
+アプリドライヴァーだし
+ᜀ言᠀いᤀうことなしね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1430651668</Id>
+          <Value>さすが　ᜀ私᠀わたしᤀ！　ᜀ見᠀みᤀるᜀ目᠀めᤀ　ある！
+ᜀ臨時᠀りんじᤀマネージャーを　ᜀ選᠀えらᤀぶᜀ目᠀めᤀも
+ᜀ完᠀かんᤀペキね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1446511379</Id>
+          <Value>エリさん　その　アクセサリー
+オークションアプリの　アプモン
+オクショモンから　ᜀ取᠀とᤀりᜀ戻᠀もどᤀしたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462895379</Id>
+          <Value>また　ᜀ誰᠀だれᤀかに　ᜀ拾᠀ひろᤀわれたりしたら
+ᜀ大変᠀たいへんᤀだから
+もう　なくさないでね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479017227</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀよ！
+もう　ᜀ絶対᠀ぜったいᤀ
+なくしたりしないから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1496056593</Id>
+          <Value>え～と　それじゃあ
+アクセサリーも　ᜀ取᠀とᤀりᜀ戻᠀もどᤀしたし
+オレは　このへんで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1514406679</Id>
+          <Value>ちょっと　どこ　ᜀ行᠀いᤀくつもり！？
+ᜀ私᠀わたしᤀ　ついでに　これから
+このᜀ辺᠀あたᤀりを　ᜀ観光᠀かんこうᤀして　まわるから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529742096</Id>
+          <Value>また　ᜀ用事᠀ようじᤀがあったら
+アプリトークで　ᜀ呼᠀よᤀびᜀ出᠀だᤀすね！
+それじゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1544552717</Id>
+          <Value>ちょ　ちょっとᜀ待᠀まᤀってよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1565393692</Id>
+          <Value>（ホントは　セブンコードアプモンを
+　ᜀ探᠀さがᤀしにきたんだけど　せっかくだし
+　ᜀ今日᠀きょうᤀはᜀ休日᠀きゅうじつᤀを　ᜀ楽᠀たのᤀしんじゃおっと！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580204816</Id>
+          <Value>ええええ～…
+アプリトークで　ᜀ呼᠀よᤀびᜀ出᠀だᤀすって
+これで　ᜀ終᠀おᤀわりじゃないんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596457745</Id>
+          <Value>う～ん
+アイドルの　ᜀ臨時᠀りんじᤀマネージャー
+ᜀ兼᠀けんᤀ　ボディガードかぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612972813</Id>
+          <Value>しかも　そのアイドルが
+アプリドライヴァーだなんて
+ホント　ビックリだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630405399</Id>
+          <Value>もしかしたら　なんだか
+ᜀ大変᠀たいへんᤀなことに　ᜀ巻᠀まᤀきこまれちゃったかも
+トホホ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1647051540</Id>
+          <Value>え…　アプリトークの　ᜀ着信᠀ちゃくしんᤀだ…
+ᜀ誰᠀だれᤀからだろう？
+………まさか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663173393</Id>
+          <Value>ちょっと
+ᰏマネージャー！
+ᜀ大変᠀たいへんᤀなことに　なってるの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680212495</Id>
+          <Value>ᜀ今᠀いまᤀすぐ　ミハマᜀ港᠀こうᤀの
+エントランスゲートに　ᜀ来᠀きᤀて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1697252117</Id>
+          <Value>う…
+ᰏマネージャーって　ことは
+もう「ᜀ臨時᠀りんじᤀ」じゃ　なくなってるんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1715077906</Id>
+          <Value>なに？　よく　ᜀ聞᠀きᤀこえないんだけど！
+あなた　ᜀ私᠀わたしᤀのマネージャー
+ᜀ兼᠀けんᤀ　ボディガードでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731986197</Id>
+          <Value>あ～　わかったよ
+ミハマᜀ港᠀こうᤀの　エントランスゲートだね！
+ᜀ噴水᠀ふんすいᤀのᜀ前᠀まえᤀの　アーケードでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747190540</Id>
+          <Value>そうよ！
+じゃあ　ᜀ待᠀まᤀってるから！
+すぐに　ᜀ来᠀きᤀなさいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1763836433</Id>
+          <Value>ᜀ大変᠀たいへんᤀなことに　なってるって
+なにが　あったんだろう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779827210</Id>
+          <Value>エントランスゲートに
+ᜀ行᠀いᤀってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1797653257</Id>
+          <Value>あ！　ᜀ来᠀きᤀたᜀ来᠀きᤀた
+ᰏマネージャー！
+ᜀ大変᠀たいへんᤀなの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1814037006</Id>
+          <Value>ᜀ大変᠀たいへんᤀって　エリさん
+いったい　なにが　あったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1830552078</Id>
+          <Value>ほら　これ！
+ᜀ私᠀わたしᤀの　スマホ　ᜀ見᠀みᤀて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1850213142</Id>
+          <Value>え～と…　なになに…
+「アプリᜀ山᠀やまᤀ４７０の　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀ
+　オフᜀ日᠀びᤀの　スケジュール　ᜀ発覚᠀はっかくᤀ！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1869611807</Id>
+          <Value>「あの　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀが　ミハマᜀ港᠀こうᤀを
+　ᜀ現在᠀げんざいᤀ　ᜀ観光中᠀かんこうちゅうᤀ！　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀの
+　ファンは　ミハマᜀ港᠀こうᤀに　ᜀ全員集合᠀ぜんいんしゅうごうᤀ！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1882718997</Id>
+          <Value>ᜀ私᠀わたしᤀの　スケジュールが
+ネットに　ᜀ広᠀ひろᤀまって
+ファンのᜀ間᠀あいだᤀで　ウワサに　なってるの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>1897529871</Id>
+          <Value>このままだと
+ᜀ大騒᠀おおさわᤀぎに　なっちゃう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>1916535574</Id>
+          <Value>どうやら　スケジュールの　ᜀ管理用᠀かんりようᤀに
+インストールした　カレンダーアプリが
+ᜀ原因᠀げんいんᤀ　みたいなの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>1934885656</Id>
+          <Value>だって　ᜀ手帳᠀てちょうᤀで　ᜀ管理᠀かんりᤀしてるᜀ分᠀ぶんᤀの
+スケジュールは　ᜀ広᠀ひろᤀまってないのに
+アプリのᜀ分᠀ぶんᤀだけ　ᜀ広᠀ひろᤀまってるんだもの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>1948779280</Id>
+          <Value>それに　この　カレンダーアプリ
+アンインストール　しようとしても
+できないし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>1966867219</Id>
+          <Value>アンインストール　しようとしても
+ᜀ消᠀けᤀせない　カレンダーアプリか…
+ᜀ原因᠀げんいんᤀは　エリさんの　スマホかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982858000</Id>
+          <Value>だったら　エリさんの　スマホから
+ＡＲダンジョンに　はいれば
+なんとか　できるかも　しれないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>1998062095</Id>
+          <Value>よし！　エリさん
+オレが　なんとか　してみるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2015494673</Id>
+          <Value>さすが　ᜀ私᠀わたしᤀの　マネージャー！
+ᜀ頼᠀たよᤀりに　なる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2033451794</Id>
+          <Value>ᜀ私᠀わたしᤀは　この　カレンダーアプリ
+なんとか　アンインストールできないか
+ᜀ試᠀ためᤀしてみるから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2048786956</Id>
+          <Value>それじゃ　ᰏマネージャー！
+よろしく　おᜀ願᠀ねがᤀいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065564175</Id>
+          <Value>こういう　トラブルこそ
+マネージャーの　ᜀ出番᠀でばんᤀよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2082997004</Id>
+          <Value>ᰏマネージャー！
+トラブル　ᜀ解決᠀かいけつᤀ
+よろしく　おᜀ願᠀ねがᤀいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2099381004</Id>
+          <Value>このままじゃ
+おさまり　つかなそうだし
+ᜀ行᠀いᤀくしか　ないよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2115371532</Id>
+          <Value>エリさんの
+スマホが　ᜀ置᠀おᤀいてある…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_130_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>2132935436</Id>
+          <Value>このままじゃ
+おさまり　つかなそうだし
+ᜀ行᠀いᤀくしか　ないよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2149450258</Id>
+          <Value>ふんふんふ～ん♪
+わたしの　ᜀ名前᠀なまえᤀは　カレンダモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>2168718102</Id>
+          <Value>わたしの　カレンダーアプリで
+あの　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀが　スケジュールを
+ᜀ管理᠀かんりᤀするなんて　ラッキーだったわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>2185626387</Id>
+          <Value>ふんふん♪　すごい　アクセスᜀ数᠀すうᤀ！
+やっぱり　エリᜀ様᠀さまᤀの　プライベートは
+ᜀ注目度᠀ちゅうもくどᤀが　ᜀ高᠀たかᤀいわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>2202010389</Id>
+          <Value>わたしが　ᜀ大᠀だいᤀ・ᜀ大᠀だいᤀ・ᜀ大好᠀だいすᤀきな
+エリᜀ様᠀さまᤀが
+もっともっと　ᜀ注目᠀ちゅうもくᤀを　あびるよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>2217083412</Id>
+          <Value>もっともっと　プライベートᜀ情報᠀じょうほうᤀ
+ᜀ広᠀ひろᤀめちゃおっと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>2233860627</Id>
+          <Value>やっぱり　カレンダーアプリの
+アプモンが　ᜀ原因᠀げんいんᤀ　だったんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>2250507021</Id>
+          <Value>あいつが　ネットに
+エリさんの　スケジュールを
+ᜀ広᠀ひろᤀめたんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>2267808527</Id>
+          <Value>ᜀ人᠀ひとᤀに　ᜀ迷惑᠀めいわくᤀかけて
+ᜀ喜᠀よろこᤀぶなんて　ゆるせない！
+いくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>2285503252</Id>
+          <Value>あ～ら
+わたしの　ᜀ秘密᠀ひみつᤀ　ᜀ知᠀しᤀっちゃったのね
+ᜀ悪᠀わるᤀいけど　ᜀ黙᠀だまᤀってて　もらうわよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>2299789835</Id>
+          <Value>しまった
+ᜀ油断᠀ゆだんᤀしちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>2318271246</Id>
+          <Value>ᜀ早᠀はやᤀく　あいつに　ᜀ勝᠀かᤀって
+エリさんの　スケジュール
+ᜀ消᠀けᤀさせないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_142</Key>
+      <Values>
+        <BtxtString>
+          <Id>2337932056</Id>
+          <Value>わたしが　ᜀ大好᠀だいすᤀきな　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀが
+もっともっと　ᜀ注目᠀ちゅうもくᤀを　あびるよう
+プライベートᜀ情報᠀じょうほうᤀ　ᜀ広᠀ひろᤀめちゃおっと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_143</Key>
+      <Values>
+        <BtxtString>
+          <Id>2351432207</Id>
+          <Value>ᜀ人᠀ひとᤀに　ᜀ迷惑᠀めいわくᤀかけて
+ᜀ喜᠀よろこᤀぶなんて　ゆるせない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_144</Key>
+      <Values>
+        <BtxtString>
+          <Id>2368865039</Id>
+          <Value>ᜀ早᠀はやᤀく　あいつを　やっつけて
+エリさんの　スケジュール
+ネットから　ᜀ消᠀けᤀさせないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_145</Key>
+      <Values>
+        <BtxtString>
+          <Id>2383806990</Id>
+          <Value>やった！
+カレンダモンに　ᜀ勝᠀かᤀったぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_146</Key>
+      <Values>
+        <BtxtString>
+          <Id>2403336982</Id>
+          <Value>きゃ～　ごめんなさい！
+ネットに　ᜀ広᠀ひろᤀめた　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀの
+スケジュールは　すぐ　ᜀ消᠀けᤀします！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_147</Key>
+      <Values>
+        <BtxtString>
+          <Id>2418017037</Id>
+          <Value>もう　しないから
+ゆるしてください！
+ホントに　ごめんなさい～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_148</Key>
+      <Values>
+        <BtxtString>
+          <Id>2436498202</Id>
+          <Value>これからは　エリᜀ様᠀さまᤀの
+いちファンとして
+ᜀ純粋᠀じゅんすいᤀに　ᜀ応援᠀おうえんᤀ　するようにします～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_149</Key>
+      <Values>
+        <BtxtString>
+          <Id>2452620049</Id>
+          <Value>これで　エリさんの　スケジュールも
+ネットから　ᜀ消᠀きᤀえるだろうし
+ひとᜀ安心᠀あんしんᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_150</Key>
+      <Values>
+        <BtxtString>
+          <Id>2467299849</Id>
+          <Value>あ…　ᰏ？
+ホントに　いるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_151</Key>
+      <Values>
+        <BtxtString>
+          <Id>2484208391</Id>
+          <Value>え！？
+リョウジ！？
+どうしたの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_152</Key>
+      <Values>
+        <BtxtString>
+          <Id>2500722958</Id>
+          <Value>どうしたも　こうしたもねぇ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_153</Key>
+      <Values>
+        <BtxtString>
+          <Id>2520515349</Id>
+          <Value>ネットで　ᜀ花嵐᠀からんᤀエリが
+ミハマᜀ港᠀こうᤀで　オフを　ᜀ楽᠀たのᤀしんでるって
+ウワサを　ᜀ見᠀みᤀかけてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_154</Key>
+      <Values>
+        <BtxtString>
+          <Id>2535981837</Id>
+          <Value>まさかと　ᜀ思᠀おもᤀいつつ
+ᜀ探᠀さがᤀしてみたら
+ホントに　いるじゃねぇか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_155</Key>
+      <Values>
+        <BtxtString>
+          <Id>2551579402</Id>
+          <Value>いっや～
+おどろいたっスよね！
+リーダー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_156</Key>
+      <Values>
+        <BtxtString>
+          <Id>2571895574</Id>
+          <Value>でもᜀ最初᠀さいしょᤀは　そっくりさんだって
+ᜀ本物᠀ほんものᤀの　ᜀ花嵐᠀からんᤀエリとは
+ᜀ本人᠀ほんにんᤀ　ᜀ認᠀みとᤀめなかった　ですけどね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_157</Key>
+      <Values>
+        <BtxtString>
+          <Id>2587624212</Id>
+          <Value>ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいたら　ᰏ
+おᜀ前᠀まえᤀさん　マネージャー
+ᜀ兼᠀けんᤀ　ボディガード　やってるんだって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_158</Key>
+      <Values>
+        <BtxtString>
+          <Id>2602697486</Id>
+          <Value>ああ…　うん
+よく　わからないうちに
+そういうことに　なっちゃって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_159</Key>
+      <Values>
+        <BtxtString>
+          <Id>2619867923</Id>
+          <Value>ᰏ！！
+このᜀ野郎᠀やろうᤀ　てめぇ！！　ああぁあ！
+なんて　うらやましい！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_160</Key>
+      <Values>
+        <BtxtString>
+          <Id>2634285316</Id>
+          <Value>…はぁ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_161</Key>
+      <Values>
+        <BtxtString>
+          <Id>2655257364</Id>
+          <Value>あの…　あの　ᜀ花嵐᠀からんᤀエリ「ᜀ様᠀さまᤀ」の
+マネージャー　ᜀ兼᠀けんᤀ　ボディガードって！
+なんて　うらやましいヤツ　なんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_162</Key>
+      <Values>
+        <BtxtString>
+          <Id>2668495117</Id>
+          <Value>ホント　うらやましいっス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_163</Key>
+      <Values>
+        <BtxtString>
+          <Id>2688156434</Id>
+          <Value>ᰏ！　その　マネージャー
+ᜀ兼᠀けんᤀ　ボディガードの　ᜀ座᠀ざᤀをかけて
+オレと　バトルで　ᜀ勝負᠀しょうぶᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_164</Key>
+      <Values>
+        <BtxtString>
+          <Id>2703360784</Id>
+          <Value>え～
+バトルなんて　そんなぁ
+こんなᜀ座᠀ざᤀ　いつでも　ゆずるよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_165</Key>
+      <Values>
+        <BtxtString>
+          <Id>2719875599</Id>
+          <Value>そういう　ᜀ話᠀はなしᤀなら
+ワスも　だまっちゃないだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_166</Key>
+      <Values>
+        <BtxtString>
+          <Id>2735341834</Id>
+          <Value>なんだ　てめえは！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_167</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753430284</Id>
+          <Value>ワスは　ドカモン！
+エリちゃんの
+バディアプモン　だワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_168</Key>
+      <Values>
+        <BtxtString>
+          <Id>2771649298</Id>
+          <Value>ワスも　その　マネージャー
+ᜀ兼᠀けんᤀ　ボディガードを　かけたバトル
+ᜀ参加᠀さんかᤀ　するだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_169</Key>
+      <Values>
+        <BtxtString>
+          <Id>2786722572</Id>
+          <Value>わ！
+ちょっと　ᜀ待᠀まᤀて　てめえ
+なにしやがる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_170</Key>
+      <Values>
+        <BtxtString>
+          <Id>2802844169</Id>
+          <Value>あ！
+こいつ　ᜀ強᠀つよᤀい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_171</Key>
+      <Values>
+        <BtxtString>
+          <Id>2819490313</Id>
+          <Value>ふっ…
+ま…　まいったぜ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_172</Key>
+      <Values>
+        <BtxtString>
+          <Id>2838364943</Id>
+          <Value>エリちゃんの　マネージャー
+ᜀ兼᠀けんᤀ　ボディガードの　ᜀ座᠀ざᤀは
+ワスの　モノだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_173</Key>
+      <Values>
+        <BtxtString>
+          <Id>2853700363</Id>
+          <Value>え～
+だから　そんなの
+いつでも　ゆずるって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_174</Key>
+      <Values>
+        <BtxtString>
+          <Id>2869559559</Id>
+          <Value>ᜀ行᠀いᤀきワス！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_175</Key>
+      <Values>
+        <BtxtString>
+          <Id>2886992144</Id>
+          <Value>「ᜀ行᠀いᤀきワス！！」　じゃないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_176</Key>
+      <Values>
+        <BtxtString>
+          <Id>2906391319</Id>
+          <Value>うわ～　さっき　エリさんが
+ドカモンが　ᜀ出᠀でᤀてくると
+ᜀ面倒᠀めんどうᤀなことになるとか　ᜀ言᠀いᤀってたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_177</Key>
+      <Values>
+        <BtxtString>
+          <Id>2920940049</Id>
+          <Value>ホントに
+ᜀ面倒᠀めんどうᤀなことに　なってきたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_178</Key>
+      <Values>
+        <BtxtString>
+          <Id>2937061644</Id>
+          <Value>ちょっと　ᜀ待᠀まᤀったぁ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_179</Key>
+      <Values>
+        <BtxtString>
+          <Id>2954101259</Id>
+          <Value>ええ！？
+ᜀ今度᠀こんどᤀは　なに！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_180</Key>
+      <Values>
+        <BtxtString>
+          <Id>2970616332</Id>
+          <Value>あれ
+エリさん？　どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_181</Key>
+      <Values>
+        <BtxtString>
+          <Id>2989622036</Id>
+          <Value>そのバトル　ᜀ私᠀わたしᤀも　ᜀ参加᠀さんかᤀする！
+ドカモンだけじゃ
+ハンデが　つきすぎるもの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_182</Key>
+      <Values>
+        <BtxtString>
+          <Id>3006006033</Id>
+          <Value>だから　マネージャーの　ᜀ座᠀ざᤀなんて
+いつでも　ゆずるって
+ᜀ言᠀いᤀってるのにぃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_183</Key>
+      <Values>
+        <BtxtString>
+          <Id>3024749335</Id>
+          <Value>っていうか　マネージャーの　ᜀ座᠀ざᤀを
+かける　バトルに　アイドルᜀ本人᠀ほんにんᤀが
+ᜀ参加᠀さんかᤀするって　ᜀ話᠀はなしᤀ　おかしいでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_184</Key>
+      <Values>
+        <BtxtString>
+          <Id>3039822606</Id>
+          <Value>エリちゃんと　いっしょなら
+ᜀ百人力᠀ひゃくにんりきᤀだワス！
+ᜀ覚悟᠀かくごᤀ　するだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_185</Key>
+      <Values>
+        <BtxtString>
+          <Id>3054240008</Id>
+          <Value>ᜀ負᠀まᤀけちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_186</Key>
+      <Values>
+        <BtxtString>
+          <Id>3073245966</Id>
+          <Value>マネージャー　ᜀ兼᠀けんᤀ
+ボディガードの　ᜀ座᠀ざᤀなんて
+ホントは　どうでも　いいけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_187</Key>
+      <Values>
+        <BtxtString>
+          <Id>3089761042</Id>
+          <Value>このままじゃ
+おさまり　つかなそうだから
+また　ここに　ᜀ戻᠀もどᤀってこなきゃな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_188</Key>
+      <Values>
+        <BtxtString>
+          <Id>3106931473</Id>
+          <Value>ホントは　マネージャー
+ᜀ兼᠀けんᤀ　ボディガードの　ᜀ座᠀ざᤀなんて
+どうでも　いいんだけどな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_189</Key>
+      <Values>
+        <BtxtString>
+          <Id>3122791180</Id>
+          <Value>でも　このままじゃ
+おさまり　つかなそうだし
+ᜀ仕方᠀しかたᤀない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_190</Key>
+      <Values>
+        <BtxtString>
+          <Id>3138126341</Id>
+          <Value>いくわよ！
+ドカモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_191</Key>
+      <Values>
+        <BtxtString>
+          <Id>3157132047</Id>
+          <Value>エリちゃんの　マネージャー
+ᜀ兼᠀けんᤀ　ボディガードの　ᜀ座᠀ざᤀは
+ワスの　モノだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_192</Key>
+      <Values>
+        <BtxtString>
+          <Id>3172073991</Id>
+          <Value>ふぅ　なんとか
+ᜀ勝᠀かᤀったぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_193</Key>
+      <Values>
+        <BtxtString>
+          <Id>3191210770</Id>
+          <Value>さすが　エリちゃんが
+マネージャー　ᜀ兼᠀けんᤀ　ボディガードを
+ᜀ任᠀まかᤀせるだけのことは　あるだワス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_194</Key>
+      <Values>
+        <BtxtString>
+          <Id>3207987986</Id>
+          <Value>ワスも　おᜀ前᠀まえᤀを　エリちゃんの
+マネージャー　ᜀ兼᠀けんᤀ　ボディガードと
+ᜀ認᠀みとᤀめるだワス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_195</Key>
+      <Values>
+        <BtxtString>
+          <Id>3225289492</Id>
+          <Value>でも　それは　ᜀ今᠀いまᤀだけだワス！
+いつか　かならず　エリちゃんの
+マネージャーのᜀ座᠀ざᤀ　ᜀ手᠀てᤀにいれるだワス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_196</Key>
+      <Values>
+        <BtxtString>
+          <Id>3240362768</Id>
+          <Value>いや…
+ホント　マネージャーの　ᜀ座᠀ざᤀとか
+どうでも　いいんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_197</Key>
+      <Values>
+        <BtxtString>
+          <Id>3257271051</Id>
+          <Value>ᜀ私᠀わたしᤀと　ドカモンの
+コンビに　ᜀ勝᠀かᤀつなんて
+さすが　ᰏくん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_198</Key>
+      <Values>
+        <BtxtString>
+          <Id>3274048268</Id>
+          <Value>それでこそ
+ᜀ私᠀わたしᤀの　マネージャー
+ᜀ兼᠀けんᤀ　ボディガードね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_199</Key>
+      <Values>
+        <BtxtString>
+          <Id>3292136212</Id>
+          <Value>ᰏを　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀの
+マネージャー　ᜀ兼᠀けんᤀ　ボディガードとして
+ᜀ認᠀みとᤀめるしかねぇ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_200</Key>
+      <Values>
+        <BtxtString>
+          <Id>3309175575</Id>
+          <Value>オレは　ᜀ本物᠀ほんものᤀの　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀと
+おᜀ話᠀はなしᤀ　できただけで
+ᜀ幸᠀しあわᤀせだしな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_201</Key>
+      <Values>
+        <BtxtString>
+          <Id>3322937612</Id>
+          <Value>ホント　ᜀ幸᠀しあわᤀせっス～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_202</Key>
+      <Values>
+        <BtxtString>
+          <Id>3341681425</Id>
+          <Value>みんな　これからも　ᜀ私᠀わたしᤀのこと
+ᜀ応援᠀おうえんᤀ　しないと
+ドッカンパンチよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_203</Key>
+      <Values>
+        <BtxtString>
+          <Id>3359638297</Id>
+          <Value>ああ…　ᜀ生᠀なまᤀドッカンパンチ！
+ᜀ今日᠀きょうᤀの　オレは　ᜀ人生᠀じんせいᤀ　ᜀ最高᠀さいこうᤀに
+ᜀ幸᠀しあわᤀせ～①</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_204</Key>
+      <Values>
+        <BtxtString>
+          <Id>3374842637</Id>
+          <Value>リョ…　リョウジ…
+キャラが　ᜀ変᠀かᤀわってない？
+そんなに　ファン　なんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_205</Key>
+      <Values>
+        <BtxtString>
+          <Id>3392406289</Id>
+          <Value>じゃあ　オレたちは
+エリᜀ様᠀さまᤀの　オフの　ジャマしちゃ
+ᜀ悪᠀わるᤀいから　もう　ᜀ行᠀いᤀくぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_206</Key>
+      <Values>
+        <BtxtString>
+          <Id>3408265744</Id>
+          <Value>エリᜀ様᠀さまᤀ　ミハマᜀ港᠀こうᤀ
+ᜀ楽᠀たのᤀしんでいって　くださいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_207</Key>
+      <Values>
+        <BtxtString>
+          <Id>3423863056</Id>
+          <Value>ᜀ楽᠀たのᤀしんでいって　くださいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_208</Key>
+      <Values>
+        <BtxtString>
+          <Id>3440640273</Id>
+          <Value>ᜀ楽᠀たのᤀしんでいって　くださいっス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_209</Key>
+      <Values>
+        <BtxtString>
+          <Id>3458335499</Id>
+          <Value>ふぅ…　なんだか
+いろいろ　あったけど
+あ～　ᜀ楽᠀たのᤀしかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_210</Key>
+      <Values>
+        <BtxtString>
+          <Id>3475637011</Id>
+          <Value>ふふふ　ᰏくん
+いろいろ　ありがとう！
+あなたにᜀ会᠀あᤀえて　ホントに　よかった①</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_211</Key>
+      <Values>
+        <BtxtString>
+          <Id>3492021009</Id>
+          <Value>？？？
+えっと…　エリさんも
+なんか　キャラが　ᜀ変᠀かᤀわってない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_212</Key>
+      <Values>
+        <BtxtString>
+          <Id>3508535827</Id>
+          <Value>さっきまでの　ᜀ上᠀うえᤀから　ᜀ目線᠀めせんᤀは
+どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_213</Key>
+      <Values>
+        <BtxtString>
+          <Id>3525181968</Id>
+          <Value>（ああぁあ！
+　つい　ᜀ素᠀すᤀが　ᜀ出᠀でᤀちゃった！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_214</Key>
+      <Values>
+        <BtxtString>
+          <Id>3541434893</Id>
+          <Value>な…　なに
+ナマイキ　ᜀ言᠀いᤀってるのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_215</Key>
+      <Values>
+        <BtxtString>
+          <Id>3559260940</Id>
+          <Value>マネージャーの　クセに
+えらそうなこと　ᜀ言᠀いᤀうと
+ドッカンパンチよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_216</Key>
+      <Values>
+        <BtxtString>
+          <Id>3576824592</Id>
+          <Value>でも　ᰏマネージャー
+ᜀ今日᠀きょうᤀの　ところは　いったん
+ᜀ解放᠀かいほうᤀして　あげるわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_217</Key>
+      <Values>
+        <BtxtString>
+          <Id>3593601810</Id>
+          <Value>さ～て　ᜀ私᠀わたしᤀは　もうちょっと
+おしのびで　オフを　ᜀ楽᠀たのᤀしもっと！
+じゃあ　またね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_218</Key>
+      <Values>
+        <BtxtString>
+          <Id>3610510097</Id>
+          <Value>え～　「またね」って…
+ホント　ᜀ誰᠀だれᤀか　マネージャー
+ᜀ変᠀かᤀわってくれないかなぁ　トホホ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3625976334</Id>
+          <Value>ᜀ困᠀こまᤀっているみたいね
+ᜀ話᠀はなᤀしかけてみようかな…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3643147021</Id>
+          <Value>かわいそうだけど
+ᜀ準備᠀じゅんびᤀが　できてから
+またᜀ来᠀きᤀましょ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3659530770</Id>
+          <Value>え～と　あのね
+ᜀ何᠀なにᤀを　そんなに　ᜀ困᠀こまᤀってるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3676307984</Id>
+          <Value>ワタシに　ᜀ手伝᠀てつだᤀえることなら
+ᜀ手伝᠀てつだᤀうわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3692429836</Id>
+          <Value>ワタシは　ᰏ
+アナタの　ᜀ名前᠀なまえᤀは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3711173391</Id>
+          <Value>いや　ᜀ知᠀しᤀらないわよ
+ᜀ困᠀こまᤀってるみたい　だったから
+ᜀ声᠀こえᤀかけただけ　なんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3726770706</Id>
+          <Value>なんでも　ないわよ　こっちのᜀ話᠀はなしᤀ
+というわけで　ᰏちゃん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3743154705</Id>
+          <Value>ええ…
+なに　この　ᜀ上᠀うえᤀからᜀ目線᠀めせんᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3761898259</Id>
+          <Value>えっと　つまり…　ワタシは
+アイドルの　ᜀ臨時᠀りんじᤀマネージャー
+ᜀ兼᠀けんᤀ　ボディガードに　なるってこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3777889038</Id>
+          <Value>ᜀ大事᠀だいじᤀな　アクセサリーね
+どこで　なくしたか
+ᜀ心当᠀こころあᤀたりは　あるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3796763414</Id>
+          <Value>ミハマᜀ港᠀こうᤀに　コンビニは　２ᜀ件᠀けんᤀあるけど
+おしゃれなコンビニって　ᜀ言᠀いᤀうなら
+ᜀ南西᠀なんせいᤀの　ᜀ赤᠀あかᤀレンガの　コンビニね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_047_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3811574546</Id>
+          <Value>うん　わかったわ
+ミハマᜀ港᠀こうᤀの　コンビニね
+ワタシ　ちょっと　ᜀ探᠀さがᤀしてくるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3826778638</Id>
+          <Value>ここが　エリさんのᜀ言᠀いᤀってた
+コンビニね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3845259794</Id>
+          <Value>アクセサリーが　ᜀ落᠀おᤀちていなかったか
+おᜀ店᠀みせᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀいてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3860988687</Id>
+          <Value>そうね
+ᜀ念᠀ねんᤀのため　ＡＲフィールドも
+たしかめておこうかしら</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_059_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3879338772</Id>
+          <Value>この　ＡＲダンジョン　なにかᜀ変᠀へんᤀね
+もしかしたら　エリさんの
+アクセサリーと　ᜀ関係᠀かんけいᤀあるのかも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_060_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3893625358</Id>
+          <Value>よし
+ここも　ᜀ探᠀さがᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3913024277</Id>
+          <Value>エリさん　ᜀ大事᠀だいじᤀな　アクセサリーだって
+ᜀ言᠀いᤀってたからね…
+よし　がんばって　ᜀ探᠀さがᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_063_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3929539347</Id>
+          <Value>あれ？　あのアプモンが　ᜀ持᠀もᤀってるの…
+アクセサリー　じゃない？
+「４７０」って　ᜀ書᠀かᤀいてあるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_064_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3945530131</Id>
+          <Value>たしか　エリさん
+「アプリᜀ山᠀やまᤀ４７０」が　なんとかって
+ᜀ言᠀いᤀってたわよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_065_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3961914125</Id>
+          <Value>どうして　アプモンが
+エリさんの　アクセサリーを
+ᜀ持᠀もᤀってるのかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_066_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3978822415</Id>
+          <Value>あのᜀ子᠀こᤀ　オークションアプリの
+アプモン
+オクショモン　じゃなかった！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3995861778</Id>
+          <Value>もしかして　エリさんの
+アクセサリーを　オークションアプリで
+ᜀ売᠀うᤀるつもりなの…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_068_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4012245520</Id>
+          <Value>ᜀ大事᠀だいじᤀな　アクセサリーだもの
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀさなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4029940495</Id>
+          <Value>なんとか　あのᜀ子᠀こᤀに　ᜀ勝᠀かᤀって
+エリさんの　アクセサリー
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀさないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_070_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4045800205</Id>
+          <Value>やった！
+ᜀ大事᠀だいじᤀな　アクセサリー
+ᜀ取᠀とᤀりᜀ戻᠀もどᤀしたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_071_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4063101714</Id>
+          <Value>さっそく
+エリさんのところへ　ᜀ戻᠀もどᤀって
+アクセサリーを　ᜀ返᠀かえᤀしてあげましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_073_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4079485713</Id>
+          <Value>ᰏちゃん！
+あなた　ᜀ今᠀いまᤀ　ＡＲダンジョンから
+ᜀ出᠀でᤀてこなかった！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_074_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4095214092</Id>
+          <Value>もしかして　ᰏちゃんも
+アプリドライヴァーなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_075_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4112777996</Id>
+          <Value>え…　そうだけど…
+ᰏちゃん「も」　ってことは
+まさか　エリさんも！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_077_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4129817358</Id>
+          <Value>だから　ᰏちゃん
+このᜀ秘密᠀ひみつᤀは　ᜀ誰᠀だれᤀにも
+ナイショ　だからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_086_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4148298522</Id>
+          <Value>さて　ᰏちゃん
+ᜀ臨時᠀りんじᤀとはいえ　さすがは　ᜀ花嵐᠀からんᤀエリᜀ様᠀さまᤀの
+マネージャー　ᜀ兼᠀けんᤀ　ボディガード！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4164420371</Id>
+          <Value>エリさん　その　アクセサリー
+オークションアプリの　アプモン
+オクショモンから　ᜀ取᠀とᤀりᜀ戻᠀もどᤀしたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_092_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4180542225</Id>
+          <Value>え～と　それじゃあ
+アクセサリーも　ᜀ取᠀とᤀりᜀ戻᠀もどᤀしたし
+ワタシは　このへんで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_099_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4196664077</Id>
+          <Value>しかも　そのアイドルが
+アプリドライヴァーだなんて
+ホント　ビックリね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_101_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4213965588</Id>
+          <Value>あれ…　アプリトークの　ᜀ着信᠀ちゃくしんᤀ？
+ᜀ誰᠀だれᤀからだろう？
+………まさか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_104_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4230611733</Id>
+          <Value>う…
+ᰏマネージャーって　ことは
+もう「ᜀ臨時᠀りんじᤀ」じゃ　なくなってるのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_106_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4248568597</Id>
+          <Value>あ～　わかったわ
+ミハマᜀ港᠀こうᤀの　エントランスゲートね！
+ᜀ噴水᠀ふんすいᤀのᜀ前᠀まえᤀの　アーケードでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_108_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4263641617</Id>
+          <Value>ᜀ大変᠀たいへんᤀなことに　なってるって
+なにが　あったのかしら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_109_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4279763466</Id>
+          <Value>エントランスゲートに
+ᜀ行᠀いᤀってみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_121_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3932947</Id>
+          <Value>アンインストール　しようとしても
+ᜀ消᠀けᤀせない　カレンダーアプリ…？
+ᜀ原因᠀げんいんᤀは　エリさんの　スマホかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_122_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>20185873</Id>
+          <Value>だったら　エリさんの　スマホから
+ＡＲダンジョンに　ᜀ入᠀はいᤀれば
+なんとか　できるかも　しれないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_123_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>35258896</Id>
+          <Value>よし！　エリさん
+ワタシが　なんとか　してみるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_129_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>52560652</Id>
+          <Value>このままじゃ
+おさまり　つかなそうだし
+ᜀ行᠀いᤀくしか　ないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_130_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>68551180</Id>
+          <Value>エリさんの
+スマホが　ᜀ置᠀おᤀいてあるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_130_1_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>86115084</Id>
+          <Value>このままじゃ
+おさまり　つかなそうだし
+ᜀ行᠀いᤀくしか　ないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_136_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>103154195</Id>
+          <Value>やっぱり　カレンダーアプリの
+アプモンが　ᜀ原因᠀げんいんᤀ　だったのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_137_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>120062733</Id>
+          <Value>あのᜀ子᠀こᤀが　ネットに
+エリさんの　スケジュールを
+ᜀ広᠀ひろᤀめたのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_138_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>137233168</Id>
+          <Value>ᜀ人᠀ひとᤀに　ᜀ迷惑᠀めいわくᤀかけて
+ᜀ喜᠀よろこᤀぶなんて　ゆるせないわ！
+いくわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_141_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>154272527</Id>
+          <Value>ᜀ早᠀はやᤀく　あのᜀ子᠀こᤀに　ᜀ勝᠀かᤀって
+エリさんの　スケジュール
+ᜀ消᠀けᤀさせないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_145_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>169214478</Id>
+          <Value>やった！
+カレンダモンに　ᜀ勝᠀かᤀてたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_175_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>185860369</Id>
+          <Value>「ᜀ行᠀いᤀきワス！！」　じゃないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_177_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>203031058</Id>
+          <Value>ホントに
+ᜀ面倒᠀めんどうᤀなことに　なってきたわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_187_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>220857106</Id>
+          <Value>このままじゃ
+おさまり　つかなそうだから
+また　ここに　ᜀ戻᠀もどᤀってこなきゃね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_188_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>238027537</Id>
+          <Value>ホントは　マネージャー
+ᜀ兼᠀けんᤀ　ボディガードの　ᜀ座᠀ざᤀなんて
+どうでも　いいんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_189_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>254018316</Id>
+          <Value>でも　このままじゃ
+おさまり　つかなそうだし
+ᜀ仕方᠀しかたᤀないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_192_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>269615623</Id>
+          <Value>ふぅ　なんとか
+ᜀ勝᠀かᤀてたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_197_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>287703819</Id>
+          <Value>ᜀ私᠀わたしᤀと　ドカモンの
+コンビに　ᜀ勝᠀かᤀつなんて
+さすが　ᰏちゃん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_210_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>304874259</Id>
+          <Value>ふふふ　ᰏちゃん
+いろいろ　ありがとう！
+あなたにᜀ会᠀あᤀえて　ホントに　よかった①</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_60_218_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>322175761</Id>
+          <Value>え～　「またね」って…
+ホント　ᜀ誰᠀だれᤀか　マネージャー
+ᜀ変᠀かᤀわってくれないかしら　トホホ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>115</NumberOfLabels>
+  <NumberOfStrings>115</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1966864</Id>
+          <Value>あーっ！
+また　ダメだ！！
+いったい　どうなっているんだ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17564167</Id>
+          <Value>うわっ
+ビックリした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>37094163</Id>
+          <Value>ああ　ゴメン　ゴメン
+つい　カッと　なっちゃって
+ᜀ大᠀おおᤀきなᜀ声᠀こえᤀを　ᜀ出᠀だᤀしてしまったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249421</Id>
+          <Value>いったい　どうしたんです？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828248</Id>
+          <Value>ᜀ会社᠀かいしゃᤀに　このデータを　ᜀ圧縮᠀あっしゅくᤀして
+ᜀ送᠀おくᤀんなきゃ　ならないのに
+ᜀ圧縮᠀あっしゅくᤀが　うまく　できないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87163668</Id>
+          <Value>こうして　データを　ᜀ圧縮᠀あっしゅくᤀして…
+あー！　ほら
+また　エラーが　ᜀ出᠀でᤀてしまう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103940878</Id>
+          <Value>いや　ホント　ᜀ困᠀こまᤀったよ…
+この　ᜀ圧縮᠀あっしゅくᤀアプリ
+ᜀ壊᠀こわᤀれちゃったのかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>120587022</Id>
+          <Value>このデータが　ᜀ送᠀おくᤀれないと
+１ᜀ億円᠀おくえんᤀの　ビジネスが
+パーに　なっちゃうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135004425</Id>
+          <Value>１ᜀ億円᠀おくえんᤀ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152437010</Id>
+          <Value>それは　ᜀ大変᠀たいへんᤀじゃないですか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170001168</Id>
+          <Value>そうなんだよ！
+だから　あせって
+つい　カッと　なっちゃったんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187958037</Id>
+          <Value>くそーーっ！
+ᜀ急᠀いそᤀいで　ᜀ送᠀おくᤀらないと
+ホントに　ᜀ仕事᠀しごとᤀが　ヤバいのにーー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203817739</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀアプリが
+おかしくなってるって
+ᜀ言᠀いᤀっていたよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>219415053</Id>
+          <Value>もしかして
+アプモンの　イタズラかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>237896212</Id>
+          <Value>「ᜀ圧縮᠀あっしゅくᤀできないナゾをᜀ追᠀おᤀえ！」
+このクエストを　ᜀ受᠀うᤀけますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>254280209</Id>
+          <Value>っていうのは　ᜀ考᠀かんがᤀえすぎかな？
+きっと　そのうち　ᜀ直᠀なおᤀるだろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>270664461</Id>
+          <Value>よし
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみようか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>287441677</Id>
+          <Value>よーし
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみましょ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>305267476</Id>
+          <Value>こうして　データを　ᜀ圧縮᠀あっしゅくᤀして…
+あー！　ほら
+また　エラーが　ᜀ出᠀でᤀてしまう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>321913615</Id>
+          <Value>この　データが　ᜀ送᠀おくᤀれないと
+１ᜀ億円᠀おくえんᤀの　ビジネスが
+パーに　なっちゃうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>338952981</Id>
+          <Value>くそーーっ！
+ᜀ急᠀いそᤀいで　ᜀ送᠀おくᤀらないと
+ホントに　ᜀ仕事᠀しごとᤀが　ヤバいのにーー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>354812683</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀアプリが
+おかしくなってるって
+ᜀ言᠀いᤀっていたよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_504</Key>
+      <Values>
+        <BtxtString>
+          <Id>370409997</Id>
+          <Value>もしかして
+アプモンの　イタズラかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>388235795</Id>
+          <Value>よし　ᜀ今度᠀こんどᤀこそ
+ᜀ圧縮᠀あっしゅくᤀが　うまく　いっている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>405668628</Id>
+          <Value>んあ！？　エラー！
+やっぱり　ダメかーーっ！
+これじゃ　ᜀ仕事᠀しごとᤀに　ならないよー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>421921297</Id>
+          <Value>アプモンが　ᜀ原因᠀げんいんᤀかも
+ＡＲフィールドを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>439223058</Id>
+          <Value>どうでした？
+おᜀ仕事᠀しごとᤀの　データ
+ᜀ圧縮᠀あっしゅくᤀして　ᜀ送᠀おくᤀれました？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>456262418</Id>
+          <Value>ああ　キミか！
+ついさっき　ᜀ圧縮᠀あっしゅくᤀが　できて
+ᜀ無事᠀ぶじᤀに　ᜀ送᠀おくᤀれたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>471204367</Id>
+          <Value>うん！
+これで　もう　ᜀ安心᠀あんしんᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>488505874</Id>
+          <Value>よかったですね
+１ᜀ億円᠀おくえんᤀが　パーに　ならなくて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>505414411</Id>
+          <Value>１ᜀ億᠀おくᤀ？
+あれ　オレ　そんなこと
+ᜀ言᠀いᤀってたっけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>520225026</Id>
+          <Value>え？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>539099663</Id>
+          <Value>１ᜀ億᠀おくᤀなんて　ウソウソ
+ただの　ᜀ言葉᠀ことばᤀの　アヤだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>558105366</Id>
+          <Value>ᜀ送᠀おくᤀれなかったら
+ᜀ社長᠀しゃちょうᤀに　スッゲー　ᜀ怒᠀おこᤀられるから
+つい　１ᜀ億᠀おくᤀなんて　ᜀ言᠀いᤀっちゃったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>571867662</Id>
+          <Value>………
+なんて　ᜀ人᠀ひとᤀさわがせな！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>589431568</Id>
+          <Value>でも　まあ
+ポコモンたちも　ᜀ助᠀たすᤀかったから
+よかったのかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>607126289</Id>
+          <Value>ふー
+ひとᜀ仕事᠀しごとᤀ　ᜀ終᠀おᤀわったᜀ後᠀あとᤀの
+コーヒーは　ᜀ格別᠀かくべつᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>623116820</Id>
+          <Value>ᜀ思᠀おもᤀったとおり
+ＡＲダンジョンの　ᜀ入口᠀いりぐちᤀが　あるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>641205011</Id>
+          <Value>きっと　このᜀ奥᠀おくᤀに　ᜀ圧縮᠀あっしゅくᤀを
+ジャマしている　アプモンが　いるんだ
+よし　はいってみるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>656540177</Id>
+          <Value>このᜀ奥᠀おくᤀに　イタズラを　している
+アプモンが　いるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>672006661</Id>
+          <Value>うわわっ！
+ᜀ誰᠀だれᤀ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>689963538</Id>
+          <Value>アタイ　ポコモン…
+ᜀ解凍᠀かいとうᤀアプリの　ポコモンなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>707002902</Id>
+          <Value>ポコモンかぁー
+ᜀ急᠀きゅうᤀに　ᜀ現᠀あらわᤀれるから　ビックリしたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>724042513</Id>
+          <Value>アンタ
+ペコモン　ᜀ見᠀みᤀてない？
+アタイ　ペコモン　ᜀ探᠀さがᤀしてるのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>738590981</Id>
+          <Value>ペコモン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>756679187</Id>
+          <Value>そう
+ᜀ圧縮᠀あっしゅくᤀアプリの　ペコモンなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>773980942</Id>
+          <Value>アタイと
+いつも　いっしょに　いたのに
+ペコモン　いなくなったのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>790889233</Id>
+          <Value>アタイ
+ペコモン　ᜀ探᠀さがᤀして
+グルグル　グ～ルグル　しているのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>809763604</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀアプリの　ペコモン！？
+どう　ᜀ考᠀かんがᤀえても　そいつが
+ᜀ今回᠀こんかいᤀの　ᜀ原因᠀げんいんᤀじゃないか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>826278677</Id>
+          <Value>ココ　ᜀ道᠀みちᤀが　わかりにくいのー
+アタイ　グルグル　グ～ルグルして
+ᜀ全然᠀ぜんぜんᤀ　ペコモン　ᜀ見᠀みᤀつからないのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>839909900</Id>
+          <Value>アタイ
+もう　つかれちゃったのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>858653458</Id>
+          <Value>たぶん　オレも
+その　ペコモンに　ᜀ用᠀ようᤀが　あるから
+いっしょに　ᜀ探᠀さがᤀそうか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>874250768</Id>
+          <Value>ホントなのー？
+ペコモン　ᜀ探᠀さがᤀしてくれるのー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>889585926</Id>
+          <Value>ああ　いいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>907936523</Id>
+          <Value>それじゃあ　アンタに
+アタイ　ついていくのー
+ヨロシクなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>927204116</Id>
+          <Value>ᜀ敵᠀てきᤀの　ᜀ気配᠀けはいᤀは　ないけど
+ホント　ᜀ迷᠀まよᤀいやすそうな　ところだな…
+ᜀ気᠀きᤀをつけて　ᜀ行᠀いᤀきますかー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_056_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>943850259</Id>
+          <Value>ᜀ敵᠀てきᤀの　ᜀ気配᠀けはいᤀは　ないけど
+ホント　ᜀ迷᠀まよᤀいやすそうな　ところね…
+ᜀ気᠀きᤀをつけて　ᜀ行᠀いᤀきますかー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>959447826</Id>
+          <Value>アンタ　どこ　ᜀ行᠀いᤀってたのー
+ペコモン
+いっしょに　ᜀ探᠀さがᤀすと　ᜀ言᠀いᤀったのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>974520847</Id>
+          <Value>ゴメン
+ちょっと　ᜀ用᠀ようᤀが　あってね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>991560204</Id>
+          <Value>それじゃ　ペコモン
+いっしょに　ᜀ探᠀さがᤀすのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008206348</Id>
+          <Value>なんだ　コレ？
+ᜀ道᠀みちᤀが　ふさがれている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024852495</Id>
+          <Value>これ
+ペコモンが　ᜀ原因᠀げんいんᤀなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040580870</Id>
+          <Value>ペコモンが？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058013708</Id>
+          <Value>だから
+アタイに　まかせてなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075315212</Id>
+          <Value>バージョンアップパッチを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091699210</Id>
+          <Value>アタイ
+ᜀ解凍᠀かいとうᤀしたのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108345351</Id>
+          <Value>やった！
+ᜀ助᠀たすᤀかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125777934</Id>
+          <Value>それじゃあ　また
+ペコモン　ᜀ探᠀さがᤀしにいくのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141506313</Id>
+          <Value>ペコーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158939149</Id>
+          <Value>！？
+ウィルスᜀ化᠀かᤀ　している！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175847436</Id>
+          <Value>ペコモンだ！
+アタイ　ᜀ探᠀さがᤀしてたのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193411345</Id>
+          <Value>あっ！　ポコモン
+ペコモンは　ウィルスに　やられてて
+あぶないぞ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208615177</Id>
+          <Value>ペコーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1225261319</Id>
+          <Value>キャーーッ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242563080</Id>
+          <Value>あーーっ！？
+ポコモーーン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258946826</Id>
+          <Value>ペコ　ペコーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277166094</Id>
+          <Value>よくも　ポコモンを！！
+ᜀ目᠀めᤀを　ᜀ覚᠀さᤀまさせてやる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292501257</Id>
+          <Value>ペコーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311113742</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327104527</Id>
+          <Value>あれあれー？
+アッシは　ここで　ᜀ何᠀なにᤀを…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344012812</Id>
+          <Value>キミは　ウィルスᜀ化᠀かᤀして
+ここで　あばれていたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360527888</Id>
+          <Value>そうでしたかー
+それは　スマネぇこと　したでしー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376649734</Id>
+          <Value>そのおかげで
+ポコモンは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393689095</Id>
+          <Value>アタイのこと
+ᜀ呼᠀よᤀんだのー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411121680</Id>
+          <Value>ええーーーっ！！
+ポコモン！　ᜀ無事᠀ぶじᤀだったの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428292369</Id>
+          <Value>？
+アタイは　ペコモンに
+ᜀ圧縮᠀あっしゅくᤀされていただけなのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1446380306</Id>
+          <Value>アタイは　ᜀ圧縮᠀あっしゅくᤀされても
+ᜀ自分᠀じぶんᤀで　ᜀ解凍᠀かいとうᤀできるから
+なんともないのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460535816</Id>
+          <Value>なーんだ
+そうだったんだー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479148304</Id>
+          <Value>どうも　アッシら
+オマエさんに　ずいぶんと
+ᜀ心配᠀しんぱいᤀ　かけたみたいでしー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493827849</Id>
+          <Value>スマナかったでしー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511522829</Id>
+          <Value>まぁ　みんな
+ᜀ無事᠀ぶじᤀだったから　いいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1530397460</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀの　イタズラも
+ウィルスが　ᜀ原因᠀げんいんᤀだったワケだから
+これで　おさまるだろうしね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1544945938</Id>
+          <Value>アンタには　おᜀ世話᠀せわᤀに　なったのー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1560936713</Id>
+          <Value>ありがとさんでしー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1577713930</Id>
+          <Value>うん　それじゃあね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594753294</Id>
+          <Value>いったい　どうしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1613103883</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀアプリが
+おかしくなってるって
+ᜀ言᠀いᤀっていたわよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630011921</Id>
+          <Value>っていうのは　ᜀ考᠀かんがᤀえすぎかな？
+きっと　そのうち　ᜀ直᠀なおᤀるでしょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_503_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646658315</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀアプリが
+おかしくなってるって
+ᜀ言᠀いᤀっていたわよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663566354</Id>
+          <Value>アプモンの　ᜀ原因᠀げんいんᤀかも
+ＡＲフィールドを　ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680081428</Id>
+          <Value>ᜀ思᠀おもᤀったとおり
+ＡＲダンジョンの　ᜀ入口᠀いりぐちᤀが　あるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1698169619</Id>
+          <Value>きっと　このᜀ奥᠀おくᤀに　ᜀ圧縮᠀あっしゅくᤀを
+ジャマしている　アプモンが　いるのね
+よし　はいってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1713504785</Id>
+          <Value>このᜀ奥᠀おくᤀに　イタズラを　している
+アプモンが　いるはずね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1730544151</Id>
+          <Value>ポコモンかぁー
+ᜀ急᠀きゅうᤀに　ᜀ現᠀あらわᤀれるから　ビックリしたわよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1749287698</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀアプリの　ペコモン！？
+どう　ᜀ考᠀かんがᤀえても　そのᜀ子᠀こᤀが
+ᜀ今回᠀こんかいᤀの　ᜀ原因᠀げんいんᤀね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_052_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764754194</Id>
+          <Value>たぶん　ワタシも
+その　ペコモンに　ᜀ用᠀ようᤀが　あるから
+いっしょに　ᜀ探᠀さがᤀそうか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1778909447</Id>
+          <Value>ええ　いいわよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796735504</Id>
+          <Value>ゴメン
+ちょっと　ᜀ用᠀ようᤀが　あったのよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_060_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813512717</Id>
+          <Value>なぁに　コレ？
+ᜀ道᠀みちᤀが　ふさがれているわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_066_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1829765639</Id>
+          <Value>やった！
+ᜀ助᠀たすᤀかったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_071_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1847853842</Id>
+          <Value>あっ！　ポコモン
+ペコモンは　ウィルスに　やられてるわ
+あぶないわよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864499728</Id>
+          <Value>よくも　ポコモンを！！
+ᜀ目᠀めᤀを　ᜀ覚᠀さᤀまさせてあげるわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_078_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1881670159</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1897792013</Id>
+          <Value>アナタは　ウィルスᜀ化᠀かᤀして
+ここで　あばれていたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_71_090_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1914176013</Id>
+          <Value>まぁ　みんな
+ᜀ無事᠀ぶじᤀだったから　いいわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

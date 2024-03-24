@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>ミオとバトル！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301767</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>36963090</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856199</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517522</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410631</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104071954</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965063</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>137626386</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519495</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171180818</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073927</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>204735250</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628359</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238289682</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182791</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>271844114</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737223</Id>
+          <Value>ミオに勝とう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305398546</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322175762</Id>
+          <Value>ミオが　アプリドライヴァーになった！
+さっそく　バトルを　せがまれ
+しょうがなく　ᜀ受᠀うᤀけることに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

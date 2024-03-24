@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>26</NumberOfLabels>
+  <NumberOfStrings>26</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>5374746</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ物語᠀ものがたりᤀは　さらに　ᜀ動᠀うごᤀきだす
+アリーナへᜀ戻᠀もどᤀり　ᜀ運命᠀うんめいᤀをᜀ追᠀おᤀうが　ᜀ吉᠀きちᤀ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21365522</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ミオは　ᜀ学校᠀がっこうᤀへ　むかわれたし
+ᜀ後᠀あとᤀを　ᜀ追᠀おᤀい　ᜀ探᠀さがᤀしᜀ出᠀だᤀすべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798107</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ指示᠀しじᤀされたるは　ᜀ上᠀うえᤀのᜀ階᠀かいᤀ
+ᜀ学校᠀がっこうᤀの　２ᜀ階᠀かいᤀで　ᜀ迷子᠀まいごᤀを　さがすべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55182108</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ学校᠀がっこうᤀの　３ᜀ階᠀かいᤀに　ᜀ迷子᠀まいごᤀの　ᜀ気配᠀けはいᤀあり
+ＡＲダンジョンへ　むかうべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221461</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ学校᠀がっこうᤀの　３ᜀ階᠀かいᤀに　ᜀ迷子᠀まいごᤀあり
+ᜀ出口᠀でぐちᤀまで　ᜀ送᠀おくᤀってやるが　ᜀ吉᠀きちᤀ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88605461</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ探᠀さがᤀしᜀ人᠀びとᤀ　プロテクモンの　もとにあり
+ᜀ出会᠀であᤀうなら　ᜀ急᠀いそᤀぎ　むかわれたし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>105251609</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+サイバーアリーナへ　もどられよ
+さすれば　ᜀ次᠀つぎᤀなるᜀ冒険᠀ぼうけんᤀ　ᜀ待᠀まᤀちᜀ受᠀うᤀけん～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>123077405</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ランカーへの　ᜀ道᠀みちᤀは　ᜀ閉᠀とᤀざされた
+ᜀ挑戦᠀ちょうせんᤀを　ᜀ受᠀うᤀけ　ᜀ自᠀みずかᤀら　ᜀ切᠀きᤀりᜀ開᠀ひらᤀくべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138806037</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ミハマに　ᜀ入᠀いᤀれば　ミハマに　したがえ
+リョウジに　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀくが　ᜀ吉᠀きちᤀ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154927890</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+アパレルショップは　ᜀ複数᠀ふくすうᤀあり
+ウワサの　ᜀ店舗᠀てんぽᤀを　さがすべし　</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171705106</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+アパレルショップは　ᜀ複数᠀ふくすうᤀあり
+ウワサの　ᜀ店舗᠀てんぽᤀを　さがすべし　</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>188482322</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+アパレルショップは　ᜀ複数᠀ふくすうᤀあり
+ウワサの　ᜀ店舗᠀てんぽᤀを　さがすべし　</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>205521686</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ウワサの　もとは　ᜀ見᠀みᤀつかった
+ダンジョンに　ᜀ入᠀いᤀりて　ᜀ解決᠀かいけつᤀめざせ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>222036756</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ事件᠀じけんᤀは　すべて　ᜀ解決᠀かいけつᤀされた
+サイバーアリーナへ　もどられよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239469333</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ランカーへの　ᜀ道᠀みちᤀは　なおᜀ遠᠀とおᤀし
+ᜀ追᠀おᤀって　ヨンゲンᜀ通᠀どおᤀりへ　むかわれたし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>256508693</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ世界᠀せかいᤀをᜀ切᠀きᤀりかえ　ᜀ道᠀みちᤀをひらくべし
+ᜀ求᠀もとᤀめる　カヨは　そのᜀ先᠀さきᤀに　あり～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>272368404</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+カヨの　ᜀ家前᠀いえまえᤀ　あやしき
+ＡＲダンジョンあり～　ᜀ奥᠀おくᤀをめざすべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>289145620</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ最奥᠀さいおくᤀに　トラブルの　タネ　あり！
+いざ　ᜀ立᠀たᤀちᜀ向᠀むᤀかうべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>307233560</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+つきはなす　ᜀ態度᠀たいどᤀは　ᜀ不安᠀ふあんᤀの　あらわれ
+カヨに　ᜀ助᠀たすᤀけのᜀ手᠀てᤀを　さしのべるが　ᜀ吉᠀きちᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>323617559</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ヨンゲンᜀ通᠀どおᤀりに　バイラモン　ᜀ数多᠀あまたᤀあり
+１ᜀ体᠀たいᤀずつ　ᜀ立᠀たᤀちᜀ向᠀むᤀかうべし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>340394775</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ヨンゲンᜀ通᠀どおᤀりに　バイラモン　ᜀ数多᠀あまたᤀあり
+１ᜀ体᠀たいᤀずつ　ᜀ立᠀たᤀちᜀ向᠀むᤀかうべし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>357171991</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ヨンゲンᜀ通᠀どおᤀりに　バイラモン　ᜀ数多᠀あまたᤀあり
+１ᜀ体᠀たいᤀずつ　ᜀ立᠀たᤀちᜀ向᠀むᤀかうべし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>373949207</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ヨンゲンᜀ通᠀どおᤀりに　バイラモン　ᜀ数多᠀あまたᤀあり
+１ᜀ体᠀たいᤀずつ　ᜀ立᠀たᤀちᜀ向᠀むᤀかうべし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>390333204</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ真᠀まことᤀの　バイラモン　いまだ　ᜀ潜᠀ひそᤀむ
+ヨンゲンᜀ通᠀どおᤀりを　ᜀ探᠀さがᤀすべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>407110419</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ真᠀まことᤀのバイラモン　ＡＲダンジョンに
+ᜀ潜᠀ひそᤀまれたし～　ᜀ追᠀おᤀいᜀ詰᠀つᤀめるべし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>423625493</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ついに　ランカーバトルのᜀ時᠀ときᤀ
+ᜀ万全᠀ばんぜんᤀの　チームをᜀ組᠀くᤀみ　のぞむべき</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

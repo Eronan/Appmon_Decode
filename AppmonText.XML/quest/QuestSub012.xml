@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>26</NumberOfLabels>
+  <NumberOfStrings>26</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442067</Id>
+          <Value>オフラインのᜀ原因調査᠀げんいんちょうさᤀ１</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957137</Id>
+          <Value>ニコタマ川・町の人に聞きこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404885</Id>
+          <Value>オフラインᜀ障害᠀しょうがいᤀの　ᜀ原因᠀げんいんᤀを
+ᜀ調᠀しらᤀべることになった
+まずは　ᜀ町᠀まちᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀきこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511569</Id>
+          <Value>ニコタマ川・町の人に聞きこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959317</Id>
+          <Value>オフラインᜀ障害᠀しょうがいᤀの　ᜀ原因᠀げんいんᤀを
+ᜀ調᠀しらᤀべることになった
+まずは　ᜀ町᠀まちᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀきこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066001</Id>
+          <Value>ニコタマ川・町の人に聞きこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513749</Id>
+          <Value>オフラインᜀ障害᠀しょうがいᤀの　ᜀ原因᠀げんいんᤀを
+ᜀ調᠀しらᤀべることになった
+まずは　ᜀ町᠀まちᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀきこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620433</Id>
+          <Value>ニコタマ川・町の人に聞きこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068181</Id>
+          <Value>オフラインᜀ障害᠀しょうがいᤀの　ᜀ原因᠀げんいんᤀを
+ᜀ調᠀しらᤀべることになった
+まずは　ᜀ町᠀まちᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀきこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174865</Id>
+          <Value>ニコタマ川・町の人に聞きこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622613</Id>
+          <Value>オフラインᜀ障害᠀しょうがいᤀの　ᜀ原因᠀げんいんᤀを
+ᜀ調᠀しらᤀべることになった
+まずは　ᜀ町᠀まちᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀきこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729297</Id>
+          <Value>ニコタマ川・町の人に聞きこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177045</Id>
+          <Value>オフラインᜀ障害᠀しょうがいᤀの　ᜀ原因᠀げんいんᤀを
+ᜀ調᠀しらᤀべることになった
+まずは　ᜀ町᠀まちᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀきこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283729</Id>
+          <Value>ニコタマ川・町の人に聞きこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731477</Id>
+          <Value>オフラインᜀ障害᠀しょうがいᤀの　ᜀ原因᠀げんいんᤀを
+ᜀ調᠀しらᤀべることになった
+まずは　ᜀ町᠀まちᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀきこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838161</Id>
+          <Value>ニコタマ川・町の人に聞きこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285909</Id>
+          <Value>オフラインᜀ障害᠀しょうがいᤀの　ᜀ原因᠀げんいんᤀを
+ᜀ調᠀しらᤀべることになった
+まずは　ᜀ町᠀まちᤀのᜀ人᠀ひとᤀに　ᜀ聞᠀きᤀきこみしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>ニコタマ川・駐車場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305660694</Id>
+          <Value>どうやら　ᜀ駐車場᠀ちゅうしゃじょうᤀに　スマホが
+ᜀ落᠀おᤀちているらしい
+ちょっと　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319422729</Id>
+          <Value>ニコタマ川・駐車場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>339215126</Id>
+          <Value>どうやら　ᜀ駐車場᠀ちゅうしゃじょうᤀに　スマホが
+ᜀ落᠀おᤀちているらしい
+ちょっと　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>352977161</Id>
+          <Value>ニコタマ川・駐車場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>372769558</Id>
+          <Value>どうやら　ᜀ駐車場᠀ちゅうしゃじょうᤀに　スマホが
+ᜀ落᠀おᤀちているらしい
+ちょっと　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386531593</Id>
+          <Value>ニコタマ川・駐車場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>406323990</Id>
+          <Value>どうやら　ᜀ駐車場᠀ちゅうしゃじょうᤀに　スマホが
+ᜀ落᠀おᤀちているらしい
+ちょっと　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>422839057</Id>
+          <Value>ＡＲダンジョンで　イタズラしていた
+アプモンを　ᜀ追᠀おᤀいはらった
+けど　「オヤビン」とは　いったい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>ᜀ着信᠀ちゃくしんᤀがありました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957138</Id>
+          <Value>ヒフミが丘・いろんな人と話してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38798107</Id>
+          <Value>コールモンからのᜀＳＯＳ᠀エスオーエスᤀを　ᜀ受話᠀じゅわᤀした！
+ᜀ北地区᠀きたちくᤀのどこかで　コールモンと
+つながっている　ᜀ電話᠀でんわᤀを　さがそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>ヒフミが丘・ＡＲダンジョンから出よう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71303958</Id>
+          <Value>ＡＲダンジョンの　ᜀ奥᠀おくᤀで
+コールモンを　ᜀ見᠀みᤀつけだした！
+イタズラのᜀ犯人᠀はんにんᤀ　レコモンをᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066001</Id>
+          <Value>ヒフミが丘・自販機のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106038038</Id>
+          <Value>コールモンのᜀ電話機᠀でんわきᤀに　イタズラをした
+レコモンは　ᜀ北地区᠀きたちくᤀのᜀ自販機᠀じはんきᤀに
+ᜀ隠᠀かくᤀれているはず…　ᜀ探᠀さがᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620433</Id>
+          <Value>ヒフミが丘・自販機のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068183</Id>
+          <Value>ᜀ北地区᠀きたちくᤀの　ᜀ西᠀にしᤀにあるᜀ自販機᠀じはんきᤀで
+レコモンをᜀ見᠀みᤀつけた！
+バトルにᜀ勝᠀かᤀって　イタズラをᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174865</Id>
+          <Value>ヒフミが丘・ＡＲフィールドの電話機</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172229401</Id>
+          <Value>レコモンと　コールモンは
+ᜀ仲直᠀なかなおᤀりしてくれたみたい！
+ᜀ最後᠀さいごᤀに　ᜀ電話機᠀でんわきᤀを　ᜀ直᠀なおᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729297</Id>
+          <Value>ヒフミが丘・ＡＲフィールドの電話機</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205783833</Id>
+          <Value>レコモンと　コールモンは
+ᜀ仲直᠀なかなおᤀりしてくれたみたい！
+ᜀ最後᠀さいごᤀに　ᜀ電話機᠀でんわきᤀを　ᜀ直᠀なおᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283729</Id>
+          <Value>ヒフミが丘・ＡＲフィールドの電話機</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239338265</Id>
+          <Value>レコモンと　コールモンは
+ᜀ仲直᠀なかなおᤀりしてくれたみたい！
+ᜀ最後᠀さいごᤀに　ᜀ電話機᠀でんわきᤀを　ᜀ直᠀なおᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838161</Id>
+          <Value>ヒフミが丘・ＡＲフィールドの電話機</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272892697</Id>
+          <Value>レコモンと　コールモンは
+ᜀ仲直᠀なかなおᤀりしてくれたみたい！
+ᜀ最後᠀さいごᤀに　ᜀ電話機᠀でんわきᤀを　ᜀ直᠀なおᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286392593</Id>
+          <Value>ヒフミが丘・ＡＲフィールドの電話機</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306447129</Id>
+          <Value>レコモンと　コールモンは
+ᜀ仲直᠀なかなおᤀりしてくれたみたい！
+ᜀ最後᠀さいごᤀに　ᜀ電話機᠀でんわきᤀを　ᜀ直᠀なおᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324141848</Id>
+          <Value>イタズラで　ᜀ電話機᠀でんわきᤀをᜀ壊᠀こわᤀした　レコモン
+コールモンと　ᜀ仲直᠀なかなおᤀりできたみたい！
+これからも　ᜀ協力᠀きょうりょくᤀしてくれるといいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

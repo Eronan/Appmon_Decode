@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>WARNING_LIMIT_OVER_POSSESSION_COMMON_WINDOW</Key>
+      <Values>
+        <BtxtString>
+          <Id>1573391</Id>
+          <Value>ᰀは
+これᜀ以上᠀いじょうᤀ　ᜀ持᠀もᤀてません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GENERAL_ITEM_GET_COMMON_WINDOW</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957386</Id>
+          <Value>ᰀを
+ᰁ　ᜀ手᠀てᤀにいれました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

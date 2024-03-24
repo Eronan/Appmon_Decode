@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>63</NumberOfLabels>
+  <NumberOfStrings>63</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>4326165</Id>
+          <Value>このᜀ作戦᠀さくせんᤀで…　ふわぁ…　こうして…
+ᜀ相手᠀あいてᤀが　こうᜀ来᠀きᤀたら…
+うん…　なかなか　ᜀ悪᠀わるᤀくない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17564165</Id>
+          <Value>ふわ～ぁ…
+ねむてー…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>33816835</Id>
+          <Value>あの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>54788888</Id>
+          <Value>うわあ！　アプリドライヴァー！？
+ᜀ人᠀ひとᤀの　ᜀ戦略᠀せんりゃくᤀを　ᜀ盗᠀ぬすᤀみᜀ聞᠀ぎᤀきなんて
+シュミが　ᜀ悪᠀わるᤀいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435027</Id>
+          <Value>ᜀ盗᠀ぬすᤀみᜀ聞᠀ぎᤀきなんて　してないよ！
+ᜀ今᠀いまᤀ　ᜀ来᠀きᤀたばっかりだし
+あくびで　ほとんど　ᜀ聞᠀きᤀこえなかったし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>84804106</Id>
+          <Value>ほっ…
+それなら　いいけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103023373</Id>
+          <Value>…ふわぁあ
+ᜀ安心᠀あんしんᤀしたら
+また　ᜀ眠᠀ねむᤀくなってきたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358282</Id>
+          <Value>ᜀ寝不足᠀ねぶそくᤀなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199254</Id>
+          <Value>ああ　アプリデッキを　ᜀ組᠀くᤀむのに
+ᜀ夢中᠀むちゅうᤀに　なっちゃってさ…　ᜀ今᠀いまᤀ
+とっておきの　ᜀ作戦᠀さくせんᤀを　ᜀ立᠀たᤀててるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174862</Id>
+          <Value>とっておきの　ᜀ作戦᠀さくせんᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170263314</Id>
+          <Value>ああ　そうなんだ
+サイバーアリーナには
+いろんな　ドライヴァーが　いるからさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>188875542</Id>
+          <Value>ᜀ対策᠀たいさくᤀのために
+いろんな　ᜀ戦法᠀せんぽうᤀを　ᜀ考᠀かんがᤀえてたんだ
+ᜀ今᠀いまᤀの　デッキは　かなり　よくできたぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203686422</Id>
+          <Value>へえ　それは
+バトルでの　ᜀ活躍᠀かつやくᤀが　ᜀ楽᠀たのᤀしみだね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221119248</Id>
+          <Value>ああ　オレのバディ　カードモンと
+あれこれ　シミュレートした
+ᜀ自慢᠀じまんᤀの　デッキさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239207189</Id>
+          <Value>あらゆるアプモン　あらゆるデッキ
+あらゆるカードを　ᜀ想定᠀そうていᤀして…
+でもまだ　ᜀ実践᠀じっせんᤀが　ᜀ足᠀たᤀりないんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>255460114</Id>
+          <Value>そうだ！　アンタ　ᜀ強᠀つよᤀそうだけど
+「フリーᜀ大会᠀たいかいᤀ　Ａランク」には
+ᜀ優勝᠀ゆうしょうᤀしてるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_016b</Key>
+      <Values>
+        <BtxtString>
+          <Id>270795278</Id>
+          <Value>それくらいの　ᜀ相手᠀あいてᤀなら
+ᜀ申᠀もうᤀしᜀ分᠀ぶんᤀないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>289276443</Id>
+          <Value>「フリーᜀ大会᠀たいかいᤀ　Ａランク」に　ᜀ優勝᠀ゆうしょうᤀして
+ᜀ俺᠀おれᤀのバトルの　ᜀ相手᠀あいてᤀを　してくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>305398543</Id>
+          <Value>そうじゃないと…　ふわぁ～あ…
+ᜀ当分᠀とうぶんᤀ　ᜀ落᠀おᤀちついて
+ᜀ眠᠀ねむᤀれそうに　ないからさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>321782545</Id>
+          <Value>わかった
+「フリーᜀ大会᠀たいかいᤀ　Ａランク」に
+ᜀ優勝᠀ゆうしょうᤀすれば　いいんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>337379854</Id>
+          <Value>ああ　そう　こないとな！
+…ふわぁ　よろしく　たのむよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>353763850</Id>
+          <Value>ちょっとくらい
+ᜀ寝᠀ねᤀたら　いいのに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>372507411</Id>
+          <Value>それが　デッキが　ᜀ完成᠀かんせいᤀしないと
+ᜀ落᠀おᤀちつかなくて
+ちっとも　ᜀ眠᠀ねむᤀれないんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>388366867</Id>
+          <Value>ふわぁ～あ…　それじゃあ
+ᜀ寝᠀ねᤀないで　ᜀ待᠀まᤀってるから　よろしくな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>403177733</Id>
+          <Value>ᜀ寝᠀ねᤀてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>422445591</Id>
+          <Value>ふわぁ～あ…　アプリデッキのこと
+ᜀ考᠀かんがᤀえてたら　すっかり　ᜀ寝不足᠀ねぶそくᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>441320213</Id>
+          <Value>カードモンとᜀ作᠀つくᤀった　ᜀ今᠀いまᤀのデッキは
+あらゆる　カードを　ᜀ想定᠀そうていᤀしたけど
+まだ　ᜀ実践᠀じっせんᤀが　ᜀ足᠀たᤀりないんだよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>456393493</Id>
+          <Value>ふわぁあ…　
+「フリーᜀ大会᠀たいかいᤀ　Ａランク」は
+…まだ　ᜀ優勝᠀ゆうしょうᤀしてない　みたいだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>473432852</Id>
+          <Value>カードモンと　ᜀ作᠀つくᤀったデッキの
+テストが　したいんだ！
+ᜀ相応᠀そうおうᤀのレベルの　ドライヴァーとね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>490472209</Id>
+          <Value>このデッキが　ᜀ完成᠀かんせいᤀしないと
+ᜀ落᠀おᤀちついて　ᜀ眠᠀ねむᤀれなくって…
+ふわ…　ああ　ᜀ眠᠀ねむᤀたいや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>507904795</Id>
+          <Value>そんなわけだから
+「フリーᜀ大会᠀たいかいᤀ　Ａランク」に　ᜀ優勝᠀ゆうしょうᤀして
+ᜀ俺᠀おれᤀのバトルの　ᜀ相手᠀あいてᤀを　してくれよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>522584595</Id>
+          <Value>ふわぁ～あ…　それじゃあ
+ᜀ寝᠀ねᤀないで　ᜀ待᠀まᤀってるから　よろしくな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>537657609</Id>
+          <Value>だから　ᜀ寝᠀ねᤀてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>556532498</Id>
+          <Value>ふわぁあ…
+「フリーᜀ大会᠀たいかいᤀ　Ａランク」には
+ᜀ優勝᠀ゆうしょうᤀできたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>571605263</Id>
+          <Value>うん！　ᜀ優勝᠀ゆうしょうᤀしたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>590349074</Id>
+          <Value>…へえ！　アンタ　すごいな！
+それじゃあ　さっそく
+バトルの　ᜀ相手᠀あいてᤀを　してくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>606864144</Id>
+          <Value>もちろん
+ᜀ準備᠀じゅんびᤀは　できてるよな？
+ᜀ今᠀いまᤀすぐ　バトルしてもらうぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>623247890</Id>
+          <Value>あれっ　バトルに　なったら
+ᜀ急᠀きゅうᤀに　ᜀ元気᠀げんきᤀに　なった！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>642384661</Id>
+          <Value>ᜀ眠᠀ねむᤀいᜀ頭᠀あたまᤀで　バトルが　できるかよ！
+アプモンや　デッキのこと　ᜀ考᠀かんがᤀえたら
+ᜀ眠気᠀ねむけᤀなんて　ふっᜀ飛᠀とᤀぶさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>656671248</Id>
+          <Value>なんで　ᜀ眠᠀ねむᤀれなくなってたのか
+わかった　ᜀ気᠀きᤀがする…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>671613191</Id>
+          <Value>さあ　いくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>689570316</Id>
+          <Value>よう　ᜀ戻᠀もどᤀってきたな！
+ᜀ待᠀まᤀってたぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>710017814</Id>
+          <Value>ᜀ前回᠀ぜんかいᤀ　ᜀ勝᠀かᤀったのは　いいけど
+ツメの　ᜀ甘᠀あまᤀいところ　ᜀ見᠀みᤀつけちゃってさ
+ᜀ寝᠀ねᤀないで　いろいろ　ᜀ考᠀かんがᤀえちゃったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>724304655</Id>
+          <Value>だから　もう１ᜀ度᠀どᤀ
+バトル　してもらうぜ！
+ᜀ準備᠀じゅんびᤀは　できてるよな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>740819474</Id>
+          <Value>こ　これは　バトルに　ᜀ勝᠀かᤀって
+ちゃんと　ᜀ眠᠀ねむᤀってもらわないと…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>755499271</Id>
+          <Value>さあ　いくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>774111763</Id>
+          <Value>ま　ᜀ負᠀まᤀけたーっ！
+とっておきの　ᜀ作戦᠀さくせんᤀだったのに！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>790495758</Id>
+          <Value>これで　ちょっとは
+ᜀ気持᠀きもᤀちが　ᜀ落᠀おᤀちついた？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>809632532</Id>
+          <Value>ああ　ちょっと　ᜀ冷静᠀れいせいᤀに　なったよ
+デッキの　ᜀ改善点᠀かいぜんてんᤀも
+いろいろ　ᜀ見᠀みᤀえてきた　ᜀ感᠀かんᤀじだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>824836880</Id>
+          <Value>おかげさまで　また１つ
+ᜀ完成᠀かんせいᤀに　ᜀ近᠀ちかᤀづいたよ！
+ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>841745166</Id>
+          <Value>うん　それなら　よかったよ！
+これで　ᜀ今日᠀きょうᤀは
+ゆっくり　ᜀ眠᠀ねむᤀれるね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>859308819</Id>
+          <Value>いやいや　せっかく
+ᜀ完成᠀かんせいᤀに　ᜀ近᠀ちかᤀづいたんだ
+むしろ　ここからが　ᜀ本番᠀ほんばんᤀだろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>872677635</Id>
+          <Value>えっ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>893911827</Id>
+          <Value>とっておきᜀ中᠀ちゅうᤀの　とっておきの
+ᜀ作戦᠀さくせんᤀを　ᜀ考᠀かんがᤀえないとな！
+いやぁ　ᜀ今日᠀きょうᤀも　ᜀ眠᠀ねむᤀれないぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>906232067</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>923271429</Id>
+          <Value>ᜀ寝᠀ねᤀろ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>943457049</Id>
+          <Value>ふわぁ～あ…
+ᜀ夢中᠀むちゅうᤀになると　ᜀ眠気᠀ねむけᤀが　ᜀ飛᠀とᤀんじゃって
+なかなか　ᜀ眠᠀ねむᤀれないんだよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>960365332</Id>
+          <Value>でも　おかげで
+デッキは　ᜀ完成᠀かんせいᤀに　ᜀ近᠀ちかᤀづいたよ
+ᜀ大会᠀たいかいᤀで　ᜀ会᠀あᤀったら　よろしくな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>975307285</Id>
+          <Value>へえ　それは
+バトルでの　ᜀ活躍᠀かつやくᤀが　ᜀ楽᠀たのᤀしみね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>992740113</Id>
+          <Value>わかった
+「フリーᜀ大会᠀たいかいᤀ　Ａランク」に
+ᜀ優勝᠀ゆうしょうᤀすれば　いいのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007943952</Id>
+          <Value>うん！　ᜀ優勝᠀ゆうしょうᤀしたわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025770000</Id>
+          <Value>なんで　ᜀ眠᠀ねむᤀれなくなってたのか
+わかった　ᜀ気᠀きᤀがするわ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_67_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043202830</Id>
+          <Value>うん　それなら　よかったわ！
+これで　ᜀ今日᠀きょうᤀは
+ゆっくり　ᜀ眠᠀ねむᤀれるわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

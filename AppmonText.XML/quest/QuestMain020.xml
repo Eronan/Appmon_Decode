@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786696</Id>
+          <Value>ᜀ次᠀つぎᤀのランクへ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957138</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38142741</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697173</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066002</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105251605</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620434</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138806037</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174866</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172360469</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729298</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205914901</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283730</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239469333</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838162</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273023765</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286392594</Id>
+          <Value>ハイエンドＧＰ　Ｅランクで優勝しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306578197</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323355413</Id>
+          <Value>ᜀ人助᠀ひとだすᤀけも　できたし　ᜀ今度᠀こんどᤀこそ
+サイバーアリーナへ　ᜀ向᠀むᤀかおう
+ᜀ次᠀つぎᤀは「ハイエンドＧＰ　Ｅランク」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

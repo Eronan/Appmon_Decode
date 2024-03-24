@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917771</Id>
+          <Value>ᜀ電気᠀でんきᤀをプリーズ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957137</Id>
+          <Value>ヒフミが丘・充電機のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38667034</Id>
+          <Value>ガソリンスタンドの　ᜀ充電機᠀じゅうでんきᤀに
+ＡＲダンジョンが　できている！
+ᜀ電気᠀でんきᤀが　ᜀ来᠀こᤀない　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511569</Id>
+          <Value>ヒフミが丘・充電機のＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221466</Id>
+          <Value>ガソリンスタンドの　ᜀ充電機᠀じゅうでんきᤀに
+ＡＲダンジョンが　できている！
+ᜀ電気᠀でんきᤀが　ᜀ来᠀こᤀない　ᜀ原因᠀げんいんᤀを　ᜀ探᠀さがᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>ガソリンスタンドに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104596243</Id>
+          <Value>ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめていた　アプモンを
+ᜀ追᠀おᤀいはらった！
+ガソリンスタンドに　ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>ガソリンスタンドに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150675</Id>
+          <Value>ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめていた　アプモンを
+ᜀ追᠀おᤀいはらった！
+ガソリンスタンドに　ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>ガソリンスタンドに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171705107</Id>
+          <Value>ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめていた　アプモンを
+ᜀ追᠀おᤀいはらった！
+ガソリンスタンドに　ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>ガソリンスタンドに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205259539</Id>
+          <Value>ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめていた　アプモンを
+ᜀ追᠀おᤀいはらった！
+ガソリンスタンドに　ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>ガソリンスタンドに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238813971</Id>
+          <Value>ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめていた　アプモンを
+ᜀ追᠀おᤀいはらった！
+ガソリンスタンドに　ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>ガソリンスタンドに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272368403</Id>
+          <Value>ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめていた　アプモンを
+ᜀ追᠀おᤀいはらった！
+ガソリンスタンドに　ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>ガソリンスタンドに戻ろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305922835</Id>
+          <Value>ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめていた　アプモンを
+ᜀ追᠀おᤀいはらった！
+ガソリンスタンドに　ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324272923</Id>
+          <Value>ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめていた　アプモンを
+ᜀ追᠀おᤀいはらった！　サイバーアリーナに
+ᜀ電気᠀でんきᤀが　ᜀ流᠀ながᤀれて　ᜀ一件落着᠀いっけんらくちゃくᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

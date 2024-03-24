@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>19</NumberOfLabels>
+  <NumberOfStrings>19</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>4064016</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ校庭᠀こうていᤀに　ᜀ待᠀まᤀちᜀ人᠀びとᤀあり
+ᜀ手合᠀てあᤀわせを　もとめるべし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20579091</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ急᠀いそᤀぎ　サイバーアリーナへ
+さすれば　ᜀ出会᠀であᤀいが　あるでしょう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404889</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+サイバーアリーナに　ᜀ関門᠀かんもんᤀあり
+ᜀ新᠀あらᤀたなᜀ大会᠀たいかいᤀで　３ᜀ勝᠀しょうᤀ　めざすべし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55837464</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ水流᠀みずながᤀれるᜀ場所᠀ばしょᤀに　ᜀ少女᠀しょうじょᤀあり
+ᜀ彼女᠀かのじょᤀのᜀ言葉᠀ことばᤀに　ᜀ耳᠀みみᤀをかたむけよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221465</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ救᠀すくᤀいをもとめるᜀ少女᠀しょうじょᤀの　ᜀ声᠀こえᤀをᜀ聞᠀きᤀけ
+さすれば　ᜀ出会᠀であᤀいが　あるであろ～う</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>89785116</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ彼女᠀かのじょᤀがᜀ持᠀もᤀつ　ᜀ端末᠀たんまつᤀのᜀ中᠀なかᤀへと　ᜀ進᠀すすᤀめ
+ᜀ出会᠀であᤀいのᜀ時᠀ときᤀは　ᜀ近᠀ちかᤀいであろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>104727312</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ新᠀あらᤀたなᜀ友᠀ともᤀに　いざなわれし
+ᜀ黒᠀くろᤀきᜀ相手᠀あいてᤀを　たおすべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>122159895</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+このᜀ地᠀ちᤀのトラブルは　ᜀ去᠀さᤀった
+ᜀ彼女᠀かのじょᤀのᜀ元᠀もとᤀへ　もどるが　ᜀ吉᠀きちᤀとなる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138937109</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+サイバーアリーナの　ᜀ入口᠀いりぐちᤀにて
+ᜀ待᠀まᤀちᜀ人᠀びとᤀᜀ有᠀あᤀり！　ᜀ耳᠀みみᤀを　かたむけよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>155845400</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+なんじの　めざすべき　そのᜀ場所᠀ばしょᤀは
+ᜀ多᠀おおᤀくの　ᜀ車᠀くるまᤀの　ᜀ食事᠀しょくじᤀどころなり～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>172098323</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ黒᠀くろᤀき　ᜀ暴᠀あばᤀれんぼうを　ねじふせて
+ᜀ災᠀わざわᤀいの　ᜀ雲᠀くもᤀをはらうべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>189399834</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ閉᠀とᤀざされた　ダンジョンあり
+ᜀ見᠀みᤀつけて　ᜀ近᠀ちかᤀくのᜀ友᠀ともᤀの　ᜀ助言᠀じょげんᤀをあおげ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>205652759</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+システムの　ᜀ力᠀ちからᤀを　みちびき
+ᜀ閉᠀とᤀざされし　ダンジョンを　ᜀ開放᠀かいほうᤀすべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>222692118</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ダンジョンに　ひそむ　ᜀ影᠀かげᤀ　ᜀ有᠀あᤀり
+はらうが　ᜀ吉日᠀きちじつᤀへの　ᜀ近道᠀ちかみちᤀなり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731478</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ガソリンスタンドに　ᜀ待᠀まᤀちモンᜀ有᠀あᤀり
+されば　ᜀ広᠀ひろᤀがる　ᜀ命᠀いのちᤀのᜀ泉᠀いずみᤀなり～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>257426201</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ町᠀まちᤀには　なやめるᜀ人᠀ひとᤀ・アプモンᜀ有᠀あᤀり
+ᜀ救᠀すくᤀいのᜀ手᠀てᤀを　ᜀ差᠀さᤀしᜀ伸᠀のᤀべるが　ᜀ道開᠀みちひらᤀく</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>273941277</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+サイバーアリーナに　ᜀ強᠀つよᤀきᜀ力有᠀ちからあᤀり
+さけられぬ　ᜀ運命᠀うんめいᤀのᜀ歯車᠀はぐるまᤀを　ᜀ予言᠀よげんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>290194199</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ運命᠀うんめいᤀのᜀ歯車᠀はぐるまᤀが　ぶつかり
+ᜀ未来᠀みらいᤀへのᜀ扉᠀とびらᤀが　ᜀ開᠀ひらᤀかれようとする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>307102486</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ運命᠀うんめいᤀのᜀ扉᠀とびらᤀは　ᜀ開᠀ひらᤀかれた
+ᜀ来᠀くᤀるべきᜀ日᠀ひᤀまで　ᜀ力᠀ちからᤀをたくわえるべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

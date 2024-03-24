@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310990</Id>
+          <Value>ᜀ見᠀みᤀえなくなったᜀ星空᠀ほしぞらᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957137</Id>
+          <Value>ヨンゲン山・アンテナＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38273814</Id>
+          <Value>ᜀ星᠀ほしᤀのデータを　ᜀ集᠀あつᤀめている　アンテナが
+ちゃんと　ᜀ動᠀うごᤀいてくれないみたい
+ＡＲダンジョンを　ᜀ調᠀しらᤀべてみようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511569</Id>
+          <Value>ヨンゲン山・アンテナＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72090388</Id>
+          <Value>ᜀ奥᠀おくᤀで　ᜀ眠᠀ねむᤀっている　コメットモンを
+ᜀ起᠀おᤀこそうとしたら　ᜀ寝᠀ねᤀぼけて
+おそってきた！　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀまさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>ヨンゲン山・アンテナ近く</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105644823</Id>
+          <Value>コメットモンが　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀました
+これで　アンテナが　ᜀ動᠀うごᤀくはず
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>ヨンゲン山・アンテナ近く</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199255</Id>
+          <Value>コメットモンが　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀました
+これで　アンテナが　ᜀ動᠀うごᤀくはず
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>ヨンゲン山・アンテナ近く</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172753687</Id>
+          <Value>コメットモンが　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀました
+これで　アンテナが　ᜀ動᠀うごᤀくはず
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>ヨンゲン山・アンテナ近く</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206308119</Id>
+          <Value>コメットモンが　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀました
+これで　アンテナが　ᜀ動᠀うごᤀくはず
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>ヨンゲン山・アンテナ近く</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239862551</Id>
+          <Value>コメットモンが　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀました
+これで　アンテナが　ᜀ動᠀うごᤀくはず
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>ヨンゲン山・アンテナ近く</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273416983</Id>
+          <Value>コメットモンが　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀました
+これで　アンテナが　ᜀ動᠀うごᤀくはず
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>ヨンゲン山・アンテナ近く</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306971415</Id>
+          <Value>コメットモンが　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀました
+これで　アンテナが　ᜀ動᠀うごᤀくはず
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324666138</Id>
+          <Value>コメットモンが　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀましてから
+ながれᜀ星᠀ぼしᤀが　ᜀ多᠀おおᤀく　ᜀ観測᠀かんそくᤀされるように…
+キレイだけど　これ　ᜀ大丈夫᠀だいじょうぶᤀなのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

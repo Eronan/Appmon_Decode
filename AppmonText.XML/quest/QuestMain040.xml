@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>56</NumberOfLabels>
+  <NumberOfStrings>56</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442063</Id>
+          <Value>ジャミングモンのᜀ隠᠀かくᤀれᜀ家᠀がᤀへ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826063</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38667037</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380495</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221469</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934927</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105775901</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489359</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139330333</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152043791</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172884765</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598223</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206439197</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152655</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239993629</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252707087</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273548061</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286261519</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307102493</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319815951</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>340656925</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>353370383</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>374211357</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386924815</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>407765789</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>420479247</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>441320221</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>454033679</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>474874653</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487588111</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>508429085</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>521142543</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>541983517</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554696975</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>575537949</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>588251407</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>609092381</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621805839</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>642646813</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>655360271</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>676201245</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>688914703</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>709755677</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>722469135</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>743310109</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>756023567</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>776864541</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789577999</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>810418973</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>823132431</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>843973405</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>856686863</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>877527837</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>890241295</Id>
+          <Value>ニコタマ川・南地区の家電量販店</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>911082269</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>927859485</Id>
+          <Value>ミオは　ニコタマᜀ川᠀がわᤀの　ᜀ家電量販店᠀かでんりょうはんてんᤀに
+ᜀ連᠀つᤀれᜀ去᠀さᤀられたみたい…
+ナオトと　いっしょに　ミオを　ᜀ救᠀すくᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

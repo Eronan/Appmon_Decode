@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>65</NumberOfLabels>
+  <NumberOfStrings>65</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2359827</Id>
+          <Value>ᜀ困᠀こまᤀったわ
+また　ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれちゃったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432841</Id>
+          <Value>どうしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36569871</Id>
+          <Value>うちは　ᜀ先日᠀せんじつᤀから
+キッチンを　オールᜀ電化᠀でんかᤀに
+ᜀ変᠀かᤀえたんだけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55313174</Id>
+          <Value>ᜀ最近᠀さいきんᤀ　おᜀ料理᠀りょうりᤀのᜀ途中᠀とちゅうᤀで
+ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれちゃうコトが　ᜀ多᠀おおᤀくて
+ᜀ困᠀こまᤀっているのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70124052</Id>
+          <Value>ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれる？
+ᜀ機械᠀きかいᤀの　ᜀ故障᠀こしょうᤀじゃなくって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88081177</Id>
+          <Value>ええ
+ᜀ電器屋᠀でんきやᤀさんに　ᜀ見᠀みᤀてもらっても
+ᜀ調理器᠀ちょうりきᤀには　ᜀ問題᠀もんだいᤀᜀ無᠀なᤀいんですって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>101449996</Id>
+          <Value>それは　おかしいですね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>120193805</Id>
+          <Value>ᜀ主人᠀しゅじんᤀに　ごちそう
+たくさん　ᜀ作᠀つくᤀりたくって
+はりきっているのに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137233171</Id>
+          <Value>あれも　これも
+ᜀ調理器᠀ちょうりきᤀが　ᜀ電気切᠀でんきぎᤀれで
+ᜀ止᠀とᤀまっちゃうの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>154141457</Id>
+          <Value>ᜀ電気᠀でんきᤀがないと
+どのᜀ機械᠀きかいᤀも　ただのᜀ箱᠀はこᤀか…
+ᜀ大変᠀たいへんᤀだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>169607694</Id>
+          <Value>これも　アプモンが
+ᜀ何᠀なにᤀか　やっているのかも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>185860616</Id>
+          <Value>ＡＲフィールドを
+ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>203555346</Id>
+          <Value>ᜀ困᠀こまᤀったわ
+また　ᜀ電気᠀でんきᤀがᜀ切᠀きᤀれちゃったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>221119247</Id>
+          <Value>うちは　ᜀ先日᠀せんじつᤀから
+キッチンを　オールᜀ電化᠀でんかᤀに
+ᜀ変᠀かᤀえたんだけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>239862550</Id>
+          <Value>ᜀ最近᠀さいきんᤀ　おᜀ料理᠀りょうりᤀのᜀ途中᠀とちゅうᤀで
+ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれちゃうことが　ᜀ多᠀おおᤀくて
+ᜀ困᠀こまᤀっているのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>255328792</Id>
+          <Value>ᜀ電器屋᠀でんきやᤀさんに　ᜀ見᠀みᤀてもらっても
+ᜀ調理器᠀ちょうりきᤀには　ᜀ問題᠀もんだいᤀないんですって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>271188749</Id>
+          <Value>ᜀ主人᠀しゅじんᤀに　ごちそう
+たくさん　ᜀ作᠀つくᤀりたくって
+はりきっているのに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>288883475</Id>
+          <Value>あれも　これも
+ᜀ調理器᠀ちょうりきᤀが　ᜀ電気切᠀でんきぎᤀれで
+ᜀ止᠀とᤀまって　ᜀ困᠀こまᤀっているの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>304874003</Id>
+          <Value>やっぱり　アプモンが　ᜀ原因᠀げんいんᤀかも
+ＡＲフィールドを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>320209420</Id>
+          <Value>やっぱり　ここに
+ＡＲダンジョンが　あるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>338690834</Id>
+          <Value>ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれるᜀ原因᠀げんいんᤀが
+わかるかもしれない
+ᜀ行᠀いᤀってみるか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>354550288</Id>
+          <Value>エコーーーー！！
+おᜀ前᠀まえᤀ　ᜀ何᠀なにᤀを　しにᜀ来᠀きᤀた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>370541069</Id>
+          <Value>おᜀ前᠀まえᤀが
+イタズラ　しているんだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>390464280</Id>
+          <Value>エコーーーー！！
+ムダは　ᜀ省᠀はぶᤀく！　なんでも　ᜀ省᠀はぶᤀく！
+おᜀ前᠀まえᤀも　ᜀ省᠀しょうᤀエネの　ᜀ対象᠀たいしょうᤀだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>405537555</Id>
+          <Value>エコーーーー！！
+また　ᜀ省᠀しょうᤀエネの　ᜀ対象᠀たいしょうᤀが
+やってきたか！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>421921294</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>438960662</Id>
+          <Value>くっ！　ᜀ負᠀まᤀけた…！
+ムダなᜀ抵抗᠀ていこうᤀは　ᜀ省᠀はぶᤀくことにしよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>456917526</Id>
+          <Value>どうして　このᜀ家᠀いえᤀの　ᜀ電気᠀でんきᤀをᜀ切᠀きᤀって
+ᜀ調理器᠀ちょうりきᤀを　ᜀ動᠀うごᤀかなくしたんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>472253199</Id>
+          <Value>ᜀ聞᠀きᤀいてくれるか？
+オレは　ᜀ省᠀しょうᤀエネ　アプリの
+エコモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>489030415</Id>
+          <Value>ムダな　エネルギーを
+ᜀ節約᠀せつやくᤀして　エコロジーに
+つとめている…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>505414163</Id>
+          <Value>その　エコモンが
+どうして　ここの　ᜀ調理器᠀ちょうりきᤀを？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>520487174</Id>
+          <Value>ああ　そうだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>542376729</Id>
+          <Value>このᜀ家᠀いえᤀは　ᜀ最近᠀さいきんᤀ　オールᜀ電化᠀でんかᤀにした
+オールᜀ電化᠀でんかᤀが　ᜀ悪᠀わるᤀいわけではないが
+このᜀ家᠀いえᤀは　ᜀ度᠀どᤀがすぎている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>559547161</Id>
+          <Value>ᜀ一度᠀いちどᤀに　たくさんの　ᜀ料理᠀りょうりᤀを…
+それこそ　このᜀ家᠀いえᤀのᜀ主人᠀しゅじんᤀが
+ᜀ食᠀たᤀべᜀ残᠀のこᤀすほどの　ᜀ料理᠀りょうりᤀを　ᜀ作᠀つくᤀるのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>574620446</Id>
+          <Value>ᜀ何台᠀なんだいᤀもの　ᜀ調理器᠀ちょうりきᤀを　ᜀ同時᠀どうじᤀにᜀ使᠀つかᤀって
+エネルギーの　ムダづかいも
+はなはだしい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>591659794</Id>
+          <Value>ᜀ少᠀すこᤀし　ᜀ注意᠀ちゅういᤀをしようと
+ᜀ電気᠀でんきᤀを　ᜀ止᠀とᤀめにきたのだが
+ᜀ調子᠀ちょうしᤀに　のってしまったようだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>605159950</Id>
+          <Value>それで
+ムチャクチャ　やっていたのか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>622723854</Id>
+          <Value>ああ
+ちょっと　どころでなく
+やりすぎて　しまったようだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>640680720</Id>
+          <Value>とにかく　ここの　おねえさんには
+オレからも　ᜀ言᠀いᤀっておくから
+ほどほどに　しておいてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>657457938</Id>
+          <Value>エコーーーー！！
+わかった　もうᜀ少᠀すこᤀし
+ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀることに　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>671613192</Id>
+          <Value>エコーーーー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>688652553</Id>
+          <Value>さて　ᜀ戻᠀もどᤀろうか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>707133972</Id>
+          <Value>ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれちゃう　ᜀ原因᠀げんいんᤀ
+わかりましたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>722993931</Id>
+          <Value>えっ！？
+わかったの！
+どうして　こうなるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>740688398</Id>
+          <Value>ᜀ一度᠀いちどᤀに　ᜀ電気᠀でんきᤀを
+ᜀ使᠀つかᤀいすぎているからですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>757858832</Id>
+          <Value>ᜀ負担᠀ふたんᤀが　ᜀ大᠀おおᤀきすぎて
+ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれていたんです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>774767378</Id>
+          <Value>なるほどねー
+そうだったかも　しれないわ
+ᜀ一度᠀いちどᤀに　ᜀ使᠀つかᤀいすぎだったのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>792068881</Id>
+          <Value>それに　ᜀ作᠀つくᤀるᜀ料理᠀りょうりᤀも
+ᜀ食᠀たᤀべきれるᜀ量᠀りょうᤀに　したほうが
+いいみたいですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>807010835</Id>
+          <Value>そうね
+ᜀ残᠀のこᤀしちゃうの　もったいなかったわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>825885458</Id>
+          <Value>アナタの　ᜀ言᠀いᤀうとおりだわ
+これから　ᜀ注意᠀ちゅういᤀして
+おᜀ料理᠀りょうりᤀを　ᜀ作᠀つくᤀっていくわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>842662673</Id>
+          <Value>あれから　ᜀ料理᠀りょうりᤀを
+ᜀ少᠀すこᤀしずつ　ᜀ作᠀つくᤀるようにしたら
+ᜀ問題᠀もんだいᤀ　なくなったのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>857866774</Id>
+          <Value>よかったですね！
+（エコモンも　これなら　ᜀ安心᠀あんしんᤀだろう）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>875692821</Id>
+          <Value>ありがとうね
+これからも　ᜀ電気᠀でんきᤀを　ᜀ節約᠀せつやくᤀして
+エコロジーに　つとめるわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>892470033</Id>
+          <Value>ᜀ電気᠀でんきᤀがないと
+どのᜀ機械᠀きかいᤀも　ただのᜀ箱᠀はこᤀか…
+ᜀ大変᠀たいへんᤀなのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_018_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>907411977</Id>
+          <Value>ＡＲフィールドを
+ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>925630995</Id>
+          <Value>やっぱり　アプモンが　ᜀ原因᠀げんいんᤀかも
+ＡＲフィールドを　ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>940966412</Id>
+          <Value>やっぱり　ここに
+ＡＲダンジョンが　あるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>959578898</Id>
+          <Value>ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれるᜀ原因᠀げんいんᤀが
+わかるかもしれないわ
+ᜀ行᠀いᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>974258700</Id>
+          <Value>アナタが
+イタズラ　しているのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_028_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>992477711</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_030_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010565654</Id>
+          <Value>どうして　このᜀ家᠀いえᤀの　ᜀ電気᠀でんきᤀをᜀ切᠀きᤀって
+ᜀ調理器᠀ちょうりきᤀを　ᜀ動᠀うごᤀかなくしてたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024590350</Id>
+          <Value>それで
+ムチャクチャ　やっていたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043333904</Id>
+          <Value>とにかく　ここの　おねえさんには
+ワタシからも　ᜀ言᠀いᤀっておくから
+ほどほどに　しておいてよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057882378</Id>
+          <Value>さて　ᜀ戻᠀もどᤀりましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_63_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075970581</Id>
+          <Value>よかったですね！
+（エコモンも　これなら　ᜀ安心᠀あんしんᤀかな）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917771</Id>
+          <Value>オウジからのᜀ依頼᠀いらいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826064</Id>
+          <Value>サイバーアリーナ・オウジと話そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39060249</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを
+ᜀ調᠀しらᤀべてほしいと　オウジに　たのまれた
+ᜀ準備᠀じゅんびᤀできたら　ᜀ彼᠀かれᤀに　ᜀ声᠀こえᤀを　かけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511569</Id>
+          <Value>ミハマ港のウィルス騒動を解決しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>73138972</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066001</Id>
+          <Value>ミハマ港のウィルス騒動を解決しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106693404</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620433</Id>
+          <Value>ミハマ港のウィルス騒動を解決しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>140247836</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174865</Id>
+          <Value>ミハマ港のウィルス騒動を解決しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173802268</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729297</Id>
+          <Value>ミハマ港のウィルス騒動を解決しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>207356700</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283729</Id>
+          <Value>ミハマ港のウィルス騒動を解決しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240911132</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838161</Id>
+          <Value>ミハマ港のウィルス騒動を解決しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274465564</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286392593</Id>
+          <Value>ミハマ港のウィルス騒動を解決しよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>308019996</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324797212</Id>
+          <Value>ミハマᜀ港᠀こうᤀの　ウィルスᜀ騒動᠀そうどうᤀを　カヨより
+ᜀ早᠀はやᤀく　ᜀ解決᠀かいけつᤀして　オウジに　ᜀ報告᠀ほうこくᤀしよう
+それで　Ｃランカーバトルに　ᜀ進᠀すすᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

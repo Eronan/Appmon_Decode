@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>166</NumberOfLabels>
+  <NumberOfStrings>166</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>3015447</Id>
+          <Value>ムニャ　ムニャ…
+ここにいると　コーヒー　ᜀ何杯飲᠀なんはいのᤀんでも
+ねむくなるの…　よ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17695240</Id>
+          <Value>スー　スー
+ムニャ　ムニャ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36176657</Id>
+          <Value>うーん！
+ᜀ目᠀めᤀが　スッキリして
+ガンバロー！　って　ᜀ気分᠀きぶんᤀだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52953868</Id>
+          <Value>でも　ねむかったときに
+コーヒー　ᜀ飲᠀のᤀみすぎて
+おなかは　タプタプだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70386458</Id>
+          <Value>グー　スー
+ᜀ受験勉強᠀　じゅけんべんきょうᤀで　ᜀ寝᠀ねᤀちゃいけないのに
+ねむくて　ねむくて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86245906</Id>
+          <Value>コーヒー　ᜀ飲᠀のᤀんで　ᜀ目᠀めᤀをさまそう！
+ゴクリ　グー　グー…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>101843465</Id>
+          <Value>あーあー
+ᜀ寝᠀ねᤀちゃってるよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>121504533</Id>
+          <Value>うん　ᜀ無理᠀むりᤀして　ᜀ寝᠀ねᤀてなかったときより
+グッスリ　ねむった　ᜀ今᠀いまᤀのほうが
+ᜀ調子᠀ちょうしᤀいいや！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137626388</Id>
+          <Value>しっかり　ねむって
+しっかり　ᜀ勉強᠀べんきょうᤀして
+ᜀ受験᠀じゅけんᤀに　そなえることにしよう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>153223948</Id>
+          <Value>クー　スー　ムニャ…
+いや　ワタシは
+ᜀ寝᠀ねᤀていませんよ…　クー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>169869837</Id>
+          <Value>んー　この　おねえさん
+ᜀ立᠀たᤀったまま　ᜀ寝᠀ねᤀているよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>186122766</Id>
+          <Value>クー　スー
+ᜀ寝᠀ねᤀてない…　ムニャ　ムニャ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203424273</Id>
+          <Value>この　アプリを　いれてから
+みょうに　ねむく…　なるのよ　ね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>220726030</Id>
+          <Value>なぜか　まわりのᜀ人᠀ひとᤀも
+ねむく　なっちゃう…　そうよ
+クー　スー　スー…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>236978961</Id>
+          <Value>えっ？
+まわりのᜀ人᠀ひとᤀも　ねむくなっちゃう
+アプリだって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>253755923</Id>
+          <Value>そういえば
+まわりのᜀ人᠀ひとᤀも　ᜀ寝᠀ねᤀているみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>271057682</Id>
+          <Value>もしかして
+この　おねえさんの　スマホに
+アプモンが　イタズラしているのかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>287834641</Id>
+          <Value>まあ　ただ　ᜀ寝᠀ねᤀているだけだから
+ゆっくり　ᜀ寝᠀ねᤀかせておけば　いいか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>304087567</Id>
+          <Value>また　ᜀ後᠀あとᤀで
+ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀにきてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>321913618</Id>
+          <Value>どうして　みんなが　ねむっているのか
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>337773324</Id>
+          <Value>クー　スー　ムニャ…
+いや　ワタシは
+ᜀ寝᠀ねᤀていませんよ…　クー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>354419217</Id>
+          <Value>この　アプリを　いれてから
+みょうに　ねむく…　なるのよ　ね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>371720974</Id>
+          <Value>なぜか　まわりのᜀ人᠀ひとᤀも
+ねむく　なっちゃう…　そうよ
+クー　スー　スー…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>388104721</Id>
+          <Value>まわりのᜀ人᠀ひとᤀも　ねむくなっちゃう
+アプリなんて　おかしいな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_504</Key>
+      <Values>
+        <BtxtString>
+          <Id>405275410</Id>
+          <Value>もしかして
+この　おねえさんの　スマホに
+アプモンが　イタズラしているのかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>421659404</Id>
+          <Value>クー　スー　ムニャ…
+いや　ワタシは
+ᜀ寝᠀ねᤀていませんよ…　クー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>438698766</Id>
+          <Value>この　おねえさんの　スマホを
+ＡＲフィールドから
+ᜀ調᠀しらᤀべてみないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>455475985</Id>
+          <Value>ふぁ～あ
+スマホを　ᜀ見᠀みᤀていたら
+ねむくなるのは　おさまったみたい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_027_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>471859981</Id>
+          <Value>よかった！
+スリープモンが　スマホから
+いなくなったからかな…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>490472209</Id>
+          <Value>さっ！　しめきりが　せまっている
+ᜀ小説᠀しょうせつᤀの　ᜀ原稿᠀げんこうᤀ！
+ᜀ急᠀いそᤀいで　しあげ　なくっちゃね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>505414159</Id>
+          <Value>…って　やるᜀ気᠀きᤀには　なるけど
+ねむたくも　なるんだよねー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>523371282</Id>
+          <Value>ひとねむりしてから　かかればいいか！
+ᜀ仮眠᠀かみんᤀ　ᜀ仮眠᠀かみんᤀっと…
+クー　スー　スー…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>539099917</Id>
+          <Value>この　おねえさん
+アプリが　あってもなくても
+ねむたいんじゃないか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>558105364</Id>
+          <Value>クー　スー　ᜀ今日中᠀きょうじゅうᤀに
+ニコタマᜀ出版᠀しゅっぱんᤀに　ᜀ原稿᠀げんこうᤀを
+ᜀ持᠀もᤀっていかなくちゃ　いけないけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>573178641</Id>
+          <Value>ムニャ　ムニャ
+まだ　だいじょうぶ　だいじょうぶ…
+おやすみ…　ムニャ　スー　スー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_505</Key>
+      <Values>
+        <BtxtString>
+          <Id>590217998</Id>
+          <Value>なんだか　ᜀ今日᠀きょうᤀは
+ねむそうな　おᜀ客᠀きゃくᤀさんが
+ᜀ多᠀おおᤀいんですよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_506</Key>
+      <Values>
+        <BtxtString>
+          <Id>607126288</Id>
+          <Value>かくいう　ᜀ私᠀わたしᤀも
+つい　ウトウト…　いえいえ！
+ᜀ寝᠀ねᤀているわけには　いきません！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_507</Key>
+      <Values>
+        <BtxtString>
+          <Id>624165651</Id>
+          <Value>きっと　それくらい　このカフェの
+ᜀ居心地᠀いごこちᤀが　いいってことですね！
+どうぞ　ごゆっくりー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_508</Key>
+      <Values>
+        <BtxtString>
+          <Id>640025358</Id>
+          <Value>さっきまで
+ねむそうな　おᜀ客᠀きゃくᤀさんが
+ᜀ多᠀おおᤀかったんですよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_509</Key>
+      <Values>
+        <BtxtString>
+          <Id>657851158</Id>
+          <Value>きっと　このカフェの　コーヒーで
+ねむいᜀ頭᠀あたまᤀが　スッキリ　したんですね！　
+どうぞ　ごゆっくりー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_510</Key>
+      <Values>
+        <BtxtString>
+          <Id>673055499</Id>
+          <Value>いらっしゃいませ
+コーヒーの　おかわりは
+いかがでしょうか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_511</Key>
+      <Values>
+        <BtxtString>
+          <Id>690488079</Id>
+          <Value>みんな　ねむそうにしてるけど…
+さすがに　ロボットは
+ねむくなったり　しないか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_512</Key>
+      <Values>
+        <BtxtString>
+          <Id>708838165</Id>
+          <Value>いらっしゃいませ
+ᜀ今᠀いまᤀなら　ᜀ生᠀なまᤀクリーム　ᜀ増量᠀ぞうりょうᤀ
+ᜀ無料᠀むりょうᤀ　サービスᜀ中᠀ちゅうᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>722469136</Id>
+          <Value>やっぱり　ＡＲダンジョンが　ある</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>741081874</Id>
+          <Value>なんで　みんなが
+ねむってしまうのか
+ᜀ中᠀なかᤀに　はいって　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>755761673</Id>
+          <Value>！？
+あれ　タップモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>772669960</Id>
+          <Value>スヤスヤ～
+グー　スカ　ピ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>789577997</Id>
+          <Value>タップモンも　ᜀ寝᠀ねᤀてるよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>806617609</Id>
+          <Value>おい　タップモン！
+ᜀ起᠀おᤀきろよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>824050443</Id>
+          <Value>うーん
+なんで　ᜀ起᠀おᤀこすタップ
+まだ　ねむいタップよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>841876242</Id>
+          <Value>こんなところで
+なんで　ᜀ寝᠀ねᤀているんだよ
+ᜀ先᠀さきᤀに　いけないだろ　どいてくれよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>856687115</Id>
+          <Value>ムニャ～
+どけば　いいタップね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>873464077</Id>
+          <Value>あぁ　ちょっと　ᜀ待᠀まᤀって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>892338957</Id>
+          <Value>あー　ᜀ行᠀いᤀっちゃった…
+ᜀ寝᠀ねᤀている　ᜀ原因᠀げんいんᤀを
+ᜀ聞᠀きᤀきたかったのにな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>907673876</Id>
+          <Value>このᜀ先᠀さきᤀを　ᜀ調᠀しらᤀべてみるしかないか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>924320270</Id>
+          <Value>あっ
+また　ᜀ誰᠀だれᤀか　ᜀ寝᠀ねᤀている！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>940573193</Id>
+          <Value>グー　ガー
+グガガガー　ガー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>957743627</Id>
+          <Value>フリックモンだ
+やっぱり　ᜀ寝᠀ねᤀているよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>974914313</Id>
+          <Value>おーい！
+フリックモーン！！
+ᜀ起᠀おᤀきてくれよー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>991691532</Id>
+          <Value>グ　グガガ
+オマエ　テキだな
+グー　スカ　ギーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008468746</Id>
+          <Value>わわっ！
+ᜀ寝᠀ねᤀぼけて　バトルを
+しかけてきたっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024459273</Id>
+          <Value>グー　ガー
+グガガガー　ガー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042022924</Id>
+          <Value>まだ　ᜀ寝᠀ねᤀているよ
+よし　ᜀ今度᠀こんどᤀこそ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058800393</Id>
+          <Value>おーい！
+フリックモーン！！
+ᜀ起᠀おᤀ・き・ろっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075708684</Id>
+          <Value>グ　グガガ
+また　ᜀ来᠀きᤀたな
+グー　スカ　ギーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092616720</Id>
+          <Value>ムニャ　ムニャ…
+ᜀ何᠀なにᤀが　ᜀ起᠀おᤀこったでフリック？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109131790</Id>
+          <Value>ᜀ寝᠀ねᤀぼけて　オレに
+バトルを　しかけてきたんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125777934</Id>
+          <Value>そうだったフリックか…
+それは　すまなかったフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142555403</Id>
+          <Value>ふぁ～あ
+まだ　ねむいから
+バイバイで　フリック～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158676749</Id>
+          <Value>あっ　ᜀ聞᠀きᤀきたいことが！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177813781</Id>
+          <Value>また　ᜀ消᠀きᤀえちゃった…
+しかたない
+もうᜀ少᠀すこᤀし　ᜀ先᠀さきᤀを　ᜀ調᠀しらᤀべてみよう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194066706</Id>
+          <Value>いた！
+ᜀ今度᠀こんどᤀこそ　ちゃんと
+ᜀ何᠀なにᤀが　おきているか　ᜀ聞᠀きᤀかなきゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208746251</Id>
+          <Value>ス～ヤ　スヤスヤ　ス～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227096844</Id>
+          <Value>こんどは　スワイプモンだ
+ねぇ　スワイプモン
+ᜀ起᠀おᤀきてくれよー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243742994</Id>
+          <Value>ん？
+んん　あ～　なぁに
+ねむいんだから　ᜀ起᠀おᤀこさないでスワ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1262093077</Id>
+          <Value>そうᜀ言᠀いᤀわずに　ᜀ起᠀おᤀきてよ
+ねえ　スワイプモン
+みんな　ᜀ寝᠀ねᤀているけど　ᜀ何᠀なにᤀがあったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278214930</Id>
+          <Value>ᜀ何᠀なにᤀって…
+スリープモンが　やってきたからスワ～
+だから　みんな　ᜀ寝᠀ねᤀているスワ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292370184</Id>
+          <Value>スリープモンが？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310982927</Id>
+          <Value>そうスワ～
+ここには　ᜀ元々᠀もともとᤀ
+スワイプモンたちが　いたスワよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326711307</Id>
+          <Value>そこに　スリープモンが
+やってきたスワ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345323790</Id>
+          <Value>なんでも　ゆっくり　ねむれる
+ᜀ最高᠀さいこうᤀの　ねどこを
+ᜀ探᠀かがᤀしていたそうだスワ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360790284</Id>
+          <Value>それで
+スリープモンの　ねどこは
+ᜀ見᠀みᤀつかったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377567250</Id>
+          <Value>ああ
+このᜀ奥᠀おくᤀに　ᜀ見᠀みᤀつけたそうだスワ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1396310803</Id>
+          <Value>スリープモンが　ᜀ深᠀ふかᤀくねむるほど
+その　ᜀ影響᠀えいきょうᤀで
+まわりの　みんなが　ᜀ寝᠀ねᤀてしまうスワよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412956948</Id>
+          <Value>それで　ＡＲダンジョンにいた
+スワイプモンたち　だけでなく
+ᜀ外᠀そとᤀのᜀ人᠀ひとᤀたちまで　ねむっていたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428161297</Id>
+          <Value>ファ～ア
+スワイプモンも　まだ　ねむいスワ～
+もう　いいスワよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1444807182</Id>
+          <Value>ᜀ起᠀おᤀこされなくて　いいトコに
+ᜀ行᠀いᤀくので　スワ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463157520</Id>
+          <Value>どこかに　ᜀ行᠀いᤀっちゃったか…
+とにかく　このᜀ奥᠀おくᤀにいる
+スリープモンを　ᜀ見᠀みᤀつけなきゃな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1477837324</Id>
+          <Value>よし
+ᜀ先᠀さきᤀを　ᜀ急᠀いそᤀごう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494614543</Id>
+          <Value>いた！
+スリープモンが　ᜀ寝᠀ねᤀているぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510605066</Id>
+          <Value>スヤ　スヤ　スヤ～♪</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529611028</Id>
+          <Value>ᜀ気持᠀きもᤀちよさそうに　ねむっているなぁ…
+ふぁ～あ
+オレまで　ねむくなっちゃう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545863952</Id>
+          <Value>おっと　いけない！
+ここで　ねむったら
+なんにも　ならないところだった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562116874</Id>
+          <Value>おーい！
+スリープモ～ン！！
+ᜀ起᠀おᤀきてくれーーっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1577713930</Id>
+          <Value>スヤ　スヤ　スヤ～♪</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1595539983</Id>
+          <Value>ダメだ
+ᜀ起᠀おᤀきる　ᜀ気配᠀けはいᤀが　ない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1613759249</Id>
+          <Value>う～ん
+アプモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+スリープモンを　ᜀ起᠀おᤀこせないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630274068</Id>
+          <Value>よし　ライフᜀ属性᠀ぞくせいᤀの
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646264852</Id>
+          <Value>うーん…
+また　ᜀ後᠀あとᤀで　ᜀ挑戦᠀ちょうせんᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1662255629</Id>
+          <Value>うう～～ん
+スヤ　スヤ　スヤ～～ン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1677984004</Id>
+          <Value>うわっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>1696203281</Id>
+          <Value>あいたた…
+ᜀ寝相᠀ねぞうᤀに　はじかれてしまった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712587276</Id>
+          <Value>あれ？
+ᜀ失敗᠀しっぱいᤀしちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1730806289</Id>
+          <Value>アプモンのᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+スリープモンを　ᜀ起᠀おᤀこせないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747714580</Id>
+          <Value>よし　ライフᜀ属性᠀ぞくせいᤀの
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764098827</Id>
+          <Value>よし　ᜀ成功᠀せいこうᤀだ！
+これで　スリープモンを
+ᜀ起᠀おᤀこせるはずだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1780220682</Id>
+          <Value>おーい！
+スリープモ～ン！！
+ᜀ起᠀おᤀきてくれーーっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1797653262</Id>
+          <Value>うぐっ　うう～～ん
+オイラの　ねむりを
+ジャマするのは　ᜀ誰᠀だれᤀスヤ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1815479060</Id>
+          <Value>ᜀ頼᠀たのᤀむよ！
+キミが　ここで　ᜀ寝᠀ねᤀていると
+ᜀ外᠀そとᤀのᜀ人᠀ひとᤀまで　ねむってしまうんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1831863053</Id>
+          <Value>ᜀ関係᠀かんけいᤀないᜀ人᠀ひとᤀまで
+いっしょに　ねむっちゃって
+ᜀ困᠀こまᤀっているんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1847329298</Id>
+          <Value>そんなこと
+オイラの　ᜀ知᠀しᤀったことじゃ　ないスヤ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864237837</Id>
+          <Value>それよりも
+オイラの　ねむりを
+ジャマしないで　ほしいスヤ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1879703818</Id>
+          <Value>スヤ　スヤ　スヤ～♪</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1897005578</Id>
+          <Value>おーい！
+ᜀ寝᠀ねᤀないで　くれー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1914962701</Id>
+          <Value>むにゃ　むにゃ…
+まだ　なにか　あるスヤか？
+オイラ　ねむたいんだスヤ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1930953232</Id>
+          <Value>だから
+ここで　ᜀ寝᠀ねᤀないでほしいんだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1947730698</Id>
+          <Value>んもう！
+オイラは　ただ
+ねむたいだけスヤ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1964507658</Id>
+          <Value>ᜀ困᠀こまᤀったな…
+ᜀ話᠀はなしᤀに　ならない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982595855</Id>
+          <Value>ごちゃごちゃ　うるさいヤツは
+オイラより　ᜀ先᠀さきᤀに
+おねんね　させてやるスヤよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1998979598</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>2016150287</Id>
+          <Value>また　ᜀ起᠀おᤀこすー！！
+ごちゃごちゃ　うるさいヤツは
+おねんね　させてやるスヤよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>2031485452</Id>
+          <Value>スリープモン
+これで　ᜀ目᠀めᤀが　さめた？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>2048918032</Id>
+          <Value>わかった　わかったスヤ！
+もう　ᜀ起᠀おᤀきれば　いいんだスヤ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065564177</Id>
+          <Value>ゆっくり　ねむれないなら
+こんなトコロ　もう　いたくないスヤ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>2082865681</Id>
+          <Value>もっと　ゆっくり　ねむれる
+スマホを　ᜀ探᠀さがᤀしにᜀ行᠀いᤀくスヤ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>2099774223</Id>
+          <Value>ふう…
+これで　ねむっていたᜀ人᠀ひとᤀたち
+ᜀ目᠀めᤀが　さめていると　いいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_007_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2115109385</Id>
+          <Value>あーあー
+ᜀ寝᠀ねᤀちゃってるわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2132935441</Id>
+          <Value>えっ？
+まわりのᜀ人᠀ひとᤀも　ねむくなっちゃう
+アプリですって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_016_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2149581331</Id>
+          <Value>そういえば
+まわりのᜀ人᠀ひとᤀも　ᜀ寝᠀ねᤀているみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2167013906</Id>
+          <Value>まあ　ただ　ᜀ寝᠀ねᤀているだけだから
+ゆっくり　ᜀ寝᠀ねᤀかせておけば　いいわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2183266832</Id>
+          <Value>また　ᜀ後᠀あとᤀで
+ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀにきてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2201092882</Id>
+          <Value>どうして　みんなが　ねむっているのか
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2217083662</Id>
+          <Value>この　おねえさんの　スマホを
+ＡＲフィールドから
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2233598733</Id>
+          <Value>この　おねえさん
+アプリが　あってもなくても
+ねむたいんじゃないの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_511_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2250900239</Id>
+          <Value>みんな　ねむそうにしてるけど…
+さすがに　ロボットは
+ねむくなったり　しないわよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2266104081</Id>
+          <Value>やっぱり　ＡＲダンジョンが　あるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2284585747</Id>
+          <Value>なんで　みんなが
+ねむってしまうのか
+ᜀ中᠀なかᤀに　はいって　ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2299658510</Id>
+          <Value>タップモンも　ᜀ寝᠀ねᤀてるわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2316567049</Id>
+          <Value>ねえ　タップモン！
+ᜀ起᠀おᤀきてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2335048468</Id>
+          <Value>こんなところで
+なんで　ᜀ寝᠀ねᤀているのよ
+ᜀ先᠀さきᤀにいけないでしょ　どいてちょうだい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2350383628</Id>
+          <Value>フリックモンだ
+やっぱり　ᜀ寝᠀ねᤀているわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2367423242</Id>
+          <Value>おーい！
+フリックモーン！！
+ᜀ起᠀おᤀきてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2384200204</Id>
+          <Value>まだ　ᜀ寝᠀ねᤀているわ
+よし　ᜀ今度᠀こんどᤀこそ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2400977673</Id>
+          <Value>おーい！
+フリックモーン！！
+ᜀ起᠀おᤀ・き・てっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2417754637</Id>
+          <Value>ᜀ寝᠀ねᤀぼけて　ワタシに
+バトルを　しかけてきたのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_062_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2436104981</Id>
+          <Value>また　ᜀ消᠀きᤀえちゃった…
+しかたない
+もうᜀ少᠀すこᤀし　ᜀ先᠀さきᤀをᜀ調᠀しらᤀべてみましょ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_065_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2451833612</Id>
+          <Value>こんどは　スワイプモンね
+ねぇ　スワイプモン
+ᜀ起᠀おᤀきてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2469921556</Id>
+          <Value>それで　ＡＲダンジョンにいた
+スワイプモンたち　だけでなく
+ᜀ外᠀そとᤀのᜀ人᠀ひとᤀたちまで　ねむっていたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_079_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2486567695</Id>
+          <Value>どこかに　ᜀ行᠀いᤀっちゃったわ…
+とにかく　このᜀ奥᠀おくᤀにいる
+スリープモンを　ᜀ見᠀みᤀつけなきゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2501378574</Id>
+          <Value>よし
+ᜀ先᠀さきᤀを　ᜀ急᠀いそᤀぎましょ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_081_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2518024719</Id>
+          <Value>いた！
+スリープモンが　ᜀ寝᠀ねᤀているわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_083_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2536243988</Id>
+          <Value>ᜀ気持᠀きもᤀちよさそうに　ねむっているなぁ…
+ふぁ～あ
+ワタシまで　ねむくなっちゃう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_084_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2552496911</Id>
+          <Value>おっと　いけないわ！
+ここで　ねむったら
+なんにも　ならないところだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_085_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2569011981</Id>
+          <Value>おーい！
+スリープモ～ン！！
+ᜀ起᠀おᤀきてちょうだいーーっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2586706453</Id>
+          <Value>うん！　ライフᜀ属性᠀ぞくせいᤀの
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_090_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2602566165</Id>
+          <Value>うーん…
+また　ᜀ後᠀あとᤀで　ᜀ挑戦᠀ちょうせんᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_092_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2619998737</Id>
+          <Value>アプモンのᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+スリープモンを　ᜀ起᠀おᤀこせないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2637038101</Id>
+          <Value>うん！　ライフᜀ属性᠀ぞくせいᤀの
+アプモンに　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_094_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2653422347</Id>
+          <Value>よし　ᜀ成功᠀せいこうᤀよ！
+これで　スリープモンを
+ᜀ起᠀おᤀこせるはずだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_095_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2669675277</Id>
+          <Value>おーい！
+スリープモ～ン！！
+ᜀ起᠀おᤀきてちょうだいーーっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_097_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2688025364</Id>
+          <Value>おᜀ願᠀ねがᤀいよ！
+アナタが　ここで　ᜀ寝᠀ねᤀていると
+ᜀ外᠀そとᤀのᜀ人᠀ひとᤀまで　ねむってしまうのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_098_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2704147213</Id>
+          <Value>ᜀ関係᠀かんけいᤀないᜀ人᠀ひとᤀまで
+いっしょに　ねむっちゃって
+ᜀ困᠀こまᤀっているのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_102_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2719351308</Id>
+          <Value>ちょっと！
+ᜀ寝᠀ねᤀないで　ちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_104_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2736259600</Id>
+          <Value>だから
+ここで　ᜀ寝᠀ねᤀないでほしいのよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_106_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753167884</Id>
+          <Value>ᜀ困᠀こまᤀったな
+ᜀ話᠀はなしᤀに　ならないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_57_108_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2770862607</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしたけど
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

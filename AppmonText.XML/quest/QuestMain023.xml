@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786700</Id>
+          <Value>セキュリティにアクセス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694989</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37880599</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249421</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435031</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803853</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104989463</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543895</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172098327</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205652759</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239207191</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272761623</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>学校・いろいろ探してみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316055</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323093271</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　セキュリティに　ᜀ異変᠀いへんᤀが！
+セキュリティに　アクセスできるᜀ場所᠀ばしょᤀを
+ᜀ探᠀さがᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

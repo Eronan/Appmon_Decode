@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>131330</Id>
+          <Value>アイ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21758739</Id>
+          <Value>アイは　ふじみᜀ坂᠀ざかᤀから　ᜀ来᠀きᤀたんだ
+ᜀ穏᠀おだᤀやかで　ᜀ優᠀やさᤀしいᜀ性格᠀せいかくᤀの
+クラスの　ᜀ人気᠀にんきᤀᜀ者᠀ものᤀだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38535958</Id>
+          <Value>ᜀ家᠀いえᤀは　ᜀ書店᠀しょてんᤀを　やっているらしいな
+ᜀ樫᠀かしᤀのᜀ木᠀きᤀᜀ書店᠀しょてんᤀ…
+ᜀ落᠀おᤀちついた　きれいなᜀ店᠀みせᤀみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

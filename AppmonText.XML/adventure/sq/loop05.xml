@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>38</NumberOfLabels>
+  <NumberOfStrings>38</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2622224</Id>
+          <Value>ようこそ！
+アプモンウォッチャーᜀ同盟᠀どうめいᤀ
+ヨンゲンᜀ支部᠀しぶᤀへ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18088460</Id>
+          <Value>は！？
+なんの　ᜀ支部᠀しぶᤀだって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36963089</Id>
+          <Value>アプモンウォッチャーよ！
+あなた　いろんなᜀ場所᠀ばしょᤀで
+チップを　ᜀ見᠀みᤀせてくれてるでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52953616</Id>
+          <Value>たしかに　ᜀ見᠀みᤀせては　いるけど…
+ᜀ支部᠀しぶᤀって　どういうことなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70386448</Id>
+          <Value>ヒフミがᜀ丘᠀おかᤀから　はじまった
+アプモンチップを　ᜀ見᠀みᤀせてもらう
+アプモンウォッチャー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86770449</Id>
+          <Value>たった　ᜀ１人᠀ひとりᤀから　はじまった
+アプモンウォッチャーが
+あなたの　おかげで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103940628</Id>
+          <Value>ᜀ会員᠀かいいんᤀ　１０ᜀ万人᠀まんにんᤀの
+ᜀ巨大組織᠀きょだいそしきᤀに　ᜀ育᠀そだᤀったの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119144974</Id>
+          <Value>な　なんだって？
+それ　ほんとうのᜀ話᠀はなしᤀ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135922194</Id>
+          <Value>なーんて
+ぜんぶ　アタシの　ᜀ夢᠀ゆめᤀなんだけどね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912969</Id>
+          <Value>は～～っ
+おどかさないでよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171442962</Id>
+          <Value>そうなったら　いいなって　ᜀ話᠀はなしᤀ！
+そのためにも　アタシにも
+アプモンチップ　ᜀ見᠀みᤀせてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187564815</Id>
+          <Value>ねぇ！　ᜀ今日᠀きょうᤀも　わたしに
+あなたの　アプモンチップを
+ᜀ見᠀みᤀせてほしいの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>202506763</Id>
+          <Value>ゴメン
+ᜀ今᠀いまᤀは　やめておくよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>221512468</Id>
+          <Value>それは　ザンネンだわ
+でも　ᜀ気᠀きᤀがかわったら
+ᜀ見᠀みᤀせに　ᜀ来᠀きᤀてほしいわ！　ゼッタイよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>235405575</Id>
+          <Value>うん　いいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>253362955</Id>
+          <Value>それで
+どの　アプモンチップが
+ᜀ見᠀みᤀたいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>271319823</Id>
+          <Value>ᜀ今日᠀きょうᤀは　ᰊちゃんの
+アプモンチップが　ᜀ見᠀みᤀたいの！
+ᜀ持᠀もᤀってる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>287572748</Id>
+          <Value>えーっと
+ザンネンだけど　ᜀ今᠀いまᤀは
+ᰊは　ᜀ持᠀もᤀっていないや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>303300880</Id>
+          <Value>そっか　ᜀ見᠀みᤀたかったんだけどなー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>322306835</Id>
+          <Value>でも　ᜀ探᠀さがᤀしている　アプモンちゃんは
+このᜀ町᠀まちᤀの　どこかに
+ᜀ隠᠀かくᤀれているはずなのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>338428433</Id>
+          <Value>もし　ᜀ見᠀みᤀつけたら　ᜀ手᠀てᤀにいれて
+アタシにも　ᜀ見᠀みᤀせてちょうだいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>354157072</Id>
+          <Value>キミが　ᜀ見᠀みᤀたい
+アプモンチップって　これだよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>371589904</Id>
+          <Value>きゃーっ！　そう！　そうよ！
+ᰊちゃんの
+アプモンチップ！　ホンモノだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>388367121</Id>
+          <Value>うわーっ
+このᜀ子᠀こᤀは　こんなチップだったのね
+キョウミが　つきないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>404620042</Id>
+          <Value>うん　ありがとう！
+ᰊちゃんの　こと
+よ～く　わかったわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>420086026</Id>
+          <Value>それなら　よかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>438436623</Id>
+          <Value>さすが　ᰏ！
+これは　お礼よ
+ᜀ本当᠀ほんとうᤀに　ありがとうね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>454558220</Id>
+          <Value>バージョンアップパッチを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>473826068</Id>
+          <Value>ᜀ今日᠀きょうᤀは　ᰊちゃんとの
+ᜀ楽᠀たのᤀしいᜀ夢᠀ゆめᤀが　みれそうよ
+それじゃあ　またᜀ明日᠀あしたᤀ　よろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>488505867</Id>
+          <Value>あっ　ᜀ来᠀きᤀたᜀ来᠀きᤀたっ！
+ᜀ待᠀まᤀってたのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>505938702</Id>
+          <Value>ᜀ今日᠀きょうᤀは　もう
+マンゾクしたわ！
+ᜀ本当᠀ほんとうᤀに　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>522584847</Id>
+          <Value>だから
+またᜀ明日᠀あしたᤀ　おᜀ願᠀ねがᤀいね！
+たのしみに　してるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>538313229</Id>
+          <Value>はい！？
+なんの　ᜀ支部᠀しぶᤀですって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>555614736</Id>
+          <Value>な　なんですって？
+それ　ほんとうのᜀ話᠀はなしᤀなの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>571736587</Id>
+          <Value>ゴメンね
+ᜀ今᠀いまᤀは　やめておくわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>589562636</Id>
+          <Value>えーっと
+ザンネンだけど　ᜀ今᠀いまᤀは
+ᰊは　ᜀ持᠀もᤀっていないわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_029_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>605815311</Id>
+          <Value>アナタが　ᜀ見᠀みᤀたい
+アプモンチップって　これよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_05_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>621543691</Id>
+          <Value>それなら　よかったわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

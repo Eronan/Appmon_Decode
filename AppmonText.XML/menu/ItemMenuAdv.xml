@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>18</NumberOfLabels>
+  <NumberOfStrings>18</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>EFFECT_HEAL</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442315</Id>
+          <Value>バッテリーが
+ᬀᜀ回復᠀かいふくᤀしました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>EFFECT_ELEMENT_UP</Key>
+      <Values>
+        <BtxtString>
+          <Id>18088711</Id>
+          <Value>ᰄの
+ᰅᜀ値᠀ちᤀが
+ᬀあがりました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>EFFECT_ELEMENT_DOWN</Key>
+      <Values>
+        <BtxtString>
+          <Id>34865927</Id>
+          <Value>ᰄの
+ᰅᜀ値᠀ちᤀが
+ᬀさがりました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>EFFECT_ESCAPE</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249418</Id>
+          <Value>ᜀ脱出᠀だっしゅつᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>EFFECT_VIRUS_ON</Key>
+      <Values>
+        <BtxtString>
+          <Id>68289035</Id>
+          <Value>ᰄは
+ウィルスᜀ化᠀かᤀしました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>EFFECT_VIRUS_OFF</Key>
+      <Values>
+        <BtxtString>
+          <Id>85852940</Id>
+          <Value>ᰄの
+ウィルスᜀ化᠀かᤀが
+ᜀ解除᠀かいじょᤀされました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>EFFECT_MAJOR_VER_UP</Key>
+      <Values>
+        <BtxtString>
+          <Id>102105866</Id>
+          <Value>ᰄの
+メジャーバージョンが
+ᬀあがりました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INVALID_VITAL_MAX</Key>
+      <Values>
+        <BtxtString>
+          <Id>119013899</Id>
+          <Value>バッテリーは
+ᜀ既᠀すでᤀにᜀ満᠀まんᤀタンです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INVALID_ELEMENT_MAX</Key>
+      <Values>
+        <BtxtString>
+          <Id>136184588</Id>
+          <Value>ᰄの
+ᰅᜀ値᠀ちᤀは
+ᜀ既᠀すでᤀにᜀ最大᠀さいだいᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INVALID_ELEMENT_TOTAL_MAX</Key>
+      <Values>
+        <BtxtString>
+          <Id>153879312</Id>
+          <Value>ᰄの
+ᜀ属性値᠀ぞくせいちᤀのᜀ合計᠀ごうけいᤀは
+ᜀ既᠀すでᤀにᜀ最大᠀さいだいᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INVALID_ELEMENT_MIN</Key>
+      <Values>
+        <BtxtString>
+          <Id>169214727</Id>
+          <Value>ᰄの
+ᰅᜀ値᠀ちᤀは
+ᜀ既᠀すでᤀに0です</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INVALID_VIRUS_ALREADY_ON</Key>
+      <Values>
+        <BtxtString>
+          <Id>186122767</Id>
+          <Value>ᰄは
+ᜀ既᠀すでᤀにウィルスᜀ化᠀かᤀしています</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INVALID_VIRUS_ALREADY_OFF</Key>
+      <Values>
+        <BtxtString>
+          <Id>202506764</Id>
+          <Value>ᰄは
+ウィルスᜀ化᠀かᤀしていません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INVALID_MAJOR_VER_MAX</Key>
+      <Values>
+        <BtxtString>
+          <Id>220201740</Id>
+          <Value>ᰄの
+メジャーバージョンは
+ᜀ既᠀すでᤀにᜀ最大᠀さいだいᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>INVALID_ESCAPE</Key>
+      <Values>
+        <BtxtString>
+          <Id>236192016</Id>
+          <Value>ここではᜀ脱出᠀だっしゅつᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ELEMENT_TOTAL_REACH_MAX</Key>
+      <Values>
+        <BtxtString>
+          <Id>254935825</Id>
+          <Value>ᰄの
+ᜀ属性値᠀ぞくせいちᤀのᜀ合計᠀ごうけいᤀが
+ᜀ最大値᠀さいだいちᤀにᜀ達᠀たっᤀしました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_USE_NUM_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>268566784</Id>
+          <Value>ᰄ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SELECT_USE_NUM_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>286261517</Id>
+          <Value>いくつᜀ使用᠀しようᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

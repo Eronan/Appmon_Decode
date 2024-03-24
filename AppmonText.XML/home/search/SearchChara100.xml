@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>ガッチモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21758744</Id>
+          <Value>ガッチモンは　ᜀ検索᠀けんさくᤀのアプリ！
+おᜀ望᠀のぞᤀみのᜀ情報᠀じょうほうᤀを　ネットのᜀ海᠀うみᤀから
+ᜀ探᠀さがᤀしてやるぜ　まかせとけよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>36832016</Id>
+          <Value>あんま　まじまじと　ᜀ見᠀みᤀるなよ…
+…あっ！　もしかして
+レンズが　ᜀ汚᠀よごᤀれてるとか？　</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

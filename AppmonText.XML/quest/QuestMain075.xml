@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179919</Id>
+          <Value>チャンピオンᜀ決定戦᠀けっていせんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563916</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929177</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118348</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72483609</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106038041</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139592473</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146905</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701337</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255769</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810201</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>チャンピオンを目指そう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364633</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324141849</Id>
+          <Value>ᜀ新᠀あたらᤀしいチャンピオンを　ᜀ決᠀きᤀめる
+「ハイエンドＧＰ　ＥＸ」が　ᜀ開催᠀かいさいᤀ！
+ナオトが　ᜀ決勝戦᠀けっしょうせんᤀで　ᜀ待᠀まᤀっている…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

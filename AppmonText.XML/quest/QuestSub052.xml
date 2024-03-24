@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>とびっきりのᜀ速達᠀そくたつᤀで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826063</Id>
+          <Value>コンビニ・スマホＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39977758</Id>
+          <Value>ᜀ宅配便᠀たくはいびんᤀが　ᜀ来᠀こᤀなくて　ᜀ困᠀こまᤀっているᜀ様子᠀ようすᤀ…
+スマホの　ＡＲダンジョンに　はいれば
+ᜀ宅配便᠀たくはいびんᤀの　ᜀ配達履歴᠀はいたつりれきᤀが　わかるかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380495</Id>
+          <Value>コンビニ・スマホＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828251</Id>
+          <Value>ジェットモンの　イタズラによって
+ᜀ配達᠀はいたつᤀの　ᜀ飛行機᠀ひこうきᤀが　ᜀ動᠀うごᤀけないでいた！
+ジェットモンを　ᜀ止᠀とᤀめよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541706</Id>
+          <Value>ニコタマ川・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513749</Id>
+          <Value>ジェットモンの　イタズラを　ᜀ止᠀とᤀめた！
+ᜀ飛行機᠀ひこうきᤀも　ᜀ無事᠀ぶじᤀに　ᜀ動᠀うごᤀいたし
+おねえさんに　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096138</Id>
+          <Value>ニコタマ川・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068181</Id>
+          <Value>ジェットモンの　イタズラを　ᜀ止᠀とᤀめた！
+ᜀ飛行機᠀ひこうきᤀも　ᜀ無事᠀ぶじᤀに　ᜀ動᠀うごᤀいたし
+おねえさんに　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650570</Id>
+          <Value>ニコタマ川・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622613</Id>
+          <Value>ジェットモンの　イタズラを　ᜀ止᠀とᤀめた！
+ᜀ飛行機᠀ひこうきᤀも　ᜀ無事᠀ぶじᤀに　ᜀ動᠀うごᤀいたし
+おねえさんに　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205002</Id>
+          <Value>ニコタマ川・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177045</Id>
+          <Value>ジェットモンの　イタズラを　ᜀ止᠀とᤀめた！
+ᜀ飛行機᠀ひこうきᤀも　ᜀ無事᠀ぶじᤀに　ᜀ動᠀うごᤀいたし
+おねえさんに　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759434</Id>
+          <Value>ニコタマ川・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731477</Id>
+          <Value>ジェットモンの　イタズラを　ᜀ止᠀とᤀめた！
+ᜀ飛行機᠀ひこうきᤀも　ᜀ無事᠀ぶじᤀに　ᜀ動᠀うごᤀいたし
+おねえさんに　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313866</Id>
+          <Value>ニコタマ川・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285909</Id>
+          <Value>ジェットモンの　イタズラを　ᜀ止᠀とᤀめた！
+ᜀ飛行機᠀ひこうきᤀも　ᜀ無事᠀ぶじᤀに　ᜀ動᠀うごᤀいたし
+おねえさんに　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868298</Id>
+          <Value>ニコタマ川・コンビニ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840341</Id>
+          <Value>ジェットモンの　イタズラを　ᜀ止᠀とᤀめた！
+ᜀ飛行機᠀ひこうきᤀも　ᜀ無事᠀ぶじᤀに　ᜀ動᠀うごᤀいたし
+おねえさんに　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324797215</Id>
+          <Value>ᜀ配達᠀はいたつᤀの　ᜀ飛行機᠀ひこうきᤀが　ᜀ無事᠀ぶじᤀ　ᜀ動᠀うごᤀきᜀ出᠀だᤀした！
+それにしても　おねえさんは　いったい
+ᜀ何᠀なにᤀを　ᜀ注文᠀ちゅうもんᤀしたんだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

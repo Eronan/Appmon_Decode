@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841236</Id>
+          <Value>ここは　ヨンゲンᜀ山᠀さんᤀ
+ヨンゲンᜀ通᠀どおᤀりの　ᜀ裏᠀うらᤀに　ᜀ広᠀ひろᤀがる
+ちょっとした　ハイキングスポットだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>38011425</Id>
+          <Value>ᜀ頂上᠀ちょうじょうᤀのᜀ景色᠀けしきᤀが　きれいだって　ᜀ評判᠀ひょうばんᤀだから
+ᜀ通᠀とおᤀりがけ　ᜀ見᠀みᤀていったら　どうだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>56754970</Id>
+          <Value>ᜀ北西᠀ほくせいᤀにある　ᜀ大᠀おおᤀきな　アンテナは
+ᜀ天体観測᠀てんたいかんそくᤀに　ᜀ使᠀つかᤀわれる　レーダーだ
+ᜀ昼᠀ひるᤀでも　ᜀ星᠀ほしᤀはᜀ見᠀みᤀえるって　ᜀ知᠀しᤀってたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70910739</Id>
+          <Value>ᜀ山᠀やまᤀの　あちこちで
+バードウォッチングが　できるらしいぞ
+ᜀ自然᠀しぜんᤀを　ᜀ大切᠀たいせつᤀに　ってね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

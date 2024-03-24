@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262403</Id>
+          <Value>オウジ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21496598</Id>
+          <Value>なにかと　ᜀ謎᠀なぞᤀのᜀ多᠀おおᤀい　ᜀ少年᠀しょうねんᤀだ
+ᜀ見᠀みᤀたとこ　アプリドライヴァー
+みたいだけど　そのᜀ正体᠀しょうたいᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>36569873</Id>
+          <Value>サイバーアリーナ
+ᜀ元祖᠀がんそᤀチャンピオン　オウジ！
+バディアプモンは　オウジャモンだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>56492824</Id>
+          <Value>ᜀ帝都᠀ていとᤀセキュリティの　ᜀ御曹司᠀おんぞうしᤀにして
+ᜀ高校生᠀こうこうせいᤀ　ᜀ天才᠀てんさいᤀプログラマー…
+ᜀ肩書᠀かたがᤀきに　ᜀ非᠀ひᤀの　ᜀ打᠀うᤀちどころがないな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71041809</Id>
+          <Value>とは　ᜀ言᠀いᤀっても　ᜀ本人᠀ほんにんᤀは
+ただの　アプリドライヴァーとして
+ᜀ扱᠀あつかᤀってほしい　みたいだけどな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>88998680</Id>
+          <Value>ᜀ実᠀じつᤀは　すごい　ゲームᜀ好᠀ずᤀきなんだってさ
+ᰏに　ᜀ一目置᠀いちもくおᤀいてるのは
+ᜀ親近感᠀しんきんかんᤀが　ᜀ大᠀おおᤀきいのかもしれないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

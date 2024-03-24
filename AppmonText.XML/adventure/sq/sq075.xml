@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>94</NumberOfLabels>
+  <NumberOfStrings>94</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097680</Id>
+          <Value>あれ？　クラフトモンだ
+こんなところで　ᜀ何᠀なにᤀしてるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18613004</Id>
+          <Value>おお　そこを　ᜀ行᠀いᤀくのは
+ᰏ！
+おひさしぶりダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>34603280</Id>
+          <Value>カゲフミと　いっしょじゃないの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53740306</Id>
+          <Value>ワシは　コピーのうちの　１ᜀ体᠀たいᤀダス
+ヨンゲンᜀ通᠀どおᤀりの
+ᜀ見回᠀みまわᤀりを　しているダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71303960</Id>
+          <Value>ちょっとᜀ前᠀まえᤀに　バイラモンが
+ᜀ大量発生᠀たいりょうはっせいᤀしたことも　あったので
+ᜀ気᠀きᤀをつけている　ところダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87163669</Id>
+          <Value>（もしかして　カヨの　コピペモンが
+　バイラモンを
+　コピーしちゃったときの　ᜀ話᠀はなしᤀかな…）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103547667</Id>
+          <Value>ᰏ
+ᜀ複雑᠀ふくざつᤀなᜀ顔᠀かおᤀを　しているダスが
+ᜀ何᠀なにᤀか　あったダスか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358537</Id>
+          <Value>い　いや
+なんでも　ないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135266825</Id>
+          <Value>そうダスか？
+それなら　いいダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>155058966</Id>
+          <Value>カゲフミは　ᜀ最近᠀さいきんᤀ　サイバーアリーナに
+ᜀ行᠀いᤀくように　なったダスが
+ᜀ元気᠀げんきᤀに　やっているダスか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170787351</Id>
+          <Value>うん　ᜀ少᠀すこᤀしずつ
+ᜀ元気᠀げんきᤀを　ᜀ取᠀とᤀりᜀ戻᠀もどᤀしてきた　みたいだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>186515983</Id>
+          <Value>それは　よかったダス！
+とても　ᜀ安心᠀あんしんᤀしたダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>204210960</Id>
+          <Value>カゲフミは　バトルが　ᜀ好᠀すᤀきだと
+ᜀ言᠀いᤀっていたダス
+それは　ᰏの　おかげダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>220463886</Id>
+          <Value>だから　カゲフミと
+たくさん　バトルしてくれると
+ワシも　うれしいダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>238158614</Id>
+          <Value>そうダス！　ᰏ！
+サイバーアリーナのᜀ大会᠀たいかいᤀで　カゲフミと
+バトルしてきて　ほしいダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>255460112</Id>
+          <Value>ᰏと　ᜀ大会᠀たいかいᤀで　ᜀ会᠀あᤀえたら
+カゲフミも　きっと　よろこぶダス
+おᜀ願᠀ねがᤀいしても　いいダスか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>269877523</Id>
+          <Value>カゲフミと　ᜀ大会᠀たいかいᤀで　バトルか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>286523918</Id>
+          <Value>うん
+ちょっと　ᜀ考᠀かんがᤀえてみるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>304481040</Id>
+          <Value>もちろんだよ！
+オレも　カゲフミと
+バトルするのは　ᜀ楽᠀たのᤀしいからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>320996106</Id>
+          <Value>うぉぉおおおおん！！
+ᜀ感激᠀かんげきᤀダス！
+さすがは　ᰏダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>341050134</Id>
+          <Value>そうダス！　せっかくの　ᜀ機会᠀きかいᤀダス
+ᜀ特別᠀とくべつᤀなᜀ大会᠀たいかいᤀを　ᜀ作᠀つくᤀるダス！
+ᜀ設計᠀せっけいᤀの　アプリの　ᜀ腕᠀うでᤀがなるダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>353763600</Id>
+          <Value>た　ᜀ大会᠀たいかいᤀを　ᜀ作᠀つくᤀる！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>372900628</Id>
+          <Value>ᰏも
+バトルが　ᜀ好᠀すᤀきだと　ᜀ言᠀いᤀっていたダス
+ᜀ遠慮᠀えんりょᤀなく　ᜀ受᠀うᤀけᜀ取᠀とᤀるといいダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>388760336</Id>
+          <Value>こうしては　いられないダス
+さっそく　エムシーモンのところに
+ᜀ行᠀いᤀってくるダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>403964177</Id>
+          <Value>だ　ᜀ大丈夫᠀だいじょうぶᤀなのかな…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>420872715</Id>
+          <Value>オイオイオイ～～ッ！
+どーうなってんだよ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>440926998</Id>
+          <Value>クラフトモンが　ᜀ来᠀きᤀたと　ᜀ思᠀おもᤀったら
+トンテンカンテン　トカトントン　と
+ᜀ大会᠀たいかいᤀ　ᜀ増᠀ふᤀやして　いきやがったぜ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>459014939</Id>
+          <Value>ま　ᜀ一石二鳥᠀いっせきにちょうᤀ　ᜀ渡᠀わたᤀりにᜀ船᠀ふねᤀ
+オレᜀ様的᠀さまてきᤀには　ᜀＡＬＬ᠀オールᤀ　ᜀＯＫＡＹ᠀オーケイᤀ！
+ᜀ名᠀なᤀづけて　クラフトᜀ杯᠀カップᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>472515343</Id>
+          <Value>そんなワケだから　ᰏ！
+サイバーアリーナまで
+ᜀＣＯＭＥ　ＯＮ᠀カモンᤀ　だぜ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>489685780</Id>
+          <Value>どうダス？
+ᜀ我᠀われᤀながら　なかなか
+いいᜀ仕事᠀しごとᤀが　できたと　ᜀ思᠀おもᤀうダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>505020942</Id>
+          <Value>なんか　ᜀ強引᠀ごういんᤀだけど…
+まあ　いいか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_032_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>522846991</Id>
+          <Value>ありがとう　クラフトモン！
+ᜀ約束᠀やくそくᤀどおり
+カゲフミと　バトルしてくるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_032_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>541328149</Id>
+          <Value>よし　サイバーアリーナに　ᜀ戻᠀もどᤀって
+クラフトᜀ杯᠀カップᤀで　ᜀ優勝᠀ゆうしょうᤀしよう！
+カゲフミと　バトルが　できるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>557712150</Id>
+          <Value>カゲフミは　ᜀ最近᠀さいきんᤀ　サイバーアリーナに
+ᜀ行᠀いᤀくように　なったダスが
+ᜀ元気᠀げんきᤀに　やっているダスか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>573309712</Id>
+          <Value>カゲフミは　バトルが　ᜀ好᠀すᤀきだと
+ᜀ言᠀いᤀっていたダス
+それは　ᰏの　おかげダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>589562638</Id>
+          <Value>だから　カゲフミと
+たくさん　バトルしてくれると
+ワシも　うれしいダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>607257366</Id>
+          <Value>そうダス！　ᰏ！
+サイバーアリーナのᜀ大会᠀たいかいᤀで　カゲフミと
+バトルしてきて　ほしいダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>624558864</Id>
+          <Value>ᰏと　ᜀ大会᠀たいかいᤀで　ᜀ会᠀あᤀえたら
+カゲフミも　きっと　よろこぶダス
+おᜀ願᠀ねがᤀいしても　いいダスか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>639500819</Id>
+          <Value>カゲフミと　ᜀ大会᠀たいかいᤀで　バトルか…
+できるかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>658899736</Id>
+          <Value>サイバーアリーナに　ᜀ大会᠀たいかいᤀをᜀ作᠀つくᤀったダス
+ᜀ設計᠀せっけいᤀの　アプリとして
+なかなかの　ᜀ仕事᠀しごとᤀが　できたダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>674104082</Id>
+          <Value>ᰏ　クラフトᜀ杯᠀カップᤀで
+カゲフミと　バトルしてきてほしいダス
+よろしく　たのんだダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>691274263</Id>
+          <Value>よし　サイバーアリーナに　ᜀ戻᠀もどᤀって
+クラフトᜀ杯᠀カップᤀで　ᜀ優勝᠀ゆうしょうᤀしてこよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>707920660</Id>
+          <Value>クラフトモン！
+クラフトᜀ杯᠀カップᤀに　ᜀ優勝᠀ゆうしょうᤀしたよ
+カゲフミとも　バトルしてきた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>724828945</Id>
+          <Value>ᜀ話᠀はなしᤀは　ᜀ聞᠀きᤀいたダス！
+カゲフミも　ᜀ楽᠀たのᤀしそうだったダス
+ワシも　うれしいダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>740426514</Id>
+          <Value>ᰏ
+ᜀ急᠀きゅうᤀな　たのみを　ᜀ聞᠀きᤀいてくれて
+ありがとうダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>757203472</Id>
+          <Value>ううん　オレも　ᜀ楽᠀たのᤀしかったよ
+ありがとう　クラフトモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>775029277</Id>
+          <Value>うぉぉおおおおおん！
+ᜀ感動᠀かんどうᤀダス！　ᜀ感激᠀かんげきᤀダス！　ᜀ感涙᠀かんるいᤀダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>792462105</Id>
+          <Value>ᰏは　カゲフミの…
+いやいや　ワシたちの　ᜀ大事᠀だいじᤀなᜀ友人᠀ゆうじんᤀダス
+これからも　よろしく　たのむダス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>806748686</Id>
+          <Value>カゲフミと　バトルしてくれて
+ありがとうダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>824443660</Id>
+          <Value>カゲフミが　うれしいと
+ワシも　うれしいダス
+ᰏ　いつも　ありがとうダス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>841351953</Id>
+          <Value>あっ　オマエ…
+それは　アプリドライヴ！
+オマエも　ドライヴァー　なんだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>857866772</Id>
+          <Value>サイバーアリーナも　ᜀ参加᠀さんかᤀしてるの？
+ランクは　いくつ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>873070858</Id>
+          <Value>オレは　Ｓランクだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>891683599</Id>
+          <Value>ええっ　Ｓランク！？
+すげー！　オマエ
+カゲフミさんに　ᜀ勝᠀かᤀったのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>907018509</Id>
+          <Value>カゲフミを　ᜀ知᠀しᤀってるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>928121626</Id>
+          <Value>もちろん！　カゲフミさんはな！
+ᜀ現᠀あらわᤀれた　ᜀ強大᠀きょうだいᤀな　ルーキーを　ᜀ前᠀まえᤀに
+ᜀ一時᠀いちじᤀは　ᜀ前線᠀ぜんせんᤀを　しりぞいたものの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>944898841</Id>
+          <Value>ᜀ世界᠀せかいᤀのᜀ危機᠀ききᤀを　ᜀ前᠀まえᤀにして
+ᜀ再᠀ふたたᤀび　ᜀ立᠀たᤀちあがった　ᜀ影᠀かげᤀのᜀ王᠀おうᤀなのさ！
+くぅう～ッ　あこがれちゃうぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>959578896</Id>
+          <Value>す　すごい　ファンなんだね…
+カゲフミが　ᜀ知᠀しᤀったら
+きっと　よろこぶと　ᜀ思᠀おもᤀうよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>974520843</Id>
+          <Value>へへっ　ありがと！
+オマエ　いいヤツだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>991822354</Id>
+          <Value>そんな　オマエに
+ここだけの　ᜀ話᠀はなしᤀ　なんだけどさ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1011483414</Id>
+          <Value>ヒフミがᜀ丘᠀おかᤀの　ᜀ噴水公園᠀ふんすいこうえんᤀに
+ᜀ大᠀おおᤀきな　ᜀ噴水᠀ふんすいᤀが　あるだろ？
+あれ　ミョーに　ᜀ気᠀きᤀにならない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026818832</Id>
+          <Value>…なんと　あれを　ᜀ作᠀つくᤀるときの
+ᜀ図面᠀ずめんᤀを　ᜀ書᠀かᤀいたのは
+カゲフミさん　なんだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041498385</Id>
+          <Value>あの　ᜀ噴水᠀ふんすいᤀを　カゲフミが？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059455506</Id>
+          <Value>カゲフミさんの　バディアプモンは
+ᜀ設計᠀せっけいᤀアプリの　クラフトモン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076494865</Id>
+          <Value>そう　カゲフミさんᜀ自身᠀じしんᤀも
+ᜀ設計᠀せっけいᤀが　ᜀ得意᠀とくいᤀなんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1095369496</Id>
+          <Value>そのᜀ実力᠀じつりょくᤀと　きたら
+ᜀ建築士᠀けんちくしᤀの　おとうさんを　ᜀ手伝᠀てつだᤀって
+ᜀ自宅᠀じたくᤀの　リフォームが　できるくらい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110180624</Id>
+          <Value>ああ　たしかに
+バトルしたとき　そんなこと
+ᜀ言᠀いᤀってたような　ᜀ気᠀きᤀがするな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1128006417</Id>
+          <Value>あのᜀ公園᠀こうえんᤀの　ᜀ噴水᠀ふんすいᤀも
+おとうさんの　ᜀ手伝᠀てつだᤀいで
+デザインを　たのまれてたんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1146225435</Id>
+          <Value>ᜀ間違᠀まちがᤀえて　ᜀ設計᠀せっけいᤀの　ᜀ練習᠀れんしゅうᤀのために
+ᜀ描᠀かᤀいた　アプリドライヴの　ᜀ模写᠀もしゃᤀを　
+ᜀ渡᠀わたᤀしちゃったんだって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158545677</Id>
+          <Value>え　ええっ！　そうなの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178600212</Id>
+          <Value>だから　あんなᜀ形᠀かたちᤀ　してるんだよ
+このᜀ話᠀はなしᤀが　ᜀ広᠀ひろᤀまっちゃってること
+カゲフミさんには　ナイショな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195901716</Id>
+          <Value>まあ　サイバーアリーナから　ᜀ近᠀ちかᤀいし
+ᜀ目印᠀めじるしᤀに　なるってことで
+みんな　ᜀ待᠀まᤀちᜀ合᠀あᤀわせに　ᜀ使᠀つかᤀってるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1212285717</Id>
+          <Value>「ドライヴゲートの　ᜀ前᠀まえᤀで」ってね！
+オマエも　ᜀ次᠀つぎᤀに　ᜀ通᠀とおᤀることがあったら
+まじまじ　ᜀ見᠀みᤀてみてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227883280</Id>
+          <Value>おっと　こうしちゃ　いられないや
+ボクも　サイバーアリーナに
+ᜀ行᠀いᤀかなくちゃ！　それじゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243480842</Id>
+          <Value>…そうだ　オレも
+クラフトモンを
+ᜀ待᠀まᤀたせてるんだった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1263534871</Id>
+          <Value>ヨンゲンᜀ山᠀さんᤀの　ᜀ頂上᠀ちょうじょうᤀへ　いこう！
+ᜀ大会᠀たいかいᤀに　ᜀ優勝᠀ゆうしょうᤀしたことを
+クラフトモンに　ᜀ報告᠀ほうこくᤀしないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278346005</Id>
+          <Value>（もしかして　カヨの　コピペモンが
+　バイラモンを
+　コピーしちゃったときの　ᜀ話᠀はなしᤀかしら）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292763657</Id>
+          <Value>い　いや
+なんでも　ないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311506966</Id>
+          <Value>うん　ᜀ少᠀すこᤀしずつ
+ᜀ元気᠀げんきᤀを　ᜀ取᠀とᤀりᜀ戻᠀もどᤀしてきた　みたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_018_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327366675</Id>
+          <Value>カゲフミと　ᜀ大会᠀たいかいᤀで　バトルね…
+できるかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343488526</Id>
+          <Value>ええ
+ちょっと　ᜀ考᠀かんがᤀえてみるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361445648</Id>
+          <Value>もちろんだわ！
+ワタシも　カゲフミと
+バトルするのは　ᜀ楽᠀たのᤀしいからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377173778</Id>
+          <Value>だ　ᜀ大丈夫᠀だいじょうぶᤀなのかしら…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_032_1_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395393296</Id>
+          <Value>ありがとう　クラフトモン！
+ᜀ約束᠀やくそくᤀどおり
+カゲフミと　バトルしてくるわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_032_2_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1413874454</Id>
+          <Value>よし　サイバーアリーナに　ᜀ戻᠀もどᤀって
+クラフトᜀ杯᠀カップᤀで　ᜀ優勝᠀ゆうしょうᤀしましょ！
+カゲフミと　バトルが　できるはずよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428029971</Id>
+          <Value>カゲフミと　ᜀ大会᠀たいかいᤀで　バトルね…
+できるかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1446248984</Id>
+          <Value>よし　サイバーアリーナに　ᜀ戻᠀もどᤀって
+クラフトᜀ杯᠀カップᤀで　ᜀ優勝᠀ゆうしょうᤀしてきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463026453</Id>
+          <Value>クラフトモン！
+クラフトᜀ杯᠀カップᤀに　ᜀ優勝᠀ゆうしょうᤀしたわよ
+カゲフミとも　バトルしてきたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478754834</Id>
+          <Value>ううん　ワタシも　ᜀ楽᠀たのᤀしかったわよ
+ありがとう　クラフトモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_060_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493827850</Id>
+          <Value>ワタシは　Ｓランクよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_065_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1513227025</Id>
+          <Value>す　すごい　ファンなのね…
+カゲフミが　ᜀ知᠀しᤀったら
+きっと　よろこぶと　ᜀ思᠀おもᤀうわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_074_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529611024</Id>
+          <Value>ああ　たしかに
+バトルしたとき　そんなこと
+ᜀ言᠀いᤀってたような　ᜀ気᠀きᤀがするわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_082_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545601803</Id>
+          <Value>…そうだ　ワタシも
+クラフトモンを
+ᜀ待᠀まᤀたせてるんだったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_75_083_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1565655833</Id>
+          <Value>ヨンゲンᜀ山᠀さんᤀの　ᜀ頂上᠀ちょうじょうᤀへ　いきましょ！
+ᜀ大会᠀たいかいᤀに　ᜀ優勝᠀ゆうしょうᤀしたことを
+クラフトモンに　ᜀ報告᠀ほうこくᤀしなきゃね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

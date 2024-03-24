@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>8</NumberOfLabels>
+  <NumberOfStrings>8</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TOURNAMENT_LIST_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310990</Id>
+          <Value>ᜀ大会᠀たいかいᤀにᜀ参加᠀さんかᤀする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NETWORK_LIST_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826060</Id>
+          <Value>ᜀ通信対戦᠀つうしんたいせんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TIPS_LIST_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>34472203</Id>
+          <Value>バトルᜀＴＩＰＳ᠀チップスᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BONUS_LIST_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511564</Id>
+          <Value>ᜀ特典受᠀とくてんうᤀけᜀ取᠀とᤀり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TOURNAMENT_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>71434783</Id>
+          <Value>ᜀ大会᠀たいかいᤀでは　ᜀ三連続᠀さんれんぞくᤀで　ドライヴァーとバトル！
+ᜀ勝᠀かᤀちぬくと　ᜀ報酬᠀ほうしゅうᤀがもらえるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NETWORK_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>87687711</Id>
+          <Value>ᜀ通信対戦᠀つうしんたいせんᤀでは　ᜀ目᠀めᤀのᜀ前᠀まえᤀや　インターネットの
+ドライヴァーと　バトルができるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TIPS_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>104333847</Id>
+          <Value>バトルや　アプモンᜀ集᠀あつᤀめにᜀ役立᠀やくだᤀつ
+ᜀ色々᠀いろいろᤀなテクニックを　ᜀ教᠀おしᤀえてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BONUS_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>120062236</Id>
+          <Value>ᜀ各種᠀かくしゅᤀ　ᜀ特典᠀とくてんᤀは　ここで　ᜀ受᠀うᤀけᜀ取᠀とᤀれるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

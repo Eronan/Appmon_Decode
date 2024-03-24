@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>16</NumberOfLabels>
+  <NumberOfStrings>16</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097679</Id>
+          <Value>フリックで　ᜀ複雑᠀ふくざつᤀに
+ロックを　かけてやるフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18874896</Id>
+          <Value>このパスワードは
+ᜀ誰᠀だれᤀにも　ᜀ解᠀とᤀけないフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35128078</Id>
+          <Value>ふ～ん…
+それで？
+どういう　パスワードなんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53084943</Id>
+          <Value>「フリック　オア　トリート」
+おかしを　くれなきゃ
+フリックするぞ！　だフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70124303</Id>
+          <Value>「フリック　オア　トリート」か
+パスワードも　わかったし
+ᜀ倒᠀たおᤀしちゃっていいよな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541706</Id>
+          <Value>フリーーーーック！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102367757</Id>
+          <Value>フリック　ロックで
+ᜀ開᠀あᤀけてやらないフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751502</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>136971022</Id>
+          <Value>ᜀ頭脳᠀ずのうᤀプレイで
+パスワード　ᜀ突破᠀とっぱᤀされた
+フリーーーーック！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152830230</Id>
+          <Value>これで　ᜀ玄関᠀げんかんᤀのドアが　ᜀ開᠀ひらᤀくはずだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>169738767</Id>
+          <Value>ᰏ　ᜀ急᠀いそᤀいで
+ＡＲダンジョンから　ᜀ出᠀でᤀよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>184811779</Id>
+          <Value>うん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>202900237</Id>
+          <Value>ふ～ん…
+それで？
+どういう　パスワードなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_005_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>221119247</Id>
+          <Value>「フリック　オア　トリート」か
+パスワードも　わかったし
+ᜀ倒᠀たおᤀしちゃっていいわよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_008_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>236192014</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_16_010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>253493526</Id>
+          <Value>これで　ᜀ玄関᠀げんかんᤀのドアが　ᜀ開᠀ひらᤀくはずね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1704208</Id>
+          <Value>オールᜀ電化᠀でんかᤀのᜀ落᠀おᤀとしᜀ穴᠀あなᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957137</Id>
+          <Value>ヨンゲン通り・住宅内ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38535958</Id>
+          <Value>キッチンを　オールᜀ電化᠀でんかᤀにしてから
+ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれることが　ᜀ多᠀おおᤀいらしい
+アプモンが　ᜀ何᠀なにᤀか　してるのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511569</Id>
+          <Value>ヨンゲン通り・住宅内ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517520</Id>
+          <Value>どうやら　エコモンが　キッチンの
+ᜀ電気᠀でんきᤀを　ᜀ切᠀きᤀっていたみたい
+エコモンを　やっつけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541706</Id>
+          <Value>ヨンゲン通り・住宅内</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106824473</Id>
+          <Value>エコモンは　ᜀ電気᠀でんきᤀの　ᜀ使᠀つかᤀいすぎを
+ᜀ注意᠀ちゅういᤀするために　ᜀ電気᠀でんきᤀを　ᜀ切᠀きᤀっていた
+ᜀ依頼人᠀いらいにんᤀに　そのことを　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096138</Id>
+          <Value>ヨンゲン通り・住宅内</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>140378905</Id>
+          <Value>エコモンは　ᜀ電気᠀でんきᤀの　ᜀ使᠀つかᤀいすぎを
+ᜀ注意᠀ちゅういᤀするために　ᜀ電気᠀でんきᤀを　ᜀ切᠀きᤀっていた
+ᜀ依頼人᠀いらいにんᤀに　そのことを　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650570</Id>
+          <Value>ヨンゲン通り・住宅内</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173933337</Id>
+          <Value>エコモンは　ᜀ電気᠀でんきᤀの　ᜀ使᠀つかᤀいすぎを
+ᜀ注意᠀ちゅういᤀするために　ᜀ電気᠀でんきᤀを　ᜀ切᠀きᤀっていた
+ᜀ依頼人᠀いらいにんᤀに　そのことを　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205002</Id>
+          <Value>ヨンゲン通り・住宅内</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>207487769</Id>
+          <Value>エコモンは　ᜀ電気᠀でんきᤀの　ᜀ使᠀つかᤀいすぎを
+ᜀ注意᠀ちゅういᤀするために　ᜀ電気᠀でんきᤀを　ᜀ切᠀きᤀっていた
+ᜀ依頼人᠀いらいにんᤀに　そのことを　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759434</Id>
+          <Value>ヨンゲン通り・住宅内</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>241042201</Id>
+          <Value>エコモンは　ᜀ電気᠀でんきᤀの　ᜀ使᠀つかᤀいすぎを
+ᜀ注意᠀ちゅういᤀするために　ᜀ電気᠀でんきᤀを　ᜀ切᠀きᤀっていた
+ᜀ依頼人᠀いらいにんᤀに　そのことを　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313866</Id>
+          <Value>ヨンゲン通り・住宅内</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274596633</Id>
+          <Value>エコモンは　ᜀ電気᠀でんきᤀの　ᜀ使᠀つかᤀいすぎを
+ᜀ注意᠀ちゅういᤀするために　ᜀ電気᠀でんきᤀを　ᜀ切᠀きᤀっていた
+ᜀ依頼人᠀いらいにんᤀに　そのことを　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868298</Id>
+          <Value>ヨンゲン通り・住宅内</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>308151065</Id>
+          <Value>エコモンは　ᜀ電気᠀でんきᤀの　ᜀ使᠀つかᤀいすぎを
+ᜀ注意᠀ちゅういᤀするために　ᜀ電気᠀でんきᤀを　ᜀ切᠀きᤀっていた
+ᜀ依頼人᠀いらいにんᤀに　そのことを　ᜀ教᠀おしᤀえてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323093271</Id>
+          <Value>ᜀ電気᠀でんきᤀが　あふれる　ᜀ現代᠀げんだいᤀだからこそ
+エコは　ᜀ大事᠀だいじᤀなんだと　よく　わかった
+ありがとう　エコモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

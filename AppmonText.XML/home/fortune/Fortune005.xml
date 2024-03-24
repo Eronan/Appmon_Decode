@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>17</NumberOfLabels>
+  <NumberOfStrings>17</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>4457238</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+いまᜀ一度᠀いちどᤀ　ヒフミにᜀ戻᠀もどᤀり
+ᜀ騒᠀さわᤀがしきアプモンと　ᜀ語᠀かたᤀらってみるべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21103381</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ次᠀つぎᤀなる　ᜀ１歩᠀いっぽᤀを　ᜀ記᠀しるᤀしたければ
+ハイエンドＣランクを　きわめるべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>37618451</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+たまには　ᜀ目的᠀もくてきᤀ　ᜀ見失᠀みうしなᤀい
+ぶらり　サンポで　ᜀ道᠀みちᤀひらく～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>54919960</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+サイバーアリーナのᜀ友᠀ともᤀと
+ᜀ軽口᠀かるぐちᤀ　タメᜀ口᠀ぐちᤀ　ᜀ語᠀かたᤀらうも　ᜀ良᠀よᤀし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>72352534</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ南᠀みなみᤀにᜀ進᠀すすᤀみて　ᜀ団地᠀だんちᤀを　めざせば
+ᜀ見᠀みᤀたくもない　ᜀ顔᠀かおᤀと　ᜀ出会᠀であᤀうだろう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>89260827</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+４つのヒント　よくᜀ読᠀よᤀみᜀ思考᠀しこうᤀせよ
+どうしてもᜀ解᠀わかᤀらないᜀ時᠀ときᤀ　ᜀ総当᠀そうあᤀたりもᜀ吉᠀きちᤀ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>105382680</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ青᠀あおᤀきパネル　かがやくᜀ場᠀ばᤀへ
+そこには　ᜀ運命᠀うんめいᤀのᜀ時᠀ときᤀ　ᜀ待᠀まᤀつであろう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>121766677</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ宿命᠀しゅくめいᤀのᜀ時᠀ときᤀ！　ᜀ越᠀こᤀさねばならぬ
+カベにいどみ　ᜀ乗᠀のᤀりこえるべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137102096</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ジャミジャミ　ᜀ追᠀おᤀって
+いざ！　ニコタマへ～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>157811484</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ求᠀もとᤀめるᜀ者᠀ものᤀ　ᜀ電気᠀でんきᤀつどいし　ᜀ場所᠀ばしょᤀにᜀ有᠀あᤀり
+ᜀ突入᠀とつにゅうᤀのᜀ時᠀ときᤀ　ᜀ待᠀まᤀちしᜀ者᠀ものᤀも　そこにᜀ有᠀あᤀり～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>173933342</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ワナに　いらずば　ᜀ求᠀もとᤀめᜀ人᠀びとᤀを　ᜀ得᠀えᤀず
+ᜀ勇気᠀ゆうきᤀをᜀ出᠀だᤀして　ᜀ電気᠀でんきᤀのᜀ砦᠀とりでᤀに　ᜀ入᠀はいᤀるべし～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>189399828</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ求᠀もとᤀめるᜀ者᠀ものᤀは　ᜀ今᠀いまᤀ　いずこ
+てがかり　ᜀ探᠀さがᤀして　ᜀ調᠀しらᤀべるがᜀ吉᠀きちᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177044</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ手᠀てᤀがかりは　ダンジョンに　ᜀ有᠀あᤀり
+ᜀ奥᠀おくᤀへと　ᜀ進᠀すすᤀんで　そのᜀ目᠀めᤀでᜀ見᠀みᤀよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>222954262</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+オーディオルームに　ᜀ求᠀もとᤀめるᜀ者᠀ものᤀ　ᜀ有᠀あᤀり
+ᜀ新᠀あらᤀたなステージに　のぼるがᜀ良᠀よᤀし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239600406</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+オーディオルームに　ᜀ求᠀もとᤀめるᜀ者᠀ものᤀ　ᜀ有᠀あᤀり
+ᜀ閉᠀とᤀざされたᜀ扉᠀とびらᤀに　つどうべし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>257426204</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ黒幕᠀くろまくᤀとの　ᜀ決戦᠀けっせんᤀに　のぞむべし～
+ᜀ力᠀ちからᤀをあわせば　ᜀ勝利᠀しょうりᤀのᜀ光᠀ひかりᤀ　ᜀ見᠀みᤀえるなり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>272761621</Id>
+          <Value>ウラ～　ウラ～ナイ　オモテアル～
+ᜀ特別᠀とくべつᤀなバトルにて　センパイの
+テクニック　ᜀ見᠀みᤀせつけるが　ᜀ大吉᠀だいきちᤀ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

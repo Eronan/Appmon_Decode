@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>131330</Id>
+          <Value>ミオ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21234455</Id>
+          <Value>ミオは　ナオトの　ᜀ妹᠀いもうとᤀで
+ᰏの　ᜀ幼᠀おさなᤀなじみだな
+ᜀ子᠀こᤀどものᜀ頃᠀ころᤀから　ずっとᜀ一緒᠀いっしょᤀなのか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38535958</Id>
+          <Value>よく　スマホを　いじってるのは
+ᜀ気᠀きᤀになったことを　すぐᜀ調᠀しらᤀべるからだな
+ᜀ検索᠀けんさくᤀアプリとして　ᜀ鼻᠀はなᤀがᜀ高᠀たかᤀいぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55444249</Id>
+          <Value>ᰏとナオトと　ᜀ三人᠀さんにんᤀで
+いっしょにᜀ遊᠀あそᤀぶのが　ᜀ一番好᠀いちばんすᤀきなんだと
+ᜀ子᠀こᤀどものᜀ頃᠀ころᤀから　ずっとそうだからか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828245</Id>
+          <Value>ナオトと　ᜀ対戦᠀たいせんᤀゲームをするときは
+いつも　ミオの　ᜀ圧勝᠀あっしょうᤀみたいだな
+オイオイ！　ᜀ本気᠀ほんきᤀで　やってんのか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>88343321</Id>
+          <Value>ᜀ好᠀すᤀきな　ᜀ食᠀たᤀべものは
+カスタードたっぷりの　シュークリーム
+…ᜀ最近᠀さいきんᤀ　ᜀ体重᠀たいじゅうᤀが　ふえたみたいだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

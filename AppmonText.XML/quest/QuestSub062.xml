@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786699</Id>
+          <Value>ぼくのゲームをさがして</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>ヨンゲン通り・ゴミばこ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38535961</Id>
+          <Value>ᜀ男᠀おとこᤀのᜀ子᠀こᤀが　ᜀ大切᠀たいせつᤀにしていた　ＲＰＧの
+ゲームが　なくなったみたい
+ᜀ探᠀さがᤀすの　ᜀ手伝᠀てつだᤀって　あげようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511569</Id>
+          <Value>ヨンゲン通り・ゲームＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517523</Id>
+          <Value>ᜀ見᠀みᤀつけたゲームから　ナゾのᜀ声᠀こえᤀが！
+ゲームの　ＡＲダンジョンを
+ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066001</Id>
+          <Value>ヨンゲン通り・ゲームＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104071955</Id>
+          <Value>ᜀ見᠀みᤀつけたゲームから　ナゾのᜀ声᠀こえᤀが！
+ゲームの　ＡＲダンジョンを
+ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620433</Id>
+          <Value>ヨンゲン通り・ゲームＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138937106</Id>
+          <Value>ᜀ奥᠀おくᤀには　ロープレモンが　いた！　
+ゲームを　ᜀ守᠀まもᤀろうと　してるみたい
+ᜀ勝᠀かᤀって　ゲームを　ᜀ取᠀とᤀりᜀ戻᠀もどᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781643</Id>
+          <Value>ヨンゲン通り・ゴミばこ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146901</Id>
+          <Value>ロープレモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけて
+ᜀ無事᠀ぶじᤀ　ゲームを　ᜀ渡᠀わたᤀしてくれた
+さて　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ届᠀とどᤀけてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336075</Id>
+          <Value>ヨンゲン通り・ゴミばこ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701333</Id>
+          <Value>ロープレモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけて
+ᜀ無事᠀ぶじᤀ　ゲームを　ᜀ渡᠀わたᤀしてくれた
+さて　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ届᠀とどᤀけてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890507</Id>
+          <Value>ヨンゲン通り・ゴミばこ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255765</Id>
+          <Value>ロープレモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけて
+ᜀ無事᠀ぶじᤀ　ゲームを　ᜀ渡᠀わたᤀしてくれた
+さて　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ届᠀とどᤀけてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444939</Id>
+          <Value>ヨンゲン通り・ゴミばこ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810197</Id>
+          <Value>ロープレモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけて
+ᜀ無事᠀ぶじᤀ　ゲームを　ᜀ渡᠀わたᤀしてくれた
+さて　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ届᠀とどᤀけてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999371</Id>
+          <Value>ヨンゲン通り・ゴミばこ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364629</Id>
+          <Value>ロープレモンの　ᜀ誤解᠀ごかいᤀが　ᜀ解᠀とᤀけて
+ᜀ無事᠀ぶじᤀ　ゲームを　ᜀ渡᠀わたᤀしてくれた
+さて　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ届᠀とどᤀけてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323486486</Id>
+          <Value>ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ゲームを　ᜀ届᠀とどᤀけてあげた
+それにしても　あのゲーム
+はじめてᜀ見᠀みᤀたな…　ちょっと　ᜀ気᠀きᤀになる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

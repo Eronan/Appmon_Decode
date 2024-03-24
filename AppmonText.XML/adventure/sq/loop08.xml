@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>106</NumberOfLabels>
+  <NumberOfStrings>106</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1049096</Id>
+          <Value>そこの　キミ！
+こんにちはピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17695239</Id>
+          <Value>こんにち…
+ぴょ　ピョン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35652110</Id>
+          <Value>ᜀ口᠀くちᤀぐせなのピョン
+ᜀ気᠀きᤀにしないで　ほしいピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>50594051</Id>
+          <Value>はあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71435025</Id>
+          <Value>ᜀ宿題᠀しゅくだいᤀの　ᜀ提出᠀ていしゅつᤀも
+ᜀ待᠀まᤀちあわせに　ᜀ遅᠀おくᤀれるのも
+ᜀ気᠀きᤀにしないで　ほしいのピョーン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>そ　それは　ダメでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102892048</Id>
+          <Value>もっと　ᜀ言᠀いᤀってやってくれないか
+そこの　アプリドライヴァーよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489607</Id>
+          <Value>え…　え？
+このᜀ声᠀こえᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138674962</Id>
+          <Value>ᜀ失礼᠀しつれいᤀ　ᜀ私᠀わたしᤀは　タイムモン
+このᜀ子᠀こᤀの　スマホの　ᜀ中᠀なかᤀから
+ᜀ君᠀きみᤀに　ᜀ呼᠀よᤀびかけている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154665745</Id>
+          <Value>このᜀ子᠀こᤀと　きたら
+ᜀ正᠀ただᤀしいᜀ時間᠀じかんᤀと　いうものを
+１つも　ᜀ守᠀まもᤀったことが　ない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>172491543</Id>
+          <Value>スマホのᜀ時計᠀とけいᤀも　ᜀ何度᠀なんどᤀ　ᜀ合᠀あᤀわせても
+すぐに　ズラしてしまうのだ
+ᜀ私᠀わたしᤀだけでは　もう　どうにもならない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>185860368</Id>
+          <Value>ᜀ時計᠀とけいᤀを　ズラしちゃうって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203162124</Id>
+          <Value>きっちり　かっちりなんて
+ᜀ肩᠀かたᤀこっちゃうピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>222692117</Id>
+          <Value>ᜀ人生᠀じんせいᤀ　ラフラフなのピョン
+おᜀ誕生日᠀たんじょうびᤀも　そうじゃないᜀ日᠀ひᤀも
+ᜀ毎日᠀まいにちᤀ　おめでとう　なのピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>236716814</Id>
+          <Value>なんか　もう
+こっちまで
+よくわからなく　なってきた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>255591187</Id>
+          <Value>アプモンが　ᜀ合᠀あᤀわせるᜀ時計᠀とけいᤀを
+ズラしちゃうなんて
+ᜀ相当᠀そうとうᤀの　ᜀ筋金᠀すじがねᤀいりだぞ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>274334490</Id>
+          <Value>よし…　タイムモンに　ᜀ協力᠀きょうりょくᤀしよう
+ツールᜀ属性᠀ぞくせいᤀのアプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりれば
+ᜀ時計᠀とけいᤀを　しっかりᜀ合᠀あᤀわせられるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130446</Id>
+          <Value>ああ　たのまれて　くれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>303956245</Id>
+          <Value>ᜀ正᠀ただᤀしいᜀ時間᠀じかんᤀを　ᜀ教᠀おしᤀえてあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>321651226</Id>
+          <Value>わかった
+ᜀ正᠀ただᤀしいᜀ時間᠀じかんᤀに　ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>340263701</Id>
+          <Value>ふふん　どうせ　ᜀ教᠀おしᤀえてくれるのなら
+ピッタリ　カッチリ　ᜀ正確᠀せいかくᤀじゃないと
+ᜀ全然᠀ぜんぜんᤀ　ᜀ伝᠀つたᤀわらないピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>354812433</Id>
+          <Value>ᜀ時計合᠀とけいあᤀわせには　どれくらい
+ᜀ自信᠀じしんᤀが　あるのピョン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2</Key>
+      <Values>
+        <BtxtString>
+          <Id>370278671</Id>
+          <Value>どれくらい　ᜀ自信᠀じしんᤀがある？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A1</Key>
+      <Values>
+        <BtxtString>
+          <Id>386138372</Id>
+          <Value>そこそこ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>405537555</Id>
+          <Value>わかったピョン
+じゃあ　そこそこの
+ᜀ時間᠀じかんᤀを　ᜀ教᠀おしᤀえてもらうピョン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A2</Key>
+      <Values>
+        <BtxtString>
+          <Id>419692804</Id>
+          <Value>バッチリ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>438829840</Id>
+          <Value>わかったピョン
+バッチリなら　ᜀ安心᠀あんしんᤀピョン
+がんばってみるピョーン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A3</Key>
+      <Values>
+        <BtxtString>
+          <Id>453771529</Id>
+          <Value>ᜀ超᠀ちょうᤀカンペキ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>472908560</Id>
+          <Value>ᜀ超᠀ちょうᤀカンペキ　なのでピョン？
+それは　ᜀ超᠀ちょうᤀキタイピョン
+みせてもらうピョーン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>488112650</Id>
+          <Value>また　ᜀ会᠀あᤀったピョン
+こんにちはピョン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>504103179</Id>
+          <Value>こ　こんにちはピョン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>522191374</Id>
+          <Value>ᜀ口᠀くちᤀぐせなのピョン
+ᜀ気᠀きᤀにしないで　ほしいピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>541197073</Id>
+          <Value>ᜀ宿題᠀しゅくだいᤀの　ᜀ提出᠀ていしゅつᤀも
+ᜀ待᠀まᤀちあわせに　ᜀ遅᠀おくᤀれるのも
+ᜀ気᠀きᤀにしないで　ほしいのピョーン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>555352588</Id>
+          <Value>また　それ　ᜀ言᠀いᤀってる！
+それは　ダメでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>574489361</Id>
+          <Value>まったく　このᜀ子᠀こᤀと　きたら
+ᜀ正᠀ただᤀしいᜀ時間᠀じかんᤀと　いうものを
+１つも　ᜀ守᠀まもᤀったことが　ない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>591921943</Id>
+          <Value>スマホのᜀ時計᠀とけいᤀも　ᜀ何度᠀なんどᤀ　ᜀ合᠀あᤀわせても
+すぐに　ズラしてしまうのだ
+ᜀ私᠀わたしᤀだけでは　もう　どうにもならない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>608043794</Id>
+          <Value>タイムモンが　ᜀ合᠀あᤀわせるᜀ時間᠀じかんᤀを
+ズラしちゃうなんて　やっぱり
+ᜀ手᠀てᤀごわい　ᜀ相手᠀あいてᤀだよなあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>626656026</Id>
+          <Value>よし…　タイムモンに　ᜀ協力᠀きょうりょくᤀしよう
+ツールᜀ属性᠀ぞくせいᤀのアプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりれば
+ᜀ時計᠀とけいᤀを　しっかりᜀ合᠀あᤀわせられるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>639107594</Id>
+          <Value>また　ᜀ会᠀あᤀったピョン
+こんにちはピョン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>655098123</Id>
+          <Value>こ　こんにちはピョン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>673186318</Id>
+          <Value>ᜀ口᠀くちᤀぐせなのピョン
+ᜀ気᠀きᤀにしないで　ほしいピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>692192017</Id>
+          <Value>ᜀ宿題᠀しゅくだいᤀの　ᜀ提出᠀ていしゅつᤀも
+ᜀ待᠀まᤀちあわせに　ᜀ遅᠀おくᤀれるのも
+ᜀ気᠀きᤀにしないで　ほしいのピョーン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>706347532</Id>
+          <Value>また　それ　ᜀ言᠀いᤀってる！
+それは　ダメでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>725484305</Id>
+          <Value>まったく　このᜀ子᠀こᤀと　きたら
+ᜀ正᠀ただᤀしいᜀ時間᠀じかんᤀと　いうものを
+１つも　ᜀ守᠀まもᤀったことが　ない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>742916887</Id>
+          <Value>スマホのᜀ時計᠀とけいᤀも　ᜀ何度᠀なんどᤀ　ᜀ合᠀あᤀわせても
+すぐに　ズラしてしまうのだ
+ᜀ私᠀わたしᤀだけでは　もう　どうにもならない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>759038738</Id>
+          <Value>タイムモンが　ᜀ合᠀あᤀわせるᜀ時間᠀じかんᤀを
+ズラしちゃうなんて　やっぱり
+ᜀ手᠀てᤀごわい　ᜀ相手᠀あいてᤀだよなあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>777650970</Id>
+          <Value>よし…　タイムモンに　ᜀ協力᠀きょうりょくᤀしよう
+ツールᜀ属性᠀ぞくせいᤀのアプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりれば
+ᜀ時計᠀とけいᤀを　しっかりᜀ合᠀あᤀわせられるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>789709321</Id>
+          <Value>さっきの　キミ！
+こんにちはピョン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>807404048</Id>
+          <Value>こ　こんにちはピョン…
+あれから　ᜀ調子᠀ちょうしᤀは　どう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>825623318</Id>
+          <Value>あぁ　あのときは　ありがとう
+アプリドライヴァーよ
+こちらの　ᜀ調子᠀ちょうしᤀは　ᜀ上々᠀じょうじょうᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>840040719</Id>
+          <Value>と　ᜀ言᠀いᤀいたいところなのだが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>856949261</Id>
+          <Value>えっ
+また　ᜀ何᠀なにᤀか　あったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>875430669</Id>
+          <Value>このᜀ子᠀こᤀときたら　また
+ᜀ自分᠀じぶんᤀで　ᜀ時計᠀とけいᤀを
+ズラしてしまったのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>891552530</Id>
+          <Value>ま　またかあ…
+なんで　すぐ
+ᜀ時計᠀とけいᤀを　ズラしちゃうのかなぁ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>909902611</Id>
+          <Value>だって　３ᜀ時᠀じᤀから
+ᜀ時計᠀とけいᤀが　ᜀ動᠀うごᤀかなければ
+おᜀ茶会᠀ちゃかいᤀは　ᜀ終᠀おᤀわらないでピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>925106704</Id>
+          <Value>だから　ᜀ時計᠀とけいᤀは
+３ᜀ時᠀じᤀで　ᜀ止᠀とᤀめておくのでピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>941752851</Id>
+          <Value>それとも　また
+ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせてくれるピョン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>960496154</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀのアプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりれば
+ᜀ時計᠀とけいᤀを　しっかりᜀ合᠀あᤀわせられるはずだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>975962650</Id>
+          <Value>わかった
+ᜀ正᠀ただᤀしいᜀ時間᠀じかんᤀに　ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>994575125</Id>
+          <Value>ふふん　どうせ　ᜀ教᠀おしᤀえてくれるのなら
+ピッタリ　カッチリ　ᜀ正確᠀せいかくᤀじゃないと
+ᜀ全然᠀ぜんぜんᤀ　ᜀ伝᠀つたᤀわらないピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009386001</Id>
+          <Value>ᜀ時計᠀とけいᤀᜀ合᠀あᤀわせには　どれくらい
+ᜀ自信᠀じしんᤀが　あるのピョン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026425616</Id>
+          <Value>うーん
+カラスと　ᜀ書᠀かᤀきᜀ物机᠀ものづくえᤀが
+ᜀ似᠀にᤀているのは　どうしてピョン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040580869</Id>
+          <Value>え…　え？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059848975</Id>
+          <Value>それくらい　ᜀ伝᠀つたᤀわらないって
+ことなのでピョン！
+ᜀ出直᠀でなおᤀしてくるピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076626190</Id>
+          <Value>かなり　ピッタリピョン！
+これは　ᜀ納得᠀なっとくᤀせざるを
+ᜀ得᠀えᤀないのでピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093927699</Id>
+          <Value>よし！
+ちゃんと　ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせたから
+これで　もう　ᜀ遅刻᠀ちこくᤀは　しないね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109262865</Id>
+          <Value>おみそれしたピョン
+ちょこっと　ᜀ反省᠀はんせいᤀするピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127744273</Id>
+          <Value>アプリドライヴァーよ
+ᜀ手伝᠀てつだᤀってくれて　ありがとう…
+これは　ᜀ私᠀わたしᤀからの　おᜀ礼᠀れいᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141637388</Id>
+          <Value>ありがとう　タイムモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160380945</Id>
+          <Value>しかし　ᜀ合᠀あᤀわせても　ᜀ合᠀あᤀわせても
+ズラしてしまう　ᜀ子᠀こᤀだからな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178206996</Id>
+          <Value>もし　よければ
+ᜀ明日᠀あしたᤀも　ᜀ来᠀きᤀてくれると　ᜀ助᠀たすᤀかる
+ᜀ気᠀きᤀがむいたら　よろしく　たのむぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194853138</Id>
+          <Value>ピッタリ　カッチリピョン！
+ᜀ正᠀ただᤀしい　ᜀ時間᠀じかんᤀの　ᜀ流᠀ながᤀれを
+ᜀ感᠀かんᤀじちゃうピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1211237139</Id>
+          <Value>よし！
+ちゃんと　ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせたから
+これでもう　ᜀ遅刻᠀ちこくᤀは　しないね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226703377</Id>
+          <Value>おみそれしたピョン
+ちょこっと　ᜀ反省᠀はんせいᤀするピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245184785</Id>
+          <Value>アプリドライヴァーよ
+ᜀ手伝᠀てつだᤀってくれて　ありがとう…
+これは　ᜀ私᠀わたしᤀからの　おᜀ礼᠀れいᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1259077900</Id>
+          <Value>ありがとう　タイムモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277821457</Id>
+          <Value>しかし　ᜀ合᠀あᤀわせても　ᜀ合᠀あᤀわせても
+ズラしてしまう　ᜀ子᠀こᤀだからな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1295647508</Id>
+          <Value>もし　よければ
+ᜀ明日᠀あしたᤀも　ᜀ来᠀きᤀてくれると　ᜀ助᠀たすᤀかる
+ᜀ気᠀きᤀがむいたら　よろしく　たのむぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1312031505</Id>
+          <Value>こ　これは　ᜀ時間᠀じかんᤀに
+ピッタリ　カッチリ　ついでに
+ガチッと　ᜀ合᠀あᤀっているのでピョン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1328284429</Id>
+          <Value>おどろきだピョン
+ᜀ非᠀ひᤀの　ᜀ打᠀うᤀちどころもない
+ᜀ精密᠀せいみつᤀさだピョン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345454866</Id>
+          <Value>ほら！
+ちゃんと　ᜀ時計᠀とけいᤀ　ᜀ合᠀あᤀわせたから
+これで　もう　ᜀ遅刻᠀ちこくᤀは　しないね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360921105</Id>
+          <Value>おみそれしたピョン
+ちょこっと　ᜀ反省᠀はんせいᤀするピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379402513</Id>
+          <Value>アプリドライヴァーよ
+ᜀ手伝᠀てつだᤀってくれて　ありがとう…
+これは　ᜀ私᠀わたしᤀからの　おᜀ礼᠀れいᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393295628</Id>
+          <Value>ありがとう　タイムモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412039185</Id>
+          <Value>しかし　ᜀ合᠀あᤀわせても　ᜀ合᠀あᤀわせても
+ズラしてしまう　ᜀ子᠀こᤀだからな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429865236</Id>
+          <Value>もし　よければ
+ᜀ明日᠀あしたᤀも　ᜀ来᠀きᤀてくれると　ᜀ助᠀たすᤀかる
+ᜀ気᠀きᤀがむいたら　よろしく　たのむぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445987091</Id>
+          <Value>ピッタリ　カッチリ
+ᜀ合᠀あᤀっているのでピョン
+ᜀ正確無比᠀せいかくむひᤀって　ヤツでピョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463026451</Id>
+          <Value>ほら！
+ちゃんと　ᜀ時計᠀とけいᤀ　ᜀ合᠀あᤀわせたから
+ᜀ今度᠀こんどᤀこそ　ズラしちゃ　ダメだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1476788485</Id>
+          <Value>ピョーン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495925520</Id>
+          <Value>ᜀ手伝᠀てつだᤀってくれて　ありがとう
+アプリドライヴァーよ
+ᜀ助᠀たすᤀかったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1512702481</Id>
+          <Value>しかし　ᜀ合᠀あᤀわせても　ᜀ合᠀あᤀわせても
+ズラしてしまう　ᜀ子᠀こᤀだからな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1530528532</Id>
+          <Value>もし　よければ
+ᜀ明日᠀あしたᤀも　ᜀ来᠀きᤀてくれると　ᜀ助᠀たすᤀかる
+ᜀ気᠀きᤀがむいたら　よろしく　たのむぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545339663</Id>
+          <Value>なんか　もう
+こっちまで
+よくわからなく　なってきたわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_016_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564345110</Id>
+          <Value>アプモンが　ᜀ合᠀あᤀわせるᜀ時計᠀とけいᤀを
+ズラしちゃうなんて
+ᜀ相当᠀そうとうᤀの　ᜀ筋金᠀すじがねᤀいりじゃないの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1583088410</Id>
+          <Value>よし…　タイムモンに　ᜀ協力᠀きょうりょくᤀしましょ
+ツールᜀ属性᠀ぞくせいᤀのアプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりれば
+ᜀ時計᠀とけいᤀを　しっかりᜀ合᠀あᤀわせられるはずよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596719642</Id>
+          <Value>わかったわ
+ᜀ正᠀ただᤀしいᜀ時間᠀じかんᤀに　ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1614676754</Id>
+          <Value>タイムモンが　ᜀ合᠀あᤀわせるᜀ時間᠀じかんᤀを
+ズラしちゃうなんて　やっぱり
+ᜀ手᠀てᤀごわい　ᜀ相手᠀あいてᤀよねえ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_033_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1633420058</Id>
+          <Value>よし…　タイムモンに　ᜀ協力᠀きょうりょくᤀしましょ
+ツールᜀ属性᠀ぞくせいᤀのアプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりれば
+ᜀ時計᠀とけいᤀを　しっかりᜀ合᠀あᤀわせられるはずよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1648231186</Id>
+          <Value>タイムモンが　ᜀ合᠀あᤀわせるᜀ時間᠀じかんᤀを
+ズラしちゃうなんて　やっぱり
+ᜀ手᠀てᤀごわい　ᜀ相手᠀あいてᤀよねえ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1666974490</Id>
+          <Value>よし…　タイムモンに　ᜀ協力᠀きょうりょくᤀしましょ
+ツールᜀ属性᠀ぞくせいᤀのアプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりれば
+ᜀ時計᠀とけいᤀを　しっかりᜀ合᠀あᤀわせられるはずよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680081682</Id>
+          <Value>ま　またなの…
+なんで　すぐ
+ᜀ時計᠀とけいᤀを　ズラしちゃうのかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_053_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1698693658</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀのアプモンに　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりれば
+ᜀ時計᠀とけいᤀを　しっかりᜀ合᠀あᤀわせられるはずね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1714684691</Id>
+          <Value>よし！
+ちゃんと　ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせたから
+これでもう　ᜀ遅刻᠀ちこくᤀは　しないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_068_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731461907</Id>
+          <Value>よし！
+ちゃんと　ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせたから
+これでもう　ᜀ遅刻᠀ちこくᤀは　しないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1748239123</Id>
+          <Value>ほら！
+ちゃんと　ᜀ時計᠀とけいᤀを　ᜀ合᠀あᤀわせたから
+これでもう　ᜀ遅刻᠀ちこくᤀは　しないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_08_083_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764885266</Id>
+          <Value>ほら！
+ちゃんと　ᜀ時計᠀とけいᤀ　ᜀ合᠀あᤀわせたから
+ᜀ今度᠀こんどᤀこそ　ズラしちゃ　ダメよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

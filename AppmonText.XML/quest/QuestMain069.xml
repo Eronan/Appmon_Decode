@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>70</NumberOfLabels>
+  <NumberOfStrings>70</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>917770</Id>
+          <Value>ᜀ置᠀おᤀかれたノートＰＣ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957138</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929178</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72483610</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>85066002</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106038042</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620434</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139592474</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152174866</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146906</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729298</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701338</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219283730</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255770</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838162</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810202</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286392594</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364634</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319947026</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>340919066</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>353501458</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>374473498</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>387055890</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>408027930</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>420610322</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>441582362</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>454164754</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>475136794</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487719186</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>508691226</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>521273618</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>542245658</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554828050</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>575800090</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>588382482</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>609354522</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621936914</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>642908954</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>655491346</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>676463386</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>689045778</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>710017818</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>722600210</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>743572250</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>756154642</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>777126682</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789709074</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>810681114</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>823263506</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>844235546</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>856817938</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>877789978</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>890372370</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>911344410</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>923926802</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>944898842</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>957481234</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>978453274</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>991035666</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>1012007706</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024590098</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>1045562138</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058144530</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>1079116570</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091698962</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>1112671002</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125253394</Id>
+          <Value>学校屋上・ノートＰＣのＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>1146225434</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>1163002650</Id>
+          <Value>ᜀ屋上᠀おくじょうᤀには　オウジのᜀ会社᠀かいしゃᤀの　ＰＣが…
+このＡＲダンジョンの　ᜀ奥᠀おくᤀに　ᜀ行᠀いᤀけば
+すべての　ᜀ真相᠀しんそうᤀが　わかるはず</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

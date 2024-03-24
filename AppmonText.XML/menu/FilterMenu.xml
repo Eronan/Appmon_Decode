@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>POP_UP_TITLE_0</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>フィルタウィンドウ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>POP_UP_CAPTION_0</Key>
+      <Values>
+        <BtxtString>
+          <Id>20054801</Id>
+          <Value>アイコンがᜀ明᠀あかᤀるくなっている
+アプモンだけを
+ᜀ一覧᠀いちらんᤀにᜀ表示᠀ひょうじᤀさせます</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>WINDOW_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>34734351</Id>
+          <Value>フィルタをᜀ実行᠀じっこうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>WINDOW_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>52822544</Id>
+          <Value>フィルタをᜀ反映᠀はんえいᤀせずに
+ᜀ戻᠀もどᤀりますが　よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

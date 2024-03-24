@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>84</NumberOfLabels>
+  <NumberOfStrings>84</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179922</Id>
+          <Value>みんなと　キズナを　つないできたから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826063</Id>
+          <Value>オレは　チャンピオンに　なれた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_EPI_1_2_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>34603280</Id>
+          <Value>ワタシは　チャンピオンに　なれた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_EPI_1_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>51773715</Id>
+          <Value>みんな　ᜀ本当᠀ほんとうᤀに　ありがとう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MIO_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>68419859</Id>
+          <Value>ずるい！　ミオも　チャンピオンになる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MIO_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>85197072</Id>
+          <Value>ᰏ　ᜀ次᠀つぎᤀは　ミオと　バトルしよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MAKOTO_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>101581070</Id>
+          <Value>チャンピオンで　いられるのは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MAKOTO_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>119275798</Id>
+          <Value>ᜀ今᠀いまᤀのうちだけだってこと　ᜀ忘᠀わすᤀれんなよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_WAKABA_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>135659798</Id>
+          <Value>おめでとう！　あのとき　バトルしたルーキーが</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_WAKABA_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>152568084</Id>
+          <Value>チャンピオンだなんて　ᜀ信᠀しんᤀじられないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_KAGEFUMI_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>168165637</Id>
+          <Value>おめでとう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_KAGEFUMI_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>186122514</Id>
+          <Value>おᜀ前᠀まえᤀなら　なれると　ᜀ思᠀おもᤀってた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_YUKARI_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>202637585</Id>
+          <Value>アプモンとの　キズナをᜀ感᠀かんᤀじる　</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_YUKARI_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890507</Id>
+          <Value>すばらしいバトルでした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_RYOJI_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>236323087</Id>
+          <Value>ᜀ今度᠀こんどᤀ　ミハマに　ᜀ来᠀こᤀい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_RYOJI_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>254148893</Id>
+          <Value>ミハマᜀ団᠀だんᤀが　ᜀ総力᠀そうりょくᤀをあげて　ᜀ祝᠀いわᤀってやるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_OUJI_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>270795034</Id>
+          <Value>ᜀ君᠀きみᤀの　つながるᜀ力᠀ちからᤀは　チャンピオンのᜀ座᠀ざᤀにも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_OUJI_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868298</Id>
+          <Value>つながっていたんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_OUJI_EPI_1_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>303169809</Id>
+          <Value>あらためて　チャンピオンおめでとう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_KAYO_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>320340245</Id>
+          <Value>オウジᜀ様᠀さまᤀが　コメントしてくれたからって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_KAYO_EPI_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>337117461</Id>
+          <Value>あんまり　ᜀ調子᠀ちょうしᤀに　のらないことね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_KAYO_EPI_1_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>352977162</Id>
+          <Value>まあ　でも　おめでと</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_NAOTO_EPI_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>370147594</Id>
+          <Value>ᜀ次᠀つぎᤀは　ᜀ負᠀まᤀけない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C11_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>387580179</Id>
+          <Value>よかった　ᜀ全部᠀ぜんぶᤀ　ᜀ元᠀もとᤀどおりだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C11_1_1_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>404357395</Id>
+          <Value>よかった　ᜀ全部᠀ぜんぶᤀ　ᜀ元᠀もとᤀどおりね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_RYOJI_C10_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>421396756</Id>
+          <Value>ᜀ新᠀あたらᤀしいᜀ団員᠀だんいんᤀが　ᜀ増᠀ふᤀえたぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_C10_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>437518612</Id>
+          <Value>Ｆランクと　Ｄランクの　ランクマスターが</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_C10_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>455082263</Id>
+          <Value>ᜀ合᠀あᤀわされば　ミハマᜀ団᠀だんᤀは　ᜀ無敵᠀むてきᤀだね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_C10_1_2_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>471859478</Id>
+          <Value>ᜀ合᠀あᤀわされば　ミハマᜀ団᠀だんᤀは　ᜀ無敵᠀むてきᤀね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_WAKABA_C10_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>488243479</Id>
+          <Value>ᜀ団員᠀だんいんᤀになった　おぼえは　ないんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C09_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>503972106</Id>
+          <Value>とうとう　Ｓランク！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C09_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>521142543</Id>
+          <Value>マコトも　アプリドライヴァーを</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C09_1_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>538181904</Id>
+          <Value>ᜀ続᠀つづᤀけるみたいだし　よかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MAKOTO_C09_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>555745559</Id>
+          <Value>ᜀ面᠀めんᤀとᜀ向᠀むᤀかっては　ᜀ言᠀いᤀいにくいから　ここで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MAKOTO_C09_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>572653849</Id>
+          <Value>おᜀ前᠀まえᤀのおかげで　ᜀ立᠀たᤀちᜀ直᠀なおᤀれたよ　ありがとな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_YUKARI_C09_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>588382481</Id>
+          <Value>ᰏに　マコトをまかせて　よかったです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_YUKARI_C09_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>605421843</Id>
+          <Value>ᜀ私᠀わたしᤀからも　ありがとうございました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_KAGEFUMI_C08_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>622067982</Id>
+          <Value>ひさしぶりに　ᜀ外᠀そとᤀにᜀ出᠀でᤀた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_KAGEFUMI_C08_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>639369496</Id>
+          <Value>といっても　ᜀ近所᠀きんじょᤀの　コンビニまでだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_KAYO_C08_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>656146712</Id>
+          <Value>あせらず　ᜀ自分᠀じぶんᤀのペースで　がんばんなさいよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_C08_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>672399633</Id>
+          <Value>サイバーアリーナで　ᜀ待᠀まᤀってるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C07_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>688521481</Id>
+          <Value>ついに　Ａランク！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C07_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>706609432</Id>
+          <Value>カゲフミ　ᜀ外᠀そとᤀにᜀ出᠀でᤀられるようになると　いいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C06_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>722469132</Id>
+          <Value>Ｂランクに　ᜀ上᠀あᤀがれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C06_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>739115278</Id>
+          <Value>カヨは　スナオじゃないだけで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C06_1_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>756285713</Id>
+          <Value>アプモンᜀ思᠀おもᤀいの　いいヤツだった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C06_1_3_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>773456147</Id>
+          <Value>アプモンᜀ思᠀おもᤀいの　いいᜀ人᠀ひとᤀだったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_KAYO_C06_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>789840145</Id>
+          <Value>よけいなことは　ᜀ書᠀かᤀかないでいい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_MIO_C05_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>806486289</Id>
+          <Value>ミオ　サイバーアリーナ　デビュー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_C05_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>823525648</Id>
+          <Value>はしゃぎすぎて　ᜀ他᠀ほかᤀのᜀ人᠀ひとᤀに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_C05_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>840040718</Id>
+          <Value>ᜀ迷惑᠀めいわくᤀかけないようにな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_C05_1_2_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>856817934</Id>
+          <Value>ᜀ迷惑᠀めいわくᤀかけないようにね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C04_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>873595150</Id>
+          <Value>Ｃランクに　ᜀ昇格᠀しょうかくᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C04_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>891027734</Id>
+          <Value>ミハマᜀ団᠀だんᤀのᜀ試練᠀しれんᤀ　タイヘンだったなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C03_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>906625290</Id>
+          <Value>Ｄランクに　なった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C03_1_1_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>923533579</Id>
+          <Value>Ｄランクに　なったわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C03_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>941097234</Id>
+          <Value>ᜀ早᠀はやᤀく　ナオトに　ᜀ追᠀おᤀいつかなきゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C02_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>957874450</Id>
+          <Value>ᜀ無事᠀ぶじᤀに　Ｅランクに　ᜀ上᠀あᤀがれたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C02_1_1_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>974651666</Id>
+          <Value>ᜀ無事᠀ぶじᤀに　Ｅランクに　ᜀ上᠀あᤀがれたわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C02_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>990511370</Id>
+          <Value>まだまだ　これから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MIO_C02_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007550733</Id>
+          <Value>Ｅランクって　なんのこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MIO_C02_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025507610</Id>
+          <Value>それに　このᜀ写真᠀しゃしんᤀに　ᜀ映᠀うつᤀってるの　なあに？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_C02_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040974089</Id>
+          <Value>いつか　ᜀ話᠀はなᤀすよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C01_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059586332</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ᜀ自販機᠀じはんきᤀから　ᜀ何᠀なにᤀか　ᜀ出᠀でᤀてきた</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C01_1_1_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076494621</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　ᜀ自販機᠀じはんきᤀから　ᜀ何᠀なにᤀか　ᜀ出᠀でᤀてきたわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_C01_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092354326</Id>
+          <Value>ここの　ᜀ自販機᠀じはんきᤀ　ᜀ壊᠀こわᤀれてるのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_MIO_PRO_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108607248</Id>
+          <Value>ᜀ入院᠀にゅういんᤀって　つまんなーい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_MIO_PRO_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125777687</Id>
+          <Value>ᜀ川᠀かわᤀで　おぼれたくらいで　おおげさなんだから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_MIO_PRO_1_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142161677</Id>
+          <Value>ᜀ誰᠀だれᤀか　ᜀ遊᠀あそᤀびにきてー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_PRO_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159201042</Id>
+          <Value>ᜀ今度᠀こんどᤀ　おᜀ見舞᠀みまᤀいに　いくよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_PRO_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175978258</Id>
+          <Value>ᜀ早᠀はやᤀく　ᜀ元気᠀げんきᤀになると　いいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_HERO_PRO_1_2_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192886547</Id>
+          <Value>ᜀ早᠀はやᤀく　ᜀ元気᠀げんきᤀになると　いいわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MIO_PRO_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209270545</Id>
+          <Value>ミオは　とっくに　ᜀ元気᠀げんきᤀだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MIO_PRO_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226572057</Id>
+          <Value>むしろ　おにいちゃんのほうが　ᜀ元気᠀げんきᤀないかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_PRO_1_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242956051</Id>
+          <Value>ᜀ明日᠀あしたᤀは　ナオトたちと　キャンプ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_PRO_1_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1259077896</Id>
+          <Value>ᜀ楽᠀たのᤀしみ～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_PRO_2_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276248335</Id>
+          <Value>ᜀ新作᠀しんさくᤀゲームを　ゲット！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_PRO_2_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293025553</Id>
+          <Value>ナオトと　いっしょに　やるぞー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_T_HERO_PRO_2_2_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309802770</Id>
+          <Value>ナオトと　いっしょに　やるわよー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MIO_PRO_2_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326448912</Id>
+          <Value>おにいちゃんとばっかり　ずるい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_C_MIO_PRO_2_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343488273</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ミオも　さそってー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_SPACE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1359085825</Id>
+          <Value>　</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_001_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377173778</Id>
+          <Value>ᜀ女性用᠀じょせいようᤀキャプション001</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAP_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393950994</Id>
+          <Value>ᜀ女性用᠀じょせいようᤀキャプション003</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

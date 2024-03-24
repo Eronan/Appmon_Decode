@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>147</NumberOfLabels>
+  <NumberOfStrings>147</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>SELECTING</Key>
+      <Values>
+        <BtxtString>
+          <Id>3146261</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ！
+ᜀ聞᠀きᤀきたいᜀ項目᠀こうもくᤀを　ᜀ選᠀えらᤀんでくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_001_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432838</Id>
+          <Value>アプリᜀ技᠀わざᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_001_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>35258644</Id>
+          <Value>アプリᜀ技᠀わざᤀは　バトルのᜀ基本᠀きほんᤀだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_001_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>54788884</Id>
+          <Value>はじめに　ᜀ選᠀えらᤀんだ１ᜀ枚᠀まいᤀと
+ᜀ同᠀おなᤀじᜀ属性᠀ぞくせいᤀの　アプリを
+いっしょに　ᜀ使᠀つかᤀうと　コンボになって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_001_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221462</Id>
+          <Value>ᜀ攻撃技᠀こうげきわざᤀは　ダメージがᜀ上᠀あᤀがる！
+サポートᜀ技᠀わざᤀは　ᜀ必殺技᠀ひっさつわざᤀゲージが
+いつもより　ᜀ多᠀おおᤀく　たまるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_001_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>88736536</Id>
+          <Value>ᜀ属性᠀ぞくせいᤀだけじゃなく　ᜀ名前᠀なまえᤀも　ᜀ同᠀おなᤀじ
+アプリなら　コンボのᜀ効果᠀こうかᤀも
+さらにアップ！　ᜀ覚᠀おぼᤀえとけよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_002_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>101056773</Id>
+          <Value>アプリンク</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_002_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>121766678</Id>
+          <Value>バトルᜀ中᠀ちゅうᤀに　アプリンクすると
+アプリンクに　セットした　アプモンの
+アプリンクᜀ能力᠀のうりょくᤀが　プラスされるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_002_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>140509981</Id>
+          <Value>ここだけのᜀ話᠀はなしᤀ　ᜀ他᠀ほかᤀのアプモンよりも
+ソーシャルᜀ属性᠀ぞくせいᤀとナビᜀ属性᠀ぞくせいᤀのアプモンは
+アプリンクᜀ能力᠀のうりょくᤀが　ちょっとᜀ強力᠀きょうりょくᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_002_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>154796818</Id>
+          <Value>ᜀ基本的᠀きほんてきᤀに　アプリンクをして
+ᜀ損᠀そんᤀすることは　ないから
+わすれずに　アプリンクしてくれよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_003_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>168558857</Id>
+          <Value>ᜀ必殺技᠀ひっさつわざᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_003_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>190972707</Id>
+          <Value>ᜀ必殺技᠀ひっさつわざᤀゲージが　たまっていると
+ᜀ必殺技᠀ひっさつわざᤀが　ᜀ使᠀つかᤀえるぜ！
+ᜀ勝負᠀しょうぶᤀをᜀ決᠀きᤀめる　ᜀ超強力᠀ちょうきょうりょく　ᤀな　ᜀ攻撃᠀こうげきᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_003_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>207618843</Id>
+          <Value>バトルᜀ中᠀ちゅうᤀに　ᜀ一度使᠀いちどつかᤀった　アプリᜀ技᠀わざᤀの
+ᜀ属性᠀ぞくせいᤀは　アプリドライヴの　ᜀ周᠀まわᤀりに
+ᜀ属性᠀ぞくせいᤀアイコンが　ᜀ表示᠀ひょうじᤀされるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_003_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>224133916</Id>
+          <Value>ᜀ表示᠀ひょうじᤀされてる　ᜀ属性᠀ぞくせいᤀアイコンがᜀ多᠀おおᤀいほど
+ᜀ必殺技᠀ひっさつわざᤀゲージは　たまりやすいから
+デッキをᜀ組᠀くᤀむとき　ᜀ考᠀かんがᤀえるといいぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_004_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>236192013</Id>
+          <Value>ᜀ大会᠀たいかいᤀをᜀ増᠀ふᤀやすには</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_004_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>257557274</Id>
+          <Value>ᜀ今᠀いまᤀある　ᜀ大会᠀たいかいᤀを　クリアすると
+ᜀ新᠀あたらᤀしく　ᜀ大会᠀たいかいᤀが　ᜀ増᠀ふᤀえることがあるぜ！
+ᜀ大好評᠀だいこうひょうᤀに　おᜀ応᠀こたᤀえってな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_004_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>271450643</Id>
+          <Value>ᜀ他᠀ほかᤀにも　クエストをクリアすることで
+ᜀ増᠀ふᤀえる　ᜀ大会᠀たいかいᤀもあるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_004_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>290980635</Id>
+          <Value>しかも！　そのᜀ大会᠀たいかいᤀの　ᜀ景品᠀けいひんᤀは
+ᜀ超強力᠀ちょうきょうりょくᤀな　ᜀ超᠀ちょうᤀアプモンのかけら！
+ᜀＣＯＯＯＬ᠀クーーールᤀ！　やるっきゃないぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_004_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364631</Id>
+          <Value>「ᜀ情᠀なさᤀけはᜀ人᠀ひとᤀのためならず」ってな！
+こまっているᜀ人᠀ひとᤀを　ᜀ助᠀たすᤀけるのも
+ᜀ強᠀つよᤀくなるためには　ᜀ必要᠀ひつようᤀってことだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_005_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>319684874</Id>
+          <Value>デイリーᜀ大会᠀たいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_005_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>341443356</Id>
+          <Value>デイリーᜀ大会᠀たいかいᤀは　１ᜀ日᠀にちᤀ１ᜀ回᠀かいᤀだけ
+ᜀ参加᠀さんかᤀできる　ᜀ大会᠀たいかいᤀだ！　ᜀ優勝᠀ゆうしょうᤀすると
+ガシャチケットが　ᜀ手᠀てᤀにはいるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_005_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>356254485</Id>
+          <Value>ガシャチケットは　コンビニのᜀ前᠀まえᤀにいる
+ガシャモンに　わたせば
+ᜀ新᠀あたらᤀしいアプモンが　もらえるチケットだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_005_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>373687063</Id>
+          <Value>ᜀ運᠀うんᤀがよければ
+ᜀ本当᠀ほんとうᤀなら　ᜀ今᠀いまᤀはまだᜀ会᠀あᤀえないような
+ᜀ超᠀ちょうᤀレアなアプモンが　もらえるかもな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_005_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>392168225</Id>
+          <Value>そんな　ᜀ大᠀だいᤀチャンスに　つながる
+デイリーᜀ大会᠀たいかいᤀは　ᜀ毎日᠀まいにちᤀ　ᜀ開催中᠀　かいさいちゅうᤀだから
+ᜀ毎日᠀まいにちᤀ　わすれずに　ᜀ参加᠀さんかᤀしてくれよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_006_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>403833103</Id>
+          <Value>コンボか　ᜀ必殺技᠀ひっさつわざᤀか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_006_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>424805145</Id>
+          <Value>いろんなᜀ属性᠀ぞくせいᤀの　アプリᜀ技᠀わざᤀをᜀ使᠀つかᤀうほど
+ᜀ必殺技᠀ひっさつわざᤀゲージが　たまりやすいことは
+ᜀ前᠀まえᤀにも　ᜀ話᠀はなᤀしたな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_006_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>442106649</Id>
+          <Value>でも　ᜀ同᠀おなᤀじᜀ属性᠀ぞくせいᤀだけで　デッキをᜀ組᠀くᤀめば
+ᜀ毎᠀まいᤀターン　すごいコンボがᜀ出᠀だᤀせる！
+どちらも　ᜀＧＯＯＤ᠀グッドᤀな　ᜀ戦法᠀せんぽうᤀだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_006_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>457966360</Id>
+          <Value>アプリᜀ技᠀わざᤀを　コンボでᜀ強化᠀きょうかᤀして
+ガンガン　ᜀ攻᠀せᤀめたいなら
+デッキにᜀ組᠀くᤀむ　ᜀ属性᠀ぞくせいᤀを　ᜀ少᠀すくᤀなくして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_006_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>474350360</Id>
+          <Value>ᜀ必殺技᠀ひっさつわざᤀを　バンバン　ᜀ使᠀つかᤀいたいなら
+できるだけ　たくさんのᜀ属性᠀ぞくせいᤀを
+デッキに　ᜀ組᠀くᤀむといいぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_006_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>491258644</Id>
+          <Value>まぁ　アプモンᜀ数᠀すうᤀが　ᜀ少᠀すくᤀないうちは
+ᜀ持᠀もᤀってるアプモンは　ᜀ全部᠀ぜんぶᤀデッキに
+ᜀ入᠀いᤀれておくのが　オススメだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_007_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>505151765</Id>
+          <Value>よりᜀ強力᠀きょうりょくᤀな　ᜀ必殺技᠀ひっさつわざᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_007_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>524813083</Id>
+          <Value>ᜀ必殺技᠀ひっさつわざᤀゲージが
+２ᜀ本以上᠀ほんいじょうᤀ　たまっていると
+ᜀ必殺技᠀ひっさつわざᤀが　さらにᜀ強力᠀きょうりょくᤀになるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_007_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>540410641</Id>
+          <Value>２ᜀ本᠀ほんᤀなら　２ᜀ倍᠀ばいᤀ！
+３ᜀ本᠀ぼんᤀなら　なんと４ᜀ倍᠀ばいᤀにまで
+パワーアップするんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_007_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>558498585</Id>
+          <Value>ただし！　ᜀ必殺技᠀ひっさつわざᤀゲージの２ᜀ本目᠀ほんめᤀは
+１ᜀ本目᠀ぽんめᤀより　たまりにくいし
+３ᜀ本目᠀ぼんめᤀは　もっとたまりにくい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_007_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>573834001</Id>
+          <Value>どこまで　ためてから　ᜀ使᠀つかᤀうか…
+ドライヴァーとしての
+ᜀ腕᠀うでᤀのᜀ見᠀みᤀせどころだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_008_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>587727111</Id>
+          <Value>レアなアプモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_008_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>607388433</Id>
+          <Value>ＡＲフィールドや　ＡＲダンジョンで
+ᜀ白᠀しろᤀい　アプモンのᜀ影᠀かげᤀを
+ᜀ見᠀みᤀたことはあるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_008_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>625476372</Id>
+          <Value>ふつうの　ᜀ黒᠀くろᤀいᜀ影᠀かげᤀと　ᜀ違᠀ちがᤀって
+ᜀ白᠀しろᤀいᜀ影᠀かげᤀは　めったにᜀ出会᠀であᤀえない
+レアな　アプモンなんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_008_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>641205013</Id>
+          <Value>めったにᜀ出会᠀であᤀえないのも　ᜀ当然᠀とうぜんᤀ！
+いつでも　どこでも
+ᜀ会᠀あᤀえるわけじゃ　なくてだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_008_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>658244368</Id>
+          <Value>ᜀ特定᠀とくていᤀのᜀ場所᠀ばしょᤀで
+ᜀ決᠀きᤀまったᜀ曜日᠀ようびᤀにしか
+ᜀ出会᠀であᤀうことが　できないんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_008_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>675545879</Id>
+          <Value>たとえば　ᰏの　ᜀ家᠀いえᤀにある
+ゲームᜀ機᠀きᤀのＡＲダンジョンは　ᜀ土曜日᠀どようびᤀに
+とあるアプモンが　ᜀ出᠀でᤀるらしいぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_008_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>691929876</Id>
+          <Value>そういうレアな　アプモンは
+ᜀ他᠀ほかᤀにも　たくさんいるって　ᜀ話᠀はなしᤀだ
+がんばって　ᜀ見᠀みᤀつけてみてくれよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_009_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>705429769</Id>
+          <Value>ゲリラᜀ大会᠀たいかいᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_009_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>725091092</Id>
+          <Value>ᜀ大会᠀たいかいᤀには
+ときどきしか　ᜀ発生᠀はっせいᤀしない
+ゲリラᜀ大会᠀たいかいᤀ　ってものがあるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_009_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>743047959</Id>
+          <Value>ᜀ経験値᠀けいけんちᤀや　ｂｉｔが　ガッポリもらえる
+ᜀ普通᠀ふつうᤀの　ᜀ大会᠀たいかいᤀより
+おトクᜀ満載᠀まんさいᤀの　ᜀ大会᠀たいかいᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_009_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>756547858</Id>
+          <Value>ハイエンドＧＰを　ᜀ勝᠀かᤀちᜀ進᠀すすᤀめば…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_009_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>776733464</Id>
+          <Value>さらに　ᜀ上位᠀じょういᤀのゲリラᜀ大会᠀たいかいᤀや
+めずらしい　アイテムが　もらえる
+ᜀ大会᠀たいかいᤀにも　ᜀ参加᠀さんかᤀできるようになるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_009_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>790627086</Id>
+          <Value>もし　ᰏが
+ニュースモンを
+ᜀ仲間᠀なかまᤀに　しているなら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_009_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>809501461</Id>
+          <Value>「ニュース」の　フィールドアプリを
+オンに　ᜀ設定᠀せっていᤀしておけば
+ᜀ開催᠀かいさいᤀしたときに　ᜀ教᠀おしᤀえてやるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_011_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>822870281</Id>
+          <Value>ᜀ強᠀つよᤀくなるには？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_011_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>842269455</Id>
+          <Value>ᜀ強᠀つよᤀくなるための　キホンは
+アプモンを　たくさんᜀ集᠀あつᤀめて
+デッキにᜀ入᠀いᤀれることだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_011_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>860226326</Id>
+          <Value>バトルになったら　ᜀ最後᠀さいごᤀまでᜀ戦᠀たたかᤀえ！
+ᜀ勝᠀かᤀったときは　モチロン　ᜀ負᠀まᤀけても
+アプモンのかけらを　もらえるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_011_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>877265688</Id>
+          <Value>さらに　レベルがᜀ上᠀あᤀがれば　コストの
+ᜀ上限᠀じょうげんᤀもᜀ上᠀あᤀがって　アプモンを　たくさん
+デッキにᜀ入᠀いᤀれられるようになるからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_012_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>890110218</Id>
+          <Value>フィールドᜀ効果᠀こうかᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_012_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>911344407</Id>
+          <Value>フィールドᜀ効果᠀こうかᤀって　ᜀ知᠀しᤀってるか？
+おᜀ互᠀たがᤀいのアプモンに　ᜀ効果᠀こうかᤀをᜀ与᠀あたᤀえる
+ᜀ特殊᠀とくしゅᤀな　アプリᜀ技᠀わざᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_012_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>927597337</Id>
+          <Value>ᜀ例᠀たとᤀえば　ゲンゴーモンの
+ソーシャルフィールドは　おᜀ互᠀たがᤀいの
+ᜀ攻撃᠀こうげきᤀを　ソーシャルᜀ属性᠀ぞくせいᤀにᜀ変᠀かᤀえる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_012_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>944112402</Id>
+          <Value>フィールドが　ᜀ残᠀のこᤀっているᜀ間᠀あいだᤀ
+ᜀ効果᠀こうかᤀは　ずっとᜀ続᠀つづᤀく！
+バトルのᜀ流᠀ながᤀれを　ᜀ変᠀かᤀえちまえ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_012_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>961938201</Id>
+          <Value>ちなみに　フィールドはᜀ上書᠀うわがᤀきされる！
+ᜀ新᠀あたらᤀしいフィールドが　ᜀ張᠀はᤀられると
+ᜀ古᠀ふるᤀいフィールドは　ᜀ消᠀きᤀえるからᜀ注意᠀ちゅういᤀだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_013_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>973865224</Id>
+          <Value>ᜀ属性値᠀ぞくせいちᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_013_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>993788696</Id>
+          <Value>すべてのアプモンは
+７つのᜀ属性᠀ぞくせいᤀ　それぞれに
+「ᜀ属性値᠀ぞくせいちᤀ」ってものを　ᜀ持᠀もᤀっているんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_013_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1011483415</Id>
+          <Value>ᜀ属性値᠀ぞくせいちᤀが　ᜀ高᠀たかᤀいと
+そのᜀ属性᠀ぞくせいᤀの　ᜀ攻撃᠀こうげきᤀをᜀ受᠀うᤀけたとき
+ダメージを　ᜀ減᠀へᤀらしてくれるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_013_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1028784917</Id>
+          <Value>ただ　もともとᜀ苦手᠀にがてᤀな　ᜀ属性᠀ぞくせいᤀは
+ᜀ属性値᠀ぞくせいちᤀがᜀ高᠀たかᤀくても　あんまり
+ダメージがᜀ減᠀へᤀらないから　ᜀ覚᠀おぼᤀえとけよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_014_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042284825</Id>
+          <Value>ᜀ属性値᠀ぞくせいちᤀのᜀ成長᠀せいちょうᤀとメジャーＶｅｒ．</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_014_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060504340</Id>
+          <Value>ᜀ属性値᠀ぞくせいちᤀは
+アプリドライヴの　アプモンᜀ強化᠀きょうかᤀで
+ᜀ上᠀あᤀげることが　できるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_014_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1080034080</Id>
+          <Value>１つのᜀ属性値᠀ぞくせいちᤀは　ᜀ最大᠀さいだいᤀで
+１００まで　ᜀ成長᠀せいちょうᤀさせることができる！
+７つのᜀ属性値᠀ぞくせいちᤀのᜀ合計᠀ごうけいᤀにも　ᜀ上限᠀じょうげんᤀがあるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_014_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1095238424</Id>
+          <Value>ᜀ属性値合計᠀ぞくせいちごうけいᤀの　ᜀ上限᠀じょうげんᤀは
+アプモンの　メジャーＶｅｒ．を
+ᜀ上᠀あᤀげれば　ᜀ増᠀ふᤀやすことができるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_014_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1112933148</Id>
+          <Value>メジャーＶｅｒ．を　ᜀ上᠀あᤀげるには
+ᜀ合体᠀がったいᤀロックをᜀ使᠀つかᤀって　アプᜀ合体᠀がったいᤀをするか
+アイテムを　ᜀ使᠀つかᤀうᜀ必要᠀ひつようᤀがあって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_014_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1130627869</Id>
+          <Value>そのᜀ名᠀なᤀも「バージョンアップパッチ」！
+ᜀ町᠀まちᤀのᜀ中᠀なかᤀでᜀ拾᠀ひろᤀったり　ᜀ人᠀ひとᤀのおᜀ願᠀ねがᤀいをᜀ聞᠀きᤀくと
+おᜀ礼᠀れいᤀでもらえたりするぜ　ᜀ探᠀さがᤀしてみろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_015_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142554899</Id>
+          <Value>ソーシャルᜀ属性᠀ぞくせいᤀのᜀ特徴᠀とくちょうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_015_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1162216214</Id>
+          <Value>ソーシャルᜀ属性᠀ぞくせいᤀは
+ᜀ他᠀たᤀのアプモンと　ᜀ協力᠀きょうりょくᤀすることが
+ᜀ得意᠀とくいᤀな　アプモンがᜀ多᠀おおᤀいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_015_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178862359</Id>
+          <Value>いろんなᜀ属性᠀ぞくせいᤀが
+ᜀ入᠀はいᤀっている　デッキのᜀ方᠀ほうᤀが
+ソーシャルᜀ属性᠀ぞくせいᤀは　ᜀ活躍᠀かつやくᤀできるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_015_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195639579</Id>
+          <Value>アプリンクᜀ能力᠀のうりょくᤀも　ᜀ他᠀ほかᤀのᜀ属性᠀ぞくせいᤀより
+ᜀ強力᠀きょうりょくᤀだから　アプリンクにも
+オススメだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_015_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1213727518</Id>
+          <Value>ナビᜀ属性᠀ぞくせいᤀにᜀ強᠀つよᤀく　ライフᜀ属性᠀ぞくせいᤀにᜀ弱᠀よわᤀいんだ
+ᜀ能力᠀のうりょくᤀの　バランスがとれてて
+ᜀ使᠀つかᤀいやすい　ᜀ属性᠀ぞくせいᤀだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_016_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226178832</Id>
+          <Value>ナビᜀ属性᠀ぞくせいᤀのᜀ特徴᠀とくちょうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_016_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1247413016</Id>
+          <Value>ナビᜀ属性᠀ぞくせいᤀは　ᜀ案内上手᠀あんないじょうずᤀ
+スピードや　ᜀ命中率᠀めいちゅうりつ　ᤀにᜀ関᠀かんᤀする
+ᜀ能力᠀のうりょくᤀがᜀ多᠀おおᤀい　ᜀ属性᠀ぞくせいᤀだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_016_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1263665944</Id>
+          <Value>ᜀ攻撃᠀こうげきᤀをよけたり　ᜀ必中᠀ひっちゅうᤀにしたり
+ᜀ先攻᠀せんこうᤀを　ᜀ取᠀とᤀれるようにしたり…
+サポートᜀ技᠀わざᤀが　ᜀ得意᠀とくいᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_016_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1279656474</Id>
+          <Value>アプリᜀ技᠀わざᤀの　ᜀ威力᠀いりょくᤀは　ᜀ少᠀すこᤀしᜀ弱᠀よわᤀいけど
+アプリンクᜀ能力᠀のうりょくᤀは　ᜀ強力᠀きょうりょくᤀだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_016_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1298662174</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀにᜀ強᠀つよᤀくソーシャルᜀ属性᠀ぞくせいᤀにᜀ弱᠀よわᤀい
+ᜀ七属性᠀ななぞくせいᤀイチの　スピードをᜀ使᠀つかᤀって
+ᜀ物理攻撃᠀ぶつりこうげきᤀで　ガンガン　ᜀ攻᠀せᤀめていけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_017_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310195986</Id>
+          <Value>システムᜀ属性᠀ぞくせいᤀのᜀ特徴᠀とくちょうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_017_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1330119452</Id>
+          <Value>システムᜀ属性᠀ぞくせいᤀは
+ᜀ守᠀まもᤀりを　かためたり
+ᜀ相手᠀あいてᤀのᜀ攻撃᠀こうげきᤀを　ᜀ防᠀ふせᤀぐのがᜀ得意᠀とくいᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_017_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1348207385</Id>
+          <Value>とにかく　ᜀ相手᠀あいてᤀのᜀ攻撃᠀こうげきᤀを　ᜀ耐᠀たᤀえる！
+そのᜀ間᠀あいだᤀに　ᜀ必殺技᠀ひっさつわざᤀゲージをᜀ溜᠀たᤀめて
+ねらうは　ᜀ一発逆転᠀いっぱつぎゃくてんᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_017_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1363804954</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀに　ᜀ強᠀つよᤀくて
+ディフェンスも　ᜀ高᠀たかᤀいから
+ᜀ物理攻撃᠀ぶつりこうげきᤀをᜀ防᠀ふせᤀぐには　うってつけだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_017_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379926811</Id>
+          <Value>ただし！
+ツールᜀ属性᠀ぞくせいᤀには　ᜀ弱᠀よわᤀいから
+ᜀ特殊攻撃᠀とくしゅこうげきᤀには　ᜀ要注意᠀ようちゅういᤀだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_018_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394082066</Id>
+          <Value>エンタメᜀ属性᠀ぞくせいᤀのᜀ特徴᠀とくちょうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_018_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1413874454</Id>
+          <Value>エンタメᜀ属性᠀ぞくせいᤀは
+ᜀ自分᠀じぶんᤀやᜀ味方᠀みかたᤀを　ᜀ強化᠀きょうかᤀして
+ᜀ戦᠀たたかᤀうのが　ᜀ得意᠀とくいᤀなんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_018_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429864983</Id>
+          <Value>ᜀ味方᠀みかたᤀの　ステータスを　ᜀ強化᠀きょうかᤀして
+バトルをᜀ有利᠀ゆうりᤀに　ᜀ進᠀すすᤀめることができるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_018_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1447297819</Id>
+          <Value>エンタメᜀ属性᠀ぞくせいᤀの　アプモンは
+セキュリティがᜀ高᠀たかᤀくて　ᜀ特殊攻撃᠀とくしゅこうげきᤀでは
+なかなか　やられないから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_018_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463943958</Id>
+          <Value>ᜀ誰᠀だれᤀを　ᜀ強化᠀きょうかᤀしようか　ᜀ悩᠀なやᤀんだら
+エンタメᜀ属性᠀ぞくせいᤀを
+ᜀ強化᠀きょうかᤀすると　いいかもな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_018_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1481507606</Id>
+          <Value>ライフᜀ属性᠀ぞくせいᤀには　ᜀ強᠀つよᤀいが
+ゲームᜀ属性᠀ぞくせいᤀには　ᜀ弱᠀よわᤀいんだ
+ᜀ物理攻撃᠀ぶつりこうげきᤀには　ᜀ気᠀きᤀをつけろよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_019_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494745361</Id>
+          <Value>ライフᜀ属性᠀ぞくせいᤀのᜀ特徴᠀とくちょうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_019_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1514275604</Id>
+          <Value>ライフᜀ属性᠀ぞくせいᤀは
+ᜀ味方᠀みかたᤀの　サポートが
+ᜀ上手᠀じょうずᤀな
+アプモンがᜀ多᠀おおᤀい　ᜀ属性᠀ぞくせいᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_019_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1532101407</Id>
+          <Value>ＨＰや　ᜀ状態異常᠀じょうたいいじょうᤀの　ᜀ回復᠀かいふくᤀはモチロン
+ᜀ相手᠀あいてᤀを　ᜀ状態異常᠀じょうたいいじょうᤀにするのも
+ᜀ得意᠀とくいᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_019_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1547830036</Id>
+          <Value>ＨＰがᜀ高᠀たかᤀいから　ライフᜀ属性᠀ぞくせいᤀを
+デッキに　ᜀ入᠀いᤀれていくと
+バッテリーが　モリモリᜀ増᠀ふᤀえていくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_019_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1565786908</Id>
+          <Value>ソーシャルᜀ属性᠀ぞくせいᤀにᜀ強᠀つよᤀく
+エンタメᜀ属性᠀ぞくせいᤀにはᜀ弱᠀よわᤀい！
+ᜀ相手᠀あいてᤀがᜀ強化᠀きょうかᤀされたら　ᜀ要注意᠀ようちゅういᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_020_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1578631441</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀのᜀ特徴᠀とくちょうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_020_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1598423832</Id>
+          <Value>ツールᜀ属性᠀ぞくせいᤀは　ᜀ変᠀かᤀわりモノ…
+ちょっと　クセのある
+ᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀった　アプモンがᜀ多᠀おおᤀいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_020_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1616773915</Id>
+          <Value>ᜀ条件᠀じょうけんᤀをᜀ満᠀みᤀたすことで
+ダメージが
+ᜀ増᠀ふᤀえる　アプリᜀ技᠀わざᤀがᜀ多᠀おおᤀく
+ᜀ威力᠀いりょくᤀも　ᜀ他᠀ほかᤀのᜀ属性᠀ぞくせいᤀより　ᜀ高᠀たかᤀいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_020_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1632764699</Id>
+          <Value>クラックも　ᜀ高᠀たかᤀいから
+ᜀ特殊攻撃᠀とくしゅこうげきᤀの　アプリᜀ技᠀わざᤀをᜀ使᠀つかᤀって
+ᜀ攻᠀せᤀめるなら　ツールᜀ属性᠀ぞくせいᤀにまかせとけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_020_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1650066203</Id>
+          <Value>ＨＰや　ディフェンス　セキュリティが
+ᜀ低᠀ひくᤀいから　ᜀ攻撃᠀こうげきᤀされるのは　ᜀ苦手᠀にがてᤀなんだ
+スピードをᜀ活᠀いᤀかしてᜀ先制攻撃᠀せんせいこうげきᤀをねらえ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_020_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1665401628</Id>
+          <Value>ナビᜀ属性᠀ぞくせいᤀには　ᜀ先᠀さきᤀをᜀ越᠀こᤀされるけど
+システムᜀ属性相手᠀ぞくせいあいてᤀには　とにかくᜀ強᠀つよᤀいぞ！
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_021_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1679294737</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀのᜀ特徴᠀とくちょうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_021_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1701184285</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀは　ゲームᜀ属性᠀ぞくせいᤀとのコラボが
+ᜀ大得意᠀だいとくいᤀ！　ゲームᜀ属性᠀ぞくせいᤀのᜀ仲間᠀なかまᤀがいると
+ᜀ最大᠀さいだいᤀのᜀ力᠀ちからᤀを　ᜀ発揮᠀はっきᤀするぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_021_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1717306137</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀのアプモンを　アプリンクで
+ゲームᜀ属性᠀ぞくせいᤀのアプリᜀ技᠀わざᤀが　ᜀ強᠀つよᤀくなる！
+ᜀ全部᠀ぜんぶᤀ　ゲームᜀ属性᠀ぞくせいᤀで　そろえてやれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_021_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1733821209</Id>
+          <Value>だから　ゲームᜀ属性᠀ぞくせいᤀを　ᜀ使᠀つかᤀうᜀ時᠀ときᤀは
+ゲームᜀ属性᠀ぞくせいᤀが　ᜀ多᠀おおᤀめにᜀ入᠀はいᤀったデッキを
+ᜀ使᠀つかᤀっていくのが　オススメだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_021_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1750991648</Id>
+          <Value>アタックにᜀ関᠀かんᤀしては　トップランク！
+ᜀ物理攻撃᠀ぶつりこうげきᤀのアプリᜀ技᠀わざᤀなら　ゲームᜀ属性᠀ぞくせいᤀの
+アプモンに　ᜀ使᠀つかᤀわせるのがᜀ最高᠀さいこうᤀだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_021_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1766982428</Id>
+          <Value>ᜀ物理攻撃᠀ぶつりこうげきᤀにᜀ強᠀つよᤀい　システムᜀ属性᠀ぞくせいᤀは
+ᜀ大᠀だいᤀのᜀ苦手᠀にがてᤀだが
+エンタメᜀ属性᠀ぞくせいᤀには　ᜀ強᠀つよᤀいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_022_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1780220181</Id>
+          <Value>アプᜀ合体᠀がったいᤀで　超アプモンをᜀ使᠀つかᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_022_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1798570517</Id>
+          <Value>アプᜀ合体᠀がったいᤀして　グレードがᜀ上᠀あᤀがると
+アプモンは　バツグンに　ᜀ強᠀つよᤀくなるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_022_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1816920859</Id>
+          <Value>ᜀ手札᠀てふだᤀに　アプᜀ合体᠀がったいᤀできる
+アプモンが　そろっているときは
+ᜀ積極的᠀せっきょくてきᤀに　ᜀ狙᠀ねらᤀっていくのが　オススメだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_022_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1834746650</Id>
+          <Value>しかも　ᜀ必殺技᠀ひっさつわざᤀゲージがたまっていれば
+そのまま　ᜀ必殺技᠀ひっさつわざᤀもᜀ使᠀つかᤀえる！
+ᜀ通常᠀つうじょうᤀより　ᜀ威力᠀いりょくᤀはᜀ下᠀さᤀがるんだけどな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_022_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1849950998</Id>
+          <Value>アプᜀ合体᠀がったいᤀしたままのアプモンを
+デッキに　ᜀ編成᠀へんせいᤀしたいときは
+アプリドライヴから　アプᜀ合体᠀がったいᤀすると…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_022_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1867514648</Id>
+          <Value>アプᜀ合体後᠀がったいごᤀの　アプモンチップが
+ᜀ手᠀てᤀにはいるぞ！　ᜀ合体᠀がったいᤀロックが
+ᜀ必要᠀ひつようᤀだから　コツコツᜀ集᠀あつᤀめておけよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_023_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1880490256</Id>
+          <Value>いろんなアプリᜀ技᠀わざᤀをᜀ使᠀つかᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_023_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1900282644</Id>
+          <Value>アプリᜀ技᠀わざᤀのᜀ中᠀なかᤀには
+ᜀ条件᠀じょうけんᤀを　ᜀ満᠀みᤀたしたときにだけ
+ᜀ効果᠀こうかᤀがアップするものがあるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_023_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1918239516</Id>
+          <Value>ダメージが　ᜀ何倍᠀なんばいᤀにも　ᜀ上᠀あᤀがるけど
+ᜀ条件᠀じょうけんᤀにᜀ合᠀あᤀわないと　ᜀ弱᠀よわᤀいからᜀ使᠀つかᤀいづらい
+…なんて　ᜀ思᠀おもᤀってないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_023_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1934099224</Id>
+          <Value>そういうアプリは　
+いろんなᜀ種類᠀しゅるいᤀを　たくさんᜀ入᠀いᤀれておくと
+どれかがᜀ合᠀あᤀいやすくなって　ᜀ強力᠀きょうりょくᤀだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_023_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1950614294</Id>
+          <Value>ᜀ今᠀いまᤀはᜀ使᠀つかᤀえないと　ᜀ思᠀おもᤀったアプリは
+コンボに　ᜀ使᠀つかᤀうのもアリだ
+かなりダイジな　テクニックなんだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_023_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1969488665</Id>
+          <Value>ᜀ手札᠀てふだᤀは　ᜀ最大᠀さいだいᤀで１５ᜀ枚᠀まいᤀもある
+コンボでᜀ捨᠀すᤀてられることをうまくᜀ使᠀つかᤀえば
+ᜀ戦略᠀せんりゃくᤀのᜀ幅᠀はばᤀが　ᜀ大᠀おおᤀきくᜀ広᠀ひろᤀがるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_024_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1980891407</Id>
+          <Value>アプモンのᜀ属性᠀ぞくせいᤀについて</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_024_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1998061845</Id>
+          <Value>アプモンには　それぞれᜀ属性᠀ぞくせいᤀがある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_024_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2020868895</Id>
+          <Value>ᜀ相手᠀あいてᤀのアプモンの　ᜀ属性᠀ぞくせいᤀにᜀ対᠀たいᤀして
+ᜀ相性᠀あいしょうᤀのいいᜀ属性᠀ぞくせいᤀの　アプモンをᜀ出᠀だᤀしたり
+ᜀ相性᠀あいしょうᤀのいいᜀ属性᠀ぞくせいᤀの　アプリᜀ技᠀わざᤀをᜀ使᠀つかᤀえば…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_024_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2035680027</Id>
+          <Value>ᜀ攻撃᠀こうげきᤀで　ᜀ与᠀あたᤀえられるダメージを
+ᜀ大᠀おおᤀきく　ᜀ上᠀あᤀげることができるぞ！
+ᜀ好相性᠀こうあいしょうᤀがᜀ重᠀かさᤀなれば　ダメージアップだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_024_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>2052719387</Id>
+          <Value>ᜀ逆᠀ぎゃくᤀに　ᜀ相手᠀あいてᤀのアプモンやアプリᜀ技᠀わざᤀに
+ᜀ相性᠀あいしょうᤀのいい　ᜀ属性᠀ぞくせいᤀのアプモンをᜀ出᠀だᤀせば
+ダメージをᜀ減᠀へᤀらすこともできる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_024_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>2069365530</Id>
+          <Value>ときには　あせってᜀ攻撃᠀こうげきᤀせずに
+ᜀ相性᠀あいしょうᤀのいいᜀ属性᠀ぞくせいᤀの　アプモンに
+ᜀ交換᠀こうかんᤀするのも　かしこいᜀ戦᠀たたかᤀいᜀ方᠀かたᤀだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_025_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>2080899335</Id>
+          <Value>アプリバースト</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_025_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>2098987787</Id>
+          <Value>ᰏは
+もう　アプリバーストを
+ᜀ見᠀みᤀたことはあるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_025_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2117337878</Id>
+          <Value>バッテリーがᜀ少᠀すくᤀなくなって
+ピンチになると…
+アプリバーストがᜀ発生᠀はっせいᤀすることがある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_025_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2134508306</Id>
+          <Value>アプリバーストᜀ状態᠀じょうたいᤀになった
+アプモンは　すべてのパラメータが
+ᜀ大幅᠀おおはばᤀに　アップするんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_025_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>2151285273</Id>
+          <Value>さらに　アプモンのＨＰも　ᜀ全回復᠀ぜんかいふくᤀ！
+まさに　ᜀ大逆転᠀だいぎゃくてんᤀの　ᜀ大᠀だいᤀチャンスだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_025_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>2168980249</Id>
+          <Value>ねらってできる　わけじゃないが
+バディや　おᜀ気᠀きᤀにいりの　アプモンは
+ᜀ少᠀すこᤀしだけ　ᜀ確率᠀かくりつᤀがᜀ上᠀あᤀがる　みたいだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_026_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>2181824777</Id>
+          <Value>デッキとᜀ手札᠀てふだᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_026_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>2202534678</Id>
+          <Value>デッキのᜀ作᠀つくᤀりᜀ方᠀かたᤀは　もうᜀ覚᠀おぼᤀえたか？
+バトルでは　そのデッキを
+ᜀ山札᠀やまふだᤀとして　ᜀ使᠀つかᤀうことになるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_026_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2220622616</Id>
+          <Value>バトルがᜀ始᠀はじᤀまると　ᜀ山札᠀やまふだᤀから
+ᜀ手札᠀てふだᤀが　１５ᜀ枚᠀まいᤀ　ᜀ補充᠀ほじゅうᤀされる
+ᜀ足᠀たᤀりないᜀ場合᠀ばあいᤀは　あるだけᜀ全部᠀ぜんぶᤀだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_026_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2237924123</Id>
+          <Value>ᜀ手札᠀てふだᤀは　ᜀ毎᠀まいᤀターン　ᜀ最大᠀さいだいᤀ１５ᜀ枚᠀まいᤀまで
+ᜀ補充᠀ほじゅうᤀされるけど　ᜀ山札᠀やまふだᤀがなくなれば
+ᜀ補充᠀ほじゅうᤀもされないから　ᜀ注意᠀ちゅういᤀしろよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_026_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>2253521688</Id>
+          <Value>ᜀ手札᠀てふだᤀもᜀ山札᠀やまふだᤀも　なくなると
+ペナルティとしてバッテリーをᜀ減᠀へᤀらして
+ᜀ山札᠀やまふだᤀとᜀ手札᠀てふだᤀを　ᜀ回復᠀かいふくᤀするんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_026_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>2269381400</Id>
+          <Value>ペナルティᜀ覚悟᠀かくごᤀで
+ガンガンᜀ使᠀つかᤀって　ガンガンᜀ補充᠀ほじゅうᤀするのも
+ᜀ作戦᠀さくせんᤀの　ᜀ一᠀ひとᤀつだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_026_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>2285896473</Id>
+          <Value>ただし　ＨＰが　０になったアプモンは
+そのバトルᜀ中᠀ちゅうᤀは　ᜀ補充᠀ほじゅうᤀされなくなるから
+ᜀ注意᠀ちゅういᤀしろよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_026_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>2305819424</Id>
+          <Value>ＨＰが　０になるᜀ前᠀まえᤀに　ᜀ交換᠀こうかんᤀすれば
+ᜀ山᠀やまᤀᜀ札᠀ふだᤀがᜀ回復᠀かいふくᤀしたときに　ᜀ山᠀やまᤀᜀ札᠀ふだᤀにᜀ戻᠀もどᤀるから
+ᜀ引᠀ひᤀきᜀ際᠀ぎわᤀを　キッチリ　ᜀ見極᠀みきわᤀめろよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_027_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>2316173578</Id>
+          <Value>バディとおᜀ気᠀きᤀにいり</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_027_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>2335572753</Id>
+          <Value>バディやおᜀ気᠀きᤀにいりにした
+アプモンは　バトルᜀ開始時᠀かいしじᤀに
+ᜀ手札᠀てふだᤀにきやすくなるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_027_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2350907919</Id>
+          <Value>もちろん　バディにしたᜀ方᠀ほうᤀが
+ᜀ効果᠀こうかᤀはアップ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_027_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2369127187</Id>
+          <Value>おᜀ前᠀まえᤀのバトルに
+ᜀ一番᠀いちばんᤀ　ᜀ必要᠀ひつようᤀなアプモンを
+バディに　してやってくれよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_028_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>2382758149</Id>
+          <Value>バッテリー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_028_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>2405565212</Id>
+          <Value>バッテリーは　ドライヴァーのᜀ生命線᠀せいめいせんᤀ！
+バトルᜀ中᠀ちゅうᤀ　ᜀ画面᠀がめんᤀの　ᜀ左下᠀ひだりしたᤀに
+ᜀ表示᠀ひょうじᤀされるから　ᜀ常᠀つねᤀにᜀ注意᠀ちゅういᤀしておけよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_028_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2419458832</Id>
+          <Value>アプモンが　ダメージをᜀ受᠀うᤀけると
+ᜀ同᠀おなᤀじᜀ分᠀ぶんᤀだけ　バッテリーも
+ᜀ減᠀へᤀっていって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_028_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2435973904</Id>
+          <Value>バッテリーが　なくなると
+バトルは　ᜀ負᠀まᤀけになるんだ
+ᜀＳＯ　ＳＡＤ᠀ソー　サッドᤀ　だぜ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BTL_028_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>2454848279</Id>
+          <Value>バッテリーのᜀ最大値᠀さいだいちᤀは　デッキに
+ᜀ組᠀くᤀみᜀ込᠀こᤀんでいるアプモンの　ＨＰが
+ᜀ多᠀おおᤀいほどᜀ増᠀ふᤀえるから　ᜀ要᠀ようᤀチェックだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

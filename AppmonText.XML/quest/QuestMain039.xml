@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>ナオトとバトル！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563913</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37487378</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118345</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71041810</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672777</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104596242</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227209</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150674</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781641</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>171705106</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336073</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205259538</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890505</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>238813970</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444937</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272368402</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999369</Id>
+          <Value>ナオトにᜀ勝᠀かᤀとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>305922834</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322700050</Id>
+          <Value>ナオトが　バトルを　しかけてきた！
+ᜀ何᠀なにᤀか　ᜀ事情᠀じじょうᤀが　ありそう…
+このバトル　ᜀ受᠀うᤀけてたとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

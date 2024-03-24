@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>87</NumberOfLabels>
+  <NumberOfStrings>87</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195091</Id>
+          <Value>このᜀ町᠀まちᤀで　ニュースのネタに
+なりそうなことを　ᜀ探᠀さがᤀしてくるコソ！
+「ニュースは　ᜀ足᠀あしᤀで　かせぐ」コソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>21496597</Id>
+          <Value>たとえば　ここから　ᜀ南᠀みなみᤀのほうに　いる
+スピードᜀ自慢᠀じまんᤀの　レースモンくらいなら
+ᜀ文句᠀もんくᤀなしの　ニュースに　なるコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749525</Id>
+          <Value>おおっ！　ᜀ来᠀きᤀたコソ！　ᜀ来᠀きᤀたコソ！
+レースᜀ界᠀かいᤀの
+スーパースターᜀ様᠀さまᤀの　おᜀ戻᠀もどᤀりだコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53608981</Id>
+          <Value>ᜀ最新᠀さいしんᤀの　ᜀ裏口᠀うらくちᤀコミニュースを
+たったᜀ今᠀いまᤀ　アップしたトコだコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71041817</Id>
+          <Value>ᜀ最新᠀さいしんᤀの　ᜀ裏口᠀うらくちᤀコミニュースをアップ？
+ニュースが　ᜀ更新᠀こうしんᤀされたんだな
+どれどれ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>88081175</Id>
+          <Value>「ミハマᜀ公園杯᠀こうえんカップᤀ　かけっこレースで
+　レースモンを　やぶった
+　ᰏの　ᜀ新᠀あらᤀたなᜀ宣言᠀せんげんᤀ！！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>107479841</Id>
+          <Value>「もっと　ᜀ速᠀はやᤀいヤツに　ᜀ会᠀あᤀいにᜀ行᠀いᤀく！
+　レースのᜀ世界᠀せかいᤀで　ナンバー１ᜀ宣言᠀せんげんᤀ！
+　ᜀ次᠀つぎᤀの　ᜀ挑戦᠀ちょうせんᤀは　ᜀ世界一周᠀せかいいっしゅうᤀレース！！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>119406868</Id>
+          <Value>もっと　ᜀ速᠀はやᤀいヤツに　ᜀ会᠀あᤀいにᜀ行᠀いᤀく？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>136577553</Id>
+          <Value>ᜀ世界一周᠀せかいいっしゅうᤀレース！？
+オレ　そんなこと　しないよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>154534678</Id>
+          <Value>ニュースは　ᜀ話題性᠀わだいせいᤀが　あったほうが
+みんなに　ウケるコソ！
+これくらいで　ちょうどいいコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>172229395</Id>
+          <Value>でも　ニュースは　ᜀ足᠀あしᤀで　かせげとは
+ᜀ言᠀いᤀったけど　ᜀ本当᠀ほんとうᤀにᜀ足᠀あしᤀで
+ニュースになるなんて　スゴいコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>187302674</Id>
+          <Value>うん！
+ᜀ文句᠀もんくᤀなしに　オイラのᜀ試練᠀しれんᤀ
+ᜀ合格᠀ごうかくᤀだコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>203293454</Id>
+          <Value>ᰏは
+ミハマᜀ団᠀だんᤀの　ᜀ試練᠀しれんᤀを
+クリアした</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>219808271</Id>
+          <Value>ᜀ試練᠀しれんᤀに　ᜀ合格᠀ごうかくᤀ？？
+やった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>235667724</Id>
+          <Value>ありがとう　コソモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>253625100</Id>
+          <Value>いやいや
+ᰏの　ᜀ実力᠀じつりょくᤀだコソ
+おめでとうコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>273023766</Id>
+          <Value>ここからᜀ南᠀みなみᤀに　ᜀ行᠀いᤀった　カドに
+すぐに　ᜀ勝負᠀しょうぶᤀを　したがる　ᜀ変᠀かᤀわった
+アプモンが　いるってウワサだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>290849559</Id>
+          <Value>ᜀ勝負᠀しょうぶᤀの　ᜀ内容᠀ないようᤀも　ᜀ変᠀かᤀわっててさ
+このへんを　ᜀ走᠀はしᤀりᜀ回᠀まわᤀる　レースだってさ
+そのうち　ᜀ大᠀おおᤀきなニュースになるかもね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_016_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316058</Id>
+          <Value>ᜀ疾走᠀しっそうᤀ！　ᜀ激走᠀げきそうᤀ！　ᜀ話題᠀わだいᤀのアプモン
+スピード　ナンバー１の
+レースモンったぁ　オレのことでいっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_016_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>323355415</Id>
+          <Value>ちょっと　ᜀ休᠀やすᤀんだら
+また　ひとっᜀ走᠀ぱしᤀり　ᜀ行᠀いᤀってくるぜい
+レーサーには　ᜀ休息᠀きゅうそくᤀも　ᜀ大事᠀だいじᤀでい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_016_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>335806723</Id>
+          <Value>ふぃー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>356647706</Id>
+          <Value>ᜀ疾走᠀しっそうᤀ！　ᜀ激走᠀げきそうᤀ！　ᜀ話題᠀わだいᤀのアプモン
+スピード　ナンバー１の
+レースモンったぁ　オレのことでいっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>369885451</Id>
+          <Value>スピード　ナンバー１？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>388891409</Id>
+          <Value>そのとおり！　ᜀ負᠀まᤀけナシの　オレと
+レース　やってみるかい！？
+さあさあ　さあさあ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>407503644</Id>
+          <Value>オレと　ᜀ正々堂々᠀せいせいどうどうᤀ　レースᜀ勝負᠀しょうぶᤀして
+ᜀ勝᠀かᤀってもらおうじゃねーか！
+さあ　ᜀ勝᠀かᤀってもらおうじゃねーか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>421266191</Id>
+          <Value>えっ！？
+オレがっ！？
+いや…　オレは　レースなんて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>436732168</Id>
+          <Value>レースを　やる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>454033676</Id>
+          <Value>ᜀ急᠀きゅうᤀには　ムリだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>471204364</Id>
+          <Value>レースなんて
+ᜀ急᠀きゅうᤀには　ムリだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>489292561</Id>
+          <Value>それじゃあ
+オメーさんが　そのᜀ気᠀きᤀに　なるまで
+ここで　ᜀ待᠀まᤀっててやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>506069775</Id>
+          <Value>かならず　ᜀ戻᠀もどᤀってきて
+オレと　レースᜀ勝負᠀しょうぶᤀして
+もらうぜぃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>522846994</Id>
+          <Value>ᜀ来᠀きᤀたな！
+オレと　レースで
+ᜀ勝負᠀しょうぶᤀするᜀ気᠀きᤀに　なったか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>537395464</Id>
+          <Value>レースを　やる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>554959120</Id>
+          <Value>まだᜀ準備᠀じゅんびᤀ　できていないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>570556672</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>589169169</Id>
+          <Value>まだ　レースの　ᜀ準備᠀じゅんびᤀなんて
+できていないから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>606733073</Id>
+          <Value>それじゃあ
+オメーさんが　そのᜀ気᠀きᤀに　なるまで
+ここで　ᜀ待᠀まᤀっててやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>623510287</Id>
+          <Value>かならず　ᜀ戻᠀もどᤀってきて
+オレと　レースᜀ勝負᠀しょうぶᤀして
+もらうぜぃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>637927686</Id>
+          <Value>よろこんで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>654442752</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>674235156</Id>
+          <Value>わかったよ
+なんだか　よくわからないけど
+その　レースのᜀ勝負᠀しょうぶᤀ　ᜀ受᠀うᤀけるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>689963538</Id>
+          <Value>そうこなくっちゃ！
+いいか　ᜀ勝負᠀しょうぶᤀは　カンタン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>707658511</Id>
+          <Value>オレが　このあたりを　ぐるっと
+ᜀ走᠀はしᤀるから　オメーさんが
+オレを　つかまえるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>724435730</Id>
+          <Value>オメーさんより　ᜀ速᠀はやᤀく　ᜀ走᠀はしᤀって
+つかまらなければ
+オレの　ᜀ勝᠀かᤀち！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>741737231</Id>
+          <Value>オレより　ᜀ速᠀はやᤀく　ᜀ走᠀はしᤀって
+オレを　つかまえられれば
+オメーさんの　ᜀ勝᠀かᤀちってワケだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>757596941</Id>
+          <Value>え～と…　とにかく
+レースモンを　つかまえれば
+オレの　ᜀ勝᠀かᤀちなんだね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>775029524</Id>
+          <Value>そういうことよぉぉぉ！
+それじゃあ　さっそく
+レースᜀ勝負᠀しょうぶᤀ　ᜀ開始᠀かいしᤀだぜぃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>791937810</Id>
+          <Value>なんだ　なんだ！　あーっ！
+こんなに　カンタンに　ᜀ勝᠀かᤀったんじゃ
+ᜀ納得᠀なっとくᤀ　いかねぇ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>808715022</Id>
+          <Value>ᜀ準備᠀じゅんびᤀが　ととのったら
+もう　ひとᜀ勝負᠀しょうぶᤀだ！
+ᜀ逃᠀にᤀげるんじゃ　ないぜぃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>827065112</Id>
+          <Value>おう！　こりずに　ᜀ来᠀きᤀたな！
+ᜀ何度᠀なんどᤀでも　ᜀ勝負᠀しょうぶᤀしてやるぜぃ！
+レースᜀ勝負᠀しょうぶᤀ！　さっそく　ᜀ開始᠀かいしᤀだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>839385352</Id>
+          <Value>レースを　やる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>856555787</Id>
+          <Value>ごめん　またᜀ今度᠀こんどᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>872546560</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>891159053</Id>
+          <Value>ごめん　ᜀ今᠀いまᤀはやらないよ
+また　ᜀ今度᠀こんどᤀね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>909509399</Id>
+          <Value>しかたねぇな
+ᜀ準備᠀じゅんびᤀが　ととのったら
+ᜀ勝負᠀しょうぶᤀするんだからな！　ᜀ忘᠀わすᤀれるなよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>923271431</Id>
+          <Value>のぞむところだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>939655424</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>958267919</Id>
+          <Value>のぞむところだよ
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>976618258</Id>
+          <Value>ふぅ…　オメーさん
+なかなかの　ᜀ走᠀はしᤀりっぷりだったぜ！
+オレのᜀ負᠀まᤀけだぁ！　ᜀ負᠀まᤀけだぁ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>992084747</Id>
+          <Value>はぁ　はぁ…
+なんとか　ᜀ勝᠀かᤀてたって
+ᜀ感᠀かんᤀじだ　はぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009648398</Id>
+          <Value>このレースᜀ勝負᠀しょうぶᤀ
+オレに　ᜀ勝᠀かᤀったのは
+オメーさんが　ᜀ初᠀はじᤀめてだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1028260631</Id>
+          <Value>まさか　オレがᜀ人間᠀にんげんᤀに　ᜀ負᠀まᤀけるとはよ！
+このレースモン　ᜀ生᠀うᤀまれてᜀ初᠀はじᤀめて
+ᜀ負᠀まᤀけを　ᜀ認᠀みとᤀめるぜぃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1044906776</Id>
+          <Value>ᜀ世界中᠀せかいじゅうᤀの　みんなぁ　ᜀ聞᠀きᤀいてくれぃ！
+レースᜀ界᠀かいᤀに　ᜀ新᠀あらᤀたなスーパースターが
+ᜀ生᠀うᤀまれたぜぃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060635412</Id>
+          <Value>ああ！　ᰏ！
+コソモンの　ᜀ裏᠀うらᤀᜀ口᠀くちᤀコミアプリ！
+もう　ᜀ今᠀いまᤀのレースのこと　のってるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077805846</Id>
+          <Value>「ミハマᜀ公園杯᠀こうえんカップᤀ　かけっこレース
+　レースモン　ついに　やぶれる！
+　ᜀ勝者᠀しょうしゃᤀ　ᰏ！」だって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1095369493</Id>
+          <Value>うわぁ…　ᜀ早᠀はやᤀすぎだろ！
+いったい　ᜀ誰᠀だれᤀが　レースを　ᜀ見᠀みᤀてて
+ᜀ誰᠀だれᤀが　アプリに　ᜀ書᠀かᤀきᜀ込᠀こᤀんだんだ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110835987</Id>
+          <Value>そんなことより！
+これで　コソモンの　ᜀ試練᠀しれんᤀ
+ᰏは　ᜀ合格᠀ごうかくᤀか？　ᜀ合格᠀ごうかくᤀか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126302479</Id>
+          <Value>どうだろう
+いったん　コソモンの　ところに
+ᜀ戻᠀もどᤀってみようか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143866132</Id>
+          <Value>ᰏ！
+ᜀ気᠀きᤀが　ᜀ向᠀むᤀいたら　また
+レースᜀ勝負᠀しょうぶᤀを　しようじゃねーか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_065_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161167634</Id>
+          <Value>オレは　ここで　ᜀ待᠀まᤀってるぜい
+オメーさんが　ひとᜀ段落᠀だんらくᤀしたら
+また　ᜀ来᠀きᤀてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178469140</Id>
+          <Value>そうそう　レースᜀ勝負᠀しょうぶᤀと　いえば…
+ᜀ走᠀はしᤀってるᜀ最中᠀さいちゅうᤀに
+フラッグが　ᜀ落᠀おᤀちてただろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1196032789</Id>
+          <Value>ᜀ次᠀つぎᤀからは　あのフラッグを　ᜀ集᠀あつᤀめたら
+アプモンのかけらと　ᜀ交換᠀こうかんᤀしてやるよ
+じゃ　また　ᜀ勝負᠀しょうぶᤀしような！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209271049</Id>
+          <Value>うん！
+それじゃあ　またね
+レースモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_068_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228800788</Id>
+          <Value>いいᜀ勝負᠀しょうぶᤀだったな　ᰏ！
+ᜀ気᠀きᤀが　ᜀ向᠀むᤀいたら　また
+レースᜀ勝負᠀しょうぶᤀを　しようじゃねーか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_068_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245053714</Id>
+          <Value>オレは　ここで　ᜀ待᠀まᤀってるぜい
+オメーさんが　ひとᜀ段落᠀だんらくᤀしたら
+また　ᜀ来᠀きᤀてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260126991</Id>
+          <Value>えっ！？
+ワタシがっ！？
+いや…　ワタシ　レースなんて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276510731</Id>
+          <Value>レースなんて
+ᜀ急᠀きゅうᤀには　ムリよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_037_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294992148</Id>
+          <Value>わかったわ
+なんだか　よくわからないけど
+その　レースのᜀ勝負᠀しょうぶᤀ　ᜀ受᠀うᤀけるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311245069</Id>
+          <Value>え～と…　とにかく
+レースモンを　つかまえれば
+ワタシの　ᜀ勝᠀かᤀちなのね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327366669</Id>
+          <Value>ごめん　ᜀ今᠀いまᤀはやらないわ
+また　ᜀ今度᠀こんどᤀね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344143887</Id>
+          <Value>のぞむところよ
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_056_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361314571</Id>
+          <Value>はぁ　はぁ…
+なんとか　ᜀ勝᠀かᤀてたって
+ᜀ感᠀かんᤀじだわ　はぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_062_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1380451093</Id>
+          <Value>うわぁ…　ᜀ早᠀はやᤀすぎよ！
+いったい　ᜀ誰᠀だれᤀが　レースを　ᜀ見᠀みᤀてて
+ᜀ誰᠀だれᤀが　アプリに　ᜀ書᠀かᤀきᜀ込᠀こᤀんだのよ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_064_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394869007</Id>
+          <Value>どうだろうね
+いったん　コソモンの　ところに
+ᜀ戻᠀もどᤀってみようか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_073_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411515149</Id>
+          <Value>ごめんね
+ちょっと　ᜀ今᠀いまᤀは
+ᜀ他᠀ほかᤀに　やることがあるの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_007_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428423182</Id>
+          <Value>もっと　ᜀ速᠀はやᤀいヤツに
+ᜀ会᠀あᤀいにᜀ行᠀いᤀく　ですって！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_25_080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445331473</Id>
+          <Value>ᜀ世界一周᠀せかいいっしゅうᤀレース！？
+ワタシ　そんなこと　しないよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

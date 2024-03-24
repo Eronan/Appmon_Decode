@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3670807</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「ワープᜀ杯᠀カップᤀ」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20710173</Id>
+          <Value>「ワープᜀ杯᠀カップᤀ」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>36307728</Id>
+          <Value>あのね…　あの…　あ　あの…
+うう…　メールじゃないと　うまく
+しゃべれないよぉ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>54264595</Id>
+          <Value>１％の　ひらめきが　なければ
+９９％の　ᜀ努力᠀どりょくᤀは　ムダになる
+だから　オレは　ひらめくのを　ᜀ待᠀まᤀつ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>72352535</Id>
+          <Value>すぐにᜀ終᠀おᤀわらせないとスーパーのタイム
+セールにᜀ間᠀まᤀにᜀ合᠀あᤀわないのよだからアンタ
+おばさんをᜀ勝᠀かᤀたせてちょうだいねᜀ約束᠀やくそくᤀよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>86770450</Id>
+          <Value>よう　ᰏ！
+サイバーアリーナで　ᜀ会᠀あᤀうなんてな！
+ここでも　１ゲーム　たのむよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>103678485</Id>
+          <Value>ᜀ見᠀みᤀえる…　ᜀ見᠀みᤀえます…
+ワタシの　ᜀ勝利᠀しょうりᤀする　ᜀ未来᠀みらいᤀ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>120980245</Id>
+          <Value>どーも　アタシが　ᜀ対戦相手᠀たいせんあいてᤀね
+まあ　ゆるっと　ごりっと　やるから
+よろしく　ってことで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199255</Id>
+          <Value>ワープモンに　「ᜀ強᠀つよᤀいヤツとᜀ戦᠀たたかᤀいたい」
+とᜀ言᠀いᤀったら　ここに　ᜀ転送᠀てんそうᤀされたんだ
+キミが　その　ᜀ強᠀つよᤀいヤツ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

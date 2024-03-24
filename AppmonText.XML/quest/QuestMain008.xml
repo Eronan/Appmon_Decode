@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786699</Id>
+          <Value>もうすぐハイエンドＧＰ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404886</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50856200</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959318</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513750</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117965064</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068182</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622614</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073928</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177046</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218628360</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731478</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252182792</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285910</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285737224</Id>
+          <Value>サイバーアリーナ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840342</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323617558</Id>
+          <Value>ハイエンドＧＰの　ᜀ開催᠀かいさいᤀが　ᜀ近᠀ちかᤀいと
+エムシーモンから　ᜀ連絡᠀れんらくᤀが　あった！
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

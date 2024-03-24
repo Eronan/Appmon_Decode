@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>6292253</Id>
+          <Value>ᜀ検索᠀けんさくᤀアプリでは　ᜀ今᠀いまᤀいるᜀ町᠀まちᤀのᜀ情報᠀じょうほうᤀや
+ᜀ目᠀めᤀのᜀ前᠀まえᤀにいる　ᜀ相手᠀あいてᤀのᜀ情報᠀じょうほうᤀを
+ガチッと　ᜀ調᠀しらᤀべてやるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>22151956</Id>
+          <Value>ここは　ニコタマᜀ川᠀がわᤀ　ᜀ南地区᠀みなみちくᤀ
+ᜀ大᠀おおᤀきなᜀ川᠀かわᤀに　ᜀ隣接᠀りんせつᤀした
+すずやかな　ᜀ都会᠀とかいᤀのᜀ一角᠀いっかくᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>39584542</Id>
+          <Value>ᜀ南地区᠀みなみちくᤀは　おおきなᜀ家電量販店᠀かでんりょうはんてんᤀと
+そこから　ᜀ西᠀にしᤀの　ᜀ緑地公園᠀りょくちこうえんᤀが
+ᜀ特徴᠀とくちょうᤀって　ᜀ言᠀いᤀえるだろうな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55575323</Id>
+          <Value>このᜀ辺᠀へんᤀの　オフィスは　ᜀ見学自由᠀けんがくじゆうᤀだから
+アプモンが　ᜀ悪᠀わるᤀさしてないか
+ᜀ見᠀みᤀて　ᜀ回᠀まわᤀるのも　いいかもしれないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262404</Id>
+          <Value>リョウジ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21496596</Id>
+          <Value>リョウジは　ミハマᜀ港᠀こうᤀを　ᜀ庭᠀にわᤀとする
+コミュニティグループ　「ミハマᜀ団᠀だんᤀ」の
+リーダーᜀ兼᠀けんᤀ　Ｄランクマスターだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929176</Id>
+          <Value>ᜀ今᠀いまᤀどき　めずらしいくらい
+ᜀ仁義᠀じんぎᤀを　ᜀ重᠀おもᤀんずる　ᜀ熱血漢᠀ねっけつかんᤀだ
+リーダーだけあって　ᜀ人望᠀じんぼうᤀも　ᜀ厚᠀あつᤀいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54919957</Id>
+          <Value>バディアプモンは　ᜀ裏口᠀うらくちᤀコミアプリの
+コソモン！　ソーシャルᜀ属性᠀ぞくせいᤀに
+ᜀ悪᠀わるᤀいヤツは　いないよな～　うんうん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697174</Id>
+          <Value>しかし　アプリᜀ山᠀やまᤀ４７０　ᜀ花嵐᠀からんᤀエリの
+ファンだったとは　おどろいたぜ…
+ちょっぴり　ドルオタᜀ気質᠀きしつᤀ　なのかもな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

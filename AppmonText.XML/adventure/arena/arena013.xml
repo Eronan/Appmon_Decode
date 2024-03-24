@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3670807</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「スターターＧＰ　ＥＸ３」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841245</Id>
+          <Value>「スターターＧＰ　ＥＸ３」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>36176657</Id>
+          <Value>キミが　ᰏ…
+ウワサには　ᜀ聞᠀きᤀいてるよ
+このバトル　おもしろくなりそうだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>56623899</Id>
+          <Value>エムシーモンのᜀ動画᠀どうがᤀ　すごいᜀ再生数᠀さいせいすうᤀなの
+ᜀ映᠀うつᤀっちゃったら　ワタシも　ᜀ人気者᠀にんきものᤀ？
+キミ　いいᜀ引᠀ひᤀきᜀ立᠀たᤀてᜀ役᠀やくᤀに　なってよね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>69468940</Id>
+          <Value>バトルするとき　なんだか
+すっごく　いいきもち…
+はやく　はじめよう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>87294736</Id>
+          <Value>あー　てすてす　ᜀ聞᠀きᤀこえてる？
+これより　バトルを　はじめまーす
+どうぞ　よろしくおねがいします！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>103154447</Id>
+          <Value>わーい！　バトルだ　バトルだ！
+キミも　バトルすき？
+えへへ　よろしくねえ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>122028826</Id>
+          <Value>まいど！　ᜀ自分᠀じぶんᤀが　ᜀ対戦相手᠀たいせんあいてᤀやな！
+どっち　ᜀ勝᠀かᤀっても　ᜀ恨᠀うらᤀみっこなしやで
+よろしゅうたのむわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>139199255</Id>
+          <Value>ᜀ攻撃᠀こうげきᤀだけが　バトルじゃないよ
+ᜀ防御᠀ぼうぎょᤀや　ᜀ回復᠀かいふくᤀの　アプリᜀ技᠀わざᤀも
+うまくᜀ使᠀つかᤀってこその　エリートさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

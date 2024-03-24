@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>11</NumberOfLabels>
+  <NumberOfStrings>11</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>2360079</Id>
+          <Value>ええと…　チュートモンちゃん！
+まずは　なにから
+はじめたら　いいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>19923728</Id>
+          <Value>ᜀ説明᠀せつめいᤀしまチュ！
+ふむふむ　エムシーモンが
+ᜀ用意᠀よういᤀした　このデッキなら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>38011673</Id>
+          <Value>ミオ！　まずは
+いろんな　ᜀ属性᠀ぞくせいᤀの　アプリᜀ技᠀わざᤀをᜀ使᠀つかᤀって
+ᜀ必殺技᠀ひっさつわざᤀゲージを　ためるでチュ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>52822800</Id>
+          <Value>わかったわ　チュートモンちゃん！
+ミオ　ᰏのこと
+コテンパンに　してみるね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>70779669</Id>
+          <Value>よくᜀ言᠀いᤀうよ！
+そこまで　ᜀ言᠀いᤀうなら
+ᜀ絶対᠀ぜったいᤀに　ᜀ手᠀てᤀは　ᜀ抜᠀ぬᤀかないからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>87556885</Id>
+          <Value>よくᜀ言᠀いᤀうわよ！
+そこまで　ᜀ言᠀いᤀうなら
+ᜀ絶対᠀ぜったいᤀに　ᜀ手᠀てᤀは　ᜀ抜᠀ぬᤀかないからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_05</Key>
+      <Values>
+        <BtxtString>
+          <Id>103678737</Id>
+          <Value>そろそろ　いいᜀ頃合᠀ころあᤀいでチュ…
+ミオ！　ᰏに
+とどめを　ᜀ刺᠀さᤀすときでチュ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_06</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620685</Id>
+          <Value>よぉし！
+…でも　どうしたらいいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_07</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150674</Id>
+          <Value>アプᜀ合体᠀がったいᤀを　するのでチュ！
+これで　ᜀ一気᠀いっきᤀに
+ᜀ勝負᠀しょうぶᤀを　ᜀ決᠀きᤀめるのでチュー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_08</Key>
+      <Values>
+        <BtxtString>
+          <Id>152699404</Id>
+          <Value>アプᜀ合体᠀がったいᤀ…！
+わかった　やってみるね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_09</Key>
+      <Values>
+        <BtxtString>
+          <Id>169345553</Id>
+          <Value>いくよ　ᰏ！
+ミオの　とっておきを　くらえーっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

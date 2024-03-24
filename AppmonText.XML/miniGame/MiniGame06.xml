@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>2</NumberOfLabels>
+  <NumberOfStrings>2</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TUTORIA_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>2359822</Id>
+          <Value>ᜀ決᠀きᤀめられたᜀ時間᠀じかんᤀで
+ストップウォッチをᜀ止᠀とᤀめよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TUTORIA_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>18743821</Id>
+          <Value>カウントはᜀ途中᠀とちゅうᤀから
+ᜀ見᠀みᤀえなくなるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

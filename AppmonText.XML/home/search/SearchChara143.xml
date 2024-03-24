@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655626</Id>
+          <Value>ジャミングモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>19137042</Id>
+          <Value>ジャミングのアプリ　ジャミングモン！
+こ　コイツも　しぶといヤツだな～…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>40633121</Id>
+          <Value>ᜀ妨害電波᠀ぼうがいでんぱᤀを　ᜀ放᠀はなᤀつ　ᜀ能力᠀のうりょくᤀを　ᜀ持᠀もᤀっていて
+ᜀ通信᠀つうしんᤀをᜀ妨害᠀ぼうがいᤀしたり　ᜀ不快᠀ふかいᤀなᜀ音᠀おとᤀをᜀ出᠀だᤀしたり
+とにかく　ジャマなヤツだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54919960</Id>
+          <Value>しかし　ᰏに　ᜀ倒᠀たおᤀされたり
+リブートモンに　ᜀ吸収᠀きゅうしゅうᤀされたりしたのに
+コイツ　どうやって　ᜀ助᠀たすᤀかったんだ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>131330</Id>
+          <Value>ハル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22020889</Id>
+          <Value>ふじみᜀ坂᠀ざかᤀから　ᜀ来᠀きᤀた
+アプリドライヴァーの　ᜀ少年᠀しょうねんᤀだ！
+ᜀ優᠀やさᤀしいᜀ性格᠀せいかくᤀで　ᜀ本᠀ほんᤀがᜀ好᠀すᤀき　だってな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>36832017</Id>
+          <Value>バディアプモンは
+ᜀ検索᠀けんさくᤀアプリの　ガッチモン！
+クーッ　いい　ᜀ趣味᠀しゅみᤀしてるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54919956</Id>
+          <Value>このᜀ町᠀まちᤀには「セブンコードアプモン」を
+ᜀ探᠀さがᤀしにᜀ来᠀きᤀたんだってな　…え？
+どこにいるって…　オレもᜀ知᠀しᤀらねえよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

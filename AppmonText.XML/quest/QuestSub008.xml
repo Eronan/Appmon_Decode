@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310993</Id>
+          <Value>ヘンテコニュースのᜀ正体᠀しょうたいᤀは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563916</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38011669</Id>
+          <Value>ビジネスマンの　おにいさんのスマホに
+ニュースがᜀ届᠀とどᤀいて　ᜀ止᠀とᤀまらないという…
+ＡＲフィールドを　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118348</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>70910738</Id>
+          <Value>ビジネスマンの　おにいさんのスマホに
+ＡＲダンジョンを　ᜀ見᠀みᤀつけた！
+ᜀ中᠀なかᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>104465170</Id>
+          <Value>ビジネスマンの　おにいさんのスマホで
+ニュースモンが　イタズラしてるみたい
+バトルにᜀ勝᠀かᤀって　やめてもらおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139068184</Id>
+          <Value>ニュースモンの　ᜀ説得᠀せっとくᤀにᜀ成功᠀せいこうᤀした！
+これで　スマホも　ᜀ直᠀なおᤀったはずだ
+おにいさんに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172622616</Id>
+          <Value>ニュースモンの　ᜀ説得᠀せっとくᤀにᜀ成功᠀せいこうᤀした！
+これで　スマホも　ᜀ直᠀なおᤀったはずだ
+おにいさんに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206177048</Id>
+          <Value>ニュースモンの　ᜀ説得᠀せっとくᤀにᜀ成功᠀せいこうᤀした！
+これで　スマホも　ᜀ直᠀なおᤀったはずだ
+おにいさんに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731480</Id>
+          <Value>ニュースモンの　ᜀ説得᠀せっとくᤀにᜀ成功᠀せいこうᤀした！
+これで　スマホも　ᜀ直᠀なおᤀったはずだ
+おにいさんに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285912</Id>
+          <Value>ニュースモンの　ᜀ説得᠀せっとくᤀにᜀ成功᠀せいこうᤀした！
+これで　スマホも　ᜀ直᠀なおᤀったはずだ
+おにいさんに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>ヒフミが丘・オフィス２Ｆ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840344</Id>
+          <Value>ニュースモンの　ᜀ説得᠀せっとくᤀにᜀ成功᠀せいこうᤀした！
+これで　スマホも　ᜀ直᠀なおᤀったはずだ
+おにいさんに　ᜀ報告᠀ほうこくᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322306838</Id>
+          <Value>スマホが　おかしかったのは
+ニュースモンの　おᜀ節介᠀せっかいᤀのせいだった！
+なにごとも　ほどほどにってね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

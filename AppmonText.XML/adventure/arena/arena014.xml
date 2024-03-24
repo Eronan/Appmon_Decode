@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3801879</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「スターターＧＰ　ファイナル」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20972317</Id>
+          <Value>「スターターＧＰ　ファイナル」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>36963088</Id>
+          <Value>あー　てすてす　ᜀ聞᠀きᤀこえてる？
+これより　バトルを　はじめまーす
+どうぞ　よろしくおねがいします！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>52822799</Id>
+          <Value>わーい！　バトルだ　バトルだ！
+キミも　バトルすき？
+えへへ　よろしくねえ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>71697178</Id>
+          <Value>まいど！　ᜀ自分᠀じぶんᤀが　ᜀ対戦相手᠀たいせんあいてᤀやな！
+どっち　ᜀ勝᠀かᤀっても　ᜀ恨᠀うらᤀみっこなしやで
+よろしゅうたのむわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>87556887</Id>
+          <Value>オマエ　ᜀ調子᠀ちょうしᤀよく　ᜀ勝᠀かᤀってきたようだが
+オレは　ᜀ他᠀ほかᤀのヤツらのようには
+いかないぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>104203032</Id>
+          <Value>どうせ　やるなら　ᜀ目標᠀もくひょうᤀはᜀ一番᠀いちばんᤀ！
+チャンピオンめざして
+すっᜀ飛᠀とᤀんでくよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>122553117</Id>
+          <Value>ᜀ大会᠀たいかいᤀで　ᜀ絶対᠀ぜったいᤀにᜀ勝᠀かᤀてる　ᜀ隠᠀かくᤀしコマンドは
+Ｌボタンを　ᜀ押᠀おᤀしながら…　なーんて！
+そんなの　つまんないだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>139461405</Id>
+          <Value>ゲージがたまってるときに
+アプᜀ合体᠀がったいᤀすると　ᜀ必殺技᠀ひっさつわざᤀがᜀ使᠀つかᤀえるんだ
+アプモンᜀ交換᠀こうかんᤀも　ᜀ戦略᠀せんりゃくᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

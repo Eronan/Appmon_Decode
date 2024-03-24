@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>10</NumberOfLabels>
+  <NumberOfStrings>10</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3932951</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「ゲリラ：ウィルスᜀ杯᠀カップᤀ」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>21103389</Id>
+          <Value>「ゲリラ：ウィルスᜀ杯᠀カップᤀ」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>37356054</Id>
+          <Value>ᜀ俺᠀おれᤀは　ᜀ本気᠀ほんきᤀで　ᜀ勝᠀かᤀちにいくぜ
+おᜀ前᠀まえᤀも　ᜀ手加減᠀てかげんᤀなんて　するなよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>55182099</Id>
+          <Value>ᜀ君᠀きみᤀと　ᜀ君᠀きみᤀの　バディアプモンから
+ᜀ強᠀つよᤀいキズナを　ᜀ感᠀かんᤀじるよ
+でも　ᜀ僕᠀ぼくᤀたちᤀだって　ᜀ負᠀まᤀけてない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>69599763</Id>
+          <Value>ᰏ！　ミオと　バトルよ！
+ミオに　ᜀ負᠀まᤀけたって　ᜀ泣᠀なᤀかないでね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>88736534</Id>
+          <Value>ᜀ君᠀きみᤀと　ᜀ対等᠀たいとうᤀなᜀ立場᠀たちばᤀで
+バトルが　できて　うれしいよ
+さあ　ᜀ君᠀きみᤀの　ᜀ本気᠀ほんきᤀを　ᜀ見᠀みᤀせてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>104334096</Id>
+          <Value>また　ᜀ会᠀あᤀったね　ᰏ！
+ᜀ全力᠀ぜんりょくᤀを　ᜀ出᠀だᤀすから…
+ᜀ全力᠀ぜんりょくᤀで　かかってきて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>121111312</Id>
+          <Value>また　ᜀ会᠀あᤀったな　ᰏ！
+ᜀ全力᠀ぜんりょくᤀを　ᜀ出᠀だᤀすから…
+ᜀ全力᠀ぜんりょくᤀで　かかってこい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>137626387</Id>
+          <Value>ふっ…　ᰏ
+ずいぶん　ᜀ腕᠀うでᤀを　あげたようだな
+だが　このバトル　ᜀ勝᠀かᤀつのは　ᜀ俺᠀おれᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>152306187</Id>
+          <Value>よろしくお願いします！
+（仮テキスト）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

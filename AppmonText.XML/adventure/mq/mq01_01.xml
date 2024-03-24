@@ -1,0 +1,7015 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>682</NumberOfLabels>
+  <NumberOfStrings>682</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0001</Key>
+      <Values>
+        <BtxtString>
+          <Id>131328</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19923233</Id>
+          <Value>ᜀ今᠀いまᤀやᜀ世界᠀せかいᤀᜀ中᠀じゅうᤀでᜀ誰᠀だれᤀもがᜀ使᠀つかᤀっているスマホアプリ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36438307</Id>
+          <Value>そこにはᜀ知᠀しᤀられざるᜀ存在᠀そんざいᤀ「アプリモンスター」がᜀ潜᠀ひそᤀんでいる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55836988</Id>
+          <Value>ᜀ通称᠀つうしょうᤀアプモン、ᜀ自᠀みずかᤀらᜀ考᠀かんがᤀえᜀ行動᠀こうどうᤀするᜀ人工᠀じんこうᤀᜀ知能᠀ちのうᤀをᜀ備᠀そなᤀえたデータᜀ生命体᠀せいめいたいᤀ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0005</Key>
+      <Values>
+        <BtxtString>
+          <Id>68682005</Id>
+          <Value>すべてのアプリのᜀ裏᠀うらᤀにはアプモンがいる。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86507810</Id>
+          <Value>ᜀ彼᠀かれᤀらをᜀ実体化᠀じったいかᤀするアイテム、それが「アプリドライヴ」だ。</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0007</Key>
+      <Values>
+        <BtxtString>
+          <Id>100794624</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119800590</Id>
+          <Value>１１．２４　ＡＭ００：００　
+ＵＮＫＮＯＷＮ
+ＢＡＴＴＬＥ　ＡＲＥＮＡ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0009</Key>
+      <Values>
+        <BtxtString>
+          <Id>134349056</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0010</Key>
+      <Values>
+        <BtxtString>
+          <Id>151519496</Id>
+          <Value>いくぞ　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171836180</Id>
+          <Value>ふっ…　ᰏ
+あのᜀ時᠀ときᤀからは　ᜀ腕᠀うでᤀをあげたようだな
+だが　おᜀ前᠀まえᤀに　ᜀ俺᠀おれᤀはᜀ倒᠀たおᤀせない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0012</Key>
+      <Values>
+        <BtxtString>
+          <Id>185860623</Id>
+          <Value>そんなの
+やってみなくちゃ　わからない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0013</Key>
+      <Values>
+        <BtxtString>
+          <Id>205783829</Id>
+          <Value>ᜀ俺᠀おれᤀは　ここでᜀ負᠀まᤀけるわけにはいかない…
+アイツに　ᜀ応᠀こたᤀえるためにも
+ᜀ俺᠀おれᤀは　おᜀ前᠀まえᤀを　たおす！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0014</Key>
+      <Values>
+        <BtxtString>
+          <Id>220332558</Id>
+          <Value>オレだって　ᜀ同᠀おなᤀじだ！
+ぜったいに　ᜀ負᠀まᤀけないから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0015</Key>
+      <Values>
+        <BtxtString>
+          <Id>235012352</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838158</Id>
+          <Value>ぜったいに　ᜀ負᠀まᤀけない　か…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0017</Key>
+      <Values>
+        <BtxtString>
+          <Id>273285914</Id>
+          <Value>できるものなら　やってみろ
+キズナをᜀ信᠀しんᤀじる　ᜀ勇気᠀ゆうきᤀが
+おᜀ前᠀まえᤀの　ᜀ覚悟᠀かくごᤀが　ᜀ本物᠀ほんものᤀだというなら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0018</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999368</Id>
+          <Value>ᜀ見᠀みᤀせてみろ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0019</Key>
+      <Values>
+        <BtxtString>
+          <Id>303563529</Id>
+          <Value>このバトルのために
+ここまで
+つないできたんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0020</Key>
+      <Values>
+        <BtxtString>
+          <Id>320471566</Id>
+          <Value>ᜀ今度᠀こんどᤀだって
+ぜったいに　つないでみせる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0021</Key>
+      <Values>
+        <BtxtString>
+          <Id>335675648</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0022</Key>
+      <Values>
+        <BtxtString>
+          <Id>355074831</Id>
+          <Value>あのᜀ日᠀ひᤀから　つないできたんだ
+みんなのこと
+それから…　アプモンのことを！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0023</Key>
+      <Values>
+        <BtxtString>
+          <Id>369230080</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0024</Key>
+      <Values>
+        <BtxtString>
+          <Id>386007296</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0025</Key>
+      <Values>
+        <BtxtString>
+          <Id>404619792</Id>
+          <Value>これ　なんだろう…？
+ᜀ今᠀いまᤀは　まだ　よくわからないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0026</Key>
+      <Values>
+        <BtxtString>
+          <Id>422707983</Id>
+          <Value>うーん　むずかしいな…
+ᜀ久᠀ひさᤀしぶりの　メッセージだと
+なんてᜀ書᠀かᤀいたら　いいのかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0027</Key>
+      <Values>
+        <BtxtString>
+          <Id>439747349</Id>
+          <Value>「さいきん　ナオトのᜀ顔᠀かおᤀ　ᜀ見᠀みᤀてないけど
+　どうしてる？
+　またいっしょに　ゲーム　しようよ」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0028</Key>
+      <Values>
+        <BtxtString>
+          <Id>454951439</Id>
+          <Value>って　これでいいかな？
+よし！　ナオトにᜀ送信᠀そうしんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0029</Key>
+      <Values>
+        <BtxtString>
+          <Id>469893376</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0030</Key>
+      <Values>
+        <BtxtString>
+          <Id>488112651</Id>
+          <Value>このユーザーには
+ᜀ接続᠀せつぞくᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0031</Key>
+      <Values>
+        <BtxtString>
+          <Id>504758797</Id>
+          <Value>……あれ？
+メッセージ　ᜀ送᠀おくᤀれないや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>521798160</Id>
+          <Value>……あれ？
+メッセージが　ᜀ送᠀おくᤀれないみたい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0032</Key>
+      <Values>
+        <BtxtString>
+          <Id>538706447</Id>
+          <Value>おかしいな…
+もうᜀ一度᠀いちどᤀ　ᜀ送信᠀そうしんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0033</Key>
+      <Values>
+        <BtxtString>
+          <Id>555221515</Id>
+          <Value>このユーザーには
+ᜀ接続᠀せつぞくᤀできません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0034</Key>
+      <Values>
+        <BtxtString>
+          <Id>573047570</Id>
+          <Value>やっぱりダメ？
+もしかして　メッセージᜀ送信᠀そうしんᤀが
+ブロックされてる！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0035</Key>
+      <Values>
+        <BtxtString>
+          <Id>589693710</Id>
+          <Value>なんだよ　ナオトのやつ！
+ᜀ頼᠀たのᤀむよ！
+ナオトに　つないでくれよ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>606208780</Id>
+          <Value>なによ　ナオトったら！
+おᜀ願᠀ねがᤀい！
+ナオトに　つないでよ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0036</Key>
+      <Values>
+        <BtxtString>
+          <Id>621019394</Id>
+          <Value>ᰏーー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0037</Key>
+      <Values>
+        <BtxtString>
+          <Id>639763211</Id>
+          <Value>ミオちゃんが
+あそびに　ᜀ来᠀きᤀてるわよ
+ちょっと　おりてきて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0038</Key>
+      <Values>
+        <BtxtString>
+          <Id>655491596</Id>
+          <Value>ん
+わかった　ᜀ今᠀いまᤀいくよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>672268813</Id>
+          <Value>ん
+わかった　ᜀ今᠀いまᤀいくから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0039</Key>
+      <Values>
+        <BtxtString>
+          <Id>687997184</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0040</Key>
+      <Values>
+        <BtxtString>
+          <Id>704774400</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0041</Key>
+      <Values>
+        <BtxtString>
+          <Id>722469385</Id>
+          <Value>ᰏ！
+ᰏに　ᜀ聞᠀きᤀきたいの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0042</Key>
+      <Values>
+        <BtxtString>
+          <Id>739115527</Id>
+          <Value>なんだよ　ミオ
+どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>755892743</Id>
+          <Value>なに　ミオ
+どうかしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0043</Key>
+      <Values>
+        <BtxtString>
+          <Id>773849870</Id>
+          <Value>ねえ！
+ᰏは　ᜀ最近᠀さいきんᤀ
+おにいちゃんと　あそんでる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0044</Key>
+      <Values>
+        <BtxtString>
+          <Id>791151374</Id>
+          <Value>ナオトと？　いや…
+ぜんぜん　あそんでないけど…
+メッセージも　つながらないし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>807928590</Id>
+          <Value>ナオトと？　ううん…
+ぜんぜん　あそんでないけど…
+メッセージも　つながらないし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0045</Key>
+      <Values>
+        <BtxtString>
+          <Id>825361170</Id>
+          <Value>やっぱり…　おにいちゃん
+ミオᜀ達᠀たちᤀに　ナイショで
+なにか　おもしろいᜀ事᠀ことᤀしてるんだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0046</Key>
+      <Values>
+        <BtxtString>
+          <Id>839647499</Id>
+          <Value>ナオトが　どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0047</Key>
+      <Values>
+        <BtxtString>
+          <Id>859570964</Id>
+          <Value>おにいちゃん　このごろ　ひとりで
+ブツブツいったり　ゴソゴソしてるの！
+でもミオには　なにもᜀ教᠀おしᤀえてくれないの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0048</Key>
+      <Values>
+        <BtxtString>
+          <Id>875561745</Id>
+          <Value>だからねー　おねがい！
+おにいちゃんが　ᜀ何᠀なにᤀしているのか
+ᰏに　ᜀ聞᠀きᤀいてほしいの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0049</Key>
+      <Values>
+        <BtxtString>
+          <Id>892076815</Id>
+          <Value>いやいや　ᜀ近᠀ちかᤀごろは
+ナオトとᜀ話᠀はなしᤀもしてないんだ
+ぜったい　ムリだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>908854032</Id>
+          <Value>ん～…　ᜀ近᠀ちかᤀごろは
+ナオトとᜀ話᠀はなしᤀもしてないしなぁ
+ぜったい　ムリよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0050</Key>
+      <Values>
+        <BtxtString>
+          <Id>927073043</Id>
+          <Value>いつも　いっしょに　ᜀ遊᠀あそᤀんでいた
+ᰏなら　ᜀ大丈夫᠀だいじょうぶᤀだってば！
+ねえ　おにいちゃんに　ᜀ聞᠀きᤀいてみてー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0051</Key>
+      <Values>
+        <BtxtString>
+          <Id>942670611</Id>
+          <Value>ミオが　ダメでも
+ᜀ幼᠀おさなᤀなじみの　ᰏには
+ᜀ教᠀おしᤀえてくれるかも　しれないでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0052</Key>
+      <Values>
+        <BtxtString>
+          <Id>956956938</Id>
+          <Value>うーん　そうかなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0053</Key>
+      <Values>
+        <BtxtString>
+          <Id>977142549</Id>
+          <Value>ほらほら　「ᜀ善᠀ぜんᤀはᜀ急᠀いそᤀげ」ってやつよ！
+いいことは　ᜀ早᠀はやᤀくやるのが
+ᜀ一番᠀いちばんᤀなんでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2000</Key>
+      <Values>
+        <BtxtString>
+          <Id>994181910</Id>
+          <Value>「ᜀ善᠀ぜんᤀはᜀ急᠀いそᤀげ」ってᜀ言葉᠀ことばᤀのᜀ意味᠀いみᤀ
+ちゃんと　さっき
+スマホで　ᜀ検索᠀けんさくᤀしたんだから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008730893</Id>
+          <Value>ねっ！
+おにいちゃんの　ᜀ秘密᠀ひみつᤀ
+ᜀ聞᠀きᤀいてきてね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024196875</Id>
+          <Value>はいはい　わかったよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041105166</Id>
+          <Value>はいはい　わかったわかった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059848723</Id>
+          <Value>そういうテキトーな　ᜀ返事᠀へんじᤀ　ヤダ！
+ᜀ返事᠀へんじᤀ　やりᜀ直᠀なおᤀして！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1074266375</Id>
+          <Value>は　ハイッ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093010195</Id>
+          <Value>うん　いいおᜀ返事᠀へんじᤀ　ᜀ合格᠀ごうかくᤀ！
+じゃあ　よろしくね
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1112933144</Id>
+          <Value>おにいちゃん　ᜀ学校᠀がっこうᤀにいるとᜀ思᠀おもᤀうから！
+おやすみのᜀ日᠀ひᤀでも　よくᜀ行᠀いᤀってるのよ
+ᜀ秘密᠀ひみつᤀは　きっと　ᜀ学校᠀がっこうᤀにあるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125515789</Id>
+          <Value>…しかたないか
+でも　ちょうどよかったかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143997199</Id>
+          <Value>いろいろ　ナオトと
+ᜀ話᠀はなᤀしたいこともあったし
+ᜀ学校᠀がっこうᤀに　ᜀ行᠀いᤀってみるか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1160905489</Id>
+          <Value>いろいろ　ナオトと
+ᜀ話᠀はなᤀしたいこともあったし
+ᜀ学校᠀がっこうᤀに　ᜀ行᠀いᤀってみよっと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1174536448</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193542157</Id>
+          <Value>ミオちゃんに　ᜀ聞᠀きᤀいたけど
+ᜀ学校᠀がっこうᤀに　ᜀ行᠀いᤀくのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1211761429</Id>
+          <Value>うちは　ᜀ学校᠀がっこうᤀにᜀ近᠀ちかᤀくて　いいわね
+ᜀ北西᠀ほくせいᤀに　ググーッとᜀ行᠀いᤀったら
+すぐだもの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1224868096</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244267284</Id>
+          <Value>ᰏ！
+おにいちゃんのᜀ秘密᠀ひみつᤀが　ᜀ何᠀なんᤀなのか
+ᜀ聞᠀きᤀいてきてね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260651278</Id>
+          <Value>ミオは　ᰏママと
+おᜀ茶᠀ちゃᤀして　ᜀ待᠀まᤀってるから
+よろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278083859</Id>
+          <Value>あ…　ミオからメッセージだ
+ᜀ言᠀いᤀいわすれたᜀ事᠀ことᤀでもあったのかな？
+なになに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1027</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293812495</Id>
+          <Value>「ᰏ！
+　おにいちゃんのこと
+　ちゃんと　たのんだからね！」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1028</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310982927</Id>
+          <Value>ええっと…
+「もちろん　わかってるよ」っと
+よし　ᜀ送信᠀そうしんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1028_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327760144</Id>
+          <Value>ええっと…
+「もちろん　わかってるよ～」っと
+よし　ᜀ送信᠀そうしんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1029</Key>
+      <Values>
+        <BtxtString>
+          <Id>1342439683</Id>
+          <Value>…ん？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1030</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361052427</Id>
+          <Value>いま　スマホに　なにか
+うつったような…
+ᜀ気᠀きᤀのせいかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1031</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379271445</Id>
+          <Value>じゃあ　ナオトを
+ᜀ探᠀さがᤀしにᜀ行᠀いᤀくか！
+ᜀ学校᠀がっこうᤀは　ここから　ᜀ北西᠀ほくせいᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1396048660</Id>
+          <Value>じゃあ　ナオトを
+ᜀ探᠀さがᤀしにᜀ行᠀いᤀこうかな！
+ᜀ学校᠀がっこうᤀは　ここから　ᜀ北西᠀ほくせいᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1409941770</Id>
+          <Value>…いた！　ナオトだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428292110</Id>
+          <Value>さて　いろいろᜀ話᠀はなしᤀを
+ᜀ聞᠀きᤀかせて　もらわないとな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445069326</Id>
+          <Value>さ～て　いろいろᜀ話᠀はなしᤀを
+ᜀ聞᠀きᤀかせて　もらわないとね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1016</Key>
+      <Values>
+        <BtxtString>
+          <Id>1461584397</Id>
+          <Value>いまは　ナオトから
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀかないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1016_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478361613</Id>
+          <Value>いまは　ナオトから
+ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀかなきゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493434628</Id>
+          <Value>ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510342917</Id>
+          <Value>…ああ　ᰏか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528431119</Id>
+          <Value>なぁ　なんで　オレのメッセージ
+ブロックしてるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0072_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545339409</Id>
+          <Value>ねぇ　どうして　ワタシのメッセージ
+ブロックしてるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1562772235</Id>
+          <Value>ᜀ別᠀べつᤀに…
+ᜀ誰᠀だれᤀとも　つながりを
+ᜀ持᠀もᤀちたくないだけだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579942672</Id>
+          <Value>そんなᜀ事᠀ことᤀ　いわずにさ
+そうだ！　オレんちで
+ひさびさに　ゲームをやらないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0074_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596850958</Id>
+          <Value>そんなᜀ事᠀ことᤀ　いわずに
+そうだ！　ワタシのᜀ家᠀いえᤀで
+ひさびさに　ゲームやらない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1611006213</Id>
+          <Value>…ことわる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1629881099</Id>
+          <Value>なんでだよ
+ᜀ前᠀まえᤀは　ᜀ毎日᠀まいにちᤀ
+ᜀ遊᠀あそᤀびにきてたじゃん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646658315</Id>
+          <Value>どうしてよ
+ᜀ前᠀まえᤀは　ᜀ毎日᠀まいにちᤀ
+ᜀ遊᠀あそᤀびにきてたでしょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663304462</Id>
+          <Value>ナオト
+ᜀ最近᠀さいきんᤀ　ひとりで
+ᜀ何᠀なにᤀ　コソコソやってんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0077_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680212751</Id>
+          <Value>ナオト
+ᜀ最近᠀さいきんᤀ　ひとりで
+ᜀ何᠀なにᤀ　コソコソやってるのよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1695678735</Id>
+          <Value>ᜀ俺᠀おれᤀが　ひとりでコソコソ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1714291470</Id>
+          <Value>ミオが　ᜀ言᠀いᤀってたぞ
+ᜀ何᠀なにᤀか　おもしろいᜀ事᠀ことᤀを
+やってるみたいだって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0079_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731068686</Id>
+          <Value>ミオが　ᜀ言᠀いᤀってたよ
+ᜀ何᠀なにᤀか　おもしろいᜀ事᠀ことᤀを
+やってるみたいだって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747583762</Id>
+          <Value>なぁ　ナオト
+おもしろいᜀ事᠀ことᤀなら
+オレも　ᜀ仲間᠀なかまᤀに　いれてくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0080_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764492052</Id>
+          <Value>ねぇ　ナオト
+おもしろいᜀ事᠀ことᤀなら
+ワタシも　ᜀ仲間᠀なかまᤀに　いれてよ！　ね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779565069</Id>
+          <Value>ミオには
+ないしょに　しておくからさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0081_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796342285</Id>
+          <Value>ミオには
+ないしょに　しておくから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1814299405</Id>
+          <Value>………
+おᜀ前᠀まえᤀには　「コイツ」が
+ᜀ見᠀みᤀえていないんだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1830158857</Id>
+          <Value>コイツって…
+ᜀ何᠀なんᤀのᜀ話᠀はなしᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0083_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1847460370</Id>
+          <Value>コイツ？
+いったい　ᜀ何᠀なんᤀのᜀ話᠀はなしᤀしてるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1865417489</Id>
+          <Value>ᜀ見᠀みᤀえてないのなら
+おᜀ前᠀まえᤀに　ゲームにᜀ参加᠀さんかᤀする
+ᜀ資格᠀しかくᤀはない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1881014798</Id>
+          <Value>え？　ゲーム…？
+ᜀ参加᠀さんかᤀするᜀ資格᠀しかくᤀ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1900151570</Id>
+          <Value>これᜀ以上᠀いじょうᤀ　ᜀ今᠀いまᤀのおᜀ前᠀まえᤀと
+ᜀ話᠀はなしᤀをするつもりはない
+ᜀ早᠀はやᤀく　どこかへᜀ行᠀いᤀってくれ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1916666645</Id>
+          <Value>…ダメだ　ᜀ話᠀はなしᤀにならないや
+ᜀ家᠀いえᤀにᜀ帰᠀かえᤀって
+もうᜀ一度᠀いちどᤀ　ミオとᜀ話᠀はなしᤀをしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0085_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1933968150</Id>
+          <Value>…うーん　ᜀ話᠀はなしᤀもᜀ聞᠀きᤀいてくれないわ
+ᜀ家᠀いえᤀにᜀ帰᠀かえᤀって
+もうᜀ一度᠀いちどᤀ　ミオとᜀ話᠀はなしᤀをしてみよっと</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1017</Key>
+      <Values>
+        <BtxtString>
+          <Id>1947861267</Id>
+          <Value>こっちは　ᜀ家᠀いえᤀまで　ᜀ遠᠀とおᤀまわりだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1964769557</Id>
+          <Value>こっちだと　ᜀ家᠀いえᤀには　ᜀ遠回᠀とおまわᤀりね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982202384</Id>
+          <Value>「コイツ」が　ᜀ見᠀みᤀえないヤツには
+ᜀ関係᠀かんけいᤀないᜀ事᠀ことᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0089</Key>
+      <Values>
+        <BtxtString>
+          <Id>2000945941</Id>
+          <Value>…ダメだ　やっぱり　ᜀ話᠀はなしᤀにならないや
+ᜀ家᠀いえᤀにᜀ帰᠀かえᤀって
+もうᜀ一度᠀いちどᤀ　ミオとᜀ話᠀はなしᤀをしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0089_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2017985302</Id>
+          <Value>…やっぱり　ᜀ話᠀はなしᤀもᜀ聞᠀きᤀいてくれないわ
+ᜀ家᠀いえᤀにᜀ帰᠀かえᤀって
+もうᜀ一度᠀いちどᤀ　ミオとᜀ話᠀はなしᤀをしてみよっと</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0092</Key>
+      <Values>
+        <BtxtString>
+          <Id>2033320720</Id>
+          <Value>ちぇ…　なんだよ　ナオトのやつ
+メッセージはブロックするし
+わけわかんないᜀ事᠀ことᤀ　いうし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0092_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2049180429</Id>
+          <Value>なによ　ナオトのやつ
+メッセージはブロックするし
+ミオもほっぽりだして…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2002</Key>
+      <Values>
+        <BtxtString>
+          <Id>2065302029</Id>
+          <Value>ナオトと　つながってないと
+つまらないじゃんかよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2082341392</Id>
+          <Value>ナオトと　つながってないと
+みんな　つまらないじゃないのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0093</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097938949</Id>
+          <Value>ヴイィ…
+ヴィ…　ᰏ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0094</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116551438</Id>
+          <Value>えっ？
+ᜀ今᠀いまᤀ　ᜀ誰᠀だれᤀか
+オレのᜀ名前᠀なまえᤀ　ᜀ呼᠀よᤀんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0094_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2133328655</Id>
+          <Value>えっ？
+ᜀ今᠀いまᤀ　ᜀ誰᠀だれᤀか
+ワタシのᜀ名前᠀なまえᤀ　ᜀ呼᠀よᤀんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0095</Key>
+      <Values>
+        <BtxtString>
+          <Id>2148139525</Id>
+          <Value>ヴィ…　ᰏ…
+ᰏ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0096</Key>
+      <Values>
+        <BtxtString>
+          <Id>2167276051</Id>
+          <Value>もしかして　このᜀ自販機᠀じはんきᤀが
+オレのᜀ名前᠀なまえᤀを　ᜀ呼᠀よᤀんでるのか…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0096_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2184053267</Id>
+          <Value>もしかして　このᜀ自販機᠀じはんきᤀが
+ワタシのᜀ名前᠀なまえᤀを　ᜀ呼᠀よᤀんでるの…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0098</Key>
+      <Values>
+        <BtxtString>
+          <Id>2199913228</Id>
+          <Value>うーん
+あのᜀ自販機᠀じはんきᤀ
+なんだか　ᜀ気᠀きᤀになるな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0098_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2216821517</Id>
+          <Value>うーん
+あのᜀ自販機᠀じはんきᤀ
+なんだか　ᜀ気᠀きᤀになるなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2005</Key>
+      <Values>
+        <BtxtString>
+          <Id>2232549903</Id>
+          <Value>ᰏ
+あなたは　つながりたいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2006</Key>
+      <Values>
+        <BtxtString>
+          <Id>2248933643</Id>
+          <Value>つながりたいか　って…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2007</Key>
+      <Values>
+        <BtxtString>
+          <Id>2266890765</Id>
+          <Value>そりゃあ　つながりたいよ！
+ナオトと　もうᜀ一度᠀いちどᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2007_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2283667981</Id>
+          <Value>もちろん　つながりたいよ！
+ナオトと　もうᜀ一度᠀いちどᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2008</Key>
+      <Values>
+        <BtxtString>
+          <Id>2300838415</Id>
+          <Value>ユーザーᜀ名᠀めいᤀ　ᰏの
+ᜀ意思᠀いしᤀをᜀ確認᠀かくにんᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2009</Key>
+      <Values>
+        <BtxtString>
+          <Id>2317353489</Id>
+          <Value>オレのᜀ意思᠀いしᤀをᜀ確認᠀かくにんᤀって…
+…………うわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2334261778</Id>
+          <Value>ワタシのᜀ意思᠀いしᤀをᜀ確認᠀かくにんᤀって…
+…………きゃっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2010</Key>
+      <Values>
+        <BtxtString>
+          <Id>2351432464</Id>
+          <Value>な…　なんだこれ！
+ᜀ自販機᠀じはんきᤀから　へんなモンが
+ᜀ出᠀でᤀてきた！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2368340752</Id>
+          <Value>な…　なによ　これ！
+ᜀ自販機᠀じはんきᤀから　へんなものが
+ᜀ出᠀でᤀてきた！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2011</Key>
+      <Values>
+        <BtxtString>
+          <Id>2384986641</Id>
+          <Value>つなげられるかは　あなたᜀ次第᠀しだいᤀ
+そのアプリドライヴを　ᜀ手᠀てᤀに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2012</Key>
+      <Values>
+        <BtxtString>
+          <Id>2400584201</Id>
+          <Value>アプリドライヴを
+ᜀ手᠀てᤀにいれました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2013</Key>
+      <Values>
+        <BtxtString>
+          <Id>2418148108</Id>
+          <Value>ア…　アプリドライヴ…？
+なんだろう　これ？
+ジュース…じゃないしな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2434925324</Id>
+          <Value>ア…　アプリドライヴ…？
+なにかしら　これ？
+ジュース…じゃないし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2014</Key>
+      <Values>
+        <BtxtString>
+          <Id>2453144340</Id>
+          <Value>ゲームᜀ機᠀きᤀ？　ってわけでもないか
+なにかのᜀ機械᠀きかいᤀには　ちがいないけど…
+ぜんぜん　わからないや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2469790484</Id>
+          <Value>ゲームᜀ機᠀きᤀ？　ってわけでもないか
+なにかのᜀ機械᠀きかいᤀには　ちがいないけど…
+ぜんぜん　わかんない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2015</Key>
+      <Values>
+        <BtxtString>
+          <Id>2487223059</Id>
+          <Value>これᜀ以上᠀いじょうᤀ　ナオトと
+ᜀ話᠀はなしᤀをしても　ᜀ意味᠀いみᤀないだろうし
+ᜀ一度᠀いちどᤀ　うちにᜀ帰᠀かえᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2504393491</Id>
+          <Value>これᜀ以上᠀いじょうᤀ　ナオトと
+ᜀ話᠀はなしᤀをしても　ᜀ意味᠀いみᤀないだろうし
+ᜀ一度᠀いちどᤀ　ᜀ家᠀いえᤀにᜀ帰᠀かえᤀろうっと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0119</Key>
+      <Values>
+        <BtxtString>
+          <Id>2518942228</Id>
+          <Value>ᰏ　どうだった？
+おにいちゃんから　ᜀ何᠀なにᤀかᜀ聞᠀きᤀきだせた？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0120</Key>
+      <Values>
+        <BtxtString>
+          <Id>2536243990</Id>
+          <Value>うーん
+よく　わからないけど
+オレたちには　ᜀ関係᠀かんけいᤀないᜀ事᠀ことᤀだってさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0120_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2553021206</Id>
+          <Value>うーん
+よく　わからないけど
+ワタシたちには　ᜀ関係᠀かんけいᤀないᜀ事᠀ことᤀだって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0121</Key>
+      <Values>
+        <BtxtString>
+          <Id>2569798415</Id>
+          <Value>えーーっ！　ᜀ何᠀なにᤀそれ！
+やっぱり　ぜったい
+ᜀ何᠀なにᤀか　かくしているんだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0122</Key>
+      <Values>
+        <BtxtString>
+          <Id>2588934936</Id>
+          <Value>よし　ミオ　おᜀ家᠀うちᤀにᜀ帰᠀かえᤀるね！
+おにいちゃんが　ᜀ帰᠀かえᤀるᜀ前᠀まえᤀに
+ᜀ部屋᠀へやᤀのᜀ中᠀なかᤀ　テッテイᜀ調査᠀ちょうさᤀしてやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2600599808</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2620392208</Id>
+          <Value>あーあ　ナオトのやつ
+よけいなものまで　ᜀ見᠀みᤀつけられて
+あとで　ᜀ困᠀こまᤀるんだろうな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0124_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2637169424</Id>
+          <Value>あーあ　ナオトったら
+よけいなものまで　ᜀ見᠀みᤀつけられて
+あとで　ᜀ困᠀こまᤀるんだろうな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2654077717</Id>
+          <Value>よし　じゃあ　オレも
+この　アプリドライヴとかいう　ᜀ機械᠀きかいᤀを
+ᜀ調᠀しらᤀべてみようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0125_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2670723859</Id>
+          <Value>よし　じゃあ　ワタシも
+このアプリドライヴとかいうᜀ機械᠀きかいᤀを
+ᜀ調᠀しらᤀべてみようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2021</Key>
+      <Values>
+        <BtxtString>
+          <Id>2688680725</Id>
+          <Value>そういえば　このᜀ機械᠀きかいᤀ
+ᜀ体育館᠀たいいくかんᤀのᜀ前᠀まえᤀで　ᜀ会᠀あᤀったとき
+ナオトも　ᜀ持᠀もᤀってたような…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2022</Key>
+      <Values>
+        <BtxtString>
+          <Id>2704278290</Id>
+          <Value>ナオトのやつ
+ゲームに　ᜀ参加᠀さんかᤀするᜀ資格᠀しかくᤀが
+どうとか　ᜀ言᠀いᤀってたからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2721055506</Id>
+          <Value>ナオトのやつ
+ゲームに　ᜀ参加᠀さんかᤀするᜀ資格᠀しかくᤀが
+どうとか　ᜀ言᠀いᤀってたもんね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2023</Key>
+      <Values>
+        <BtxtString>
+          <Id>2737963793</Id>
+          <Value>このアプリドライヴっていうのが
+ナオトのᜀ秘密᠀ひみつᤀと
+ᜀ関係᠀かんけいᤀあれば　いいんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2024</Key>
+      <Values>
+        <BtxtString>
+          <Id>2754347796</Id>
+          <Value>うん…？
+なんだ　オレのスマホが
+ᜀ勝手᠀かってᤀにᜀ起動᠀きどうᤀしたぞ　なになに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2771649302</Id>
+          <Value>うん…？
+どうしたのかしら　ワタシのスマホが
+ᜀ勝手᠀かってᤀにᜀ起動᠀きどうᤀしたみたい　なになに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2025</Key>
+      <Values>
+        <BtxtString>
+          <Id>2786460172</Id>
+          <Value>アプリドライヴを
+オンラインに　しますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2026</Key>
+      <Values>
+        <BtxtString>
+          <Id>2804810515</Id>
+          <Value>アプリドライヴ…　このᜀ機械᠀きかいᤀだよな
+オンラインって
+なにに　つなごうとしてるんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2821587730</Id>
+          <Value>アプリドライヴ…　このᜀ機械᠀きかいᤀよね
+オンラインって
+なにに　つなごうとしてるのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2027</Key>
+      <Values>
+        <BtxtString>
+          <Id>2836136204</Id>
+          <Value>オンラインに　しますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2028</Key>
+      <Values>
+        <BtxtString>
+          <Id>2852651272</Id>
+          <Value>オンラインにする</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2029</Key>
+      <Values>
+        <BtxtString>
+          <Id>2869690636</Id>
+          <Value>オンラインに　しました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2030</Key>
+      <Values>
+        <BtxtString>
+          <Id>2885943555</Id>
+          <Value>しない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2031</Key>
+      <Values>
+        <BtxtString>
+          <Id>2903900684</Id>
+          <Value>アプリドライヴを
+オンラインに　しますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2032</Key>
+      <Values>
+        <BtxtString>
+          <Id>2922382095</Id>
+          <Value>オンラインᜀ接続᠀せつぞくᤀ
+キャンセルできないや…
+ᜀ調子᠀ちょうしᤀ　ᜀ悪᠀わるᤀいのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2939290383</Id>
+          <Value>オンラインᜀ接続᠀せつぞくᤀ
+キャンセルできないみたい…
+ᜀ調子᠀ちょうしᤀ　ᜀ悪᠀わるᤀいのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2033</Key>
+      <Values>
+        <BtxtString>
+          <Id>2952921344</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0145</Key>
+      <Values>
+        <BtxtString>
+          <Id>2971271693</Id>
+          <Value>ただいま　アプリを
+ダウンロードᜀ中᠀ちゅうᤀです…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0146</Key>
+      <Values>
+        <BtxtString>
+          <Id>2988966673</Id>
+          <Value>え…
+アプリを　ダウンロードって
+ᜀ勝手᠀かってᤀに　ᜀ何᠀なにᤀをするんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0146_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3005612815</Id>
+          <Value>え…
+アプリを　ダウンロードって
+ᜀ勝手᠀かってᤀに　ᜀ何᠀なにᤀするのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0147</Key>
+      <Values>
+        <BtxtString>
+          <Id>3022783251</Id>
+          <Value>オンライン　ゲームアプリ
+「オンモン」の
+インストールが　ᜀ完了᠀かんりょうᤀしました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0148</Key>
+      <Values>
+        <BtxtString>
+          <Id>3039036174</Id>
+          <Value>オンモン？
+なんだ　このゲームアプリ
+ᜀ見᠀みᤀたことのない　アプリだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0148_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3055944462</Id>
+          <Value>オンモン？
+なにかしら　このゲームアプリ
+ᜀ見᠀みᤀたことのない　アプリだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0149</Key>
+      <Values>
+        <BtxtString>
+          <Id>3070361856</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0150</Key>
+      <Values>
+        <BtxtString>
+          <Id>3089105675</Id>
+          <Value>えっ！？
+アプリの　アイコンが！
+ᜀ浮᠀うᤀきあがってきた！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0151</Key>
+      <Values>
+        <BtxtString>
+          <Id>3103916288</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0152</Key>
+      <Values>
+        <BtxtString>
+          <Id>3123446550</Id>
+          <Value>おᜀ目見᠀めみᤀえ！
+オンモン
+ᜀ人間᠀にんげんᤀのᜀ世界᠀せかいᤀに　デビューだぞ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0153</Key>
+      <Values>
+        <BtxtString>
+          <Id>3138388488</Id>
+          <Value>な…　な……！
+なんだ　これ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0153_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3155165704</Id>
+          <Value>な…な……！
+なによ　これ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0154</Key>
+      <Values>
+        <BtxtString>
+          <Id>3171680523</Id>
+          <Value>オレは　オンモンだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0155</Key>
+      <Values>
+        <BtxtString>
+          <Id>3188064518</Id>
+          <Value>オン…モン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0156</Key>
+      <Values>
+        <BtxtString>
+          <Id>3206152973</Id>
+          <Value>おう！
+オンライン　ゲームアプリの
+オンモンだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0157</Key>
+      <Values>
+        <BtxtString>
+          <Id>3223585297</Id>
+          <Value>オンライン　ゲームアプリ…？
+おᜀ前᠀まえᤀ　いったい　なんなんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0157_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3239969295</Id>
+          <Value>オンライン　ゲームアプリ…？
+あなた　いったい　なんなのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0161</Key>
+      <Values>
+        <BtxtString>
+          <Id>3256746511</Id>
+          <Value>オンモンは　アプモンだぞ！
+アプリのモンスター　アプモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0162</Key>
+      <Values>
+        <BtxtString>
+          <Id>3272999437</Id>
+          <Value>あ　アプモン？
+アプリの　モンスター…！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0163</Key>
+      <Values>
+        <BtxtString>
+          <Id>3290169870</Id>
+          <Value>オマエは　ᰏだろ？
+ᰏ　つなぎたいとᜀ思᠀おもᤀってる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0164</Key>
+      <Values>
+        <BtxtString>
+          <Id>3307995919</Id>
+          <Value>オンモンは　それ　かんじた！
+だから　ぜ～んぶ　ᜀ全部᠀ぜんぶᤀ！
+ᰏと　つないでやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0166</Key>
+      <Values>
+        <BtxtString>
+          <Id>3325297426</Id>
+          <Value>いや　つなげるっていうか…
+オレは　ナオトがᜀ何᠀なにᤀをやってるのか
+ᜀ知᠀しᤀりたいだけなんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0166_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3342205715</Id>
+          <Value>いや　つなげるっていうか…
+ワタシは　ナオトがᜀ何᠀なにᤀをやってるのか
+ᜀ知᠀しᤀりたいだけなんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2035</Key>
+      <Values>
+        <BtxtString>
+          <Id>3358589714</Id>
+          <Value>ナオトのやつ
+ゲームに　ᜀ参加᠀さんかᤀするᜀ資格᠀しかくᤀが
+どうとか　ᜀ言᠀いᤀってたからさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3375498002</Id>
+          <Value>ナオトのやつ
+ゲームに　ᜀ参加᠀さんかᤀするᜀ資格᠀しかくᤀが
+どうとかって　ᜀ言᠀いᤀってたから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2036</Key>
+      <Values>
+        <BtxtString>
+          <Id>3391750929</Id>
+          <Value>ᰏ　ゲームにつながるか！？
+つながりたいか！？
+オンモンは　オンラインのアプモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2037</Key>
+      <Values>
+        <BtxtString>
+          <Id>3408134926</Id>
+          <Value>どんなゲームでも　つなぐぞ！
+その　つなげればいい
+ゲームって　なんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2038</Key>
+      <Values>
+        <BtxtString>
+          <Id>3425305106</Id>
+          <Value>そのゲームが　ᜀ何᠀なんᤀのゲームなのか
+わからないから　ᜀ探᠀さがᤀしてるんだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3442082321</Id>
+          <Value>そのゲームが　ᜀ何᠀なんᤀのゲームなのか
+わからないから　ᜀ探᠀さがᤀしてるのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2039</Key>
+      <Values>
+        <BtxtString>
+          <Id>3457810960</Id>
+          <Value>オンモンが
+ᜀ探᠀さがᤀしてくれるんじゃないの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0187</Key>
+      <Values>
+        <BtxtString>
+          <Id>3476685591</Id>
+          <Value>オンモンは　つなぐのはᜀ得意᠀とくいᤀだけど
+ᜀ探᠀さがᤀしたりするのは　ᜀ得意᠀とくいᤀじゃないんだ！
+ざんねん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0188</Key>
+      <Values>
+        <BtxtString>
+          <Id>3492676117</Id>
+          <Value>そんなᜀ自信᠀じしんᤀたっぷりに　ᜀ言᠀いᤀわれても…
+じゃあ　もうᜀ帰᠀かえᤀっていいよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0189</Key>
+      <Values>
+        <BtxtString>
+          <Id>3509191440</Id>
+          <Value>ま　ᜀ待᠀まᤀって！
+ᰏ　ᜀ待᠀まᤀって！
+オンモン　ᜀ探᠀さがᤀすの　てつだう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0190</Key>
+      <Values>
+        <BtxtString>
+          <Id>3526624020</Id>
+          <Value>ナオトってヤツの　スマホ
+つながったもの　ぜーんぶ　ᜀ調᠀しらᤀべよう！
+ᜀ通信履歴᠀オンラインログᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0191</Key>
+      <Values>
+        <BtxtString>
+          <Id>3543532309</Id>
+          <Value>アクセスᜀ履歴᠀りれきᤀを　ᜀ調᠀しらᤀべるってこと？
+でも　ナオトのスマホなんか
+ᜀ借᠀かᤀりられないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0192</Key>
+      <Values>
+        <BtxtString>
+          <Id>3560178450</Id>
+          <Value>ᜀ何᠀なにᤀをᜀ言᠀いᤀってるんだ？
+そんなことしなくっても
+ＡＲフィールドで　ᜀ見᠀みᤀたらいいんだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0193</Key>
+      <Values>
+        <BtxtString>
+          <Id>3576431377</Id>
+          <Value>アプリドライヴがあれば
+ᜀ人間᠀にんげんᤀでも　だいじょうぶだ！
+ᜀ行᠀いᤀくぞ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0194</Key>
+      <Values>
+        <BtxtString>
+          <Id>3592684299</Id>
+          <Value>ＡＲフィールドって…？
+あ…　オンモン！
+ちょっと　ᜀ待᠀まᤀってよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0208</Key>
+      <Values>
+        <BtxtString>
+          <Id>3607232768</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0209</Key>
+      <Values>
+        <BtxtString>
+          <Id>3625320974</Id>
+          <Value>さあ　ᰏ
+ＡＲフィールドに　ᜀ行᠀いᤀくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0210</Key>
+      <Values>
+        <BtxtString>
+          <Id>3642491662</Id>
+          <Value>そうしたら
+オンモンの　ᜀ言᠀いᤀってることが
+わかるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0211</Key>
+      <Values>
+        <BtxtString>
+          <Id>3657564416</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0212</Key>
+      <Values>
+        <BtxtString>
+          <Id>3675259403</Id>
+          <Value>うわっ…
+な…なんだよ　これ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0212_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3692036618</Id>
+          <Value>うわっ…
+な…なによ　これ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0213</Key>
+      <Values>
+        <BtxtString>
+          <Id>3711042331</Id>
+          <Value>ここは
+ネットと　ᜀ現実᠀げんじつᤀのᜀ中間᠀ちゅうかんᤀにあるᜀ場所᠀ばしょᤀ
+ＡＲフィールド！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0214</Key>
+      <Values>
+        <BtxtString>
+          <Id>3727032856</Id>
+          <Value>オンモンたち
+アプモンが　ᜀ活動᠀かつどうᤀしてる　ᜀ世界᠀せかいᤀだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0215</Key>
+      <Values>
+        <BtxtString>
+          <Id>3741450496</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0216</Key>
+      <Values>
+        <BtxtString>
+          <Id>3758227712</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0217</Key>
+      <Values>
+        <BtxtString>
+          <Id>3775004928</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0218</Key>
+      <Values>
+        <BtxtString>
+          <Id>3791782144</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0219</Key>
+      <Values>
+        <BtxtString>
+          <Id>3812885270</Id>
+          <Value>ᰏたちの　ᜀ世界᠀せかいᤀで
+いろんな　アプリが　ᜀ役᠀やくᤀにたつってᜀ事᠀ことᤀは
+アプモンが　ここでᜀ仕事᠀しごとᤀをしてるからだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0220</Key>
+      <Values>
+        <BtxtString>
+          <Id>3829400344</Id>
+          <Value>メールをとどけたり　ᜀ検索᠀けんさくᤀしたり…
+イタズラすれば　ᜀ人間᠀にんげんᤀをこまらせるᜀ事᠀ことᤀも
+できちゃうんだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0221</Key>
+      <Values>
+        <BtxtString>
+          <Id>3845522194</Id>
+          <Value>アプリが　ᜀ便利᠀べんりᤀなのは
+アプモンたちが　このＡＲフィールドで
+ᜀ働᠀はたらᤀいていたからなのか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0221_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3862299410</Id>
+          <Value>アプリが　ᜀ便利᠀べんりᤀなのは
+アプモンたちが　このＡＲフィールドで
+ᜀ働᠀はたらᤀいていたからなのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0222</Key>
+      <Values>
+        <BtxtString>
+          <Id>3877896718</Id>
+          <Value>ᜀ今᠀いまᤀまで　そんなᜀ事᠀ことᤀ
+ぜんぜん　ᜀ知᠀しᤀらなかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0223</Key>
+      <Values>
+        <BtxtString>
+          <Id>3896115983</Id>
+          <Value>ᰏ　アプリドライヴᜀ持᠀もᤀってる
+だから　ᜀ今᠀いまᤀはオンモンたちと
+ᜀ同᠀おなᤀじものが　ᜀ見᠀みᤀえるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0224</Key>
+      <Values>
+        <BtxtString>
+          <Id>3913286424</Id>
+          <Value>ᜀ現実᠀げんじつᤀと　ネットの　ᜀ重᠀かさᤀなったᜀ世界᠀せかいᤀ
+これが
+アプモンのᜀ見᠀みᤀてる　ᜀ世界᠀せかいᤀなんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0225</Key>
+      <Values>
+        <BtxtString>
+          <Id>3929146132</Id>
+          <Value>さあ　このＡＲフィールドなら
+ナオトってやつが
+ᜀ何᠀なにᤀをしていたか　わかるとᜀ思᠀おもᤀうぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0226</Key>
+      <Values>
+        <BtxtString>
+          <Id>3945136911</Id>
+          <Value>いっしょに　ᜀ調᠀しらᤀべるぞ
+ᰏ！
+いろんなとこ　ᜀ行᠀いᤀってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1004</Key>
+      <Values>
+        <BtxtString>
+          <Id>3960209672</Id>
+          <Value>あれをᜀ見᠀みᤀろ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1005</Key>
+      <Values>
+        <BtxtString>
+          <Id>3979477776</Id>
+          <Value>ＡＲフィールドでは
+ネットに　ᜀ変᠀かᤀわったことがあると
+ウィンドウになって　ᜀ見᠀みᤀえるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1006</Key>
+      <Values>
+        <BtxtString>
+          <Id>3996254993</Id>
+          <Value>これをᜀ調᠀しらᤀべれば
+ナオトの　ᜀ通信履歴᠀オンラインログᤀを
+ᜀ追᠀おᤀいかけられる　はずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0228</Key>
+      <Values>
+        <BtxtString>
+          <Id>4013294359</Id>
+          <Value>ᰏ　
+そっちに　ᜀ通信履歴᠀オンラインログᤀは　ないぞ！
+ᜀ他᠀ほかᤀのところ　ᜀ探᠀さがᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1024</Key>
+      <Values>
+        <BtxtString>
+          <Id>4030464786</Id>
+          <Value>ᜀ通信履歴᠀オンラインログᤀは
+ＡＲフィールドで　ᜀ見᠀みᤀつけられるぞ！
+もうᜀ一度᠀いちどᤀ　ᜀ行᠀いᤀこう　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0230</Key>
+      <Values>
+        <BtxtString>
+          <Id>4047110932</Id>
+          <Value>ᰏ　まだ　しらべてない
+ᜀ通信履歴᠀オンラインログᤀが　あるみたいだ
+もどって　もうすこし　ᜀ探᠀さがᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1025</Key>
+      <Values>
+        <BtxtString>
+          <Id>4062052880</Id>
+          <Value>これ　なんだろう…？
+ᜀ今᠀いまᤀは　まだ　よくわからないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0231</Key>
+      <Values>
+        <BtxtString>
+          <Id>4077912332</Id>
+          <Value>ここは　オレのᜀ家᠀いえᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0231_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4094689548</Id>
+          <Value>ここは　ワタシのᜀ家᠀いえᤀよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0232</Key>
+      <Values>
+        <BtxtString>
+          <Id>4113826586</Id>
+          <Value>ᰏ！
+このあたり　ナオトってやつとの
+ᜀ通信履歴᠀オンラインログᤀが　たくさん　ᜀ残᠀のこᤀってるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0233</Key>
+      <Values>
+        <BtxtString>
+          <Id>4131128086</Id>
+          <Value>オレが　ナオトに
+ᜀ連絡᠀れんらくᤀ　ᜀ取᠀とᤀろうとしたぶんと…
+あとは　ミオかな　ナオトのᜀ妹᠀いもうとᤀだからね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0233_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4148036372</Id>
+          <Value>ワタシが　ナオトに
+ᜀ連絡᠀れんらくᤀ　ᜀ取᠀とᤀろうとしたᜀ分᠀ぶんᤀと…
+あとは　ミオかな　ナオトのᜀ妹᠀いもうとᤀだし</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1007</Key>
+      <Values>
+        <BtxtString>
+          <Id>4163371798</Id>
+          <Value>ᰏ！
+あっちにも　ᜀ通信履歴᠀オンラインログᤀがあるぞ！
+ᜀ行᠀いᤀってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1008</Key>
+      <Values>
+        <BtxtString>
+          <Id>4178969103</Id>
+          <Value>あっちって…
+ガソリンスタンドの　ほうかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1009</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195090951</Id>
+          <Value>わかった
+いってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0234</Key>
+      <Values>
+        <BtxtString>
+          <Id>4211212544</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0235</Key>
+      <Values>
+        <BtxtString>
+          <Id>4229562893</Id>
+          <Value>ナオト　このあたり
+よく　ᜀ来᠀きᤀているみたいだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0236</Key>
+      <Values>
+        <BtxtString>
+          <Id>4246864652</Id>
+          <Value>そうなの？
+ガソリンスタンドって…
+ᜀ中学生᠀ちゅうがくせいᤀが？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0237</Key>
+      <Values>
+        <BtxtString>
+          <Id>4263117330</Id>
+          <Value>うーん
+ちょっと　ᜀ心当᠀こころあᤀたりがないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0237_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4279763473</Id>
+          <Value>うーん
+ちょっと　ᜀ心当᠀こころあᤀたりないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1010</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>オンモン　ᜀ他᠀ほかᤀにはどう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1011</Key>
+      <Values>
+        <BtxtString>
+          <Id>19005977</Id>
+          <Value>あっちだ！
+あっちのほうにも　ᜀ通信履歴᠀オンラインログᤀがあるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1012</Key>
+      <Values>
+        <BtxtString>
+          <Id>35914257</Id>
+          <Value>あっちは…　コンビニのᜀ方᠀ほうᤀかな？
+よし　ᜀ行᠀いᤀってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>52691473</Id>
+          <Value>あっちは…　コンビニのᜀ方᠀ほうᤀかな？
+よし　ᜀ行᠀いᤀってみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0238</Key>
+      <Values>
+        <BtxtString>
+          <Id>67240192</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0239</Key>
+      <Values>
+        <BtxtString>
+          <Id>86639127</Id>
+          <Value>ここに　メッセージの　ᜀ通信履歴᠀オンラインログᤀが
+ᜀ残᠀のこᤀってるみたいだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0240</Key>
+      <Values>
+        <BtxtString>
+          <Id>103678737</Id>
+          <Value>うわ
+ᜀ道路᠀どうろᤀで　ᜀ歩᠀あるᤀきスマホかよ！
+ᜀ危᠀あぶᤀないことするなぁ　アイツ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0240_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>120324880</Id>
+          <Value>うわ
+ᜀ道路᠀どうろᤀで　ᜀ歩᠀あるᤀきスマホ！
+ᜀ危᠀あぶᤀないことするなぁ　ナオト…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0241</Key>
+      <Values>
+        <BtxtString>
+          <Id>135528974</Id>
+          <Value>ᰏは
+ᜀ歩᠀あるᤀきスマホ　しないのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0242</Key>
+      <Values>
+        <BtxtString>
+          <Id>152043789</Id>
+          <Value>ᜀ歩᠀あるᤀきスマホを　しない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0243</Key>
+      <Values>
+        <BtxtString>
+          <Id>168034564</Id>
+          <Value>するかも</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0244</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467401</Id>
+          <Value>うーん
+たまに　するかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0245</Key>
+      <Values>
+        <BtxtString>
+          <Id>204210961</Id>
+          <Value>うわ
+ᜀ道路᠀どうろᤀで　ᜀ歩᠀あるᤀきスマホかよ！
+ᜀ危᠀あぶᤀないことするなぁ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0245_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>220857103</Id>
+          <Value>うわ
+ᜀ道路᠀どうろᤀで　ᜀ歩᠀あるᤀきスマホ！
+ᜀ危᠀あぶᤀないことするなぁ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0246</Key>
+      <Values>
+        <BtxtString>
+          <Id>238289683</Id>
+          <Value>それ　さっきオレが　ᜀ言᠀いᤀったやつだろ！
+マネするなよ…
+あー　これからは　ᜀ気᠀きᤀをつけます…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0246_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>255066899</Id>
+          <Value>それ　さっきワタシがᜀ言᠀いᤀったことじゃん
+マネしないでよ…
+あー　これからは　ᜀ気᠀きᤀをつけます…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0247</Key>
+      <Values>
+        <BtxtString>
+          <Id>268697860</Id>
+          <Value>しないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0248</Key>
+      <Values>
+        <BtxtString>
+          <Id>286392844</Id>
+          <Value>しないよ
+ケガしたら　あぶないしね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0248_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>303301134</Id>
+          <Value>しないよ
+ケガしたら　あぶないでしょ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0249</Key>
+      <Values>
+        <BtxtString>
+          <Id>319160582</Id>
+          <Value>そうなのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0250</Key>
+      <Values>
+        <BtxtString>
+          <Id>337510925</Id>
+          <Value>ケガしたら　あぶないんだな
+オンモン　ᜀ覚᠀おぼᤀえとくぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0251</Key>
+      <Values>
+        <BtxtString>
+          <Id>352452864</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0252</Key>
+      <Values>
+        <BtxtString>
+          <Id>370016525</Id>
+          <Value>とにかく　ここはハズレ…と</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0253</Key>
+      <Values>
+        <BtxtString>
+          <Id>387842829</Id>
+          <Value>ここはもう　ᜀ調᠀しらᤀべたぞ！
+ᰏ
+ᜀ他᠀ほかᤀにいこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1013</Key>
+      <Values>
+        <BtxtString>
+          <Id>406455060</Id>
+          <Value>あんまり　ピンとこないなあ…
+オンモン　これでᜀ本当᠀ほんとうᤀに　ナオトが
+ᜀ何᠀なにᤀをやってるのか　わかるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1014</Key>
+      <Values>
+        <BtxtString>
+          <Id>420348426</Id>
+          <Value>ᰏ！
+こっちだ！　はやく！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1015</Key>
+      <Values>
+        <BtxtString>
+          <Id>439484950</Id>
+          <Value>ぜんぜん　ᜀ人᠀ひとᤀのᜀ話᠀はなしᤀ　ᜀ聞᠀きᤀいてないし！
+ちょっとᜀ待᠀まᤀってよ　オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0227</Key>
+      <Values>
+        <BtxtString>
+          <Id>455606808</Id>
+          <Value>ᰏ！　こっちだ！
+すごいᜀ量᠀りょうᤀの　ᜀ通信履歴᠀オンラインログᤀがある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0229</Key>
+      <Values>
+        <BtxtString>
+          <Id>472252948</Id>
+          <Value>そっちって…　オレたちの　ᜀ学校᠀がっこうᤀ？
+ちょっと　ᜀ待᠀まᤀってよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0229_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>489161237</Id>
+          <Value>そっちって…　ワタシたちの　ᜀ学校᠀がっこうᤀ？
+ちょっと　ᜀ待᠀まᤀってよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0254</Key>
+      <Values>
+        <BtxtString>
+          <Id>504627723</Id>
+          <Value>ねえ　オンモン！
+ほんとに　そっちなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0255</Key>
+      <Values>
+        <BtxtString>
+          <Id>525075225</Id>
+          <Value>ここ　オレのᜀ学校᠀がっこうᤀの　ᜀ体育館᠀たいいくかんᤀだよ
+さっき　ナオトにᜀ会᠀あᤀったばっかりだし
+そりゃあ　ログがᜀ残᠀のこᤀってるだろうな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0255_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>541983514</Id>
+          <Value>ここ　ワタシのᜀ学校᠀がっこうᤀの　ᜀ体育館᠀たいいくかんᤀだよ
+さっき　ナオトにᜀ会᠀あᤀったばっかりだし
+そりゃあ　ログがᜀ残᠀のこᤀってるでしょうね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0256</Key>
+      <Values>
+        <BtxtString>
+          <Id>555483920</Id>
+          <Value>ᰏ！
+ここ　すごいぞ！
+いろんなものが　つながってるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0257</Key>
+      <Values>
+        <BtxtString>
+          <Id>572523274</Id>
+          <Value>いろんなもの…？
+つながっているって
+どういう　ᜀ意味᠀いみᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0258</Key>
+      <Values>
+        <BtxtString>
+          <Id>589562383</Id>
+          <Value>そもそも　ᜀ学校᠀がっこうᤀは　いま
+ᜀ休᠀やすᤀみの　はずなんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0259</Key>
+      <Values>
+        <BtxtString>
+          <Id>606864142</Id>
+          <Value>ᜀ中᠀なかᤀに　はいってみれば
+わかるとᜀ思᠀おもᤀうぞ！
+とにかく　ここは　すごいぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1057</Key>
+      <Values>
+        <BtxtString>
+          <Id>623379215</Id>
+          <Value>ᰏ！
+ᜀ体育館᠀たいいくかんᤀって　ところ
+はやく　ᜀ調᠀しらᤀべてみてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1026</Key>
+      <Values>
+        <BtxtString>
+          <Id>638320905</Id>
+          <Value>ᜀ開᠀ひらᤀくみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1026_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>655098120</Id>
+          <Value>ᜀ開᠀ひらᤀくみたい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0260</Key>
+      <Values>
+        <BtxtString>
+          <Id>671351044</Id>
+          <Value>えっ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0261</Key>
+      <Values>
+        <BtxtString>
+          <Id>689963789</Id>
+          <Value>ほほーっ
+ᰏの　ᜀ体育館᠀たいいくかんᤀって
+こうなってるのか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0262</Key>
+      <Values>
+        <BtxtString>
+          <Id>707920664</Id>
+          <Value>いやいや
+オレのᜀ知᠀しᤀってる　ᜀ体育館᠀たいいくかんᤀじゃないよ！
+これ　どういうことだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0262_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>725353241</Id>
+          <Value>ᜀ違᠀ちがᤀうᜀ違᠀ちがᤀう
+ワタシのᜀ知᠀しᤀってる　ᜀ体育館᠀たいいくかんᤀじゃないよ！
+これって　どういうこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0263</Key>
+      <Values>
+        <BtxtString>
+          <Id>738328832</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0264</Key>
+      <Values>
+        <BtxtString>
+          <Id>757858841</Id>
+          <Value>ᜀＹＥＡＡＡＡＡＡＡＡＡＨ᠀イェーーーーーーーーーーᤀ！
+ウェルカム・サイバーアリーナ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0265</Key>
+      <Values>
+        <BtxtString>
+          <Id>772800780</Id>
+          <Value>な　なんか　ᜀ出᠀でᤀてきた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0266</Key>
+      <Values>
+        <BtxtString>
+          <Id>791413524</Id>
+          <Value>なんかじゃないぜ
+オレᜀ様᠀さまᤀは　サイバーアリーナのᜀ顔᠀かおᤀ！
+エムシーモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0267</Key>
+      <Values>
+        <BtxtString>
+          <Id>808583956</Id>
+          <Value>♪オレᜀ様᠀さまᤀ　ファンキー！
+オマエ　ルーキー！
+バトルしにきた　ᜀ新人᠀しんじんᤀ　ラッキー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0268</Key>
+      <Values>
+        <BtxtString>
+          <Id>823919372</Id>
+          <Value>バ　バトル？
+ᜀ違᠀ちがᤀうよ
+オレは　そうじゃなくて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0268_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>840827661</Id>
+          <Value>バ　バトル？
+ᜀ違᠀ちがᤀうよ
+ワタシは　そうじゃなくて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0269</Key>
+      <Values>
+        <BtxtString>
+          <Id>858522385</Id>
+          <Value>オフコォーーーース！
+ᜀ言᠀いᤀわなくてもわかるぜ～
+バリバリ　キンチョーしてるんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0270</Key>
+      <Values>
+        <BtxtString>
+          <Id>875299600</Id>
+          <Value>とにかく
+やってみなきゃ　ᜀ始᠀はじᤀまんねー！
+チュートモン　ᜀ出番᠀でばんᤀだゼイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0271</Key>
+      <Values>
+        <BtxtString>
+          <Id>892600857</Id>
+          <Value>ルーキーに　バトルのやりかた
+ᜀ教᠀おしᤀえて　ᜀＨＥＲＥ᠀ヒアᤀ　ᜀＷＥ᠀ウィーᤀ　ᜀＧＯ᠀ゴーᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0272</Key>
+      <Values>
+        <BtxtString>
+          <Id>907411728</Id>
+          <Value>ᜀ違᠀ちがᤀうって　ᜀ言᠀いᤀってるのにー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0273</Key>
+      <Values>
+        <BtxtString>
+          <Id>922878208</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0274</Key>
+      <Values>
+        <BtxtString>
+          <Id>940572943</Id>
+          <Value>イェーーーーーーーーーーーッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0275</Key>
+      <Values>
+        <BtxtString>
+          <Id>957350160</Id>
+          <Value>サイコーーーーーーーーーーッ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0276</Key>
+      <Values>
+        <BtxtString>
+          <Id>976880404</Id>
+          <Value>サイバーアリーナ　はじめてにしては
+イイノリしてるじゃん　ルーキー！
+♪あふれるサイノー！ᜀ感᠀かんᤀじちゃうノー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0277</Key>
+      <Values>
+        <BtxtString>
+          <Id>993788694</Id>
+          <Value>ドンマイ　ルーキー！
+やってみなきゃ　ᜀ始᠀はじᤀまんねーって
+♪ᜀ言᠀いᤀったろルーキー！なくすなᜀ勇気᠀ゆうきᤀー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008861716</Id>
+          <Value>エムシーモンは　ᰏに
+バッテリーチャージャーXを　ᜀ使᠀つかᤀった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0278</Key>
+      <Values>
+        <BtxtString>
+          <Id>1027474200</Id>
+          <Value>まあ　サイバーアリーナ
+ᜀ初᠀はじᤀめてで　ココまでやれるって
+チャレンジᜀ精神᠀せいしんᤀは　あるᜀ意味᠀いみᤀサイノー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0279</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042547469</Id>
+          <Value>サイノーって…
+ああ　ᜀ才能᠀さいのうᤀのことか
+そ　それは　どうも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0279_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059324685</Id>
+          <Value>サイノーって…
+ああ　ᜀ才能᠀さいのうᤀのことね
+そ　それは　どうも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0280</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077412629</Id>
+          <Value>おいおい　どうした
+♪ルーキー　いまいち　ノリがᜀ悪᠀わるᤀいゼ！
+そんな　ことでは　カッコᜀ悪᠀わるᤀいゼ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0281</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094845207</Id>
+          <Value>♪ピンチの　ときほど　ᜀ声᠀こえᤀをだそうゼ！
+ᜀ腹᠀はらᤀの　ソコから
+ᜀＳＡＹ᠀セイᤀ！　ᜀＹＥＡＡＡＡＡＡＨ᠀イェーーーーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0282</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109393690</Id>
+          <Value>ᜀＳＡＹ᠀セイᤀ！　ᜀＹＥＡＡＡＡＡＡＨ᠀イェーーーーーーーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0283</Key>
+      <Values>
+        <BtxtString>
+          <Id>1124204800</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0284</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141244165</Id>
+          <Value>い　イェー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0285</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161036561</Id>
+          <Value>オイオイオイオイオイオイ～～ッ！
+もう　サイテー！
+ᜀ腹᠀はらᤀから　ᜀ声᠀こえᤀ　ᜀ出᠀だᤀせよな～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0286</Key>
+      <Values>
+        <BtxtString>
+          <Id>1174536448</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0287</Key>
+      <Values>
+        <BtxtString>
+          <Id>1191444740</Id>
+          <Value>イェー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0288</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210188304</Id>
+          <Value>まだ　ちょっとᜀ足᠀たᤀりねーーーー！
+でも　ゴーカクって　コトで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0289</Key>
+      <Values>
+        <BtxtString>
+          <Id>1224868096</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0290</Key>
+      <Values>
+        <BtxtString>
+          <Id>1242693906</Id>
+          <Value>イェーーーーーーーーーーーーーーー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0291</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260913168</Id>
+          <Value>サイコーーーーーーーーーーーッ！
+じゃあ　ᜀ話᠀はなしᤀ　ᜀ進᠀すすᤀめるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0292</Key>
+      <Values>
+        <BtxtString>
+          <Id>1275199744</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0293</Key>
+      <Values>
+        <BtxtString>
+          <Id>1295123221</Id>
+          <Value>ふう…
+「サイバーアリーナ」って　このᜀ場所᠀ばしょᤀ…
+ウチの　ᜀ体育館᠀たいいくかんᤀのこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0294</Key>
+      <Values>
+        <BtxtString>
+          <Id>1312686867</Id>
+          <Value>ᜀＯＯＯＯＯＰＳ᠀オーーーーップスᤀ！
+オマエってば　ここの　ᜀ生徒᠀せいとᤀさん？
+あいさつしなきゃ　ダメダメじゃ～ん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0295</Key>
+      <Values>
+        <BtxtString>
+          <Id>1332478751</Id>
+          <Value>ᜀ平素᠀へいそᤀより　ᜀ大変᠀たいへんᤀおᜀ世話᠀せわᤀになっております
+ᜀ勝手᠀かってᤀながら　ᜀ貴校᠀きこうᤀの　ᜀ体育館᠀たいいくかんᤀをおᜀ借᠀かᤀりし
+おかげさまで　ᜀ楽᠀たのᤀしくᜀ過᠀すᤀごしております</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0296</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345061647</Id>
+          <Value>うわっ！　なんだよ　いきなり！
+そ…　そんなᜀ話᠀はなᤀしᜀ方᠀かたᤀも
+できるんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0296_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361707790</Id>
+          <Value>うわっ！　なによ　いきなり！
+そ…　そんなᜀ話᠀はなᤀしᜀ方᠀かたᤀも
+できるのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0297</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379140368</Id>
+          <Value>…って　そうじゃなくてさ
+オレ　ᜀ探᠀さがᤀしものをしてただけで
+バトルに　ᜀ来᠀きᤀたとかじゃないんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0297_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1396048658</Id>
+          <Value>…って　そうじゃなくて！
+ワタシは　ᜀ探᠀さがᤀしものをしてただけで
+バトルに　ᜀ来᠀きᤀたとかじゃないの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0298</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412432656</Id>
+          <Value>ᜀＢＯＯＯＯＯＯ᠀ブーーーーᤀ！　
+いいじゃん　いいじゃん！
+はじめようぜ　サイバーアリーナ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0299</Key>
+      <Values>
+        <BtxtString>
+          <Id>1430913815</Id>
+          <Value>アンタみたいな　ルーキーでも
+マッハで　ᜀ強᠀つよᤀくなった　ᜀ天才᠀てんさいᤀもいるし
+ᜀＹＯＵ᠀ユーᤀも　ᜀ天才᠀てんさいᤀかもしれないゼイ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0300</Key>
+      <Values>
+        <BtxtString>
+          <Id>1443889424</Id>
+          <Value>だから　オレは　そういうのじゃ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0300_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460797713</Id>
+          <Value>だから　ワタシは　そういうのじゃ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0301</Key>
+      <Values>
+        <BtxtString>
+          <Id>1480196882</Id>
+          <Value>そうイヤー　あのᜀ天才᠀てんさいᤀナオトも
+ここの　ᜀ生徒᠀せいとᤀさんだったっけ？
+ナオトって　ᜀ知᠀しᤀってる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0302</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494352397</Id>
+          <Value>ナオト？
+ナオトが　ここにいるの！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0303</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510605064</Id>
+          <Value>どうしたんだ　ᰏ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0304</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529611026</Id>
+          <Value>アタリ！　アタリだよ　オンモン！
+ナオトのやつ　このサイバーアリーナで
+あそんでたんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0304_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546388242</Id>
+          <Value>アタリ！　アタリよ　オンモン！
+ナオトったら　このサイバーアリーナで
+あそんでたんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0305</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564476183</Id>
+          <Value>おっおーっ！
+♪ᜀ探᠀さがᤀしものが　ᜀ見᠀みᤀつかった　カンジ？
+ᜀ天才᠀てんさいᤀルーキー　ᜀ探᠀さがᤀしていた　カレシ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0306</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580991002</Id>
+          <Value>♪これはᜀ運命᠀うんめいᤀ　ごᜀ飯᠀はんᤀはうんめー！
+ᜀＳＡＹ᠀セイᤀ！　ᜀＹＥＡＡＡＡＡＡＨ᠀イェーーーーーーーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0307</Key>
+      <Values>
+        <BtxtString>
+          <Id>1593966848</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0308</Key>
+      <Values>
+        <BtxtString>
+          <Id>1610744064</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0309</Key>
+      <Values>
+        <BtxtString>
+          <Id>1628569874</Id>
+          <Value>イェーーーーーーーーーーーーーーー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0310</Key>
+      <Values>
+        <BtxtString>
+          <Id>1645609488</Id>
+          <Value>ふーーっ！
+サイコーーーーーーーーーーーッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0311</Key>
+      <Values>
+        <BtxtString>
+          <Id>1661075712</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0312</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680605970</Id>
+          <Value>そうこなくっちゃだぜ～！
+えーと　ところで
+アンタの　おᜀ名前᠀なまえᤀ　なんてーの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0313</Key>
+      <Values>
+        <BtxtString>
+          <Id>1697121041</Id>
+          <Value>オレ　ᰏだよ
+ねえ　エムシーモン　ナオトと
+バトルするには　どうしたらいいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0313_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1713898257</Id>
+          <Value>ワタシは　ᰏ
+ねえ　エムシーモン　ナオトと
+バトルするには　どうしたらいいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0314</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731986196</Id>
+          <Value>ᜀＨＭＭＭＭ᠀むむむᤀ…
+サイバーアリーナに　ᜀ参加᠀さんかᤀしていれば
+ᜀＨＩＴ᠀ヒットᤀすることが　あるだろうけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0315</Key>
+      <Values>
+        <BtxtString>
+          <Id>1747714833</Id>
+          <Value>ナオトは
+ずいぶん　ランクがあがっちゃったし
+ᜀ今᠀いまᤀのままじゃ　かなわないかもね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0316</Key>
+      <Values>
+        <BtxtString>
+          <Id>1766195991</Id>
+          <Value>アプモンと　ᜀ仲間᠀なかまᤀになって　バトルして
+ᜀ対戦相手᠀たいせんあいてᤀと　たくさん　つながれば
+ᰏも　ᜀ強᠀つよᤀくなれちゃうかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0317</Key>
+      <Values>
+        <BtxtString>
+          <Id>1781138194</Id>
+          <Value>つなげるのか？
+つなぐもの　あるのか！？
+オンモン　つなぐの　ᜀ大好᠀だいすᤀきだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0318</Key>
+      <Values>
+        <BtxtString>
+          <Id>1798701843</Id>
+          <Value>ᜀＧＯＯＤ᠀グッドᤀ！　ぐいぐいくるじゃん！
+じゃあさっそく　アプモンと
+あたらしく　つながってもらうぜ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0319</Key>
+      <Values>
+        <BtxtString>
+          <Id>1814037005</Id>
+          <Value>テラーモンの　かけらを
+１００ᜀ個᠀こᤀ　ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0320</Key>
+      <Values>
+        <BtxtString>
+          <Id>1832518418</Id>
+          <Value>コイツは　アプモンのかけら！
+アプモンが　ときどき　ᜀ落᠀おᤀとしていく
+ᜀ自分᠀じぶんᤀのデータの　かけらだゼイ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0321</Key>
+      <Values>
+        <BtxtString>
+          <Id>1849819925</Id>
+          <Value>アプモンのかけらは　１００ᜀ個集᠀こあつᤀめると
+アプモンチップに　ᜀ変換᠀へんかんᤀできて
+ᰏの　ᜀ仲間᠀なかまᤀになるってワケ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0322</Key>
+      <Values>
+        <BtxtString>
+          <Id>1866597140</Id>
+          <Value>さらに！　デッキにᜀ編成᠀へんせいᤀすれば
+バトルにも　ᜀ参加᠀さんかᤀしてくれる！
+どちらも　アプリドライヴを　ᜀ使᠀つかᤀうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0323</Key>
+      <Values>
+        <BtxtString>
+          <Id>1882587922</Id>
+          <Value>ᜀＹＥＡＨ᠀イェーᤀ！
+テラーモンを　デッキに　いれたら
+ᜀ次᠀つぎᤀの　ステップに　ᜀ進᠀すすᤀもうゼ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0335</Key>
+      <Values>
+        <BtxtString>
+          <Id>1899102994</Id>
+          <Value>ᜀＹＥＳ᠀イエスᤀ！　やるじゃん！
+これで　テラーモンが
+ᜀ一緒᠀いっしょᤀに　バトルしてくれるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0336</Key>
+      <Values>
+        <BtxtString>
+          <Id>1915749137</Id>
+          <Value>アプモンのかけらは
+バトルでも　ᜀ手᠀てᤀにはいるし
+ＡＲフィールドにも　ᜀ落᠀おᤀちてるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0337</Key>
+      <Values>
+        <BtxtString>
+          <Id>1933706005</Id>
+          <Value>どんどん　かけらをᜀ集᠀あつᤀめて
+どんどん　アプモンをᜀ集᠀あつᤀめるといいぜ！
+ᜀ仲間᠀なかまᤀがふえて　ハッピー！　ラッキー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0338</Key>
+      <Values>
+        <BtxtString>
+          <Id>1950876440</Id>
+          <Value>ちなみに　アプモンのかけらは
+ᜀ見᠀みᤀたᜀ目᠀めᤀで　アプモンの　ᜀ属性᠀ぞくせいᤀがわかるぜ
+ᜀ探᠀さがᤀすときは　よ～く　ᜀ見᠀みᤀろよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0339</Key>
+      <Values>
+        <BtxtString>
+          <Id>1966342931</Id>
+          <Value>バトルや　ＡＲフィールドで
+ᜀ手᠀てᤀにはいる　かけらは　
+１００ᜀ個᠀こᤀで　アプモンチップにできる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1000</Key>
+      <Values>
+        <BtxtString>
+          <Id>1980367113</Id>
+          <Value>うん　おぼえたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1000_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1997799696</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀ　おぼえたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0340</Key>
+      <Values>
+        <BtxtString>
+          <Id>2016805651</Id>
+          <Value>そいじゃ　ᜀ仲間᠀なかまᤀも　ふえたところで
+アプリドライヴァーと　バトル！
+レッツ　いってみようじゃん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0341</Key>
+      <Values>
+        <BtxtString>
+          <Id>2030698762</Id>
+          <Value>アプリドライヴァー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0342</Key>
+      <Values>
+        <BtxtString>
+          <Id>2049573648</Id>
+          <Value>ᰏみたいに
+アプリドライヴ　ᜀ持᠀もᤀってる
+ハッピーなやつらのᜀ事᠀ことᤀだぜ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0343</Key>
+      <Values>
+        <BtxtString>
+          <Id>2068579098</Id>
+          <Value>そして　アプリドライヴをᜀ持᠀もᤀつ
+ドライヴァーだけが　ᜀ行᠀いᤀきᜀ来᠀きᤀできる
+ᜀ特別᠀とくべつᤀなサイバーᜀ空間᠀くうかんᤀが　ＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2048</Key>
+      <Values>
+        <BtxtString>
+          <Id>2083258901</Id>
+          <Value>つまり　ＡＲフィールドにいるᜀ人間᠀にんげんᤀは
+ᜀ必᠀かならᤀずドライヴァーってワケさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2057</Key>
+      <Values>
+        <BtxtString>
+          <Id>2102395668</Id>
+          <Value>ᜀ外᠀そとᤀにᜀ出᠀でᤀて　ためしにバトってこいよ！
+たったᜀ今᠀いまᤀ　ᜀ作᠀つくᤀったデッキを
+ᜀ試᠀ためᤀしてみるには　ᜀ持᠀もᤀってᜀ来᠀こᤀいだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0344</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116682514</Id>
+          <Value>♪ＡＲフィールド　どーなるフィールド
+アプリドライヴ
+ᜀ持᠀もᤀったら　ダイジョヴ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0345</Key>
+      <Values>
+        <BtxtString>
+          <Id>2134770454</Id>
+          <Value>♪バトルで　ᜀ対戦᠀たいせんᤀ！
+ふんとう　ᜀ大変᠀たいへんᤀ！
+２つのᜀ世界᠀せかいᤀで　ᜀ冒険᠀ぼうけんᤀしまくり！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0346</Key>
+      <Values>
+        <BtxtString>
+          <Id>2152465176</Id>
+          <Value>てなᜀ具合᠀ぐあいᤀに　ᜀ一人᠀ひとりᤀと　バトルしてきたら
+ᜀ次᠀つぎᤀの　ᜀ話᠀はなしᤀをするからな
+ᜀＧＯＯＤ　ＬＵＣＫ᠀グッド　ラックᤀ！　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2104</Key>
+      <Values>
+        <BtxtString>
+          <Id>2169111322</Id>
+          <Value>アプリドライヴをᜀ持᠀もᤀつ
+ドライヴァーだけが　ᜀ行᠀いᤀきᜀ来᠀きᤀできる
+ᜀ特別᠀とくべつᤀなサイバーᜀ空間᠀くうかんᤀが　ＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0347</Key>
+      <Values>
+        <BtxtString>
+          <Id>2181169408</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1048</Key>
+      <Values>
+        <BtxtString>
+          <Id>2199257360</Id>
+          <Value>そうそう　ᜀ言᠀いᤀいᜀ忘᠀わすᤀれてたぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1049</Key>
+      <Values>
+        <BtxtString>
+          <Id>2217345804</Id>
+          <Value>いま　ᜀ下画面᠀したがめんᤀに
+アプリが　ᜀ増᠀ふᤀえたけど
+ᜀ気付᠀きづᤀいたか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1050</Key>
+      <Values>
+        <BtxtString>
+          <Id>2235564819</Id>
+          <Value>アプモンのᜀ中᠀なかᤀには　ときどき
+ᰏを　ᜀ気᠀きᤀにᜀ入᠀いᤀって
+ᜀ力᠀ちからᤀをᜀ貸᠀かᤀしてくれる　ヤツがいる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1051</Key>
+      <Values>
+        <BtxtString>
+          <Id>2252473112</Id>
+          <Value>アプモンは　アプリだから…
+ᜀ便利᠀べんりᤀなアプリが　ᜀ勝手᠀かってᤀに　ふえていく
+くらいに　ᜀ思᠀おもᤀっておけば　イイぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1052</Key>
+      <Values>
+        <BtxtString>
+          <Id>2268594965</Id>
+          <Value>ふむふむ…　ᰏの　スマホには
+さっき　アプモンチップにした
+テラーモンの　アプリが　ᜀ追加᠀ついかᤀされたな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1053</Key>
+      <Values>
+        <BtxtString>
+          <Id>2285896466</Id>
+          <Value>テラーモンは　ᜀ占᠀うらなᤀいのアプリ！
+ᜀ行先᠀いきさきᤀに　ᜀ困᠀こまᤀったときは
+ᜀ占᠀うらなᤀってもらうと　いいぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1054</Key>
+      <Values>
+        <BtxtString>
+          <Id>2300707345</Id>
+          <Value>それじゃあ　ᜀＧＯＧＯ᠀ゴーゴーᤀだぜ！
+ᜀ行᠀いᤀってこい　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1032</Key>
+      <Values>
+        <BtxtString>
+          <Id>2317091339</Id>
+          <Value>そこのᜀ御仁᠀ごじんᤀ！
+ちょいと　ᜀ待᠀まᤀたれい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1033</Key>
+      <Values>
+        <BtxtString>
+          <Id>2333475339</Id>
+          <Value>そこのᜀ御仁᠀ごじんᤀって…
+オレのこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1033_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2350252555</Id>
+          <Value>そこのᜀ御仁᠀ごじんᤀって…
+ワタシのこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1034</Key>
+      <Values>
+        <BtxtString>
+          <Id>2369520405</Id>
+          <Value>そうだ！　ᜀ新顔᠀しんがおᤀと　おᜀ見᠀みᤀうけするが
+アプリドライヴの　バッテリーには
+ᜀ気᠀きᤀを　つけているか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1035</Key>
+      <Values>
+        <BtxtString>
+          <Id>2385773331</Id>
+          <Value>バッテリーは　バトルᜀ中᠀ちゅうᤀに
+アプモンが　ダメージをᜀ受᠀うᤀけたりすると
+ᜀ減᠀へᤀっていくぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1036</Key>
+      <Values>
+        <BtxtString>
+          <Id>2401108494</Id>
+          <Value>バッテリーが　なくなると
+バトルには　ᜀ負᠀まᤀけてしまう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1037</Key>
+      <Values>
+        <BtxtString>
+          <Id>2420114198</Id>
+          <Value>アプリドライヴが　ᜀ動᠀うごᤀかなければ
+アプモンとは　ᜀ会᠀あᤀえず
+ᜀ当然᠀とうぜんᤀ　バトルにも　ᜀ負᠀まᤀけたことになる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1038</Key>
+      <Values>
+        <BtxtString>
+          <Id>2436236054</Id>
+          <Value>うーん　ゲームなら
+バッテリーを　ᜀ回復᠀かいふくᤀするᜀ場所᠀ばしょᤀを
+さがすのが　キホンだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1039</Key>
+      <Values>
+        <BtxtString>
+          <Id>2450653454</Id>
+          <Value>そう　まさに　そのᜀ通᠀とおᤀり！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1040</Key>
+      <Values>
+        <BtxtString>
+          <Id>2469528093</Id>
+          <Value>ᜀ申᠀もうᤀしᜀ遅᠀おくᤀれた　ᜀ拙者᠀せっしゃᤀは　ᜀ充電᠀じゅうでんᤀアプリの
+バッテリモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1041</Key>
+      <Values>
+        <BtxtString>
+          <Id>2486960922</Id>
+          <Value>アプリドライヴの　バッテリーが
+ᜀ切᠀きᤀれたときには
+いつでもᜀ拙者᠀せっしゃᤀが　ᜀ回復᠀かいふくᤀしてしんぜよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1042</Key>
+      <Values>
+        <BtxtString>
+          <Id>2501640720</Id>
+          <Value>ホントに！？
+それって　すごく　ᜀ助᠀たすᤀかるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2518417936</Id>
+          <Value>ホントに！？
+それって　すっごく　ᜀ助᠀たすᤀかる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1043</Key>
+      <Values>
+        <BtxtString>
+          <Id>2534801933</Id>
+          <Value>オレ　ᰏだよ
+よろしくね　バッテリモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2551448077</Id>
+          <Value>ワタシは　ᰏ
+よろしくね　バッテリモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1044</Key>
+      <Values>
+        <BtxtString>
+          <Id>2568225037</Id>
+          <Value>ᰏᜀ殿᠀どのᤀ　よきᜀ名᠀なᤀであるな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1045</Key>
+      <Values>
+        <BtxtString>
+          <Id>2587755282</Id>
+          <Value>バッテリーが　ᜀ少᠀すくᤀなくなったら
+ᜀ拙者᠀せっしゃᤀのところへ　まいるがいい
+いつでも　ᜀ回復᠀かいふくᤀしてやろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1046</Key>
+      <Values>
+        <BtxtString>
+          <Id>2602304016</Id>
+          <Value>それでは　ᜀ気᠀きᤀをつけていかれよ
+ᰏᜀ殿᠀どのᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1047</Key>
+      <Values>
+        <BtxtString>
+          <Id>2617377024</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0348</Key>
+      <Values>
+        <BtxtString>
+          <Id>2636120846</Id>
+          <Value>ᰏ！
+エムシーモンが　ᜀ言᠀いᤀってたの
+ᜀ覚᠀おぼᤀえてるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0349</Key>
+      <Values>
+        <BtxtString>
+          <Id>2654077714</Id>
+          <Value>アプリドライヴァーと　バトルだぞ！
+ＡＲフィールドなら
+ドライヴァーが　ᜀ一目᠀ひとめᤀでわかるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0350</Key>
+      <Values>
+        <BtxtString>
+          <Id>2671510291</Id>
+          <Value>うん　ちゃんと　ᜀ覚᠀おぼᤀえてるよ！
+ᜀ校庭᠀こうていᤀに　だれか　いるみたいだし
+ＡＲフィールドで　しらべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0350_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2688418579</Id>
+          <Value>うん　ちゃんと　ᜀ覚᠀おぼᤀえてるよ！
+ᜀ校庭᠀こうていᤀに　だれか　いるみたいだし
+ＡＲフィールドで　しらべてみよっか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0324</Key>
+      <Values>
+        <BtxtString>
+          <Id>2704802581</Id>
+          <Value>オイオイオイ～～ッ
+ᜀ今᠀いまᤀは　やることがあんだろ～
+あんまりᜀ遠᠀とおᤀくまで　ᜀ行᠀いᤀかないでくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1003</Key>
+      <Values>
+        <BtxtString>
+          <Id>2723021590</Id>
+          <Value>ᜀ迷᠀まよᤀったら　サイバーアリーナに…
+エエト　ᜀ体育館᠀たいいくかんᤀっていうんだったな
+ᜀ体育館᠀たいいくかんᤀに　ᜀ戻᠀もどᤀってᜀ来᠀こᤀいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1500</Key>
+      <Values>
+        <BtxtString>
+          <Id>2737963792</Id>
+          <Value>ᜀ休᠀やすᤀみのᜀ日᠀ひᤀに
+ᜀ学校᠀がっこうᤀに　いるᜀ理由᠀りゆうᤀ？
+…べつに　なんとなくだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1501</Key>
+      <Values>
+        <BtxtString>
+          <Id>2751594752</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1502</Key>
+      <Values>
+        <BtxtString>
+          <Id>2772173587</Id>
+          <Value>ᜀ休᠀やすᤀみのᜀ日᠀ひᤀに
+ᜀ学校᠀がっこうᤀに　いるᜀ理由᠀りゆうᤀ？
+なんとなく…　とᜀ言᠀いᤀいたいところだが！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1503</Key>
+      <Values>
+        <BtxtString>
+          <Id>2787771152</Id>
+          <Value>ＡＲフィールドで
+ᜀ話᠀はなᤀしかけてくる　ということは
+おまえ　ドライヴァーだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1504</Key>
+      <Values>
+        <BtxtString>
+          <Id>2802712845</Id>
+          <Value>オレと　バトルしてみるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1505</Key>
+      <Values>
+        <BtxtString>
+          <Id>2819227914</Id>
+          <Value>そうこなくっちゃな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1506</Key>
+      <Values>
+        <BtxtString>
+          <Id>2836398349</Id>
+          <Value>うーん　またᜀ後᠀あとᤀにするよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1507</Key>
+      <Values>
+        <BtxtString>
+          <Id>2853306889</Id>
+          <Value>そうか！
+また　ᜀ待᠀まᤀってるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1508</Key>
+      <Values>
+        <BtxtString>
+          <Id>2869166340</Id>
+          <Value>やった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1509</Key>
+      <Values>
+        <BtxtString>
+          <Id>2887910156</Id>
+          <Value>おまえ　なかなかやるな！
+エムシーモンも
+きっと　おおよろこびだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0352</Key>
+      <Values>
+        <BtxtString>
+          <Id>2906129172</Id>
+          <Value>ᜀＳＵＣＣＥＳＳ᠀サクセスᤀ！
+ᜀ調子᠀ちょうしᤀ　イイじゃん！
+ᜀ次᠀つぎᤀのハナシするから　もどってこいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1510</Key>
+      <Values>
+        <BtxtString>
+          <Id>2921988884</Id>
+          <Value>ほら！
+サイバーアリーナに　もどって
+エムシーモンに　ᜀ報告᠀ほうこくᤀしてこいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1511</Key>
+      <Values>
+        <BtxtString>
+          <Id>2937061645</Id>
+          <Value>へへっ　オレのᜀ勝᠀かᤀちだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1512</Key>
+      <Values>
+        <BtxtString>
+          <Id>2956460819</Id>
+          <Value>まあ　なにごとも　ᜀ経験᠀けいけんᤀだからな
+そのうち　サイバーアリーナで
+ᜀ会᠀あᤀうのを　たのしみにしてるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1513</Key>
+      <Values>
+        <BtxtString>
+          <Id>2969698560</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1514</Key>
+      <Values>
+        <BtxtString>
+          <Id>2990277398</Id>
+          <Value>うちのᜀ学校᠀がっこうᤀの　ᜀ体育館᠀たいいくかんᤀが
+サイバーアリーナに　なってるなんて
+はじめは　おどろくよな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1515</Key>
+      <Values>
+        <BtxtString>
+          <Id>3007578903</Id>
+          <Value>でも　ᜀ人᠀ひとᤀがᜀ集᠀あつᤀまるには　もってこいだし
+エムシーモンも　なかなか
+いいᜀ選択᠀せんたくᤀを　したとᜀ思᠀おもᤀうぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1516</Key>
+      <Values>
+        <BtxtString>
+          <Id>3020030208</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0351</Key>
+      <Values>
+        <BtxtString>
+          <Id>3036807424</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0353</Key>
+      <Values>
+        <BtxtString>
+          <Id>3055944212</Id>
+          <Value>ᜀＯＫＡＹ᠀オーケイᤀ　ᰏ！
+ᜀ次᠀つぎᤀのハナシするから　もどってこいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0354</Key>
+      <Values>
+        <BtxtString>
+          <Id>3070361856</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0355</Key>
+      <Values>
+        <BtxtString>
+          <Id>3090678545</Id>
+          <Value>ᜀＧＯＯＤ᠀グッドᤀ　ᜀＧＯＯＤ᠀グッドᤀ！
+ᜀ戻᠀もどᤀってきたな　ᰏ！
+バトルも　ちょっとは　なれてきた？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0356</Key>
+      <Values>
+        <BtxtString>
+          <Id>3104702730</Id>
+          <Value>うん　ᜀ少᠀すこᤀしずつね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0357</Key>
+      <Values>
+        <BtxtString>
+          <Id>3122922004</Id>
+          <Value>ᜀＯＫ᠀オーケーᤀ　ᰏ！
+ドライヴァーのᜀ基本᠀きほんᤀは　バッチリだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0358</Key>
+      <Values>
+        <BtxtString>
+          <Id>3137732869</Id>
+          <Value>これだけ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0359</Key>
+      <Values>
+        <BtxtString>
+          <Id>3157918484</Id>
+          <Value>ならうより　なれろだぜ！
+アプモンᜀ集᠀あつᤀめたり　バトルしたり
+アプリドライヴを　ᜀ楽᠀たのᤀしんでくれよな～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0360</Key>
+      <Values>
+        <BtxtString>
+          <Id>3173122580</Id>
+          <Value>ᜀＯＫ᠀オーケーᤀ！
+ᜀＮＥＸＴ　ＳＴＥＰ᠀ネクスト　ステップᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0361</Key>
+      <Values>
+        <BtxtString>
+          <Id>3189506577</Id>
+          <Value>おい！　ᰏ！
+なぜ　おᜀ前᠀まえᤀが　ここにいるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0362</Key>
+      <Values>
+        <BtxtString>
+          <Id>3207725841</Id>
+          <Value>ᜀＯＨ᠀オーᤀ！
+♪ᜀ天才᠀てんさいᤀ！　ᜀ参上᠀さんじょうᤀ！
+ナオト　ᜀ登場᠀とうじょうᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0363</Key>
+      <Values>
+        <BtxtString>
+          <Id>3221356800</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0364</Key>
+      <Values>
+        <BtxtString>
+          <Id>3239969553</Id>
+          <Value>ナオト！
+やっぱり
+サイバーアリーナに　ᜀ来᠀きᤀてたんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0365</Key>
+      <Values>
+        <BtxtString>
+          <Id>3258319636</Id>
+          <Value>このサイバーアリーナにいるってᜀ事᠀ことᤀは…
+ᜀ見᠀みᤀえているのか　アプモンが？
+おᜀ前᠀まえᤀにも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0366</Key>
+      <Values>
+        <BtxtString>
+          <Id>3274179343</Id>
+          <Value>なんだか　いろいろあって
+オレも　ナオトみたいに
+ドライヴァーになっちゃったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0366_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3290956558</Id>
+          <Value>なんだか　いろいろあって
+ワタシも　ナオトみたいに
+ドライヴァーになっちゃったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0367</Key>
+      <Values>
+        <BtxtString>
+          <Id>3308651288</Id>
+          <Value>ふん　ᰏ…
+アプモンや　アプリドライヴを
+おᜀ前᠀まえᤀが　まともにᜀ使᠀つかᤀえるとは　ᜀ思᠀おもᤀえない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0368</Key>
+      <Values>
+        <BtxtString>
+          <Id>3325690643</Id>
+          <Value>それに　おᜀ前᠀まえᤀがいると　ジャマなんだ
+ᰏを　このᜀ場所᠀ばしょᤀから
+ᜀ切断᠀せつだんᤀしてやれ　オフモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0369</Key>
+      <Values>
+        <BtxtString>
+          <Id>3339321609</Id>
+          <Value>はいです　ナオト！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0370</Key>
+      <Values>
+        <BtxtString>
+          <Id>3356229899</Id>
+          <Value>ナオトの　アプモン！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0371</Key>
+      <Values>
+        <BtxtString>
+          <Id>3374187024</Id>
+          <Value>それなら　こっちもだ　オンモン！
+しっかり　つないでくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0371_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3390833168</Id>
+          <Value>それなら　こっちもよ　オンモン！
+しっかり　つないでね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0372</Key>
+      <Values>
+        <BtxtString>
+          <Id>3406168326</Id>
+          <Value>まかせとけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0373</Key>
+      <Values>
+        <BtxtString>
+          <Id>3422683392</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0374</Key>
+      <Values>
+        <BtxtString>
+          <Id>3443000089</Id>
+          <Value>…………！！
+オフモンのᜀ能力᠀のうりょくᤀが　ᜀ打᠀うᤀちᜀ消᠀けᤀされただと？
+そのアプモンは　いったい…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0375</Key>
+      <Values>
+        <BtxtString>
+          <Id>3458597649</Id>
+          <Value>オンモンは
+オンラインゲームの　アプモンだぞ！
+つなぐことなら　まかせとけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0376</Key>
+      <Values>
+        <BtxtString>
+          <Id>3476816665</Id>
+          <Value>そういうことか…
+オフモンは　ᜀ切断᠀せつだんᤀするᜀ能力᠀のうりょくᤀをᜀ持᠀もᤀつ
+オフラインゲームの　アプモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0377</Key>
+      <Values>
+        <BtxtString>
+          <Id>3493987095</Id>
+          <Value>オンモンと　ᜀ逆᠀ぎゃくᤀのᜀ能力᠀のうりょくᤀってこと？
+じゃあ　おᜀ互᠀たがᤀいに　ぶつかりあって
+ᜀ消᠀きᤀえちゃったんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0378</Key>
+      <Values>
+        <BtxtString>
+          <Id>3508011534</Id>
+          <Value>ご…ごめんなさい！　ナオト！
+ごめんなさいっっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0379</Key>
+      <Values>
+        <BtxtString>
+          <Id>3527148306</Id>
+          <Value>うまくできなくて　ごめんなさい！
+ᜀ役᠀やくᤀにᜀ立᠀たᤀてなくて　ごめんなさい！
+ダメなアプモンで　ごめんなさぁい！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0380</Key>
+      <Values>
+        <BtxtString>
+          <Id>3541828109</Id>
+          <Value>はあ…　オフモンのやつ
+また　ᜀ始᠀はじᤀまったか………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0381</Key>
+      <Values>
+        <BtxtString>
+          <Id>3557425671</Id>
+          <Value>え？
+どうかしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0382</Key>
+      <Values>
+        <BtxtString>
+          <Id>3578266391</Id>
+          <Value>オフモンは　ᜀ性格᠀せいかくᤀが　きょくたんに
+ᜀ内向᠀うちむᤀきで　なんでもᜀ自分᠀じぶんᤀがᜀ悪᠀わるᤀいと
+ᜀ思᠀おもᤀいこみやすいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2049</Key>
+      <Values>
+        <BtxtString>
+          <Id>3591504393</Id>
+          <Value>それで　ときどき
+こうなってしまう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0383</Key>
+      <Values>
+        <BtxtString>
+          <Id>3610247956</Id>
+          <Value>オフラインって　そういうコト！？
+まぁ　たしかに
+オンモンは　ᜀ積極的᠀せっきょくてきᤀだよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0383_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3628073755</Id>
+          <Value>オフラインって　そういうコト！？
+まぁ　たしかに　オンモンは
+そのᜀ反対᠀はんたいᤀで　なんでもᜀ積極的᠀せっきょくてきᤀよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0384</Key>
+      <Values>
+        <BtxtString>
+          <Id>3643146772</Id>
+          <Value>ごめんなさい　ごめんなさい！
+ᜀ何᠀なにᤀもできなくて　ごめんなさぁあい…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0385</Key>
+      <Values>
+        <BtxtString>
+          <Id>3660186130</Id>
+          <Value>おい　そこまで　ᜀ言᠀いᤀってない
+オフモン　ᜀ情᠀なさᤀけないᜀ顔᠀かおᤀをするな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0386</Key>
+      <Values>
+        <BtxtString>
+          <Id>3675783693</Id>
+          <Value>うう…ぐすん………
+あ…　ありがとう　ナオト…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0387</Key>
+      <Values>
+        <BtxtString>
+          <Id>3691380997</Id>
+          <Value>まったく…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0388</Key>
+      <Values>
+        <BtxtString>
+          <Id>3709731095</Id>
+          <Value>ナオトも　ᜀ意外᠀いがいᤀと　アプモンとᜀ仲᠀なかᤀよし？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0389</Key>
+      <Values>
+        <BtxtString>
+          <Id>3724935430</Id>
+          <Value>ほっとした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0390</Key>
+      <Values>
+        <BtxtString>
+          <Id>3744727827</Id>
+          <Value>なんだ　ナオトも
+アプモンと　ᜀ仲᠀なかᤀよくやってるんだね
+ちょっと　ᜀ安心᠀あんしんᤀしたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0390_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3761373972</Id>
+          <Value>なんだ　ナオトも
+アプモンと　ᜀ仲᠀なかᤀよくやってるんじゃない
+ちょっと　ᜀ安心᠀あんしんᤀした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0391</Key>
+      <Values>
+        <BtxtString>
+          <Id>3779461911</Id>
+          <Value>ᜀ俺᠀おれᤀとオフモンは　そんなんじゃない！
+ᜀ俺᠀おれᤀは　ᜀ誰᠀だれᤀとも　ᜀ仲᠀なかᤀよくなんてしない！
+つながるのなんて　ゴメンだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0392</Key>
+      <Values>
+        <BtxtString>
+          <Id>3792044294</Id>
+          <Value>おどろいた…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0393</Key>
+      <Values>
+        <BtxtString>
+          <Id>3812492054</Id>
+          <Value>ナオト　もしかして
+アプモンと　ᜀ仲᠀なかᤀよくやってる！？
+オレしか　ᜀ友᠀ともᤀだちいないとᜀ思᠀おもᤀってたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0393_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3829007126</Id>
+          <Value>ナオト　もしかして
+アプモンと　ᜀ仲᠀なかᤀよくやってる？
+ワタシしか　ᜀ友᠀ともᤀだちいないとᜀ思᠀おもᤀってた…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0394</Key>
+      <Values>
+        <BtxtString>
+          <Id>3844211469</Id>
+          <Value>ふん！
+コイツも　おᜀ前᠀まえᤀも
+ᜀ友᠀ともᤀだちなんかじゃない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0395</Key>
+      <Values>
+        <BtxtString>
+          <Id>3858891008</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0396</Key>
+      <Values>
+        <BtxtString>
+          <Id>3879469845</Id>
+          <Value>いいか！
+カンᜀ違᠀ちがᤀいしてるようだからᜀ言᠀いᤀっておくが
+ᜀ俺᠀おれᤀにとって　アプモンは　ᜀ道具᠀どうぐᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0397</Key>
+      <Values>
+        <BtxtString>
+          <Id>3896115988</Id>
+          <Value>チャンピオンに　なるために
+ᜀ俺᠀おれᤀは　アプモンを　ᜀ使᠀つかᤀっているんだ
+ᜀ仲᠀なかᤀが　いいわけじゃない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0398</Key>
+      <Values>
+        <BtxtString>
+          <Id>3909615879</Id>
+          <Value>チャンピオン？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0399</Key>
+      <Values>
+        <BtxtString>
+          <Id>3928752908</Id>
+          <Value>いいから　おᜀ前᠀まえᤀは
+ᜀ家᠀いえᤀに　かえるんだ！
+おい　ᜀ行᠀いᤀくぞ　オフモン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0400</Key>
+      <Values>
+        <BtxtString>
+          <Id>3943039237</Id>
+          <Value>は…はい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0401</Key>
+      <Values>
+        <BtxtString>
+          <Id>3959554304</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0402</Key>
+      <Values>
+        <BtxtString>
+          <Id>3977249290</Id>
+          <Value>ナオト…
+チャンピオンって…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0403</Key>
+      <Values>
+        <BtxtString>
+          <Id>3995206157</Id>
+          <Value>それは　オレᜀ様᠀さまᤀが
+ᜀ説明᠀せつめいᤀするᜀＹＯ᠀ヨーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0404</Key>
+      <Values>
+        <BtxtString>
+          <Id>4013163029</Id>
+          <Value>♪サイバーアリーナ　ᜀ戦᠀たたかᤀうステージ
+ᜀ人᠀ひとᤀとアプモン　ᜀ協力᠀きょうりょくᤀステキ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0405</Key>
+      <Values>
+        <BtxtString>
+          <Id>4031644445</Id>
+          <Value>サイバーアリーナでは
+アプモンとᜀ人間᠀にんげんᤀが　ᜀ協力᠀きょうりょくᤀしてᜀ競᠀きそᤀいあう
+「ᜀ大会᠀たいかいᤀ」が　ᜀ開᠀ひらᤀかれているんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0406</Key>
+      <Values>
+        <BtxtString>
+          <Id>4048683799</Id>
+          <Value>ᜀ大会᠀たいかいᤀの　ルールはᜀ簡単᠀かんたんᤀ！
+３ᜀ回連続᠀かいれんぞくᤀで　ᜀ行᠀おこなᤀわれるバトルに
+ᜀ勝᠀かᤀちᜀ抜᠀ぬᤀけば　ᜀ優勝᠀ゆうしょうᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0407</Key>
+      <Values>
+        <BtxtString>
+          <Id>4063888150</Id>
+          <Value>それでだ　サイバーアリーナでは
+スターターᜀＧＰ᠀グランプリᤀと
+ハイエンドᜀＧＰ᠀グランプリᤀが　おこなわれてんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0408</Key>
+      <Values>
+        <BtxtString>
+          <Id>4077781261</Id>
+          <Value>スターターと　ハイエンド？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0409</Key>
+      <Values>
+        <BtxtString>
+          <Id>4096394002</Id>
+          <Value>そう！
+スターターＧＰは　だれでも　きがるに
+ᜀ参加可能᠀さんかかのうᤀな　バトルだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0410</Key>
+      <Values>
+        <BtxtString>
+          <Id>4113826578</Id>
+          <Value>オマエも　まずは
+スターターＧＰに　ᜀ挑戦᠀ちょうせんᤀして
+ᜀ勝᠀かᤀって　ᜀ勝᠀かᤀちまくってみな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0411</Key>
+      <Values>
+        <BtxtString>
+          <Id>4131783449</Id>
+          <Value>ひとつの　ᜀ大会᠀たいかいᤀに　ᜀ優勝᠀ゆうしょうᤀするごとに
+ᜀ大会᠀たいかいᤀは　ᜀ増᠀ふᤀえていくから
+うでだめしには　バッチリだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0412</Key>
+      <Values>
+        <BtxtString>
+          <Id>4144890376</Id>
+          <Value>おーっ！
+おもしろそう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0412_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4161667592</Id>
+          <Value>わーっ！
+おもしろそう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0413</Key>
+      <Values>
+        <BtxtString>
+          <Id>4182246172</Id>
+          <Value>そして　ハイエンドＧＰは
+ᜀ強者᠀きょうしゃᤀがつどう　それこそ　ᜀＮＯ．１᠀ナンバーワンᤀ！
+チャンピオンを　めざすᜀ場᠀ばᤀなんだゼイ！　</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0414</Key>
+      <Values>
+        <BtxtString>
+          <Id>4198630168</Id>
+          <Value>これをᜀ勝᠀かᤀちᜀ抜᠀ぬᤀいた　ᜀ一番強᠀いちばんつよᤀいヤツは
+ᜀＦＵＵ᠀フゥーᤀ！
+ᜀ真᠀しんᤀのチャンピオンって　ワケだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0415</Key>
+      <Values>
+        <BtxtString>
+          <Id>4214358802</Id>
+          <Value>じゃあ　ナオトは
+サイバーアリーナで　ᜀ一番᠀いちばんᤀに…
+チャンピオンに　なろうとしてるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0415_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>4231136018</Id>
+          <Value>じゃあ　ナオトは
+サイバーアリーナで　ᜀ一番᠀いちばんᤀに…
+チャンピオンに　なろうとしてるのね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0416</Key>
+      <Values>
+        <BtxtString>
+          <Id>4247913236</Id>
+          <Value>そゆこと！　はじめのᜀ一歩᠀いっぽᤀってことで
+まずは　スターターＧＰに
+チャレンジしてみろよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0417</Key>
+      <Values>
+        <BtxtString>
+          <Id>4264559124</Id>
+          <Value>オマエの　ᜀ参加᠀さんかᤀできるᜀ大会᠀たいかいᤀの
+リストを　ᜀ用意᠀よういᤀしてやるゼイ！
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2016</Key>
+      <Values>
+        <BtxtString>
+          <Id>4283826967</Id>
+          <Value>まだ　ᜀ挑戦᠀ちょうせんᤀする　ᜀ自信᠀じしんᤀがなけりゃ
+ᜀ手᠀てᤀはじめに　サイバーアリーナのᜀ近᠀ちかᤀくで
+ＡＲフィールドを　ᜀ歩᠀あるᤀきᜀ回᠀まわᤀってみな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2017</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195096</Id>
+          <Value>ＡＲフィールドには
+アプリドライヴᜀ持᠀もᤀってる　ᜀ人間᠀にんげんᤀをᜀ見᠀みᤀると
+ᜀ追᠀おᤀっかけてくる　アプモンもいる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2018</Key>
+      <Values>
+        <BtxtString>
+          <Id>21365532</Id>
+          <Value>アプモンと　バトルすれば
+アプモンのかけらも　ᜀ手᠀てᤀにはいるから
+デッキのᜀ強化᠀きょうかᤀには　ᜀ一石二鳥᠀いっせきにちょうᤀだぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2058</Key>
+      <Values>
+        <BtxtString>
+          <Id>37356308</Id>
+          <Value>ここからは　デッキも
+ᰏの　ᜀ自由᠀じゆうᤀに　ᜀ組᠀くᤀめるからな
+いろいろ　やってみちゃってくれᜀＹＯ᠀ヨーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2059</Key>
+      <Values>
+        <BtxtString>
+          <Id>54657814</Id>
+          <Value>そうだな　デッキに　アプモンがᜀ多᠀おおᤀいと
+バッテリーもᜀ増᠀ふᤀえるから
+たくさん　アプモンがいると　ᜀ安心᠀あんしんᤀだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0418</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517521</Id>
+          <Value>そんなわけで　がんばれよ！
+ᜀ準備᠀じゅんびᤀができたら
+オレᜀ様᠀さまᤀに　ᜀ話᠀はなᤀしかけてくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0419</Key>
+      <Values>
+        <BtxtString>
+          <Id>86770452</Id>
+          <Value>そうか
+ナオトと　バトルするには
+ここでのᜀ勝負᠀しょうぶᤀに　ᜀ勝᠀かᤀてばいいのか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0419_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>103940887</Id>
+          <Value>そっか
+ナオトと　バトルするには
+ここでのᜀ勝負᠀しょうぶᤀに　ᜀ勝᠀かᤀちᜀ抜᠀ぬᤀけばいいのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0420</Key>
+      <Values>
+        <BtxtString>
+          <Id>119276300</Id>
+          <Value>ᰏと　ナオトを
+つなぐために
+オンモンも　がんばるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0421</Key>
+      <Values>
+        <BtxtString>
+          <Id>135660299</Id>
+          <Value>うん！
+いっしょに　がんばろう
+オンモン！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0422</Key>
+      <Values>
+        <BtxtString>
+          <Id>151126272</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0423</Key>
+      <Values>
+        <BtxtString>
+          <Id>167903488</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0424</Key>
+      <Values>
+        <BtxtString>
+          <Id>188220180</Id>
+          <Value>ᜀＣＯＯＯＯＯＯＯＬ᠀クーーーールᤀ！！
+ᰏ　サイコーじゃん！
+オマエ　ᜀ本当᠀ほんとうᤀに　ルーキーかよ～？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0425</Key>
+      <Values>
+        <BtxtString>
+          <Id>205390612</Id>
+          <Value>このᜀ調子᠀ちょうしᤀなら　オマエの　ライバル
+ᜀ天才᠀てんさいᤀナオトにも
+ホントにᜀ勝᠀かᤀてるようになっちゃうかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0426</Key>
+      <Values>
+        <BtxtString>
+          <Id>221512465</Id>
+          <Value>ナオトとは　ずっと　いっしょに
+ゲームしてきたんだから
+ᜀ今回᠀こんかいᤀだって　ᜀ負᠀まᤀけないよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0426_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>238289681</Id>
+          <Value>ナオトとは　ずっと　いっしょに
+ゲームしてきたんだから
+ᜀ今回᠀こんかいᤀだって　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0427</Key>
+      <Values>
+        <BtxtString>
+          <Id>256115481</Id>
+          <Value>おおーっと
+ᜀ天才᠀てんさいᤀナオトに　ᜀ勝利宣言᠀しょうりせんげんᤀ！？
+ビッグマウス　オレᜀ様᠀さまᤀ　ᜀ大好᠀だいすᤀきだゼー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0428</Key>
+      <Values>
+        <BtxtString>
+          <Id>274072348</Id>
+          <Value>スターターＧＰは　ᜀＮＯ．１᠀ナンバーワンᤀへの
+はじめのᜀ一歩᠀いっぽᤀ　なんてᜀ言᠀いᤀったケド
+ᜀ実᠀じつᤀは　ここんとこ　ドライヴァーᜀ急増中᠀きゅうぞうちゅうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0429</Key>
+      <Values>
+        <BtxtString>
+          <Id>289538835</Id>
+          <Value>だから　ハイエンドＧＰの
+ᜀ準備᠀じゅんびᤀが　ᜀ間᠀まᤀにᜀ合᠀あᤀってねーの！
+みんな　ᜀ待᠀まᤀっててねーってᜀ感᠀かんᤀじ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0430</Key>
+      <Values>
+        <BtxtString>
+          <Id>305529624</Id>
+          <Value>ええっ
+それじゃあ　ᜀ今᠀いまᤀは　ᜀ挑戦᠀ちょうせんᤀできないの？
+どれくらい　ᜀ待᠀まᤀてばいいのさ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0430_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>322306840</Id>
+          <Value>ええっ
+それじゃあ　ᜀ今᠀いまᤀは　ᜀ挑戦᠀ちょうせんᤀできないの？
+どれくらい　ᜀ待᠀まᤀてばいいのよ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0431</Key>
+      <Values>
+        <BtxtString>
+          <Id>340001558</Id>
+          <Value>ナオトにも　ᜀ会᠀あᤀうたびᜀ言᠀いᤀわれるぜ～
+くわしくは　ᜀＷＥＢ᠀ウェブᤀへ！
+アプリモンスターズでᜀ検索᠀けんさくᤀ　なんてな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0432</Key>
+      <Values>
+        <BtxtString>
+          <Id>355730197</Id>
+          <Value>まあ　ᰏも
+スゲエってᜀ言᠀いᤀっても　まだルーキー
+ᜀ一人前᠀いちにんまえᤀ　めざさないとじゃ～ん？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0433</Key>
+      <Values>
+        <BtxtString>
+          <Id>370016525</Id>
+          <Value>それは　まあ　そうだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2050</Key>
+      <Values>
+        <BtxtString>
+          <Id>387711503</Id>
+          <Value>アリーナだけじゃ
+ᜀ気᠀きᤀづかなかっただろうけどＹＯ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0434</Key>
+      <Values>
+        <BtxtString>
+          <Id>404882190</Id>
+          <Value>ＡＲフィールドには
+イタズラᜀ好᠀ずᤀきの　アプモンも
+ケッコーいる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0435</Key>
+      <Values>
+        <BtxtString>
+          <Id>422314768</Id>
+          <Value>でも　そのぶん
+アプモンのかけらや　アイテムが
+ᜀ手᠀てᤀにはいることも　あるかもな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0436</Key>
+      <Values>
+        <BtxtString>
+          <Id>439878424</Id>
+          <Value>もちろん　ᰏに
+ᜀ協力᠀きょうりょくᤀしてくれる　いいヤツもいるぜ！
+ＡＲフィールドで　ᜀ会᠀あᤀえるはずだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0437</Key>
+      <Values>
+        <BtxtString>
+          <Id>456524566</Id>
+          <Value>とにかく　アプリドライヴをᜀ手᠀てᤀにいれて
+ᰏの
+あたらしい　ᜀ冒険᠀ぼうけんᤀがはじまるってワケ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0438</Key>
+      <Values>
+        <BtxtString>
+          <Id>471204363</Id>
+          <Value>♪アプリの　トラブル
+リアルに　ブルブル</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0439</Key>
+      <Values>
+        <BtxtString>
+          <Id>490078991</Id>
+          <Value>うん！　アプモンの　イタズラで
+トラブル　おきてるᜀ予感᠀よかんᤀ！
+ᰏ　あちこち　ᜀ調᠀しらᤀべてみな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0440</Key>
+      <Values>
+        <BtxtString>
+          <Id>507904790</Id>
+          <Value>ᜀ噴水公園᠀ふんすいこうえんᤀあたりが　あやしいぜ
+サイバーアリーナの　ずーっとᜀ南᠀みなみᤀ
+なんか　ᜀ事件᠀じけんᤀが　おきてるかも？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2019</Key>
+      <Values>
+        <BtxtString>
+          <Id>524288788</Id>
+          <Value>ᜀ噴水公園᠀ふんすいこうえんᤀって
+オレのᜀ家᠀いえᤀのᜀ前᠀まえᤀの　ᜀ公園᠀こうえんᤀだな
+わかった　ᜀ行᠀いᤀってみるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>541197079</Id>
+          <Value>ᜀ噴水公園᠀ふんすいこうえんᤀって
+ワタシのᜀ家᠀いえᤀのᜀ前᠀まえᤀの　ᜀ公園᠀こうえんᤀのことね
+わかった　ᜀ行᠀いᤀってみる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2060</Key>
+      <Values>
+        <BtxtString>
+          <Id>558105368</Id>
+          <Value>ᜀＹＥＳ᠀イエスᤀ！　そうだな
+３つくらい　ᜀ事件᠀じけんᤀをᜀ解決᠀かいけつᤀ
+してきたら
+ᰏも　ᜀ一人前᠀いちにんまえᤀじゃねーの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2103</Key>
+      <Values>
+        <BtxtString>
+          <Id>574489366</Id>
+          <Value>このへんだけじゃなく
+ᜀ南地区᠀みなみちくᤀに　ᜀ足᠀あしᤀをのばしてもいいし
+いろんなところ　ᜀ行᠀いᤀってみるといいぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0441</Key>
+      <Values>
+        <BtxtString>
+          <Id>592446236</Id>
+          <Value>もちろん　サイバーアリーナも
+スターターＧＰ　ゼッサンᜀ営業中᠀えいぎょうちゅうᤀ！！
+ゴーカなᜀ賞品᠀しょうひんᤀ　ゼッサンᜀ準備中᠀じゅんびちゅうᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0442</Key>
+      <Values>
+        <BtxtString>
+          <Id>608043797</Id>
+          <Value>ハイエンドＧＰの　ᜀ準備᠀じゅんびᤀができるまで
+ＡＲフィールドをᜀ調᠀しらᤀべたり
+スターターＧＰにᜀ参加᠀さんかᤀしな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0443</Key>
+      <Values>
+        <BtxtString>
+          <Id>622068233</Id>
+          <Value>またの　おこしを
+ᜀ待᠀まᤀってるぜ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2061</Key>
+      <Values>
+        <BtxtString>
+          <Id>639501070</Id>
+          <Value>なんだよ　バッテリモン
+ᰏに
+たのみが　あるみたいじゃん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2062</Key>
+      <Values>
+        <BtxtString>
+          <Id>657326865</Id>
+          <Value>バッテリモンには
+いつも　ᜀ世話᠀せわᤀになってるだろ～？
+ᜀ手伝᠀てつだᤀってやれよ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2063</Key>
+      <Values>
+        <BtxtString>
+          <Id>672662028</Id>
+          <Value>ᰏ！　いそげいそげ！
+いそいで　もどってこい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2064</Key>
+      <Values>
+        <BtxtString>
+          <Id>692060954</Id>
+          <Value>え？　ドコって…
+サイバーアリーナに　ᜀ決᠀きᤀまってんだろ！
+ᜀＨＵＲＲＲＲＹ　ＵＰ᠀ハリィィーー　アップᤀ！　じゃな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2065</Key>
+      <Values>
+        <BtxtString>
+          <Id>707396115</Id>
+          <Value>…エムシーモンが　ᜀ呼᠀よᤀんでるみたいだ
+サイバーアリーナに　ᜀ向᠀むᤀかおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2065_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>724173330</Id>
+          <Value>…エムシーモンが　ᜀ呼᠀よᤀんでるみたい
+サイバーアリーナに　ᜀ行᠀いᤀかなくちゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1001</Key>
+      <Values>
+        <BtxtString>
+          <Id>741081871</Id>
+          <Value>アプモンの　イタズラ
+まだまだ　おきてるᜀ予感᠀よかんᤀ！
+ᰏ！　いっちょ　たのむぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0444</Key>
+      <Values>
+        <BtxtString>
+          <Id>755106048</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0445</Key>
+      <Values>
+        <BtxtString>
+          <Id>773849614</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ！
+ᜀ戻᠀もどᤀってきたな　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0446</Key>
+      <Values>
+        <BtxtString>
+          <Id>791282451</Id>
+          <Value>ᰏ
+まだ　あきらめて　いなかったのか
+おᜀ前᠀まえᤀと　いっしょなんて　ごめんだぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0447</Key>
+      <Values>
+        <BtxtString>
+          <Id>808583953</Id>
+          <Value>また　そうやって…　ナオト！
+オレたち　ずっと　いっしょだったし
+ずっと　つながってたじゃないか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0447_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>825230097</Id>
+          <Value>また　そうやって…　ナオト！
+ミオやみんなと　よくあそんだし
+ワタシとも　つながってたじゃない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0448</Key>
+      <Values>
+        <BtxtString>
+          <Id>841089551</Id>
+          <Value>ᰏたちは　ᜀ人間᠀にんげんᤀなのに
+つながれるものが　あったのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0449</Key>
+      <Values>
+        <BtxtString>
+          <Id>857080336</Id>
+          <Value>そうだよ
+オレとナオトは　つながってたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0449_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>873726481</Id>
+          <Value>そう
+ナオトは　みんなと　つながってたの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2051</Key>
+      <Values>
+        <BtxtString>
+          <Id>891027983</Id>
+          <Value>オンモンみたいな
+ᜀ能力᠀のうりょくᤀじゃ　ないけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0450</Key>
+      <Values>
+        <BtxtString>
+          <Id>909902363</Id>
+          <Value>ᜀ人間᠀にんげんᤀは　ᜀ心᠀こころᤀとᜀ心᠀こころᤀで　つながるんだよ
+ᜀ友᠀ともᤀだちの　「キズナ」っていうんだ
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0450_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>926286360</Id>
+          <Value>ᜀ人間᠀にんげんᤀはᜀ心᠀こころᤀとᜀ心᠀こころᤀで　つながるのよ
+ᜀ友᠀ともᤀだちの　「キズナ」っていうの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0451</Key>
+      <Values>
+        <BtxtString>
+          <Id>941490708</Id>
+          <Value>そのキズナが
+オレと　ナオトのᜀ間᠀あいだᤀには　あるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0451_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>958792469</Id>
+          <Value>そのキズナが
+ワタシやミオ　そして　ナオトのᜀ間᠀あいだᤀにも
+あるはずよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0452</Key>
+      <Values>
+        <BtxtString>
+          <Id>975045141</Id>
+          <Value>キズナ…
+ᜀ人間᠀にんげんᤀにも　つなぐものが　あるんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0453</Key>
+      <Values>
+        <BtxtString>
+          <Id>993526546</Id>
+          <Value>オンモンとも　つながってるよ
+ᜀ一緒᠀いっしょᤀに　サイバーアリーナを
+ᜀ探᠀さがᤀしてくれた　ときからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0454</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009648401</Id>
+          <Value>ᰏと　つながってる？
+それって　バディってᜀ言᠀いᤀうんだ！
+ᰏは　オンモンの　バディ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0455</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025770004</Id>
+          <Value>オンモンは　ᰏに
+ᜀ全部᠀ぜんぶᤀ　つなげてやるって　ᜀ言᠀いᤀった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0456</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042285324</Id>
+          <Value>だから　ᰏと　ナオトも
+つないでやる！
+オンモンに　まかせとけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0457</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059193613</Id>
+          <Value>オンモン…！
+オンモンは　オレの
+ᜀ最高᠀さいこうᤀのバディだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0457_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075970828</Id>
+          <Value>オンモン…！
+オンモンは　ワタシの
+ᜀ最高᠀さいこうᤀのバディよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0458</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093272335</Id>
+          <Value>キズナ………？
+ᜀ早᠀はやᤀく　あきらめさせないと
+やっかいなことに　なりそうだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0459</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109262864</Id>
+          <Value>ナオト　もしかして
+バトルしてくれるᜀ気᠀きᤀに　なった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0460</Key>
+      <Values>
+        <BtxtString>
+          <Id>1128923923</Id>
+          <Value>ああ　おᜀ前᠀まえᤀがᜀ言᠀いᤀう　キズナなんて
+ᜀ二度᠀にどᤀと　つながらないようにしてやる
+ᜀ今᠀いまᤀすぐᜀ断᠀たᤀちᜀ切᠀きᤀれ　オフモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0461</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141768711</Id>
+          <Value>は　はいっ
+いきますです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0462</Key>
+      <Values>
+        <BtxtString>
+          <Id>1157759232</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0463</Key>
+      <Values>
+        <BtxtString>
+          <Id>1174536448</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0464</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193411087</Id>
+          <Value>だから　ᜀ言᠀いᤀっただろう
+おまえなんて　このᜀ程度᠀ていどᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0465</Key>
+      <Values>
+        <BtxtString>
+          <Id>1208877326</Id>
+          <Value>まだまだ　あきらめるもんか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0465_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1225654542</Id>
+          <Value>まだまだ　あきらめないから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0466</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243874065</Id>
+          <Value>ふん
+ムダと　わかるまで
+ᜀ何度᠀なんどᤀでも　ᜀ相手᠀あいてᤀしてやる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0467</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258422528</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0468</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276117263</Id>
+          <Value>ヒューーーーーーーーーーーッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0469</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293550096</Id>
+          <Value>サイコーーーーーーーーーーッ！！
+ナイス　バトル！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0470</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311638291</Id>
+          <Value>なんだよ　ᰏ！
+もうルーキーなんて　よべないじゃん！
+リッパな　ドライヴァーじゃ～ん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2052</Key>
+      <Values>
+        <BtxtString>
+          <Id>1328153359</Id>
+          <Value>ごめんなさい　ごめんなさいっ！
+ナオトの　ᜀ役᠀やくᤀにたてなくて
+ごめんなさいっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2053</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345454611</Id>
+          <Value>…このᜀ俺᠀おれᤀが　ルーキーᜀ相手᠀あいてᤀに
+ᜀ本気᠀ほんきᤀでᜀ戦᠀たたかᤀうわけにはいかない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2054</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361183246</Id>
+          <Value>ᰏのᜀ実力᠀じつりょくᤀを
+ᜀ少᠀すこᤀし　ᜀ見᠀みᤀてやっただけだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1378615835</Id>
+          <Value>おおっとぉ！
+さすがᜀ天才᠀てんさいᤀナオト！　ᜀ余裕᠀よゆうᤀのᜀ発言᠀はつげんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_2056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395000078</Id>
+          <Value>でもでも　やっぱり！
+オフモン　ダメな　アプモンで
+ごめんなさぁあいっっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0471</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410072844</Id>
+          <Value>バカな　こんなことが…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0472</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428947728</Id>
+          <Value>ごめんなさい　ごめんなさいっ！
+ナオトの　ᜀ役᠀やくᤀにたてなくて
+ごめんなさいっ
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0473</Key>
+      <Values>
+        <BtxtString>
+          <Id>1444282891</Id>
+          <Value>ダメな　アプモンで
+ごめんなさぁあいっっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0474</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462108942</Id>
+          <Value>そんなこと　ないぞ！
+オフモンと　いっしょのバトル
+ᜀ楽᠀たのᤀしかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0475</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479279377</Id>
+          <Value>また　オフモンと　バトルしたい！
+オンモンと　ᜀ友᠀ともᤀだちの　キズナ
+つなごう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0476</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493827847</Id>
+          <Value>ᜀ友᠀ともᤀだち…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0477</Key>
+      <Values>
+        <BtxtString>
+          <Id>1512178192</Id>
+          <Value>キズナが　つながったやつのこと
+ᜀ友᠀ともᤀだち　っていうんだ！
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0478</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528300299</Id>
+          <Value>オフモンと
+キズナの　ネットワーク
+つなぎたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0479</Key>
+      <Values>
+        <BtxtString>
+          <Id>1545995026</Id>
+          <Value>ひっ！
+つながるのだけは　イヤです！
+ボクは　つながらないでいたいのです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0480</Key>
+      <Values>
+        <BtxtString>
+          <Id>1561198859</Id>
+          <Value>オフモン　ᜀ友᠀ともᤀだち！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0481</Key>
+      <Values>
+        <BtxtString>
+          <Id>1578238226</Id>
+          <Value>イっ　イヤですーーーーーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0482</Key>
+      <Values>
+        <BtxtString>
+          <Id>1595539731</Id>
+          <Value>また　ᜀ余計᠀よけいᤀなことを　ᜀ教᠀おしᤀえて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0483</Key>
+      <Values>
+        <BtxtString>
+          <Id>1610744064</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0484</Key>
+      <Values>
+        <BtxtString>
+          <Id>1627521280</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0485</Key>
+      <Values>
+        <BtxtString>
+          <Id>1645478157</Id>
+          <Value>ᜀ本当᠀ほんとうᤀのᜀ事᠀ことᤀだろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0485_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1662255374</Id>
+          <Value>ᜀ本当᠀ほんとうᤀのᜀ事᠀ことᤀでしょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0486</Key>
+      <Values>
+        <BtxtString>
+          <Id>1680737039</Id>
+          <Value>オンモンも　ᜀ楽᠀たのᤀしそうだけど
+オレも　ナオトと　バトルして
+ᜀ楽᠀たのᤀしかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0486_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1697645328</Id>
+          <Value>オンモンも　ᜀ楽᠀たのᤀしそうだけど
+ワタシも　ナオトと　バトルできて
+ᜀ楽᠀たのᤀしかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0487</Key>
+      <Values>
+        <BtxtString>
+          <Id>1712324876</Id>
+          <Value>ᜀ余計᠀よけいᤀなことじゃない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0488</Key>
+      <Values>
+        <BtxtString>
+          <Id>1732248343</Id>
+          <Value>ᜀ余計᠀よけいᤀなことじゃないだろ
+オレだって　ナオトのこと
+ᜀ一番᠀いちばんᤀの　ᜀ友᠀ともᤀだちだと　ᜀ思᠀おもᤀってるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0488_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1749549846</Id>
+          <Value>ᜀ余計᠀よけいᤀなᜀ事᠀ことᤀなんかじゃないもの！
+ワタシだって　ナオトのこと
+ᜀ大事᠀だいじᤀなᜀ友᠀ともᤀだちだと　ᜀ思᠀おもᤀってるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0489</Key>
+      <Values>
+        <BtxtString>
+          <Id>1761739008</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0490</Key>
+      <Values>
+        <BtxtString>
+          <Id>1779564818</Id>
+          <Value>イェーーーーーーーーーーーーーーー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0491</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796342034</Id>
+          <Value>イェーーーーーーーーーーーーーーー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0492</Key>
+      <Values>
+        <BtxtString>
+          <Id>1815347985</Id>
+          <Value>エムシーモン！
+ᜀ俺᠀おれᤀたちのᜀ話᠀はなしᤀに
+ᜀ勝手᠀かってᤀにᜀ割᠀わᤀりᜀ込᠀こᤀんでくるな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0493</Key>
+      <Values>
+        <BtxtString>
+          <Id>1828847872</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0494</Key>
+      <Values>
+        <BtxtString>
+          <Id>1849819928</Id>
+          <Value>はぁ…
+おᜀ前᠀まえᤀは　アプモンのᜀ存在᠀そんざいᤀを　ᜀ知᠀しᤀったら
+サイバーアリーナに　ᜀ来᠀くᤀるとᜀ思᠀おもᤀったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0495</Key>
+      <Values>
+        <BtxtString>
+          <Id>1865286420</Id>
+          <Value>だから　オフモンに
+アプリトークを　ᜀ切断᠀せつだんᤀさせたのに…
+すっかり　ムダになったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0496</Key>
+      <Values>
+        <BtxtString>
+          <Id>1881670416</Id>
+          <Value>それなら…　オンモン！
+ナオトにᜀ切᠀きᤀられた　アプリトーク
+つないでくれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0496_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1898316560</Id>
+          <Value>だったら…　オンモン！
+ナオトにᜀ切᠀きᤀられた　アプリトーク
+つないでよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0497</Key>
+      <Values>
+        <BtxtString>
+          <Id>1913258250</Id>
+          <Value>おう！　まかせとけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0498</Key>
+      <Values>
+        <BtxtString>
+          <Id>1929642244</Id>
+          <Value>なに…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0499</Key>
+      <Values>
+        <BtxtString>
+          <Id>1950221075</Id>
+          <Value>「ᜀ接続᠀せつぞくᤀされました」　と…
+よし　これが　はじめのᜀ一歩᠀いっぽᤀだな！
+ᜀ切᠀きᤀられたって　またつなぐから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0499_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1966998290</Id>
+          <Value>「ᜀ接続᠀せつぞくᤀされました」　と…
+よし　これが　はじめのᜀ一歩᠀いっぽᤀね！
+ᜀ切᠀きᤀられたって　またつなぐから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0500</Key>
+      <Values>
+        <BtxtString>
+          <Id>1981415952</Id>
+          <Value>ふん…　ᰏ
+ᜀ次᠀つぎᤀは　こうは　いかないからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0501</Key>
+      <Values>
+        <BtxtString>
+          <Id>1997406474</Id>
+          <Value>オフモン　ᜀ行᠀いᤀくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0502</Key>
+      <Values>
+        <BtxtString>
+          <Id>2014183944</Id>
+          <Value>ひゃい！
+ごめんなさぁい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0503</Key>
+      <Values>
+        <BtxtString>
+          <Id>2031616522</Id>
+          <Value>バイバイ　オフモン！
+また　ᜀ遊᠀あそᤀぼうな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0504</Key>
+      <Values>
+        <BtxtString>
+          <Id>2046951682</Id>
+          <Value>う…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0505</Key>
+      <Values>
+        <BtxtString>
+          <Id>2064122119</Id>
+          <Value>ま…また　です</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0506</Key>
+      <Values>
+        <BtxtString>
+          <Id>2080637187</Id>
+          <Value>おう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0507</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097283328</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0508</Key>
+      <Values>
+        <BtxtString>
+          <Id>2117075727</Id>
+          <Value>ᰏと　ナオトの　ᜀ因縁᠀いんねんᤀ！
+アツい　ライバルの
+ᜀ決着᠀けっちゃくᤀは　つくのか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0509</Key>
+      <Values>
+        <BtxtString>
+          <Id>2134901528</Id>
+          <Value>これは　オレᜀ様᠀さまᤀの　ᜀ実況動画᠀じっきょうどうがᤀが
+ᜀ再生回数᠀さいせいかいすうᤀを　バッチリかせぐ
+ネタになるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0510</Key>
+      <Values>
+        <BtxtString>
+          <Id>2152989464</Id>
+          <Value>ᜀＨＯＯＯＯ᠀フゥーーーーᤀ！　こうしちゃいられない！
+ᜀ待᠀まᤀってろよ　ᜀ大会᠀たいかいᤀのᜀ準備᠀じゅんびᤀ
+ᜀ爆速᠀ばくそくᤀで　ᜀ進᠀すすᤀめておくからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0511</Key>
+      <Values>
+        <BtxtString>
+          <Id>2164392192</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0512</Key>
+      <Values>
+        <BtxtString>
+          <Id>2181169408</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0513</Key>
+      <Values>
+        <BtxtString>
+          <Id>2199388939</Id>
+          <Value>オンモン！
+キズナのこと
+ちょっとは　わかった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0514</Key>
+      <Values>
+        <BtxtString>
+          <Id>2217607951</Id>
+          <Value>うん！　ちょっとは　わかった！
+たぶん　ちょっとだけ！
+でも　もっともっとᜀ知᠀しᤀりたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0515</Key>
+      <Values>
+        <BtxtString>
+          <Id>2233598480</Id>
+          <Value>あはは　「ちょっとだけ」かぁ
+オンモンは　ᜀ正直᠀しょうじきᤀだなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0515_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2250375695</Id>
+          <Value>ふふふ　「ちょっとだけ」かぁ
+オンモンは　ᜀ正直᠀しょうじきᤀねぇ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0516</Key>
+      <Values>
+        <BtxtString>
+          <Id>2267021841</Id>
+          <Value>ᰏ　オンモンに
+いろんなᜀ事᠀ことᤀ　ᜀ教᠀おしᤀえてくれる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0517</Key>
+      <Values>
+        <BtxtString>
+          <Id>2283799059</Id>
+          <Value>ᰏと　いっしょだと
+なんでも　つなげられる　ᜀ気᠀きᤀがするぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0518</Key>
+      <Values>
+        <BtxtString>
+          <Id>2300838669</Id>
+          <Value>オンモン　ᰏと
+ずっと　いっしょにいたい！
+これからもよろしくな　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0519</Key>
+      <Values>
+        <BtxtString>
+          <Id>2316698128</Id>
+          <Value>ああ！　こっちこそ　よろしくな！
+オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0519_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2333475344</Id>
+          <Value>うん！　こっちこそ　よろしくね！
+オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0520</Key>
+      <Values>
+        <BtxtString>
+          <Id>2350645773</Id>
+          <Value>ᜀ今日᠀きょうᤀから　オンモンは
+オレの　バディだ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0520_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2367422989</Id>
+          <Value>ᜀ今日᠀きょうᤀから　オンモンは
+ワタシの　バディよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0521</Key>
+      <Values>
+        <BtxtString>
+          <Id>2383282696</Id>
+          <Value>おう！
+まかせろ！　ᰏ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0522</Key>
+      <Values>
+        <BtxtString>
+          <Id>2399273216</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0523</Key>
+      <Values>
+        <BtxtString>
+          <Id>2416181508</Id>
+          <Value>これが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0524</Key>
+      <Values>
+        <BtxtString>
+          <Id>2434925071</Id>
+          <Value>これが　オンモンと
+はじめてᜀ会᠀あᤀったᜀ日᠀ひᤀのᜀ話᠀はなしᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0525</Key>
+      <Values>
+        <BtxtString>
+          <Id>2453013015</Id>
+          <Value>オレが　アプモンをᜀ知᠀しᤀって…
+アプモンの　ᜀ世界᠀せかいᤀをᜀ知᠀しᤀったᜀ日᠀ひᤀのᜀ話᠀はなしᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0525_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2469790231</Id>
+          <Value>ワタシが　アプモンをᜀ知᠀しᤀって…
+アプモンの　ᜀ世界᠀せかいᤀをᜀ知᠀しᤀったᜀ日᠀ひᤀのᜀ話᠀はなしᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0526</Key>
+      <Values>
+        <BtxtString>
+          <Id>2488533785</Id>
+          <Value>こんな　ちいさな　きっかけが
+ᜀ世界᠀せかいᤀを　ᜀ大᠀おおᤀきくᜀ動᠀うごᤀかすことになるなんて
+このᜀ時᠀ときᤀは　ᜀ少᠀すこᤀしも　ᜀ思᠀おもᤀわなかったけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0527</Key>
+      <Values>
+        <BtxtString>
+          <Id>2503082771</Id>
+          <Value>このᜀ日᠀ひᤀから　オレは　つないできたんだ
+みんなとのキズナ
+それから…　アプモンとのキズナを！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0527_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2519859987</Id>
+          <Value>このᜀ日᠀ひᤀから　ワタシは　つないできたの
+みんなとのキズナ
+それから…　アプモンとのキズナを！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0528</Key>
+      <Values>
+        <BtxtString>
+          <Id>2535064080</Id>
+          <Value>さあ
+ᜀ今日᠀きょうᤀは　ᜀ何᠀なにᤀをしようかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0529</Key>
+      <Values>
+        <BtxtString>
+          <Id>2550268160</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0530</Key>
+      <Values>
+        <BtxtString>
+          <Id>2568356114</Id>
+          <Value>ナオトと　もうᜀ一度᠀いちどᤀ　バトルだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0531</Key>
+      <Values>
+        <BtxtString>
+          <Id>2584871182</Id>
+          <Value>も　もうちょっと　ᜀ待᠀まᤀって！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0532</Key>
+      <Values>
+        <BtxtString>
+          <Id>2601910801</Id>
+          <Value>ᰏ
+あきらめは　ᜀ早᠀はやᤀいうちが　いいぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0533</Key>
+      <Values>
+        <BtxtString>
+          <Id>2618425869</Id>
+          <Value>ひえ…
+ごめんなさい　ごめんなさい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0534</Key>
+      <Values>
+        <BtxtString>
+          <Id>2634940685</Id>
+          <Value>な　なにも　してないけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0535</Key>
+      <Values>
+        <BtxtString>
+          <Id>2650931456</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0536</Key>
+      <Values>
+        <BtxtString>
+          <Id>2672427802</Id>
+          <Value>ᜀ近々᠀ちかぢかᤀ　ハイエンドＧＰᜀ開催予定᠀かいさいよていᤀ！
+ᜀ各᠀かくᤀランクの　ランクマスターが
+ᰏを　ᜀ待᠀まᤀちᜀ受᠀うᤀけてるぜぇ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0537</Key>
+      <Values>
+        <BtxtString>
+          <Id>2687501073</Id>
+          <Value>Ｆランク！　Ｅランク！　Ｄランク！
+Ｃランク！　Ｂランク！　Ａランク！
+そして！　そしてぇ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0538</Key>
+      <Values>
+        <BtxtString>
+          <Id>2705326873</Id>
+          <Value>このサイバーアリーナ
+ᜀ最高᠀さいこうᤀのＳランク　ᜀ唯一᠀ゆいいつᤀのＳランカー！
+チャンピオン！　そのᜀ名᠀なᤀもオウジ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0539</Key>
+      <Values>
+        <BtxtString>
+          <Id>2721317650</Id>
+          <Value>ランクマスターたちだけじゃねぇ！
+ロガモン　ロギモン　ヤドモン！
+コソモン　エイドモン　クラフトモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0540</Key>
+      <Values>
+        <BtxtString>
+          <Id>2737832722</Id>
+          <Value>たっくさんのアプモンたちが
+ᰏと　つながるのを
+ᜀ待᠀まᤀってるぜぇ！！　おᜀ楽᠀たのᤀしみに！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_0541</Key>
+      <Values>
+        <BtxtString>
+          <Id>2751594752</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1055</Key>
+      <Values>
+        <BtxtString>
+          <Id>2770731535</Id>
+          <Value>ᜀ学校᠀がっこうᤀは　ᜀ休᠀やすᤀみだから
+ᜀ体育館᠀たいいくかんᤀには…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1056</Key>
+      <Values>
+        <BtxtString>
+          <Id>2785935626</Id>
+          <Value>うん　ᜀ入᠀はいᤀれないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_1056_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2802712842</Id>
+          <Value>うん　ᜀ入᠀はいᤀれないね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_9999</Key>
+      <Values>
+        <BtxtString>
+          <Id>2821980949</Id>
+          <Value>エムシーモンは　ᜀ噴水公園᠀ふんすいこうえんᤀで
+トラブルが　ᜀ起᠀おᤀきてるって
+ᜀ言᠀いᤀってたな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MQ_C01_9999_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2838889237</Id>
+          <Value>エムシーモンは　ᜀ噴水公園᠀ふんすいこうえんᤀで
+トラブルが　ᜀ起᠀おᤀきてるって
+ᜀ言᠀いᤀってたわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

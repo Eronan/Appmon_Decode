@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262403</Id>
+          <Value>ユカリ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20710163</Id>
+          <Value>サイバーアリーナ　Ｅランクマスター
+ᜀ保健室᠀ほけんしつᤀのᜀ天使᠀てんしᤀ　ユカリ！
+バディアプモンは　エイドモンだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929181</Id>
+          <Value>ヒフミがᜀ丘中学校᠀おかちゅうがっこうᤀの　３ᜀ年生᠀ねんせいᤀだから
+ᰏたちの　ᜀ先輩᠀せんぱいᤀにあたるな！
+ᜀ世話好᠀せわずᤀきのおねえさんって　カンジか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

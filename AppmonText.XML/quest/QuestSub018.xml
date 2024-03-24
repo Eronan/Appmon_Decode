@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1704211</Id>
+          <Value>ᜀ学校᠀がっこうᤀのセキュリティᜀ調査᠀ちょうさᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929175</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118347</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72483607</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672779</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106038039</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227211</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139592471</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781643</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146903</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336075</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701335</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890507</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255767</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444939</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810199</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999371</Id>
+          <Value>学校・いろいろ調べよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364631</Id>
+          <Value>ᜀ学校᠀がっこうᤀの　シャッターが　ᜀ降᠀おᤀりてしまった
+セキュリティに　ᜀ問題᠀もんだいᤀが　ᜀ起᠀おᤀきてないか
+ᜀ校内᠀こうないᤀを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324797212</Id>
+          <Value>プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀし
+ᜀ学校᠀がっこうᤀは　ᜀ元᠀もとᤀどおりに　なった！
+ᜀ大事᠀おおごとᤀになるᜀ前᠀まえᤀに　ᜀ解決᠀かいけつᤀできて　よかった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

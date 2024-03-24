@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>90</NumberOfLabels>
+  <NumberOfStrings>90</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2621972</Id>
+          <Value>やっぱり　ᜀ正᠀ただᤀしく　ᜀ動᠀うごᤀいていないわ
+ᜀ困᠀こまᤀったわねぇ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18743825</Id>
+          <Value>どうしました
+ᜀ何᠀なにᤀが　ᜀ動᠀うごᤀいていないんです？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36176660</Id>
+          <Value>え　ああ
+この　アンテナのことよ
+ちょっと　うまく　ᜀ動᠀うごᤀいてくれなくって</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53084945</Id>
+          <Value>これが…？
+それにしても　ᜀ近᠀ちかᤀくで　ᜀ見᠀みᤀると
+すごい　アンテナだなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>69600018</Id>
+          <Value>この　アンテナに　ᜀ興味᠀きょうみᤀでた？
+いいわ
+ᜀ教᠀おしᤀえてあげる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87294746</Id>
+          <Value>このアンテナはね
+ᜀ宇宙᠀うちゅうᤀの　ᜀ星々᠀ほしぼしᤀのことを　ᜀ調᠀しらᤀべている
+アンテナなのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513751</Id>
+          <Value>ᜀ電波᠀でんぱᤀをᜀ出᠀だᤀしたり　ᜀ受信᠀じゅしんᤀしたりして
+ᜀ宇宙᠀うちゅうᤀに　たくさんある
+ᜀ星᠀ほしᤀのデータを　ᜀ集᠀あつᤀめているの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751757</Id>
+          <Value>へー
+これで　ᜀ星᠀ほしᤀのことを！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>137102095</Id>
+          <Value>でもねー　ここのところ
+ちゃんと　ᜀ動᠀うごᤀいてくれなくて
+ᜀ困᠀こまᤀっているのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912714</Id>
+          <Value>ᜀ故障᠀こしょうᤀですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170525202</Id>
+          <Value>ᜀ故障᠀こしょうᤀなんだろうけど
+ᜀ何᠀なにᤀが　ᜀ原因᠀げんいんᤀか　サッパリ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>189268759</Id>
+          <Value>ᜀ部品᠀ぶひんᤀを　ᜀ交換᠀こうかんᤀしたり
+ᜀ正᠀ただᤀしく　プログラムが　ᜀ動作᠀どうさᤀしているか
+ᜀ調᠀しらᤀべてみても　わからないの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>205521686</Id>
+          <Value>おかしなᜀ話᠀はなしᤀだけど　アンテナᜀ自身᠀じしんᤀが
+ᜀ仕事᠀しごとᤀを　さぼっているとしか
+ᜀ考᠀かんがᤀえられないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>220988178</Id>
+          <Value>なんてね
+そんなワケ　あるわけないか！
+でも　ᜀ本当᠀ほんとうᤀに　ᜀ困᠀こまᤀったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239076118</Id>
+          <Value>うーん　こういうパターンのᜀ場合᠀ばあいᤀは
+アプモンが　ᜀ何᠀なにᤀか　やっているᜀ場合᠀ばあいᤀが
+ᜀ多᠀おおᤀいんだよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>254411280</Id>
+          <Value>「ᜀ見᠀みᤀえなくなったᜀ星空᠀ほしぞらᤀ」
+このクエストを　ᜀ受᠀うᤀけますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>271188749</Id>
+          <Value>（まぁ　おねえさんのほうが
+　ᜀ本業᠀ほんぎょうᤀだから
+　なんとか　するでしょ）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>287703822</Id>
+          <Value>それじゃあ　オレは　ここで…
+ᜀ早᠀はやᤀく　アンテナ
+なおると　いいですね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>306971413</Id>
+          <Value>ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてくれて　ありがとう
+いい　ᜀ気᠀きᤀᜀ晴᠀ばᤀらしに　なったわ
+さーて　もうᜀ少᠀すこᤀし　ᜀ調᠀しらᤀべてみるかー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>320733714</Id>
+          <Value>よし　こっそり
+ＡＲフィールドから　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>338952986</Id>
+          <Value>このアンテナは
+ᜀ宇宙᠀うちゅうᤀの　ᜀ星々᠀ほしぼしᤀのことを　ᜀ調᠀しらᤀべている
+アンテナなのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>355730194</Id>
+          <Value>でも　ここのところ　うまく
+ᜀ動᠀うごᤀいてくれないの
+ᜀ何᠀なにᤀが　ᜀ原因᠀げんいんᤀか　サッパリ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>373818135</Id>
+          <Value>ᜀ部品᠀ぶひんᤀを　ᜀ交換᠀こうかんᤀしたり
+ᜀ正᠀ただᤀしく　プログラムが　ᜀ動作᠀どうさᤀしているか
+ᜀ調᠀しらᤀべてみても　わからないの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>390071062</Id>
+          <Value>おかしなᜀ話᠀はなしᤀだけど
+アンテナᜀ自身᠀じしんᤀが　ᜀ仕事᠀しごとᤀを　さぼって
+いるとしか　ᜀ考᠀かんがᤀえられないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_504</Key>
+      <Values>
+        <BtxtString>
+          <Id>405537554</Id>
+          <Value>なんてね
+そんなワケ　あるわけないか！
+でも　ᜀ本当᠀ほんとうᤀに　ᜀ困᠀こまᤀったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_505</Key>
+      <Values>
+        <BtxtString>
+          <Id>423756566</Id>
+          <Value>うーん　こういうパターンの　ᜀ場合᠀ばあいᤀは
+アプモンが　ᜀ何᠀なにᤀか　やっているᜀ場合᠀ばあいᤀが
+ᜀ多᠀おおᤀいんだよな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>440533781</Id>
+          <Value>やっぱり　ᜀ正᠀ただᤀしく　ᜀ動᠀うごᤀいていないわ
+これじゃあ　しばらく
+ᜀ宇宙᠀うちゅうᤀのデータ　ᜀ調᠀しらᤀべられないわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>454427148</Id>
+          <Value>グオーーーーーーっ
+グガーーーーーーーーーっ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>472122126</Id>
+          <Value>アプモンが　いるには
+いたんだけど…
+ぐっすり　ᜀ寝᠀ねᤀちゃってるよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>487981577</Id>
+          <Value>ᜀ起᠀おᤀきてほしいけど
+どうしたものか…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>505152266</Id>
+          <Value>おーい！
+そこの　アプモン！！
+ᜀ起᠀おᤀきてくれーーっ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>520749321</Id>
+          <Value>グゴゴーーーーっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>537788935</Id>
+          <Value>ん？
+ᜀ起᠀おᤀきたかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>554041606</Id>
+          <Value>グゴーーっ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>571343118</Id>
+          <Value>グガゴゴガーーーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>589038346</Id>
+          <Value>わわっ！
+コイツ　ᜀ寝᠀ねᤀぼけて
+おそってきたぞ！！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>605422092</Id>
+          <Value>グオーーーーーーっ
+グガーーーーーーーーーっ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>623248145</Id>
+          <Value>くっ！
+まだ　ᜀ寝᠀ねᤀているよ
+おい！　いいかげん　ᜀ起᠀おᤀきろっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>638451982</Id>
+          <Value>グガゴゴガーーーーーーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>659161878</Id>
+          <Value>また　ᜀ寝᠀ねᤀぼけて　おそってくるな！
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけない！！
+ᜀ絶対᠀ぜったいᤀに　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀまさせてやる！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>673973010</Id>
+          <Value>ム…　ムムム…
+ᜀ誰᠀だれᤀだ
+オレのᜀ目᠀めᤀを　ᜀ覚᠀さᤀまさせたᜀ者᠀ものᤀは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>688259334</Id>
+          <Value>オレだよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>707658514</Id>
+          <Value>たぶん　キミが
+ここで　ᜀ寝᠀ねᤀちゃったから
+このアンテナが　ᜀ動᠀うごᤀかなくなって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>724173330</Id>
+          <Value>ᜀ宇宙᠀うちゅうᤀの　おねえさんが
+ᜀ困᠀こまᤀっていたから　ᜀ起᠀おᤀこしたんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>739771148</Id>
+          <Value>フム
+そうか　ᜀ起᠀おᤀこしてくれて
+ありがとう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>756941328</Id>
+          <Value>オレは　コメットモン
+ᜀ天体᠀てんたいᤀアプリの　アプモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>775815953</Id>
+          <Value>ここで　ᜀ天体᠀てんたいᤀに　ᜀ関᠀かんᤀする
+あらゆることを　ᜀ見᠀みᤀて
+ᜀ伝᠀つたᤀえるᜀ仕事᠀しごとᤀを　している</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>793641750</Id>
+          <Value>ᜀ毎日᠀まいにちᤀ　ᜀ多᠀おおᤀくのᜀ星᠀ほしᤀを　ᜀ見᠀みᤀており
+ついつい　ᜀ星᠀ほしᤀが　いくつあるか
+ᜀ数᠀かぞᤀえᜀ始᠀はじᤀめて　しまったのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>809370390</Id>
+          <Value>ᜀ星᠀ほしᤀが　ひとーつ
+ᜀ星᠀ほしᤀが　ふたーつ　と　ᜀ数᠀かぞᤀえているうちに
+どうやら　ᜀ眠᠀ねむᤀってしまったらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>825099024</Id>
+          <Value>ᜀ星᠀ほしᤀは　ᜀ数᠀かぞᤀえきれないくらい
+あるからね
+そりゃ　ᜀ眠᠀ねむᤀくなるはずだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>842007316</Id>
+          <Value>フム
+ᜀ星᠀ほしᤀは　ᜀ多᠀おおᤀすぎるか
+ᜀ少᠀すこᤀし　ながれᜀ星᠀ぼしᤀにして　へらすかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>857998097</Id>
+          <Value>あはは
+スッキリした　ᜀ星空᠀ほしぞらᤀってのも
+たまには　いいかもね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>876610323</Id>
+          <Value>さて　ずいぶん　ᜀ長᠀ながᤀく
+ᜀ仕事᠀しごとᤀを　ᜀ休᠀やすᤀんでしまった
+オレは　ᜀ仕事᠀しごとᤀに　ᜀ戻᠀もどᤀるとしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>890372622</Id>
+          <Value>うん
+それじゃあね　コメットモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>909247250</Id>
+          <Value>これで　ᜀ宇宙᠀うちゅうᤀの　おねえさんも
+ᜀ安心᠀あんしんᤀするだろう
+ᜀ戻᠀もどᤀってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>924058125</Id>
+          <Value>おねえさん！
+アンテナ　どうなりました？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>941883923</Id>
+          <Value>それが　ᜀ急᠀きゅうᤀに
+ちゃんと　ᜀ動᠀うごᤀくように　なったのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>956432640</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>976880406</Id>
+          <Value>しかも　ᜀ前᠀まえᤀよりも
+ᜀ調査᠀ちょうさᤀできる　ᜀ範囲᠀はんいᤀも　スピードも
+カクダンに　アップしてるの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>991035665</Id>
+          <Value>いったい　どうしちゃったんだろ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009255184</Id>
+          <Value>うん　たぶん
+グッスリ　ᜀ眠᠀ねむᤀれて
+ᜀ元気᠀げんきᤀに　なったからだろうな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024983565</Id>
+          <Value>えっ！？
+ᜀ誰᠀だれᤀが　ᜀ眠᠀ねむᤀれたって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041367310</Id>
+          <Value>いや　こっちのᜀ話᠀はなしᤀですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060242194</Id>
+          <Value>スゴイわーー！
+ᜀ今᠀いまᤀまで　ᜀ見᠀みᤀたことのない
+データが　ドンドン　ᜀ集᠀あつᤀまるのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076363795</Id>
+          <Value>ホント　ᜀ見᠀みᤀたことないわ！
+こんなに　たくさんの　ながれᜀ星᠀ぼしᤀ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091568137</Id>
+          <Value>え？
+ながれᜀ星᠀ぼしᤀ…！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110704918</Id>
+          <Value>（フム
+　ᜀ星᠀ほしᤀは　ᜀ多᠀おおᤀすぎるか
+　ᜀ少᠀すこᤀし　ながれᜀ星᠀ぼしᤀにして　へらすかな）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126040334</Id>
+          <Value>………
+あれって　ᜀ冗談᠀じょうだんᤀじゃ
+なかったのかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1144652563</Id>
+          <Value>ホントに　ᜀ宇宙᠀うちゅうᤀが　スッキリして
+おねえさんたちが　ᜀ調᠀しらᤀべるものが
+なくならないと　いいけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159070221</Id>
+          <Value>うわーっ！
+また　ながれᜀ星᠀ぼしᤀだわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179648790</Id>
+          <Value>ᜀ宇宙中᠀うちゅうじゅうᤀの　ᜀ星᠀ほしᤀが
+ᜀ全部᠀ぜんぶᤀ　ながれᜀ星᠀ぼしᤀに　なりそうなくらい
+ながれᜀ星᠀ぼしᤀが　ᜀ観測᠀かんそくᤀされてるわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193935633</Id>
+          <Value>これが…？
+それにしても　ᜀ近᠀ちかᤀくで　ᜀ見᠀みᤀると
+すごい　アンテナよねぇ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1212154646</Id>
+          <Value>うーん　こういうパターンのᜀ場合᠀ばあいᤀは
+アプモンが　ᜀ何᠀なにᤀか　やっているᜀ場合᠀ばあいᤀが
+ᜀ多᠀おおᤀいのよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227358991</Id>
+          <Value>それじゃあ　ワタシは　ここで…
+ᜀ早᠀はやᤀく　アンテナ
+なおると　いいですね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_505_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245709078</Id>
+          <Value>うーん　こういうパターンの　ᜀ場合᠀ばあいᤀは
+アプモンが　ᜀ何᠀なにᤀか　やっているᜀ場合᠀ばあいᤀが
+ᜀ多᠀おおᤀいのよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260388883</Id>
+          <Value>よーし　こっそり
+ＡＲフィールドから　ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_028_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277428240</Id>
+          <Value>アプモンが　いるには　いたけど…
+ぐっすり　ᜀ寝᠀ねᤀちゃってるわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_029_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293681166</Id>
+          <Value>ᜀ起᠀おᤀきてほしいけど
+どうしたら　いいのかしら…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_030_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310720780</Id>
+          <Value>おーい！
+そこの　アプモン！！
+ᜀ起᠀おᤀきてちょうだーーいっ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326318088</Id>
+          <Value>ん？
+ᜀ起᠀おᤀきたのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344275212</Id>
+          <Value>わわっ！
+このアプモン　ᜀ寝᠀ねᤀぼけて
+おそってきたわっ！！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_037_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361445649</Id>
+          <Value>んもう！
+まだ　ᜀ寝᠀ねᤀているわ
+ねぇ！　いいかげん　ᜀ起᠀おᤀきてっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1380582165</Id>
+          <Value>また　ᜀ寝᠀ねᤀぼけて　おそってくるのね！
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわ！！
+ᜀ絶対᠀ぜったいᤀ　ᜀ目᠀めᤀを　ᜀ覚᠀さᤀまさせてあげる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393033479</Id>
+          <Value>ワタシよっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412301586</Id>
+          <Value>たぶん　アナタが
+ここで　ᜀ寝᠀ねᤀちゃったから
+このアンテナが　ᜀ動᠀うごᤀかなくなって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428816402</Id>
+          <Value>ᜀ宇宙᠀うちゅうᤀの　おねえさんが
+ᜀ困᠀こまᤀっていたから　ᜀ起᠀おᤀこしたのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445856016</Id>
+          <Value>ᜀ星᠀ほしᤀは　ᜀ数᠀かぞᤀえきれないくらい
+あるからね
+そりゃ　ᜀ眠᠀ねむᤀくなるはずだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462895378</Id>
+          <Value>これで　ᜀ宇宙᠀うちゅうᤀの　おねえさんも
+ᜀ安心᠀あんしんᤀするわよね
+ᜀ戻᠀もどᤀってみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_060_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478886158</Id>
+          <Value>うん　たぶん
+グッスリ　ᜀ眠᠀ねむᤀれて
+ᜀ元気᠀げんきᤀに　なったからだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_76_062_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494352142</Id>
+          <Value>いえ　こっちのᜀ話᠀はなしᤀですよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

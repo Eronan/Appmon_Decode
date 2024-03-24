@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>82</NumberOfLabels>
+  <NumberOfStrings>82</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1180167</Id>
+          <Value>どうしよう…
+ᜀ困᠀こまᤀったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301767</Id>
+          <Value>どうかしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35258889</Id>
+          <Value>ピアノの　ᜀ音᠀おとᤀが
+ᜀ鳴᠀なᤀらなくなったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249671</Id>
+          <Value>ピアノって…
+その　ピアノ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71959319</Id>
+          <Value>うん　ワタシ　ピアノがᜀ好᠀すᤀきで
+ᜀ先生᠀せんせいᤀに　ᜀ許可᠀きょかᤀをもらって
+ᜀ毎日᠀まいにちᤀ　ここで　ᜀ練習᠀れんしゅうᤀしていたの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>89785112</Id>
+          <Value>ᜀ来月᠀らいげつᤀの　ᜀ発表会᠀はっぴょうかいᤀに　むけて
+ᜀ一生懸命᠀　いっしょうけんめいᤀ　ひいていたんだけど
+ᜀ急᠀きゅうᤀに　ᜀ音᠀おとᤀが　ᜀ鳴᠀なᤀらなくなっちゃって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103809810</Id>
+          <Value>ᜀ電子᠀でんしᤀピアノか…
+ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれている　わけじゃ
+ないみたいだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>121242385</Id>
+          <Value>ワタシが　ᜀ壊᠀こわᤀしちゃったなら
+ᜀ先生᠀せんせいᤀにも　ᜀ怒᠀おこᤀられちゃう
+はぁ　どうしたらいいのかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>136315407</Id>
+          <Value>もしかしたら　アプモンが
+ᜀ原因᠀げんいんᤀかも　しれないな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>153223695</Id>
+          <Value>いや　そんなわけ　ないか
+ᜀ他᠀ほかᤀのことを　ᜀ先᠀さきᤀにやろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>170918672</Id>
+          <Value>どうしても　ᜀ気᠀きᤀになるな
+よし　ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>187171596</Id>
+          <Value>ᜀ困᠀こまᤀったわ…
+ピアノの　ᜀ音᠀おとᤀが
+ᜀ鳴᠀なᤀらなくなっちゃったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>205914904</Id>
+          <Value>ᜀ来月᠀らいげつᤀの　ᜀ発表会᠀はっぴょうかいᤀに　むけて
+ᜀ一生懸命᠀　いっしょうけんめいᤀ　ひいていたんだけど
+どうしたら　いいのかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>221250322</Id>
+          <Value>ᜀ電子᠀でんしᤀピアノか…
+ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれている　わけじゃ
+ないみたいだな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>236847630</Id>
+          <Value>もしかしたら　アプモンが
+ᜀ原因᠀げんいんᤀかも　しれない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>253755923</Id>
+          <Value>どうしよう…
+ピアノの　ᜀ音᠀おとᤀが　ᜀ鳴᠀なᤀらなくなったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>272892697</Id>
+          <Value>ᜀ発表会᠀はっぴょうかいᤀの　ᜀ練習᠀れんしゅうᤀもできないし
+このままじゃ　ワタシ
+ᜀ先生᠀せんせいᤀに　ᜀ怒᠀おこᤀられちゃうわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>289014548</Id>
+          <Value>アプモンが　ᜀ何᠀なにᤀか　やっているのかもな
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ピアノを　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>303825424</Id>
+          <Value>やっぱり　アプモンだな
+ピアノに　ＡＲダンジョンが　ある</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>320078350</Id>
+          <Value>それじゃあ
+ＡＲダンジョンに　はいって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>336593419</Id>
+          <Value>あれ？
+はいれなくなってるぞ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>354025997</Id>
+          <Value>ᜀ音色᠀ねいろᤀ　ᜀ封印᠀ふういんᤀ！
+カエレ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>370016522</Id>
+          <Value>わわっ！？　ᜀ誰᠀だれᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>389939988</Id>
+          <Value>どうも　ダンジョンの　ᜀ奥᠀おくᤀにいるヤツが
+このダンジョンの　ᜀ入口᠀いりぐちᤀを
+ᜀ使᠀つかᤀえなくしているみたいだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>405406479</Id>
+          <Value>よーし
+アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+ᜀ中᠀なかᤀに　はいってやる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>421397010</Id>
+          <Value>こういうときは…
+エンタメᜀ属性᠀ぞくせいᤀの　アプモンかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>437911828</Id>
+          <Value>また　ᜀ後᠀あとᤀで　ᜀ挑戦᠀ちょうせんᤀしてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>454296076</Id>
+          <Value>あれ？
+ᜀ失敗᠀しっぱいᤀしちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>473301778</Id>
+          <Value>ＡＲダンジョンの　ᜀ中᠀なかᤀに
+はいれなくされているぞ
+アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>488505874</Id>
+          <Value>こういうときは…
+エンタメᜀ属性᠀ぞくせいᤀの　アプモンだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>505545484</Id>
+          <Value>よし　ᜀ成功᠀せいこうᤀだ！
+これで　ＡＲダンジョンに
+はいれるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>523240209</Id>
+          <Value>そこに　いるのは…　オンパモン！
+ピアノの　ᜀ音᠀おとᤀを　ᜀ無᠀なᤀくしたのは
+キミだね！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>538837773</Id>
+          <Value>ガピッ！
+カエレ　カエレ！
+ナゼ　ここまで　ᜀ来᠀きᤀた！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>557581075</Id>
+          <Value>ピアノが　ᜀ鳴᠀なᤀらなくて
+ᜀ女᠀おんなᤀのᜀ子᠀こᤀが　ᜀ困᠀こまᤀっているんだ！
+こんな　イタズラは　やめてよ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>571080970</Id>
+          <Value>イタズラ　してない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>591135510</Id>
+          <Value>オンパモンが　ᜀ正義᠀せいぎᤀ！
+ᜀ平和᠀へいわᤀのため　オンパモンは　ᜀ戦᠀たたかᤀう！
+ダレも　ジャマ　させない！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>607650582</Id>
+          <Value>また　ᜀ来᠀きᤀた！
+オンパモンが　ᜀ正義᠀せいぎᤀ！
+ᜀ平和᠀へいわᤀのため　オンパモンは　ᜀ戦᠀たたかᤀう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>623116814</Id>
+          <Value>なにが　ᜀ正義᠀せいぎᤀだ！
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>639500819</Id>
+          <Value>ガピッ！
+オンパモンの　ᜀ正義᠀せいぎᤀ　ᜀ負᠀まᤀけた…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>659161878</Id>
+          <Value>ᜀ正義᠀せいぎᤀだって　ᜀ言᠀いᤀうけど
+ピアノのᜀ音᠀おとᤀを　ᜀ無᠀なᤀくして
+ᜀ女᠀おんなᤀのᜀ子᠀こᤀを　ᜀ困᠀こまᤀらせていたじゃないか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>672399883</Id>
+          <Value>もう　こんな　イタズラ
+するんじゃないぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>688652807</Id>
+          <Value>オマエ
+わかってない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>708444944</Id>
+          <Value>ᜀ何᠀なにᤀが　ᜀ正義᠀せいぎᤀか
+ᜀ後᠀あとᤀで　ᜀ後悔᠀こうかいᤀする
+オンパモンは　もう　ᜀ知᠀しᤀらない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>724173581</Id>
+          <Value>ᜀ行᠀いᤀっちゃったか…
+でも　ᜀ今᠀いまᤀのって
+どういう　ᜀ意味᠀いみᤀだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>740164108</Id>
+          <Value>もう　ᜀ大丈夫᠀だいじょうぶᤀ
+ピアノ　ᜀ鳴᠀なᤀるはずだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>755499272</Id>
+          <Value>えっ　ホント！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>774636058</Id>
+          <Value>それじゃあ　さっそく
+ᜀ発表会᠀はっぴょうかいᤀの　ᜀ練習᠀れんしゅうᤀを　はじめるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>789709070</Id>
+          <Value>よかったら　ᜀ聞᠀きᤀいていってね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>806355465</Id>
+          <Value>うん
+ᜀ聞᠀きᤀかせてもらうよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>823656974</Id>
+          <Value>（わわっ！？
+　これは　ひどいᜀ音᠀おとᤀだ！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>843055894</Id>
+          <Value>（こんなの　ᜀ毎日᠀まいにちᤀ　ᜀ聞᠀きᤀかされていたら
+　ピアノのᜀ中᠀なかᤀの　オンパモンも
+　たまったもんじゃないぞ！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>855900419</Id>
+          <Value>どう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>874513169</Id>
+          <Value>どうって…
+まあ　ᜀ個性的᠀こせいてきᤀで　いいね…
+あはは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>892732186</Id>
+          <Value>ありがとう！
+よーし！　もっともっと
+ᜀ今᠀いまᤀのᜀ調子᠀ちょうしᤀで　ᜀ練習᠀れんしゅうᤀするわよー！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>909902610</Id>
+          <Value>（オンパモンが　ᜀ正義᠀せいぎᤀのためって
+　ᜀ言᠀いᤀってたᜀ意味᠀いみᤀが
+　ᜀ今᠀いまᤀ　ようやく　わかったよ…）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>926548757</Id>
+          <Value>ワタシ　ᜀ今᠀いまᤀ　ᜀ絶好調᠀ぜっこうちょうᤀなの！
+ねえ　ワタシの　ピアノ
+ᜀ聞᠀きᤀいていって　ちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>941622029</Id>
+          <Value>（うわっ！
+　ᜀ前᠀まえᤀより　パワーアップ
+　しているよ！！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>958005773</Id>
+          <Value>（オンパモ～ン！
+　ᜀ助᠀たすᤀけてーーーっ！！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_007_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>976093970</Id>
+          <Value>ᜀ電子᠀でんしᤀピアノか…
+ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれている　わけじゃ
+ないみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_009_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>991953424</Id>
+          <Value>もしかしたら　アプモンが
+ᜀ原因᠀げんいんᤀかも　しれないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009123857</Id>
+          <Value>いや　そんなわけ　ないわね
+ᜀ他᠀ほかᤀのことを　ᜀ先᠀さきᤀにやりましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026687761</Id>
+          <Value>どうしても　ᜀ気᠀きᤀになるわね
+よーし　ＡＲフィールドに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_502_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043202834</Id>
+          <Value>ᜀ電子᠀でんしᤀピアノか…
+ᜀ電気᠀でんきᤀが　ᜀ切᠀きᤀれている　わけじゃ
+ないみたいね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_018_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060766483</Id>
+          <Value>アプモンが　ᜀ何᠀なにᤀかやっているのかもね
+ＡＲフィールドに　ᜀ行᠀いᤀって
+ピアノを　ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075577361</Id>
+          <Value>やっぱり　アプモンね
+ピアノに　ＡＲダンジョンが　あるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091568139</Id>
+          <Value>あれ？
+はいれなくなってるわ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1111622422</Id>
+          <Value>どうも　ダンジョンの　ᜀ奥᠀おくᤀにいるᜀ誰᠀だれᤀかが
+このダンジョンの　ᜀ入口᠀いりぐちᤀを
+ᜀ使᠀つかᤀえなくしているみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126826767</Id>
+          <Value>そうだ！
+アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+ᜀ中᠀なかᤀに　はいりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142685973</Id>
+          <Value>また　ᜀ後᠀あとᤀで　ᜀ挑戦᠀ちょうせんᤀしてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_029_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161167633</Id>
+          <Value>ＡＲダンジョンの　ᜀ中᠀なかᤀに
+はいれなくされているわね
+アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_030_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176633873</Id>
+          <Value>こういうᜀ時᠀ときᤀは…
+エンタメᜀ属性᠀ぞくせいᤀの　アプモンね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193411340</Id>
+          <Value>よし　ᜀ成功᠀せいこうᤀよ！
+これで　ＡＲダンジョンに
+はいれるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1211106065</Id>
+          <Value>そこに　いるのは…　オンパモン！
+ピアノの　ᜀ音᠀おとᤀを　ᜀ無᠀なᤀくしたのは
+アナタね！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_034_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228800787</Id>
+          <Value>ピアノが　ᜀ鳴᠀なᤀらなくて
+ᜀ女᠀おんなᤀのᜀ子᠀こᤀが　ᜀ困᠀こまᤀっているのよ！
+こんな　イタズラは　やめなさい！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244004881</Id>
+          <Value>なにが　ᜀ正義᠀せいぎᤀよ！
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないんだから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1263141655</Id>
+          <Value>ᜀ正義᠀せいぎᤀだって　ᜀ言᠀いᤀうけど
+ピアノのᜀ音᠀おとᤀを　ᜀ無᠀なᤀくして
+ᜀ女᠀おんなᤀのᜀ子᠀こᤀを　ᜀ困᠀こまᤀらせていたじゃないのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276248587</Id>
+          <Value>もう　こんな　イタズラ
+しないでよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_045_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1293812236</Id>
+          <Value>もう　ᜀ大丈夫᠀だいじょうぶᤀ
+ピアノ　ᜀ鳴᠀なᤀるはずよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_051_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310327311</Id>
+          <Value>（わわっ！？
+　これは　ひどいᜀ音᠀おとᤀだわ！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_052_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329595158</Id>
+          <Value>（こんなの　ᜀ毎日᠀まいにちᤀ　ᜀ聞᠀きᤀかされていたら
+　ピアノのᜀ中᠀なかᤀの　オンパモンも
+　たまったもんじゃないわ！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_056_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1346110226</Id>
+          <Value>（オンパモンが　ᜀ正義᠀せいぎᤀのためって
+　ᜀ言᠀いᤀってたᜀ意味᠀いみᤀが
+　ᜀ今᠀いまᤀ　ようやく　わかったわ…）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_56_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361052429</Id>
+          <Value>（うわっ！
+　ᜀ前᠀まえᤀより　パワーアップ
+　しているわ！！）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>78</NumberOfLabels>
+  <NumberOfStrings>78</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>ミオᜀ誘拐事件᠀ゆうかいじけんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432841</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929177</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987273</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72483609</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541705</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106038041</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096137</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139592473</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650569</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146905</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205001</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701337</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759433</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255769</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313865</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810201</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364633</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319422729</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>340919065</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>352977161</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>374473497</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386531593</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>408027929</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>420086025</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>441582361</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453640457</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>475136793</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>487194889</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>508691225</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>520749321</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>542245657</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>554303753</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>575800089</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>587858185</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>609354521</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>621412617</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>642908953</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>654967049</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>676463385</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>688521481</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>710017817</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>722075913</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>743572249</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>755630345</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>777126681</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>789184777</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>810681113</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>822739209</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>844235545</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>856293641</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>877789977</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>889848073</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>911344409</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>923402505</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>944898841</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>956956937</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>978453273</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>990511369</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>1012007705</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024065801</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>1045562137</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057620233</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>1079116569</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091174665</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>1112671001</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>1124729097</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>1146225433</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158283529</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179779865</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>1191837961</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>1213334297</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>1225392393</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>1246888729</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258946825</Id>
+          <Value>ヒフミが丘・南地区</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>1280443161</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>1297220377</Id>
+          <Value>ミオが　ᜀ誘拐᠀ゆうかいᤀされてしまった！
+アプリトークで　ᜀ犯人᠀はんにんᤀから　ᜀ指示᠀しじᤀが
+きている…　ᜀ指示通᠀しじどおᤀりに　ᜀ行動᠀こうどうᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

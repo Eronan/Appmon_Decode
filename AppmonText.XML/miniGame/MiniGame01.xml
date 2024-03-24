@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>DESC_FIRST</Key>
+      <Values>
+        <BtxtString>
+          <Id>1704211</Id>
+          <Value>ᜀ相手᠀あいてᤀとおなじスタンプをᜀ選᠀えらᤀぼう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>STAMP_SELECT_UNDER</Key>
+      <Values>
+        <BtxtString>
+          <Id>18481427</Id>
+          <Value>ᜀ相手᠀あいてᤀとおなじスタンプをᜀ選᠀えらᤀぼう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_00_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>34210309</Id>
+          <Value>うんうん！
+せやな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_00_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249671</Id>
+          <Value>あ～　わかる！
+ホンマそれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_00_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>68026634</Id>
+          <Value>ほな　ᜀ次᠀つぎᤀいこか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_01_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>85328398</Id>
+          <Value>せやな！
+ᜀ自分᠀じぶんᤀ　わかってるやん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_01_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>101318922</Id>
+          <Value>にゃはは！　それな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_01_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751753</Id>
+          <Value>ウチ　そのスタンプ
+ᜀ好᠀すᤀきやねん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_02_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>135922190</Id>
+          <Value>いや～！　キミと　しゃべるん
+ホンマに　おもろいわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_02_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>152568334</Id>
+          <Value>にゃははは！　ありがとうな！
+また　たのむわ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SUCCESS_02_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>169869841</Id>
+          <Value>ふ～っ！　いっぱいしゃべって
+スッキリしたわ！　ありがとうな～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_00_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>185073927</Id>
+          <Value>なんでやねん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_00_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>201720069</Id>
+          <Value>あっちゃ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_00_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>219546123</Id>
+          <Value>そうそう　このスタンプ
+…ってなんでやねん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_01_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>235799048</Id>
+          <Value>そそそそ～
+…ってちゃうわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_01_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576264</Id>
+          <Value>ないわ～
+それちゃうやん…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_01_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>270926355</Id>
+          <Value>なんでやねん！　さては
+ᜀ自分᠀じぶんᤀ　そのスタンプ　ᜀ好᠀すᤀきやな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_02_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>286261770</Id>
+          <Value>おしい！
+いや　おしくないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_02_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>303301133</Id>
+          <Value>にゃはは！
+もうちょい　がんばってや～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>FAILED_02_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>320078347</Id>
+          <Value>ウソやん！　ウソやろ？
+たのむでホンマ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

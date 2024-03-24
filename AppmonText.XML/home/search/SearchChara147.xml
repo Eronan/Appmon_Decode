@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>4</NumberOfLabels>
+  <NumberOfStrings>4</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>524551</Id>
+          <Value>ゴミモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>22151962</Id>
+          <Value>ごみᜀ箱᠀ばこᤀのアプリ　ゴミモンだ
+ᜀ処分᠀しょぶんᤀが　ᜀ大好᠀だいすᤀきだから　ᜀ放᠀ほうᤀっておくと
+ᜀ必要᠀ひつようᤀなデータまで　ᜀ捨᠀すᤀてちまうぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37487381</Id>
+          <Value>ヨンゲンᜀ通᠀どおᤀりでは　ᜀ道᠀みちᤀを　ᜀ塞᠀ふさᤀいで
+どいてくれないことが　あるみたいだ
+イジワルな　ヤツだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>54657817</Id>
+          <Value>ᜀ頼᠀たのᤀんだって　ムダだから
+ＡＲフィールドをᜀ出᠀でᤀて
+ᜀ現実世界᠀げんじつせかいᤀから　ᜀ通᠀とおᤀりᜀ抜᠀ぬᤀけちまえ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

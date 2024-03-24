@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>16</NumberOfLabels>
+  <NumberOfStrings>16</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2884369</Id>
+          <Value>タップ！　タップ！
+ここで　ᜀ何᠀なにᤀを　ᜀ守᠀まもᤀってるかは
+ヒミツ　タップ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19005970</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ持᠀もᤀってるのは
+タップモンだな！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36307725</Id>
+          <Value>なぜ　タップモンが
+コードを　ᜀ持᠀もᤀってることを
+ᜀ知᠀しᤀってるタップ～～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53347089</Id>
+          <Value>ぐぬぬぬぬ…
+ヒミツを　ᜀ知᠀しᤀられたからには
+タダでは　ᜀ帰᠀かえᤀさないタップ～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70648593</Id>
+          <Value>また　ᜀ来᠀きᤀたタップ～！
+ヒミツを　ᜀ知᠀しᤀられたからには
+タダでは　ᜀ帰᠀かえᤀさないタップ～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934924</Id>
+          <Value>こんどは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102892303</Id>
+          <Value>ぐぬぬぬぬ…
+やられたからには
+タダでは　ᜀ帰᠀かえᤀさないタップ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>119407117</Id>
+          <Value>この　ᜀ解除᠀かいじょᤀコードを
+ᜀ持᠀もᤀっていくタップ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135791116</Id>
+          <Value>タダで　ᜀ帰᠀かえᤀさないって
+そういうこと！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152699401</Id>
+          <Value>ᜀ解除᠀かいじょᤀコード
+ᜀ手᠀てᤀに　はいったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>170656274</Id>
+          <Value>よし　このᜀ解除᠀かいじょᤀコードがあれば
+ᜀ屋上᠀おくじょうᤀに　ᜀ行᠀いᤀけるはずだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>186909202</Id>
+          <Value>ここからᜀ出᠀でᤀて
+プロテクモンを　ᜀ止᠀とᤀめに　ᜀ行᠀いᤀこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>203555346</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ持᠀もᤀってるのは
+タップモンね！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_006_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152652</Id>
+          <Value>こんどは　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_011_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>237765138</Id>
+          <Value>ええ　このᜀ解除᠀かいじょᤀコードがあれば
+ᜀ屋上᠀おくじょうᤀへᜀ行᠀いᤀけるはずよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_20_012_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>254149140</Id>
+          <Value>ここからᜀ出᠀でᤀて
+プロテクモンを　ᜀ止᠀とᤀめに　ᜀ行᠀いᤀきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

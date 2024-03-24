@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>7</NumberOfLabels>
+  <NumberOfStrings>7</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>262404</Id>
+          <Value>カゲフミ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>19399440</Id>
+          <Value>サイバーアリーナ
+Ｂランクマスター　カゲフミ！
+バディアプモンは　クラフトモンだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>39322393</Id>
+          <Value>ᜀ陰口᠀かげぐちᤀを　いろいろ　ᜀ言᠀いᤀわれたってᜀ聞᠀きᤀいて
+ᜀ検索᠀けんさくᤀしてみたけど　カゲフミを　ᜀ心᠀こころᤀから
+キライなヤツは　ᜀ見当᠀みあᤀたらなかったぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>55837464</Id>
+          <Value>ネットでは　ときどき　ᜀ必要以上᠀ひつよういじょうᤀに
+ᜀ悪᠀わるᤀい　ᜀ言葉᠀ことばᤀが　ᜀ使᠀つかᤀわれるから
+それを　ᜀ真᠀まᤀに　ᜀ受᠀うᤀけちまったのかもな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>73794332</Id>
+          <Value>ᜀ建築士᠀けんちくしᤀの　おᜀ父᠀とうᤀさんに　ᜀ影響᠀えいきょうᤀされて
+ᜀ将来᠀しょうらいᤀのᜀ夢᠀ゆめᤀは　ᜀ建築士᠀けんちくしᤀだってハナシ！
+クラフトモンと　ᜀ毎日᠀まいにちᤀ　がんばってるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>88474388</Id>
+          <Value>ヒフミがᜀ丘᠀おかᤀの　ドライヴゲートは
+カゲフミがᜀ書᠀かᤀいた　アプリドライヴの
+ᜀ模写᠀もしゃᤀから　ᜀ作᠀つくᤀられたものだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>106300188</Id>
+          <Value>ᜀ本人᠀ほんにんᤀは　ᜀ渡᠀わたᤀすᜀ図面᠀ずめんᤀを　ᜀ間違᠀まちがᤀえたのが
+ᜀ恥᠀はᤀずかしくて　ᜀ仕方᠀しかたᤀないみたいだぜ
+カヨなんか　よく　ダシにするってさ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

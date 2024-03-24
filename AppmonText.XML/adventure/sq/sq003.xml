@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>99</NumberOfLabels>
+  <NumberOfStrings>99</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097931</Id>
+          <Value>あれ？　ᰏだ
+ＡＲフィールドᜀ側᠀がわᤀで
+なにやってんの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>18875149</Id>
+          <Value>なにやってんの？　って…
+えっ　キミも
+アプリドライヴァー！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>36045581</Id>
+          <Value>そうだよ！
+あそこの　ᜀ自販機᠀じはんきᤀに
+アプリドライヴもらったもん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51905038</Id>
+          <Value>でも　いま
+ᜀ困᠀こまᤀったことに　なってて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>67633415</Id>
+          <Value>どうかしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87425813</Id>
+          <Value>バディアプモンの　カリキュモンが
+ᜀ下水道᠀げすいどうᤀを　ᜀ調᠀しらᤀべにいったきり
+もどってこないの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102105610</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀを？
+どうして　また…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>122159894</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀ…　このᜀ町᠀まちᤀの　ᜀ地下᠀ちかᤀに
+ᜀ都市管理᠀としかんりᤀシステムの　ネットワークが
+とおっているのを　しってる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150676</Id>
+          <Value>カリキュモンが　そこのᜀ数値᠀すうちᤀが
+おかしいって　ᜀ調᠀しらᤀべにいったんだけど
+ᜀ戻᠀もどᤀってこないのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>155321108</Id>
+          <Value>だから　ᜀ誰᠀だれᤀか　アプリドライヴァーに
+てつだってもらおうとᜀ思᠀おもᤀって
+サイバーアリーナまで　ᜀ来᠀きᤀたんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>169214476</Id>
+          <Value>うん　ちょうどいいや！
+ᰏ　てつだってよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>185729548</Id>
+          <Value>ええっ
+てつだうのは　いいけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203948818</Id>
+          <Value>わかった
+ᜀ下水道᠀げすいどうᤀで　カリキュモンを
+さがしてくれば　いいんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221643292</Id>
+          <Value>うん　おᜀ願᠀ねがᤀい！
+ᜀ下水道᠀げすいどうᤀの　ᜀ入᠀いᤀりᜀ口᠀ぐちᤀまで　ᜀ案内᠀あんないᤀするね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>238027542</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀには　ここからᜀ入᠀はいᤀれるよ
+ᰏ
+カリキュモンのこと　おねがいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>255984402</Id>
+          <Value>カリキュモンが　ᜀ下水道᠀げすいどうᤀの
+ᜀ都市管理᠀としかんりᤀ　ネットワークを
+ᜀ調᠀しらᤀべにいって　もどってこないの…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>273941270</Id>
+          <Value>ᜀ下水道᠀げすいどうᤀには　ここからᜀ入᠀はいᤀれるよ
+ᜀ中᠀なかᤀは　ᜀ迷᠀まよᤀいやすいから　ᜀ現実᠀げんじつᤀも
+ＡＲフィールドも　よくᜀ調᠀しらᤀべてみて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>286786063</Id>
+          <Value>それじゃあ　ᰏ
+カリキュモンのこと　おねがいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>306316054</Id>
+          <Value>ᜀ都市管理用᠀としかんりようᤀの　ネットワークが
+ᜀ下水道᠀げすいどうᤀに　ᜀ整備᠀せいびᤀされてるって
+ᜀ話᠀はなしᤀだったな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>320471570</Id>
+          <Value>まずは
+ＡＲフィールドから　ᜀ調᠀しらᤀべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>336462094</Id>
+          <Value>…エラーメッセージだらけだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>354681614</Id>
+          <Value>カリキュモンは
+ᜀ下水道᠀げすいどうᤀの　どこかに
+いるはずなんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>369230080</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>388629265</Id>
+          <Value>もしかして　このᜀ中᠀なかᤀの　どれかが
+ＡＲダンジョンに
+つながってるかもしれない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>405406226</Id>
+          <Value>ᜀ操作盤᠀そうさばんᤀを　しらべてみよう！
+おかしいところが　ᜀ見᠀みᤀつかるかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>423101202</Id>
+          <Value>「４４／３３／５５５／７／＃／２２２
+／２／５５５／２２２／８８／４４４／
+７７７７／４４／３３／７７７／３３」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>438567444</Id>
+          <Value>なんだこれ！？
+ᜀ全部᠀ぜんぶᤀ　ᜀ数字᠀すうじᤀに　なってるけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>454296077</Id>
+          <Value>もしかして
+ここに　カリキュモンが…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>470286599</Id>
+          <Value>カリキュモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>486670592</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>506200850</Id>
+          <Value>××！　××××！
+く　くるなで　ありマス！
+ウィルスᜀ化᠀かᤀは　ごめんで　ありマス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>522584845</Id>
+          <Value>ウィルスᜀ化᠀かᤀ？
+もしかして　ガッチモンや
+バッテリモンの　ときの…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>539624208</Id>
+          <Value>ねえ　カリキュモン！
+ᜀ落᠀おᤀちついてよ！
+ちょっと　くわしく　ᜀ聞᠀きᤀかせて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>554959372</Id>
+          <Value>×××××！！
+ごめんで　ありマス～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>572260878</Id>
+          <Value>カリキュモン！
+ᜀ今度᠀こんどᤀこそ　ᜀ話᠀はなしᤀを…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>590480142</Id>
+          <Value>また　ᜀ来᠀きᤀたで　ありマスか！
+×××！　イヤで　ありマス！
+ᜀ来᠀くᤀるなで　ありマス～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>606995214</Id>
+          <Value>ウウ…　ᜀ負᠀まᤀけたで　ありマス
+これで　カリキュも
+ウィルスᜀ化᠀かᤀ　なのでありマス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>624296722</Id>
+          <Value>だから　おちついてってば！
+オレは　キミのバディに　ᜀ頼᠀たのᤀまれて
+キミを　むかえにᜀ来᠀きᤀたんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>641205013</Id>
+          <Value>！　そうだったで　ありマスか！
+うれしいで　ありマス…
+ᜀ感無量᠀かんむりょうᤀ　ᜀ大数᠀たいすうᤀでありマス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>658506517</Id>
+          <Value>ᜀ実᠀じつᤀは　ネットワークを　ᜀ調᠀しらᤀべにきたら
+バイラモンに　ᜀ追᠀おᤀいかけられて
+ᜀ困᠀こまᤀっていたで　ありマス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>672924172</Id>
+          <Value>やっぱり　バイラモン！
+そいつ　どこにᜀ行᠀いᤀった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>689963788</Id>
+          <Value>まさか　ᜀ追᠀おᤀいかける
+ベクトルで　ありマスか！
+それなら…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>707002897</Id>
+          <Value>バイラモンは　１００％
+このᜀ先᠀さきᤀにいる　ᜀ解᠀かいᤀでありマス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>722075914</Id>
+          <Value>すごい！　わかるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>741606163</Id>
+          <Value>もちろんで　ありマス
+なにしろ　カリキュは　そっちᜀ側᠀がわᤀから
+ᜀ逃᠀にᤀげてきたで　ありマスからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>756154639</Id>
+          <Value>ᜀ計算᠀けいさんᤀ　してないじゃん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>773980688</Id>
+          <Value>その　ᜀ反応᠀はんのうᤀは
+ᜀ計算通᠀けいさんどおᤀりで　ありマス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>791806734</Id>
+          <Value>くれぐれも　ネットワールドの
+ᜀ虚数᠀きょすうᤀに　ならないよう
+ᜀ気᠀きᤀをつけるで　ありマスな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>806224138</Id>
+          <Value>き　ᜀ気᠀きᤀをつけるよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>825754389</Id>
+          <Value>…よし　バイラモンは
+ウィルスᜀ化᠀かᤀ　していたはずだ
+ᜀ今度᠀こんどᤀこそ　ᜀ決着᠀けっちゃくᤀをつけよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>843055893</Id>
+          <Value>カリキュは　アナタが
+バイラモンの　ᜀ相手᠀あいてᤀをしているあいだに
+こっそりᜀ帰᠀かえᤀる　ᜀ算段᠀さんだんᤀで　ありマス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>859702036</Id>
+          <Value>そうすれば　カリキュ　ᜀ一人᠀ひとりᤀのとき
+バイラモンに　ᜀ会᠀あᤀう　ᜀ可能性᠀かのうせいᤀが
+１％も　ないでありマス</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>872808710</Id>
+          <Value>ズ　ズルい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>891290126</Id>
+          <Value>ᜀ計算᠀けいさんᤀだかいと
+ᜀ言᠀いᤀってほしいで　ありマス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>907411980</Id>
+          <Value>ようやく　ᜀ追᠀おᤀいついたぞ
+バイラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>923271432</Id>
+          <Value>×…　×△………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>943588120</Id>
+          <Value>やっぱり　ウィルスᜀ化᠀かᤀしてる…
+ᜀ除去᠀じょきょᤀすれば　このあたりでの　ᜀ事件᠀じけんᤀも
+すこし　おちつくはずだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>956956938</Id>
+          <Value>いくぞ　バイラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>973603079</Id>
+          <Value>◎×△～～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>992346642</Id>
+          <Value>ᜀ今度᠀こんどᤀこそ　ちゃんと　ウィルスを
+ᜀ除去᠀じょきょᤀするからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007288585</Id>
+          <Value>一　二　三　三　☆</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025508109</Id>
+          <Value>やった！
+バイラモンの
+ウィルスᜀ化᠀かᤀが　ᜀ解᠀とᤀけた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041367311</Id>
+          <Value>…　………ᜀＴＨＡＮＫＳ᠀サンクスᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1057227011</Id>
+          <Value>…あっ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1073873152</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091043591</Id>
+          <Value>いっちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110704915</Id>
+          <Value>でも　よかった
+バイラモンの　ウィルスᜀ化᠀かᤀはᜀ解᠀とᤀけたし
+これで　ひとᜀ安心᠀あんしんᤀだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1128137495</Id>
+          <Value>ARダンジョンをᜀ出᠀でᤀて
+ᜀ報告᠀ほうこくᤀしにいこう
+ᜀ下水道᠀げすいどうᤀのᜀ外᠀そとᤀで　ᜀ待᠀まᤀってるはずだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1142555403</Id>
+          <Value>あっ　ᰏ！
+さっき　カリキュモンが
+もどってきたよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159070221</Id>
+          <Value>よかった！
+ちゃんと　ᜀ帰᠀かえᤀれたんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175191820</Id>
+          <Value>おかげさまで　ありマス！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194459920</Id>
+          <Value>バイラモンに
+ᜀ追᠀おᤀいかけられたって　ᜀ聞᠀きᤀいたよ
+ᰏは　ᜀ大丈夫᠀だいじょうぶᤀだった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1212678936</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀだよ！
+バイラモンの　ウィルスᜀ化᠀かᤀもᜀ解᠀とᤀけたし
+これで　しばらくは　ᜀ安心᠀あんしんᤀできるとᜀ思᠀おもᤀう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226703628</Id>
+          <Value>そっか…
+ᰏ　ᜀ強᠀つよᤀいんだね
+なんだか　かっこいいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244136209</Id>
+          <Value>うん　ᜀ頼᠀たよᤀりに　しちゃおうかな…
+また　なにかあったら
+よろしくね　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258684678</Id>
+          <Value>まかせてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278870291</Id>
+          <Value>バディの　カリキュモンは
+ᜀ町᠀まちᤀの　ᜀ地下᠀ちかᤀᜀ管理᠀かんりᤀシステムを
+よく　ᜀ見回᠀みまわᤀってるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1296302867</Id>
+          <Value>ᜀ町᠀まちᤀの　ᜀ平和᠀へいわᤀ…　っていうよりは
+きっと　ᜀ数値᠀すうちᤀが　たくさんあって
+ᜀ楽᠀たのᤀしいんだと　ᜀ思᠀おもᤀうな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311507217</Id>
+          <Value>ここに
+カリキュモンが　いるはずだ
+ᜀ早᠀はやᤀく　ᜀ助᠀たすᤀけにᜀ行᠀いᤀかないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327891217</Id>
+          <Value>わかった
+ᜀ下水道᠀げすいどうᤀで　カリキュモンを
+さがしてくれば　いいのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1346503445</Id>
+          <Value>ᜀ都市管理用᠀としかんりようᤀの　ネットワークが
+ᜀ下水道᠀げすいどうᤀに　ᜀ整備᠀せいびᤀされてるって
+ᜀ話᠀はなしᤀだったわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_020_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360658963</Id>
+          <Value>まずは
+ＡＲフィールドから　ᜀ調᠀しらᤀべてみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_021_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376780559</Id>
+          <Value>…エラーメッセージだらけだわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395393297</Id>
+          <Value>もしかして　このᜀ中᠀なかᤀの　どれかが
+ＡＲダンジョンに
+つながってるかもしれないわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_025_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412170259</Id>
+          <Value>ᜀ操作盤᠀そうさばんᤀを　しらべてみましょ！
+おかしいところが　ᜀ見᠀みᤀつかるかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428292116</Id>
+          <Value>なに　これ！？
+ᜀ全部᠀ぜんぶᤀ　ᜀ数字᠀すうじᤀに　なってるけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_079_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1445856017</Id>
+          <Value>ここに
+カリキュモンが　いるはずだわ
+ᜀ早᠀はやᤀく　ᜀ助᠀たすᤀけにᜀ行᠀いᤀかないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463157523</Id>
+          <Value>だから　おちついてってば！
+ワタシは　キミのバディに　ᜀ頼᠀たのᤀまれて
+キミを　むかえにᜀ来᠀きᤀたんだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478755083</Id>
+          <Value>やっぱり　バイラモン！
+その　バイラモンは
+どこに　ᜀ行᠀いᤀったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494089994</Id>
+          <Value>き　ᜀ気᠀きᤀをつけるわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1513620245</Id>
+          <Value>よーし　バイラモンは
+ウィルスᜀ化᠀かᤀ　していたはずね
+ᜀ今度᠀こんどᤀこそ　ᜀ決着᠀けっちゃくᤀをつけるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1528300045</Id>
+          <Value>ようやく　ᜀ追᠀おᤀいついたわよ
+バイラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1547567896</Id>
+          <Value>やっぱり　ウィルスᜀ化᠀かᤀしてる…
+ᜀ除去᠀じょきょᤀすれば　このあたりでの　ᜀ事件᠀じけんᤀも
+すこし　おちつくはずだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_058_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1561067787</Id>
+          <Value>いくわよ　バイラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_067_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580335891</Id>
+          <Value>でも　よかった
+バイラモンの　ウィルスᜀ化᠀かᤀはᜀ解᠀とᤀけたし
+これで　ひとᜀ安心᠀あんしんᤀね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_068_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1597899543</Id>
+          <Value>ARダンジョンをᜀ出᠀でᤀて
+ᜀ報告᠀ほうこくᤀしにいこう
+ᜀ下水道᠀げすいどうᤀのᜀ外᠀そとᤀで　ᜀ待᠀まᤀってるはずね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612317198</Id>
+          <Value>まだ　ᜀ中᠀なかᤀに
+バイラモンが　いるはずだ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_500_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1629094414</Id>
+          <Value>まだ　ᜀ中᠀なかᤀに
+バイラモンが　いるはずね…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_03_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646396173</Id>
+          <Value>なにやってんの？　って…
+えっ　アナタも
+アプリドライヴァー！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

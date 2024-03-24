@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>131330</Id>
+          <Value>レイ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>20710164</Id>
+          <Value>レイ…　ハッキングの　アプリ
+ハックモンを　バディアプモンとする
+ᜀ謎᠀なぞᤀのᜀ多᠀おおᤀい　アプリドライヴァーだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404885</Id>
+          <Value>ᜀ何᠀なにᤀかを　ᜀ探᠀さがᤀしている　みたいだけど…
+さすがに　ᜀ検索᠀けんさくᤀでは　ᜀ出᠀でᤀてこないな
+ハッカーは　ダテじゃないって　とこか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

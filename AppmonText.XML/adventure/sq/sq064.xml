@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>89</NumberOfLabels>
+  <NumberOfStrings>89</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1180168</Id>
+          <Value>それにしても
+ᜀ困᠀こまᤀったのう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17695239</Id>
+          <Value>どうかしたの？
+おじいさん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35389717</Id>
+          <Value>あの　ᜀ案内板᠀あんないばんᤀを　ᜀ見᠀みᤀてみなさい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>53740305</Id>
+          <Value>あれは　このᜀ山᠀やまᤀで
+バードウォッチングを　するᜀ時᠀ときᤀの
+ᜀ案内板᠀あんないばんᤀ　なのじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>71303953</Id>
+          <Value>このᜀ山᠀やまᤀに　いる　ᜀ鳥᠀とりᤀのことを
+くわしく　ᜀ説明᠀せつめいᤀしてくれる
+ᜀ案内板᠀あんないばんᤀ　なんじゃが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>86376978</Id>
+          <Value>ついᜀ先日᠀せんじつᤀから
+ᜀ調子᠀ちょうしᤀが　ᜀ悪᠀わるᤀくなっていてな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>105382678</Id>
+          <Value>ᜀ案内᠀あんないᤀしてくれる　モニターに
+なぜだか　「このᜀ山᠀やまᤀに　ᜀ近᠀ちかᤀづくな」　と
+メッセージが　ᜀ出᠀でᤀるようになったんじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>121111313</Id>
+          <Value>ᜀ故障᠀こしょうᤀなんじゃと　ᜀ思᠀おもᤀうが
+なぜ　そんな　メッセージが
+ᜀ出᠀でᤀるのか　わからないんじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138281749</Id>
+          <Value>このままでは　バードウォッチングに
+やってくる　ᜀ人々᠀ひとびとᤀが　ᜀ使᠀つかᤀえなくて
+ᜀ困᠀こまᤀって　おるのじゃよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>153092878</Id>
+          <Value>ここでも　アプモンが
+イタズラを
+しているのかも　しれないな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>170525456</Id>
+          <Value>それは　ᜀ困᠀こまᤀりましたね
+はやく　ᜀ故障᠀こしょうᤀが　なおると
+いいですよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>187826963</Id>
+          <Value>ああ
+ᜀ心配᠀しんぱいᤀしてくれて　ありがとう
+ᜀ山道᠀やまみちᤀ　ᜀ気᠀きᤀをつけて　いきなさい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>203817487</Id>
+          <Value>オレも　そのᜀ案内板᠀あんないばんᤀ
+ᜀ調᠀しらᤀべてみても　いいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>221119251</Id>
+          <Value>おお　それは　ありがたい
+ワシは　あまり
+ᜀ機械᠀きかいᤀが　ᜀ得意᠀とくいᤀじゃなくての…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>238289682</Id>
+          <Value>ᜀ若᠀わかᤀいᜀ人᠀ひとᤀが　ᜀ見᠀みᤀてくれたほうが
+ᜀ原因᠀げんいんᤀが　わかるかも
+しれんからのう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>255460115</Id>
+          <Value>ᜀ案内板᠀あんないばんᤀの　まわりをᜀ見᠀みᤀても
+ᜀ特᠀とくᤀに　ᜀ壊᠀こわᤀれているところは
+ないみたいだなぁ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>271844115</Id>
+          <Value>ᜀ案内板᠀あんないばんᤀを　ᜀ調᠀しらᤀべてみよう
+ここから　ＡＲダンジョンに
+はいれるかも　しれない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_500</Key>
+      <Values>
+        <BtxtString>
+          <Id>290456344</Id>
+          <Value>あのᜀ案内板᠀あんないばんᤀは　このᜀ山᠀やまᤀに　いる
+ᜀ鳥᠀とりᤀのことを　くわしく　ᜀ説明᠀せつめいᤀしてくれる
+ᜀ案内板᠀あんないばんᤀ　なんじゃが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_501</Key>
+      <Values>
+        <BtxtString>
+          <Id>306709270</Id>
+          <Value>ᜀ案内᠀あんないᤀしてくれる　モニターに
+なぜだか　「このᜀ山᠀やまᤀに　ᜀ近᠀ちかᤀづくな」　と
+メッセージが　ᜀ出᠀でᤀるようになったんじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_502</Key>
+      <Values>
+        <BtxtString>
+          <Id>322437905</Id>
+          <Value>ᜀ故障᠀こしょうᤀなんじゃと　ᜀ思᠀おもᤀうが
+なぜ　そんな　メッセージが
+ᜀ出᠀でᤀるのか　わからないんじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_503</Key>
+      <Values>
+        <BtxtString>
+          <Id>339608341</Id>
+          <Value>このままでは　バードウォッチングに
+やってくる　ᜀ人々᠀ひとびとᤀが　ᜀ使᠀つかᤀえなくて
+ᜀ困᠀こまᤀって　おるのじゃよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_504</Key>
+      <Values>
+        <BtxtString>
+          <Id>354419470</Id>
+          <Value>ここでも　アプモンが
+イタズラを
+しているのかも　しれないな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>373555989</Id>
+          <Value>ᜀ案内板᠀あんないばんᤀが　ᜀ壊᠀こわᤀれていると
+バードウォッチングに
+ᜀ山᠀やまᤀにくるᜀ人᠀ひとᤀたちが　ᜀ不便᠀ふべんᤀでのう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>388498188</Id>
+          <Value>なんとか　ᜀ故障᠀こしょうᤀが
+ᜀ直᠀なおᤀってくれると
+ありがたいんじゃが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>406586138</Id>
+          <Value>おじいさん
+たぶん　これで　ᜀ案内板᠀あんないばんᤀの　ᜀ故障᠀こしょうᤀは
+ᜀ直᠀なおᤀったと　ᜀ思᠀おもᤀいますよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>420741644</Id>
+          <Value>そうか
+ᜀ直᠀なおᤀしてくれたんじゃな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>440009493</Id>
+          <Value>だが　スマンな
+ワシは　あのᜀ案内板᠀あんないばんᤀを　しばらく
+ᜀ使᠀つかᤀえなくすることに　ᜀ決᠀きᤀめたんじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>454820372</Id>
+          <Value>えっ！？
+せっかく　ᜀ使᠀つかᤀえるように　なったのに？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>471859726</Id>
+          <Value>ワケは　ᜀ案内板᠀あんないばんᤀの
+うしろにある　ᜀ木᠀きᤀじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>486932739</Id>
+          <Value>ᜀ木᠀きᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>506069773</Id>
+          <Value>ᜀ案内板᠀あんないばんᤀのことは
+ワシは　ᜀ年᠀としᤀよりじゃから
+よくわからんが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>522191374</Id>
+          <Value>そのまわりに　ᜀ何᠀なにᤀかないか
+ᜀ調᠀しらᤀべてみたんじゃよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>540934932</Id>
+          <Value>すると　すぐ　うしろにある　ᜀ木᠀きᤀに
+ᜀ鳥᠀とりᤀたちが　ᜀ巣᠀すᤀを　ᜀ作᠀つくᤀっているのを
+ᜀ見᠀みᤀつけたんじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>555483662</Id>
+          <Value>すぐ　そばに
+ᜀ鳥᠀とりᤀのᜀ巣᠀すᤀが　あったのか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>574882583</Id>
+          <Value>あのᜀ位置᠀いちᤀなら　ふつうに
+ᜀ案内板᠀あんないばんᤀを　つかっておると
+ヒナたちの　ᜀ成長᠀せいちょうᤀの　ᜀ妨᠀さまたᤀげになる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>591266582</Id>
+          <Value>じゃから　ᜀ実᠀じつᤀに
+いい　タイミングで　ᜀ案内板᠀あんないばんᤀが
+ᜀ故障᠀こしょうᤀしてくれていたって　ワケなのじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>606733072</Id>
+          <Value>…そうか
+コーチモンが　ᜀ守᠀まもᤀっていたのは
+ᜀ鳥᠀とりᤀのヒナたち　だったんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>626262806</Id>
+          <Value>ᜀ案内板᠀あんないばんᤀが　ᜀ使᠀つかᤀえるようになると
+ここにᜀ人᠀ひとᤀがᜀ集᠀あつᤀまって　ヒナたちに
+ᜀ迷惑᠀めいわくᤀが　かかると　ᜀ考᠀かんがᤀえたんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>640418575</Id>
+          <Value>コーチモン
+ᜀ実᠀じつᤀは　いいヤツだったんだな
+ᜀ悪᠀わるᤀいこと　しちゃったかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>658113305</Id>
+          <Value>そんなワケで
+ヒナが　ᜀ成長᠀せいちょうᤀするまで
+このᜀ案内板᠀あんないばんᤀは　ᜀ使用禁止᠀しようきんしᤀじゃ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>672399888</Id>
+          <Value>ええ
+それが　いいかも　しれませんね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>691143444</Id>
+          <Value>そのあいだは
+バードウォッチングの　ᜀ人᠀ひとᤀへの
+ᜀ案内᠀あんないᤀは　ワシが　やることにしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>707527443</Id>
+          <Value>いろいろ　ありがとうな
+それじゃあ
+ᜀ山道᠀やまみちᤀ　ᜀ気᠀きᤀをつけて　いきなさい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>724960019</Id>
+          <Value>さぁさ　ᜀ案内板᠀あんないばんᤀは　ないけど
+ワシが　ᜀ鳥᠀とりᤀのことを
+ᜀ説明᠀せつめいᤀ　しているぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>740819727</Id>
+          <Value>おっと　キミも
+そこの　ᜀ案内板᠀あんないばんᤀには
+ᜀ近᠀ちかᤀづかんようにな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>758776592</Id>
+          <Value>かわいい　ヒナᜀ鳥᠀どりᤀが…　おっと
+ᜀ故障中᠀こしょうちゅうᤀじゃからな
+ᜀ近᠀ちかᤀづいても　いいこと　ないぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>774373906</Id>
+          <Value>ᜀ野鳥᠀やちょうᤀの　ᜀ案内板᠀あんないばんᤀは
+ᜀ壊᠀こわᤀれているみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>789971469</Id>
+          <Value>ほら　やっぱり
+ＡＲダンジョンが　あったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>805961994</Id>
+          <Value>よし　はいってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>825492241</Id>
+          <Value>これで　ᜀ案内板᠀あんないばんᤀは
+ᜀ直᠀なおᤀったみたいだ…
+おじいさんに　ᜀ報告᠀ほうこくᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>841089556</Id>
+          <Value>あはは
+ᜀ近᠀ちかᤀくのᜀ木᠀きᤀに　ᜀ鳥᠀とりᤀのヒナが　いるぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>858259989</Id>
+          <Value>ᜀ大᠀おおᤀきくなるまで
+この　ᜀ案内板᠀あんないばんᤀは　おᜀ休᠀やすᤀみだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>876086039</Id>
+          <Value>そこにいるのは　コーチモン？
+ᜀ案内板᠀あんないばんᤀを　ᜀ動᠀うごᤀかなくしているのは
+おᜀ前᠀まえᤀだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>891552270</Id>
+          <Value>ᜀ人間᠀にんげんᤀが　ここに
+ᜀ何᠀なんᤀの　ᜀ用᠀ようᤀじゃーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>910295830</Id>
+          <Value>ここは　ワシが
+ᜀ守᠀まもᤀっちょる　ᜀ大事᠀だいじᤀなᜀ場所᠀ばしょᤀじゃ！
+ᜀ人間᠀にんげんᤀは　ᜀ出᠀でᤀていかんかーい！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>925893396</Id>
+          <Value>ᜀ守᠀まもᤀっているって
+それで　ᜀ人᠀ひとᤀに　ᜀ迷惑᠀めいわくᤀをかけちゃ
+ダメじゃないか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>942539534</Id>
+          <Value>ᜀ迷惑᠀めいわくᤀだと？
+ᜀ迷惑᠀めいわくᤀ　かけちょるんは
+どっちじゃと　いうんじゃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>959578901</Id>
+          <Value>オマエさんらのほうが
+ᜀ鳥᠀とりᤀたちに　ᜀ迷惑᠀めいわくᤀ　かけちょるんが
+わからんのかーっ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>976749336</Id>
+          <Value>ᜀ迷惑᠀めいわくᤀって
+バードウォッチングは
+ᜀ遠᠀とおᤀくから　ᜀ鳥᠀とりᤀを　ᜀ観察᠀かんさつᤀするものだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>992215823</Id>
+          <Value>ちかづいて　おどかしたり
+イタズラする　わけじゃないのに
+やりすぎだよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008993039</Id>
+          <Value>ウルサイ！
+ともかく　ワシは
+ᜀ鳥᠀とりᤀたちば　ᜀ守᠀まもᤀるんじゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025245712</Id>
+          <Value>オマエさんには
+ここから　ᜀ出᠀でᤀていってもらう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041105163</Id>
+          <Value>まーた　ᜀ来᠀きᤀよったか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059586576</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしただけだ！
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075577356</Id>
+          <Value>くっ　ᜀ負᠀まᤀけたわーーっ！
+ワシは　なさけない！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1094451990</Id>
+          <Value>ᜀ小᠀ちいᤀさな　ᜀ鳥᠀とりᤀたちすら
+ᜀ守᠀まもᤀれんなんて
+もっと　ᜀ修行᠀しゅぎょうᤀが　ᜀ必要᠀ひつようᤀじゃ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1111360274</Id>
+          <Value>もっと　もっと　ᜀ体᠀からだᤀを　きたえて
+かならず　ᜀ誰᠀だれᤀをも　ᜀ守᠀まもᤀれる
+アプモンに　なっちゃるからな！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127613204</Id>
+          <Value>うーん…？
+ᜀ鳥᠀とりᤀを　ᜀ守᠀まもᤀるって　ᜀ言᠀いᤀっていたけど
+ちょっと　おおげさ　じゃないかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143866126</Id>
+          <Value>まあ　ともかく
+これで　ᜀ案内板᠀あんないばんᤀは
+ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀったはずだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159201291</Id>
+          <Value>おじいさんの　ところに
+ᜀ戻᠀もどᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_002_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175323144</Id>
+          <Value>どうかしました？
+おじいさん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_010_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1193280271</Id>
+          <Value>ここでも　アプモンが
+イタズラを
+しているのかも　しれないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210450448</Id>
+          <Value>ワタシも　そのᜀ案内板᠀あんないばんᤀ
+ᜀ調᠀しらᤀべてみても　いいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_022_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228538643</Id>
+          <Value>ᜀ案内板᠀あんないばんᤀの　まわりをᜀ見᠀みᤀても
+ᜀ特᠀とくᤀに　ᜀ壊᠀こわᤀれているところは
+ないみたいよねぇ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_023_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245053716</Id>
+          <Value>ᜀ案内板᠀あんないばんᤀを　ᜀ調᠀しらᤀべてみましょ
+ここから　ＡＲダンジョンに
+はいれるかも　しれないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_504_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260389135</Id>
+          <Value>ここでも　アプモンが
+イタズラを
+しているのかも　しれないわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276903950</Id>
+          <Value>すぐ　そばに
+ᜀ鳥᠀とりᤀのᜀ巣᠀すᤀが　あったのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_040_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1297220374</Id>
+          <Value>ᜀ案内板᠀あんないばんᤀが　ᜀ使᠀つかᤀえるようになると
+ここにᜀ人᠀ひとᤀがᜀ集᠀あつᤀまって　ヒナたちに
+ᜀ迷惑᠀めいわくᤀが　かかると　ᜀ考᠀かんがᤀえたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311638287</Id>
+          <Value>コーチモン
+ᜀ実᠀じつᤀは　いいᜀ子᠀こᤀだったのね
+ᜀ悪᠀わるᤀいこと　しちゃったかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_050_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1326842381</Id>
+          <Value>ほら　やっぱり
+ＡＲダンジョンが　あったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_051_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1342963979</Id>
+          <Value>よし　はいってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_052_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361183252</Id>
+          <Value>あはは
+ᜀ近᠀ちかᤀくのᜀ木᠀きᤀに　ᜀ鳥᠀とりᤀのヒナが　いるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379009303</Id>
+          <Value>そこにいるのは　コーチモン？
+ᜀ案内板᠀あんないばんᤀを　ᜀ動᠀うごᤀかなくしているのは
+アナタね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395786516</Id>
+          <Value>ᜀ守᠀まもᤀっているって
+それで　ᜀ人᠀ひとᤀに　ᜀ迷惑᠀めいわくᤀをかけちゃ
+ダメじゃないのよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_061_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411646223</Id>
+          <Value>ちかづいて　おどかしたり
+イタズラする　わけじゃないのに
+やりすぎよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_065_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428685328</Id>
+          <Value>さっきは　ᜀ油断᠀ゆだんᤀしただけよ！
+ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_069_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1446249236</Id>
+          <Value>うーん…？
+ᜀ鳥᠀とりᤀを　ᜀ守᠀まもᤀるって　ᜀ言᠀いᤀっていたけど
+ちょっと　おおげさ　じゃない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_070_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462633230</Id>
+          <Value>まあ　ともかく
+これで　ᜀ案内板᠀あんないばんᤀは
+ᜀ元᠀もとᤀに　ᜀ戻᠀もどᤀったはずよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_64_071_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1477968395</Id>
+          <Value>おじいさんの　ところに
+ᜀ戻᠀もどᤀってみましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

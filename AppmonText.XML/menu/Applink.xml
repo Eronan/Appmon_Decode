@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>15</NumberOfLabels>
+  <NumberOfStrings>15</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>APP_HEADER_MAIN_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>メインアプモンᜀ選択᠀せんたくᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APP_HEADER_MAIN_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>19530258</Id>
+          <Value>ᜀ属性値᠀ぞくせいちᤀをᜀ強化᠀きょうかᤀしたい
+アプモンをᜀ選択᠀せんたくᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APP_HEADER_APPLINK_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>35258644</Id>
+          <Value>Ｖｅｒ.アップᜀ用᠀ようᤀアプモンᜀ選択᠀せんたくᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APP_HEADER_APPLINK_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>55444246</Id>
+          <Value>メインアプモンのᜀ強化᠀きょうかᤀにᜀ使用᠀しようᤀする
+アプモンチップをᜀ選択᠀せんたくᤀします
+※ᜀ強化᠀きょうかᤀにᜀ使用᠀しようᤀするとなくなります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APP_HEADER_VERUP_TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>68813076</Id>
+          <Value>Ｖｅｒ.アップᜀ用᠀ようᤀアプモンᜀ選択᠀せんたくᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>APP_HEADER_VERUP_CAPTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>88998678</Id>
+          <Value>メインアプモンのᜀ強化᠀きょうかᤀにᜀ使用᠀しようᤀする
+アプモンチップをᜀ選択᠀せんたくᤀします
+※ᜀ強化᠀きょうかᤀにᜀ使用᠀しようᤀするとなくなります</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CONFIRM_APPLINK</Key>
+      <Values>
+        <BtxtString>
+          <Id>101450248</Id>
+          <Value>これで
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_APPLINK</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620683</Id>
+          <Value>ᰀを
+ᜀ強化᠀きょうかᤀしました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>RESULT_ELEMENT</Key>
+      <Values>
+        <BtxtString>
+          <Id>135529223</Id>
+          <Value>ᰀの
+ᰁᜀ値᠀ちᤀが
+ᬂあがりました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MAX_ELEMENT</Key>
+      <Values>
+        <BtxtString>
+          <Id>152961804</Id>
+          <Value>ᰀの
+ᰁᜀ値᠀ちᤀは
+ᜀ既᠀すでᤀにᜀ最大᠀さいだいᤀです</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MAX_TOTAL_FIRST</Key>
+      <Values>
+        <BtxtString>
+          <Id>171049745</Id>
+          <Value>ᰀの
+ᜀ属性値᠀ぞくせいちᤀのᜀ合計᠀ごうけいᤀが
+ᜀ最大値᠀さいだいちᤀにᜀ達᠀たっᤀしました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CANNOT_APPLINK_NO_APPMON_IN_DECK</Key>
+      <Values>
+        <BtxtString>
+          <Id>187957782</Id>
+          <Value>５ᜀ体未満᠀たいみまんᤀになるデッキがあるため
+ᜀ強化᠀きょうかᤀにᜀ使用᠀しようᤀすることができません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>WARNING_APPLINK_JOINED_IN_DECK</Key>
+      <Values>
+        <BtxtString>
+          <Id>204735250</Id>
+          <Value>アプリデッキにᜀ編成中᠀へんせいちゅうᤀの
+アプモンがᜀ選択᠀せんたくᤀされていますが
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>WARNING_APPLINK_COST_OVER</Key>
+      <Values>
+        <BtxtString>
+          <Id>220594956</Id>
+          <Value>コストをオーバーするため
+デッキからᜀ外᠀はずᤀれますが
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>WARNING_APPLINK_ELEMENT_NOT_INCREASE</Key>
+      <Values>
+        <BtxtString>
+          <Id>237896465</Id>
+          <Value>このᜀ内容᠀ないようᤀでは
+ᜀ属性値᠀ぞくせいちᤀがᜀ上᠀あᤀがりませんが
+よろしいですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

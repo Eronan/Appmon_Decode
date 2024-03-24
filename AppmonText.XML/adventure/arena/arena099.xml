@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3932951</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「デイリーᜀ大会᠀たいかいᤀ・極」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>21103389</Id>
+          <Value>「デイリーᜀ大会᠀たいかいᤀ・極」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>35652110</Id>
+          <Value>ᜀ時間᠀じかんᤀが　もったいないわ
+ᜀ早᠀はやᤀく　はじめましょ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>53871127</Id>
+          <Value>オレが　ᜀ勇者᠀ゆうしゃᤀで　オマエが　ᜀ魔王᠀まおうᤀ！
+オマエを　ᜀ倒᠀たおᤀして　ハッピーエンドだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>71041816</Id>
+          <Value>コーデモンの　アドバイスで　ᜀ勝負服᠀しょうぶふくᤀを
+スーツに　ᜀ変᠀かᤀえてみたぞ！
+これで　ᜀ勝᠀かᤀてるはず！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>87687955</Id>
+          <Value>１に　ᜀ効率᠀こうりつᤀ　２に　ᜀ効率᠀こうりつᤀ
+ᜀ効率᠀こうりつᤀの　ᜀ悪᠀わるᤀい　バトルなど
+ありえませんわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>105382678</Id>
+          <Value>ᜀ成績᠀せいせきᤀトップの　ボクが
+ᜀ頭脳᠀ずのうᤀプレーで　ᜀ負᠀まᤀけるはず　ありません
+ᜀ相手᠀あいてᤀが　ᜀ年上᠀としうえᤀだろうとね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>122946328</Id>
+          <Value>わたしの　ᜀ人生᠀じんせいᤀの　ᜀ旅路᠀たびじᤀは　もうすぐ
+ᜀ終᠀おᤀわりを　ᜀ迎᠀むかᤀえます…　ᜀ願᠀ねがᤀわくば
+ᜀ最期᠀さいごᤀは　アプモンと　いっしょに…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>135528971</Id>
+          <Value>よろしくお願いします！
+（仮テキスト）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

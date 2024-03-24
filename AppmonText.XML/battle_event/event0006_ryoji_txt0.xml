@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>5</NumberOfLabels>
+  <NumberOfStrings>5</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>4326164</Id>
+          <Value>コミュニティは　つながるᜀ力᠀ちからᤀ…
+ᜀ他᠀ほかᤀの　ᜀ何᠀なにᤀよりも　ᜀ力強᠀ちからづよᤀい
+キズナの　ᜀ力᠀ちからᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>20972307</Id>
+          <Value>アプリンクは　まさに　キズナだ
+その　ᜀ強力᠀きょうりょくᤀさは　オレたちが
+ᜀ一番᠀いちばんᤀ　よ～く　ᜀ知᠀しᤀっている！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>37487381</Id>
+          <Value>だからこそ　ᜀ用心᠀ようじんᤀさせて　もらうぜ！
+へへっ…　なにが　ᜀ起᠀おᤀこるか
+ᜀ楽᠀たのᤀしみに　しておけよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>52429582</Id>
+          <Value>ᰏ！
+オレたちの　キズナと
+おᜀ前᠀まえᤀさんたちの　キズナ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>69731086</Id>
+          <Value>どちらが
+ᜀ強᠀つよᤀく　つながっているか
+ᜀ見᠀みᤀせてもらおうじゃねえか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

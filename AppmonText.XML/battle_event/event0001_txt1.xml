@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>6</NumberOfLabels>
+  <NumberOfStrings>6</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097679</Id>
+          <Value>ぜったいにᜀ勝᠀かᤀってみせる　か…
+できるものなら　やってみろ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>21496602</Id>
+          <Value>キズナをᜀ信᠀しんᤀじる　ᜀ勇気᠀ゆうきᤀが…
+おᜀ前᠀まえᤀの　ᜀ覚悟᠀かくごᤀが　ᜀ本物᠀ほんものᤀだというなら…
+ᜀ見᠀みᤀせてみろ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>35127821</Id>
+          <Value>オレは　このバトルのために
+つないできたんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04</Key>
+      <Values>
+        <BtxtString>
+          <Id>53347090</Id>
+          <Value>だから　ぜったいに　つないでみせる！
+ナオト！
+もうᜀ一度᠀いちどᤀ　おまえとのキズナを！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_03_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>68813326</Id>
+          <Value>ワタシは　このバトルのために
+つないできたんだから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_04_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>86901522</Id>
+          <Value>だから　ぜったいに　つないでみせる！
+ナオト！
+もうᜀ一度᠀いちどᤀ　あなたとのキズナを！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

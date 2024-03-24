@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179916</Id>
+          <Value>ᜀ迷子᠀まいごᤀになるᜀ前᠀まえᤀに</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563915</Id>
+          <Value>学校・ミオを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749527</Id>
+          <Value>ミオが　ＡＲダンジョンで　ᜀ迷子᠀まいごᤀに
+なっているかも…
+ミオを　ᜀ探᠀さがᤀしに　ᜀ学校᠀がっこうᤀに　ᜀ向᠀むᤀかおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380495</Id>
+          <Value>学校１階・プロテクモンを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517522</Id>
+          <Value>ミオは　プロテクモンに　ᜀ会᠀あᤀうと
+ᜀ言᠀いᤀっていた
+プロテクモンは　１ᜀ階᠀かいᤀに　いるかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803854</Id>
+          <Value>学校２階・ピーポモンを探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106955545</Id>
+          <Value>どうやら　ᜀ学校᠀がっこうᤀの　ＡＲダンジョンで
+ᜀ女᠀おんなᤀのᜀ子᠀こᤀが　ᜀ迷子᠀まいごᤀに　なっているらしい
+ᜀ警報᠀けいほうᤀが　ᜀ出᠀でᤀた　２ᜀ階᠀かいᤀに　ᜀ行᠀いᤀってみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>学校３階・ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139723544</Id>
+          <Value>ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀは　ᜀ見᠀みᤀつからない…
+２ᜀ階᠀かいᤀは　ピーポモンに　まかせて
+３ᜀ階᠀かいᤀの　ＡＲダンジョンを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>学校３階・ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173277976</Id>
+          <Value>ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀは　ᜀ見᠀みᤀつからない…
+２ᜀ階᠀かいᤀは　ピーポモンに　まかせて
+３ᜀ階᠀かいᤀの　ＡＲダンジョンを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>学校３階・ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206832408</Id>
+          <Value>ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀは　ᜀ見᠀みᤀつからない…
+２ᜀ階᠀かいᤀは　ピーポモンに　まかせて
+３ᜀ階᠀かいᤀの　ＡＲダンジョンを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021582</Id>
+          <Value>ＡＲダンジョンの出口を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239600406</Id>
+          <Value>ᜀ迷子᠀まいごᤀの　ᜀ女᠀おんなᤀのᜀ子᠀こᤀは　カヨだった！
+ほうっておくわけにも　いかないし
+ᜀ出口᠀でぐちᤀを　ᜀ見᠀みᤀつけてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>ＡＲダンジョンから出よう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273023766</Id>
+          <Value>ＡＲダンジョンの　ᜀ出口᠀でぐちᤀを　ᜀ見᠀みᤀつけた！
+ᜀ早᠀はやᤀく　ここから　ᜀ出᠀でᤀて
+ミオを　ᜀ探᠀さがᤀしに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>学校１階・ミオを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306840340</Id>
+          <Value>カヨを　ᜀ助᠀たすᤀけているᜀ間᠀あいだᤀに　ミオは
+プロテクモンに　ᜀ会᠀あᤀいにᜀ来᠀きᤀたみたい　
+プロテクモンの　ところに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322962200</Id>
+          <Value>ミオが　ᜀ迷子᠀まいごᤀにならなくて　ひとᜀ安心᠀あんしんᤀ
+けど　カヨは　また　どこかで
+ᜀ迷子᠀まいごᤀに　なっていそう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

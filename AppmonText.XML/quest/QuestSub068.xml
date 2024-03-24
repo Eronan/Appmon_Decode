@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442064</Id>
+          <Value>ᜀ不審物᠀ふしんぶつᤀはᜀ排除᠀はいじょᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826064</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>40370970</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380496</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>73925402</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934928</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>107479834</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489360</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>141034266</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152043792</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>174588698</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598224</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>208143130</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152656</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>241697562</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252707088</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>275251994</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286261520</Id>
+          <Value>学校・タップモンたちを見つけよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>308806426</Id>
+          <Value>ᜀ警報᠀けいほうᤀがᜀ鳴᠀なᤀったᜀ部屋᠀へやᤀに　タップモンたちが
+いるはず…　ᜀ学校᠀がっこうᤀを　ᜀ追᠀おᤀいᜀ出᠀だᤀされるᜀ前᠀まえᤀに
+タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324535064</Id>
+          <Value>タップモンたちを　ᜀ全員᠀ぜんいんᤀ　ᜀ見᠀みᤀつけだせた
+ピーポモンも　ᜀ警報᠀けいほうᤀの　ᜀ精度᠀せいどᤀを
+ᜀ上᠀あᤀげるみたいだし　もう　ᜀ大丈夫᠀だいじょうぶᤀかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

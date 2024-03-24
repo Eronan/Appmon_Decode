@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>144</NumberOfLabels>
+  <NumberOfStrings>144</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2229007</Id>
+          <Value>たいへんタップ
+こわい　アプモンが
+さいきん　たくさん　いるタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826313</Id>
+          <Value>こわいタップ
+ふるえちゃうタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35783436</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀタップ
+この　タップモンに
+まかせるタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>55968541</Id>
+          <Value>ᜀ怖᠀こわᤀい　アプモンが　ᜀ出᠀でᤀたって
+タップモンの　このᜀ超強力᠀ちょうきょうりょくᤀな　ᜀ頭突᠀ずつᤀきで
+ᜀ何度᠀なんどᤀも　つついて　ᜀ追᠀おᤀいはらうタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>68682252</Id>
+          <Value>いやいや　フリックモンに
+まかせておくフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87687961</Id>
+          <Value>このᜀ耳᠀みみᤀを　ᜀ超威力᠀ちょういりょくᤀで　ぺちんぺちん
+ふりまわしたら　超アプモンだって
+イチコロフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>103154443</Id>
+          <Value>ᜀ何᠀なにᤀ　ᜀ言᠀いᤀってるスワ
+スワイプモンにしか
+まかせられないスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>121766675</Id>
+          <Value>スワイプモンの　ᜀ超高速᠀ちょうこうそくᤀの
+ᜀ動᠀うごᤀきをᜀ見᠀みᤀたら　極アプモンも
+おそれをなして　ᜀ逃᠀にᤀげていくスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>136577806</Id>
+          <Value>そんなの　やめてほしいタップ
+ぜったい　むりタップ
+ぜったい　むりタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>152043788</Id>
+          <Value>ᜀ無理᠀むりᤀじゃないタップ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171574033</Id>
+          <Value>ᜀ証明᠀しょうめいᤀするフリック！
+ᜀ怖᠀こわᤀい　アプモンが　いるなら
+そいつら　ᜀ倒᠀たおᤀしてくるフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>186516234</Id>
+          <Value>やめてほしいタップ
+こわいこと　するのは
+やめてほしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>203031052</Id>
+          <Value>ᜀ安心᠀あんしんᤀしろスワ
+やっつけてきてやるスワ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>220594958</Id>
+          <Value>どうしようタップ
+どうしようタップ　ぜったい
+たいへんなことに　なるタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>237634320</Id>
+          <Value>ᜀ通᠀とおᤀりがかっただけだけど
+…なんだか
+ᜀ大変᠀たいへんᤀなことに　なってる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313865</Id>
+          <Value>ねえ　タップモン…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>270008849</Id>
+          <Value>ᰏ！
+ちょうど　いいところに　ᜀ来᠀きᤀたな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>286392842</Id>
+          <Value>あれっ　ピーポモン？
+どうしたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>303170059</Id>
+          <Value>ここのところ
+いろいろ　あっただろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>322437906</Id>
+          <Value>プロテクモンの　シャッターが
+ᜀ乗᠀のᤀっᜀ取᠀とᤀられたり
+ᜀ強᠀つよᤀい　アプモンが　ᜀ出᠀でᤀてきたり…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>338035470</Id>
+          <Value>それで
+このあたりの　ᜀ警戒᠀けいかいᤀを
+ᜀ強᠀つよᤀめることに　したんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>357171995</Id>
+          <Value>ちょっとでも　ᜀ不審᠀ふしんᤀな　ᜀ動᠀うごᤀきを　する
+ものが　あれば　すぐに
+ᜀ注意報᠀ちゅういほうᤀが　ᜀ反応᠀はんのうᤀするように　している</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>371852050</Id>
+          <Value>そして　すぐにでも
+ᜀ学校᠀がっこうᤀから　ᜀ追᠀おᤀいだせるように
+してみたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>387449360</Id>
+          <Value>へえ！
+それなら　ᜀ安心᠀あんしんᤀじゃないか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>409076512</Id>
+          <Value>ああ　ᜀ不自然᠀ふしぜんᤀに　すばやく　ᜀ動᠀うごᤀくものや
+ᜀ同᠀おなᤀじᜀ動᠀うごᤀきを　くりかえすものは
+ᜀ不審物᠀ふしんぶつᤀとして　ᜀ注意報᠀ちゅういほうᤀが　ᜀ反応᠀はんのうᤀするぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>419823878</Id>
+          <Value>………へぇ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>439091985</Id>
+          <Value>すばやく　うごいたり
+おなじ　うごきを　くりかえす？
+それ　みんなの　とくいワザタップ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>455868950</Id>
+          <Value>さっそく　ᜀ不審物᠀ふしんぶつᤀ　ᜀ発見᠀はっけんᤀだ！
+ᜀ排除᠀はいじょᤀしなくては！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>472384270</Id>
+          <Value>た　たいへんタップ
+いまの　ちゅういほう　きっと
+みんなに　はんのうしたタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>489554705</Id>
+          <Value>そこの　アプリドライヴァーさん
+たすけてほしい　タップ
+みんなを　さがしてきてほしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>507118356</Id>
+          <Value>たしかに　このままだと
+タップモンたちが　ᜀ全員᠀ぜんいんᤀ
+ᜀ学校᠀がっこうᤀから　ᜀ追᠀おᤀいだされちゃうな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>521666836</Id>
+          <Value>タップモンたちを　ᜀ探᠀さがᤀしてあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>538050830</Id>
+          <Value>いいよ　ᜀ探᠀さがᤀしてきてあげる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>554697224</Id>
+          <Value>ありがとうタップ
+うれしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>573047567</Id>
+          <Value>こわくて　うごけないタップ
+ここで　まってるから
+みんなを　さがしてほしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>589693713</Id>
+          <Value>きっと　みんなの　ちかくに　いくと
+ピーポモンの
+ちゅういほうが　なるタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>606470927</Id>
+          <Value>ちゅういほうが　なったところを
+さがしてみてほしいタップ…
+おねがいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>623772433</Id>
+          <Value>わかったよ
+いなくなった　タップモンたちは
+ᜀ全部᠀ぜんぶᤀで　３ᜀ体᠀たいᤀだったよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>640811540</Id>
+          <Value>ᜀ注意報᠀ちゅういほうᤀが　ᜀ鳴᠀なᤀったら
+そのᜀ部屋᠀へやᤀを　よく　ᜀ探᠀さがᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>657326865</Id>
+          <Value>そこの　アプリドライヴァーさん
+たすけてほしい　タップ
+みんなを　さがしてきてほしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>674366226</Id>
+          <Value>ピーポモンが　いつもより
+ふしんなものに　けいかいしてるのに
+みんな　どこかに　いっちゃったタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>690488082</Id>
+          <Value>さっきの　ちゅういほうも
+きっと　みんなに　はんのうしたタップ
+たいへんタップ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>708444948</Id>
+          <Value>たしかに　このままだと
+タップモンたちが　ᜀ全員᠀ぜんいんᤀ
+ᜀ学校᠀がっこうᤀから　ᜀ追᠀おᤀいだされちゃうな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>722993428</Id>
+          <Value>タップモンたちを　ᜀ探᠀さがᤀしてあげようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>740164364</Id>
+          <Value>まだ　みんな
+そろっていないタップ
+さがしてきてほしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>757596689</Id>
+          <Value>いなくなった　タップモンたちは
+ᜀ全部᠀ぜんぶᤀで　３ᜀ体᠀たいᤀだったよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>775029268</Id>
+          <Value>ᜀ注意報᠀ちゅういほうᤀが　ᜀ鳴᠀なᤀったら
+そのᜀ部屋᠀へやᤀを　よく　ᜀ探᠀さがᤀしてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>791413518</Id>
+          <Value>あっ　アプリドライヴァーさん
+ありがとう　ありがとうタップ
+みんな　もどってきたタップ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>807666189</Id>
+          <Value>ᜀ全員᠀ぜんいんᤀ　ᜀ無事᠀ぶじᤀに
+ᜀ合流᠀ごうりゅうᤀできたんだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>823001608</Id>
+          <Value>ピーポモン
+すまなかったスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>840171793</Id>
+          <Value>ごᜀ迷惑᠀めいわくᤀ　おかけしたフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>858522382</Id>
+          <Value>あやまるなら　ᜀ俺᠀おれᤀじゃなく
+ᜀ待᠀まᤀっていた　タップモンに
+あやまってやれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>875299345</Id>
+          <Value>ずっと　ᜀ心配᠀しんぱいᤀしていたんだぞ
+ᜀ何᠀なにᤀか　ᜀ言᠀いᤀうことは　ないのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>889979147</Id>
+          <Value>タップモン　ごめんスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>906887435</Id>
+          <Value>ᜀ心配᠀しんぱいᤀさせタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>923927050</Id>
+          <Value>もう　あぶないことは
+しないフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>941490956</Id>
+          <Value>ううん
+みんなが　なんともなくて
+よかった　よかったタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>957743379</Id>
+          <Value>これで　ᜀ一件落着᠀いっけんらくちゃくᤀかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>974651920</Id>
+          <Value>ᰏにも
+また　ᜀ世話᠀せわᤀになってしまったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>994050840</Id>
+          <Value>ᜀ警報᠀けいほうᤀは　もっと　ᜀ精度᠀せいどᤀを　ᜀ上᠀あᤀげよう
+タップモンたちに
+ᜀ反応᠀はんのうᤀすると　わかったからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010828050</Id>
+          <Value>ᜀ今回᠀こんかいᤀも　ありがとう！
+また　ᜀ何᠀なにᤀか　あったら　ᜀ俺᠀おれᤀたち
+アプモンや　このᜀ町᠀まちᤀを　よろしくな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024065801</Id>
+          <Value>まかせておいてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042678544</Id>
+          <Value>みんな　あぶないこと　しないって
+やくそく　してくれたタップ
+うれしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058275851</Id>
+          <Value>アプリドライヴァーさん
+ありがとうタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1077412624</Id>
+          <Value>ᜀ今回᠀こんかいᤀは　ᜀ逃᠀にᤀげてきたけど
+ᜀ次᠀つぎᤀは　ᜀ負᠀まᤀけないフリック
+リベンジしてやるフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092223505</Id>
+          <Value>あぶないよ
+タップモンが　ᜀ心配᠀しんぱいᤀするし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109918478</Id>
+          <Value>ちょっとくらい　あぶなくても
+そのほうが　カッコいいᜀ気᠀きᤀが
+してるフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1127088912</Id>
+          <Value>このあたりの　アプモンには
+かなわないって　わかったフリック
+もう　ムボウは　しないフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143603981</Id>
+          <Value>あぶないこと　すると
+ᜀ心配᠀しんぱいᤀさせてしまって
+カッコᜀ悪᠀わるᤀいフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1159594264</Id>
+          <Value>ᜀ本物᠀ほんものᤀの　カッコいいを　ᜀ目指᠀めざᤀすフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177682704</Id>
+          <Value>タップモンの　ᜀ頭突᠀ずつᤀきに
+びくとも　ᜀ反応᠀はんのうᤀしないとは
+アイツら　なかなかタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1194459921</Id>
+          <Value>それとも　タップモンに
+おそれをなして　ᜀ気᠀きᤀづかないふりを
+していたのかも　しれないタップ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209664014</Id>
+          <Value>…　そのフクザツな　ᜀ顔᠀かおᤀは
+どうしタップ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1229062934</Id>
+          <Value>ふふん　みんな　なさけないタップ
+ᜀ怖᠀こわᤀいᜀ相手᠀あいてᤀにも　ᜀ立᠀たᤀちᜀ向᠀むᤀかったのは
+この　タップモンだけタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245709075</Id>
+          <Value>でも　ᜀ相手᠀あいてᤀに　ᜀ気᠀きᤀづかれていたら
+ᜀ今᠀いまᤀごろ　ここに　いるのは
+３ᜀ体᠀たいᤀだったかも　しれないタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1260257807</Id>
+          <Value>そっちのほうが　ᜀ怖᠀こわᤀいタップ
+おとなしくするタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1277952784</Id>
+          <Value>あぶないところだったスワ
+もうちょっとで　ᜀ食᠀たᤀべられるかと
+ᜀ思᠀おもᤀったでスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294729996</Id>
+          <Value>きっと　スワイプが
+ᜀ足᠀たᤀりなかったのでスワー
+ᜀ次᠀つぎᤀは　ᜀ負᠀まᤀけないスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310720527</Id>
+          <Value>ピーポモンに　ᜀ怒᠀おこᤀられたスワ
+ちょっと　しょんぼりスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329333010</Id>
+          <Value>でも　ᜀ怖᠀こわᤀいアプモンに
+ᜀ食᠀たᤀべられたり　ᜀ学校᠀がっこうᤀから
+ᜀ追᠀おᤀいだされるより　ずっと　いいスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343226124</Id>
+          <Value>おᜀ世話᠀せわᤀになったでスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361838872</Id>
+          <Value>ᰏ
+そのᜀ部屋᠀へやᤀで
+ᜀ注意報᠀ちゅういほうᤀが　ᜀ反応᠀はんのうᤀ　するのだが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379140372</Id>
+          <Value>いったい　ᜀ何᠀なにᤀに　ᜀ反応᠀はんのうᤀしたのか
+わからないんだ
+ᰏも　ᜀ探᠀さがᤀしてくれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395786514</Id>
+          <Value>タップモンたちが　いるのかな…？
+このᜀ部屋᠀へやᤀを
+ＡＲフィールドで　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411253005</Id>
+          <Value>やはり　ᜀ見᠀みᤀつからないか…
+また　ᜀ来᠀きᤀてくれ
+ᰏ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1428292369</Id>
+          <Value>ᰏ
+そのᜀ部屋᠀へやᤀで
+注意報が　ᜀ反応᠀はんのうᤀするのだが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1446249236</Id>
+          <Value>いったい　ᜀ何᠀なにᤀに　ᜀ反応᠀はんのうᤀしたのか
+わからないんだ
+ᰏも　ᜀ探᠀さがᤀしてくれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462239761</Id>
+          <Value>タップモンたちが　いるのかな…？
+このᜀ部屋᠀へやᤀを　ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1478361869</Id>
+          <Value>やはり　ᜀ見᠀みᤀつからないか…
+また　ᜀ来᠀きᤀてくれ
+ᰏ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495532050</Id>
+          <Value>びっくりしたフリック
+ᜀ見᠀みᤀつかったかと　ᜀ思᠀おもᤀったフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1513358097</Id>
+          <Value>とびきり　ᜀ強᠀つよᤀいアプモンに
+ᜀ出会᠀であᤀってしまって
+あわてて　ᜀ逃᠀にᤀげてきたのでフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529742095</Id>
+          <Value>ᜀ耳᠀みみᤀを　ふりまわしても
+ひるみも　しなかったフリック
+おそろしい　ヤツらだフリック…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1547174673</Id>
+          <Value>しまいには　ᜀ警報᠀けいほうᤀまで
+ᜀ反応᠀はんのうᤀさせてしまって
+ここに　ᜀ隠᠀かくᤀれていたのでフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1561854475</Id>
+          <Value>まあ　なんにせよ
+ᜀ無事᠀ぶじᤀで　よかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1580991253</Id>
+          <Value>なんだ　ᜀ注意報᠀ちゅういほうᤀが
+ᜀ何᠀なにᤀに　ᜀ反応᠀はんのうᤀしたかと　ᜀ思᠀おもᤀえば
+おᜀ前᠀まえᤀらか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1597375250</Id>
+          <Value>ピーポモン！　フリックモンも
+ᜀ悪気᠀わるぎᤀがあった　わけじゃないんだ
+ᜀ追᠀おᤀいださないで　あげてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1612317193</Id>
+          <Value>ああ　ᜀ次᠀つぎᤀからは
+ᜀ気᠀きᤀをつけてくれよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1627783429</Id>
+          <Value>よかった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1645740554</Id>
+          <Value>ありがとうフリック
+ᜀ助᠀たすᤀかったフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663959821</Id>
+          <Value>それじゃあ　フリックモンは
+ᜀ先᠀さきᤀに　みんなのところに
+ᜀ戻᠀もどᤀっているフリック</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1679688204</Id>
+          <Value>よし　ᜀ他᠀ほかᤀの　みんなも
+ᜀ探᠀さがᤀしに　いこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1698562834</Id>
+          <Value>これで　ᜀ全員᠀ぜんいんᤀ　そろったかな…
+ᜀ北側᠀きたがわᤀ　１ᜀ階᠀かいᤀの
+タップモンのところに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1715864342</Id>
+          <Value>ᜀ見᠀みᤀつかっタップ
+ᜀ怖᠀こわᤀそうなアプモンの　ᜀ影᠀かげᤀを　ᜀ見᠀みᤀたから
+そいつが　ᜀ来᠀きᤀたのかと　ᜀ思᠀おもᤀっタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1731461903</Id>
+          <Value>タップモンの　ᜀ実力᠀じつりょくᤀを
+ᜀ証明᠀しょうめいᤀするために
+ᜀ頭突᠀ずつᤀきを　してみたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1748894486</Id>
+          <Value>そいつは　びくともしなくて
+ᜀ反応᠀はんのうᤀしたのは　ᜀ警報᠀けいほうᤀだけタップ
+びっくりして　ᜀ隠᠀かくᤀれていタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764885264</Id>
+          <Value>ᜀ頭突᠀ずつᤀきしたの！？
+ᜀ怖᠀こわᤀいこと　するなあ…
+ᜀ何᠀なにᤀごとも　なくて　よかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1781269269</Id>
+          <Value>なるほど
+ᜀ注意報᠀ちゅういほうᤀが　ᜀ反応᠀はんのうᤀしたのは
+タップモン　だったか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1796342282</Id>
+          <Value>ごめんタップ
+ゆるしてほしいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1814037259</Id>
+          <Value>しかたない
+ᰏに　ᜀ免᠀めんᤀじて
+ᜀ追᠀おᤀいださないでやるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1830158857</Id>
+          <Value>ありがとうタップ
+ᜀ恩᠀おんᤀにきるタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1848640271</Id>
+          <Value>タップモンは　みんなのところに
+ᜀ戻᠀もどᤀることに　するタップ
+おᜀ世話᠀せわᤀになっタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864106507</Id>
+          <Value>よし　ᜀ他᠀ほかᤀのみんなも
+ᜀ探᠀さがᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1883112210</Id>
+          <Value>これで　ᜀ全員᠀ぜんいんᤀ　そろったかな…
+ᜀ北側᠀きたがわᤀ　１ᜀ階᠀かいᤀの
+タップモンのところに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1897005326</Id>
+          <Value>ᜀ見᠀みᤀつけたよ　スワイプモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1914962700</Id>
+          <Value>あ　あぶなかったスワ…
+このあたりの　アプモンは
+ᜀ強᠀つよᤀすぎるスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1932395284</Id>
+          <Value>スワイプモンの　ᜀ高速移動᠀こうそくいどうᤀに
+ひるみも　しなかったスワ
+おそろしいスワ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1948254733</Id>
+          <Value>だから　ᜀ隠᠀かくᤀれてたんだ！
+ᜀ無事᠀ぶじᤀで　よかったよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1964900884</Id>
+          <Value>ᜀ不審物᠀ふしんぶつᤀを　ᜀ発見᠀はっけんᤀしたのか
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1983120152</Id>
+          <Value>ヒィ！　ごめんなさいスワ！
+もっと　たくさん　ᜀ高速移動᠀こうそくいどうᤀするから
+ゆるしてほしいスワ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1998848529</Id>
+          <Value>もっと　ᜀ警報᠀けいほうᤀが
+ᜀ反応᠀はんのうᤀしちゃうから　やめて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>2015363855</Id>
+          <Value>ピーポモンも
+スワイプモンを　ᜀ追᠀おᤀいだしたり
+しないよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>2031485450</Id>
+          <Value>ああ　ᜀ事情᠀じじょうᤀが
+わかったからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>2048262667</Id>
+          <Value>ありがとうスワ
+ひとᜀ安心᠀あんしんᤀスワ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>2066744082</Id>
+          <Value>それじゃあ　ᜀ先᠀さきᤀに
+みんなのところに　ᜀ戻᠀もどᤀっているスワ
+おさわがせ　したでスワ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>2082210315</Id>
+          <Value>よし　ᜀ他᠀ほかᤀのみんなも
+ᜀ探᠀さがᤀしにいこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>2101216018</Id>
+          <Value>これで　ᜀ全員᠀ぜんいんᤀ　そろったかな…
+ᜀ北側᠀きたがわᤀ　１ᜀ階᠀かいᤀの
+タップモンのところに　ᜀ戻᠀もどᤀろう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_015_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116813586</Id>
+          <Value>ᜀ通᠀とおᤀりがかっただけだけど
+…なんだか
+ᜀ大変᠀たいへんᤀなことに　なってるわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_024_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2132279824</Id>
+          <Value>まぁ！
+それなら　ᜀ安心᠀あんしんᤀじゃないの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2151285525</Id>
+          <Value>たしかに　このままだと
+タップモンたちが　ᜀ全員᠀ぜんいんᤀ
+ᜀ学校᠀がっこうᤀから　ᜀ追᠀おᤀいだされちゃうわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_038_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2167276305</Id>
+          <Value>わかったわ
+いなくなった　タップモンたちは
+ᜀ全部᠀ぜんぶᤀで　３ᜀ体᠀たいᤀだったよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_039_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2184315413</Id>
+          <Value>ᜀ注意報᠀ちゅういほうᤀが　ᜀ鳴᠀なᤀったら
+そのᜀ部屋᠀へやᤀを　よく　ᜀ探᠀さがᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2201617173</Id>
+          <Value>たしかに　このままだと
+タップモンたちが　ᜀ全員᠀ぜんいんᤀ
+ᜀ学校᠀がっこうᤀから　ᜀ追᠀おᤀいだされちゃうわね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2217214481</Id>
+          <Value>いなくなった　タップモンたちは
+ᜀ全部᠀ぜんぶᤀで　３ᜀ体᠀たいᤀだったよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_047_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2234647061</Id>
+          <Value>ᜀ注意報᠀ちゅういほうᤀが　ᜀ鳴᠀なᤀったら
+そのᜀ部屋᠀へやᤀを　よく　ᜀ探᠀さがᤀしてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_084_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2251424531</Id>
+          <Value>タップモンたちが　いるのかな…？
+このᜀ部屋᠀へやᤀを
+ＡＲフィールドで　ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_086_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2268201747</Id>
+          <Value>タップモンたちが　いるのかな…？
+このᜀ部屋᠀へやᤀを
+ＡＲフィールドで　ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_091_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2283274764</Id>
+          <Value>まあ　なんにせよ
+ᜀ無事᠀ぶじᤀで　よかったわね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_093_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2302018322</Id>
+          <Value>ピーポモン！　フリックモンも
+ᜀ悪気᠀わるぎᤀがあった　わけじゃないのよ
+ᜀ追᠀おᤀいださないで　あげて！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_098_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2317353484</Id>
+          <Value>よし　ᜀ他᠀ほかᤀの　みんなも
+ᜀ探᠀さがᤀしに　いきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_099_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2336228115</Id>
+          <Value>これで　ᜀ全員᠀ぜんいんᤀ　そろったかな…
+ᜀ北側᠀きたがわᤀ　１ᜀ階᠀かいᤀの
+タップモンのところに　ᜀ戻᠀もどᤀりましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_103_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2352087825</Id>
+          <Value>ᜀ頭突᠀ずつᤀきしたの！？
+ᜀ怖᠀こわᤀいこと　するわね…
+ᜀ何᠀なにᤀごとも　なくて　よかったわよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_109_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2366767375</Id>
+          <Value>ᜀ見᠀みᤀつけたわよ　スワイプモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_112_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2384462349</Id>
+          <Value>だから　ᜀ隠᠀かくᤀれてたんだ！
+ᜀ無事᠀ぶじᤀで　よかったわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_68_116_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2401370895</Id>
+          <Value>ピーポモンも
+スワイプモンを　ᜀ追᠀おᤀいだしたり
+しないわよね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

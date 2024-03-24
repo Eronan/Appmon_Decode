@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179919</Id>
+          <Value>ミオとᜀ学校探検᠀がっこうたんけんᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17563916</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38667030</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51118348</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221462</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672780</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105775894</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118227212</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139330326</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151781644</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172884758</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185336076</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206439190</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218890508</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239993622</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252444940</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273548054</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285999372</Id>
+          <Value>学校・ユカリ先輩を探そう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307102486</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323879702</Id>
+          <Value>ミオが　ᜀ勝手᠀かってᤀに　ついてくることに…
+けど　ユカリが　３ᜀ年生᠀ねんせいᤀだと　わかった
+ᜀ彼女᠀かのじょᤀが　いそうなところを　ᜀ探᠀さがᤀそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

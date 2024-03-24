@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>3</NumberOfLabels>
+  <NumberOfStrings>3</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>NAME</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>コンパスモン　とは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>21103385</Id>
+          <Value>コンパスモンは　コンパスのアプリ！
+ここんとこ　ᜀ活躍᠀かつやくᤀする　ᜀ機会᠀きかいᤀがないから
+ふてくされᜀ気味᠀ぎみᤀなのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MSG_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>37618456</Id>
+          <Value>ナビモンに　ライバルᜀ心᠀しんᤀを
+ᜀ燃᠀もᤀやしてる　みたいだから
+ナビモンのスタンプは　ᜀ絶対使᠀ぜったいつかᤀうなよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

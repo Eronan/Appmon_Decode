@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>88</NumberOfLabels>
+  <NumberOfStrings>88</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>C_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>655625</Id>
+          <Value>ＡＤＶ共通テキスト</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ADV_TALK_ERROR_0</Key>
+      <Values>
+        <BtxtString>
+          <Id>17170693</Id>
+          <Value>！エラー０</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ADV_TALK_ERROR_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>33947909</Id>
+          <Value>！エラー１</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ADV_TALK_ERROR_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>50725125</Id>
+          <Value>！エラー２</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>C_YES</Key>
+      <Values>
+        <BtxtString>
+          <Id>67371267</Id>
+          <Value>うん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>C_NO</Key>
+      <Values>
+        <BtxtString>
+          <Id>84672776</Id>
+          <Value>またᜀ今度᠀こんどᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>C_WAIT</Key>
+      <Values>
+        <BtxtString>
+          <Id>102367756</Id>
+          <Value>ᜀ準備᠀じゅんびᤀが　できたら
+またᜀ来᠀こᤀよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>C_LOSE</Key>
+      <Values>
+        <BtxtString>
+          <Id>120324629</Id>
+          <Value>バッテリーが　なくなっちゃった
+ᜀ一度᠀いちどᤀ　ᜀ充電᠀じゅうでんᤀしに　もどろう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>C_INS_TEST</Key>
+      <Values>
+        <BtxtString>
+          <Id>134742530</Id>
+          <Value>０）ᰊ
+１）ᰋ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>C_PKT_GET</Key>
+      <Values>
+        <BtxtString>
+          <Id>153748237</Id>
+          <Value>ᰊのかけらを
+ᰋᜀ個᠀こᤀ　ᜀ手᠀てᤀにいれた！
+ぜんぶで　ᰌᜀ個᠀こᤀに　なった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>168690183</Id>
+          <Value>ᰊを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_ITEM_S</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598473</Id>
+          <Value>ᰊを
+×ᰋ　ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_BIT</Key>
+      <Values>
+        <BtxtString>
+          <Id>202375687</Id>
+          <Value>ᰊｂｉｔ
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_PKT</Key>
+      <Values>
+        <BtxtString>
+          <Id>219677194</Id>
+          <Value>ᰊのかけらを
+ᰋᜀ個᠀こᤀ　ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PASS_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>235405829</Id>
+          <Value>ᰊを
+わたした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PASS_PKT</Key>
+      <Values>
+        <BtxtString>
+          <Id>252969480</Id>
+          <Value>ᰊのかけらを
+ᰋᜀ個᠀こᤀ　わたした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>QUEST_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>269615375</Id>
+          <Value>このクエストを　ᜀ受᠀うᤀけますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>QUEST_YES</Key>
+      <Values>
+        <BtxtString>
+          <Id>285475075</Id>
+          <Value>うん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>QUEST_NO</Key>
+      <Values>
+        <BtxtString>
+          <Id>302645511</Id>
+          <Value>またᜀ今度᠀こんどᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>QUEST_CLEAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>320995861</Id>
+          <Value>クエストの
+ᜀ達成᠀たっせいᤀボーナスを　ᜀ手᠀てᤀにいれました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_UNKNOWN</Key>
+      <Values>
+        <BtxtString>
+          <Id>337510928</Id>
+          <Value>これ　なんだろう…？
+ᜀ今᠀いまᤀは　まだ　よくわからないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_LOOK</Key>
+      <Values>
+        <BtxtString>
+          <Id>353763856</Id>
+          <Value>ここから
+ＡＲダンジョンに　はいれそうだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_LOOK_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>370409999</Id>
+          <Value>ここから
+ＡＲダンジョンに　はいれそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_LOOK_BUT</Key>
+      <Values>
+        <BtxtString>
+          <Id>387449357</Id>
+          <Value>ここから　ＡＲダンジョンに
+はいれそうだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_LOOK_RETRY</Key>
+      <Values>
+        <BtxtString>
+          <Id>404095499</Id>
+          <Value>この　ＡＲダンジョンは
+クリアᜀ済᠀ずみᤀだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_LOOK_RETRY_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>421003787</Id>
+          <Value>この　ＡＲダンジョンは
+クリアᜀ済᠀ずみᤀだわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_IN_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>437780757</Id>
+          <Value>ＡＲダンジョンに　ᜀ挑戦᠀ちょうせんᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_RETRY_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>455475484</Id>
+          <Value>クリアᜀ済᠀ずみᤀのᜀ場所᠀ばしょᤀですが　ᜀ挑戦᠀ちょうせんᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_CAUTION</Key>
+      <Values>
+        <BtxtString>
+          <Id>471466260</Id>
+          <Value>このᜀ先᠀さきᤀが　ᜀ最深部᠀さいしんぶᤀみたいだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_CAUTION_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>488243475</Id>
+          <Value>このᜀ先᠀さきᤀが　ᜀ最深部᠀さいしんぶᤀみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_BOSS_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>504365324</Id>
+          <Value>ᜀ先᠀さきᤀに　すすみますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_OUT_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>521797911</Id>
+          <Value>このＡＲダンジョンからᜀ脱出᠀だっしゅつᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_GOAL_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>538575127</Id>
+          <Value>ＡＲダンジョンをクリアしてᜀ脱出᠀だっしゅつᤀします</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_RETIRE_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>555352342</Id>
+          <Value>クリアをあきらめて　ᜀ脱出᠀だっしゅつᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_BACK</Key>
+      <Values>
+        <BtxtString>
+          <Id>571998733</Id>
+          <Value>まだ　ここで
+やることが　ᜀ残᠀のこᤀってる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_CLEAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>589955601</Id>
+          <Value>クリアのᜀ証᠀あかしᤀを　ᜀ手᠀てᤀにいれた！
+ぜんぶで　ᰊᜀ個᠀こᤀに　なった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_COMPLETE</Key>
+      <Values>
+        <BtxtString>
+          <Id>605291021</Id>
+          <Value>すべての　ＡＲダンジョンを
+クリアした！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BATTERY_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>621019395</Id>
+          <Value>さて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BATTERY_N</Key>
+      <Values>
+        <BtxtString>
+          <Id>639894032</Id>
+          <Value>アプリドライヴの　バッテリーを
+ᜀ充電᠀じゅうでんᤀして　いかれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BATTERY_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>655753491</Id>
+          <Value>バッテリーを　ᜀ充電᠀じゅうでんᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BATTERY_MAX</Key>
+      <Values>
+        <BtxtString>
+          <Id>673448467</Id>
+          <Value>バッテリーはᜀ満᠀まんᤀタンのようであるな
+また　ᜀ来᠀くᤀるがよい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BATTERY_HEAL</Key>
+      <Values>
+        <BtxtString>
+          <Id>690749974</Id>
+          <Value>バッテリーを　ᜀ充電᠀じゅうでんᤀして　おいたぞ！
+また　いつでも　ᜀ来᠀くᤀるがよい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BATTERY_NOT</Key>
+      <Values>
+        <BtxtString>
+          <Id>706216463</Id>
+          <Value>そうか！
+それでは　また　ᜀ来᠀くᤀるがよい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>KAI_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>722731533</Id>
+          <Value>あらあら！
+それどころじゃ　ないわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>KAI_N</Key>
+      <Values>
+        <BtxtString>
+          <Id>739508496</Id>
+          <Value>おᜀ買᠀かᤀいもの　していくのかしら？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>KAI_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>756023565</Id>
+          <Value>おᜀ買᠀かᤀいものを　しますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>KAI_NOT</Key>
+      <Values>
+        <BtxtString>
+          <Id>773718795</Id>
+          <Value>あらそう！
+じゃあ　またのおこしを
+おᜀ待᠀まᤀちしてるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GASHA_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>789578250</Id>
+          <Value>ガッシャ　ガッシャ…
+それより！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GASHA_N</Key>
+      <Values>
+        <BtxtString>
+          <Id>806486287</Id>
+          <Value>ガシャン！　ᜀ回᠀まわᤀしていくか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GASHA_Q</Key>
+      <Values>
+        <BtxtString>
+          <Id>823132429</Id>
+          <Value>ガシャを　ᜀ回᠀まわᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GASHA_NOT</Key>
+      <Values>
+        <BtxtString>
+          <Id>839909895</Id>
+          <Value>ガシャン！
+また　ᜀ来᠀こᤀい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_READY1</Key>
+      <Values>
+        <BtxtString>
+          <Id>859964181</Id>
+          <Value>ᜀＯＫＡＹ᠀オーケイᤀ　ᜀ準備᠀じゅんびᤀはいいな？
+それじゃ　１ᜀ回戦᠀かいせんᤀを　はじめるぜ！
+ᜀＲＥＡＤＹ᠀レディーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_WIN1</Key>
+      <Values>
+        <BtxtString>
+          <Id>874381842</Id>
+          <Value>１ᜀ回戦᠀かいせんᤀの　ᜀ勝者᠀しょうしゃᤀは
+ᰏ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_READY2</Key>
+      <Values>
+        <BtxtString>
+          <Id>892994328</Id>
+          <Value>ᜀＧＯＯＤ᠀グッドᤀ！
+つづいて　２ᜀ回戦᠀かいせんᤀを　ᜀ開始᠀かいしᤀするぜ！
+ᜀＲＥＡＤＹ᠀レディーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_WIN2</Key>
+      <Values>
+        <BtxtString>
+          <Id>908853778</Id>
+          <Value>ᜀ勝者᠀しょうしゃᤀは　ᰏ～ッ！
+２ᜀ回戦᠀かいせんᤀも　ᜀ勝᠀かᤀちᜀ抜᠀ぬᤀいたぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_READY3</Key>
+      <Values>
+        <BtxtString>
+          <Id>926417682</Id>
+          <Value>おたがい　ᜀ準備᠀じゅんびᤀは　いいな？
+いよいよ　３ᜀ回戦᠀かいせんᤀだぜ！
+ᜀＲＥＡＤＹ᠀レディーᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_THANKS</Key>
+      <Values>
+        <BtxtString>
+          <Id>944898844</Id>
+          <Value>ᜀＴＨＡＮＫ　ＹＯＵ᠀センキューᤀ
+ᜀＦＯＲ᠀フォーᤀ　ᜀＹＯＵＲ᠀ユアᤀ　ᜀＰＬＡＹＩＮＧ᠀プレイングᤀ！
+またの　ごᜀ参加᠀さんかᤀ　ᜀ待᠀まᤀってるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_CLEAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>958661138</Id>
+          <Value>ᜀ大会᠀たいかいᤀの
+ᜀ報酬᠀ほうしゅうᤀを　ᜀ手᠀てᤀにいれました！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_RESULT</Key>
+      <Values>
+        <BtxtString>
+          <Id>974651920</Id>
+          <Value>ᰏには
+ᜀ報酬᠀ほうしゅうᤀが　あたえられるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_LOSE</Key>
+      <Values>
+        <BtxtString>
+          <Id>993395479</Id>
+          <Value>ア～ララ　ᜀ残念᠀ざんねんᤀ…
+あきらめずに　また　ᜀ挑戦᠀ちょうせんᤀしてくれ！
+ᜀ待᠀まᤀってるぜ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_OPEN_GUERRILLA</Key>
+      <Values>
+        <BtxtString>
+          <Id>1011614239</Id>
+          <Value>サイバーアリーナで　ᜀ限定大会᠀げんていたいかい　ᤀがᜀ開催᠀かいさいᤀ！
+あと　ᰊᜀ分間᠀ふんかんᤀ　ᜀ参加受付中᠀　さんかうけつけちゅうᤀだぜ～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>NOTIFY_LIMIT_PACKET</Key>
+      <Values>
+        <BtxtString>
+          <Id>1025507859</Id>
+          <Value>ᰊのかけらは
+これᜀ以上᠀いじょうᤀ　ᜀ持᠀もᤀてないみたいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_NPC_MCMON_00</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040843017</Id>
+          <Value>それは　さておき…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_NPC_MCMON_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>1060373014</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+ᜀ大会᠀たいかいᤀ　ᜀ参加᠀さんかᤀしていくだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_NPC_MCMON_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076757014</Id>
+          <Value>ᜀＳＥＥ᠀シーᤀ　ᜀＹＯＵ᠀ユーᤀ　ᜀＡＧＡＩＮ᠀アゲインᤀ！
+また　ᜀ来᠀きᤀてくれよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_NPC_MCMON_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092092180</Id>
+          <Value>サイバーアリーナに　ᜀ参加᠀さんかᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_ARENA_REWARD</Key>
+      <Values>
+        <BtxtString>
+          <Id>1108869393</Id>
+          <Value>ᜀ報酬᠀ほうしゅうᤀを　ᜀ手᠀てᤀにいれました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>GET_QUEST_REWARD</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125777684</Id>
+          <Value>ᜀ達成᠀たっせいᤀボーナスを　ᜀ手᠀てᤀにいれました</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TBOX_GOT_ERROR</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141637387</Id>
+          <Value>宝箱テキスト設定エラー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TBOX_GOT_MONEY</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158676999</Id>
+          <Value>ᰋｂｉｔを
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TBOX_GOT_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>1175585290</Id>
+          <Value>ᰊを
+×　ᰋ　ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TBOX_GOT_PACKET</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192887047</Id>
+          <Value>ᰊのかけらを
+ᰋᜀ個᠀こᤀ
+ᜀ手᠀てᤀにᜀいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TBOX_GOT_EVOSTONE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209533191</Id>
+          <Value>合体ロックを
+ᰋᜀ個᠀こᤀ
+ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARD_BUT</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226310157</Id>
+          <Value>ここから　ＡＲダンジョンに
+はいれそうだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>MOVE_NOT</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243349518</Id>
+          <Value>いまは　ᜀ寄᠀よᤀりᜀ道᠀みちᤀするのは
+やめておこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>HOUSE_NOT</Key>
+      <Values>
+        <BtxtString>
+          <Id>1259864588</Id>
+          <Value>ᜀ勝手᠀かってᤀに　はいるのは
+やめておこう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BUSY_NOW</Key>
+      <Values>
+        <BtxtString>
+          <Id>1276903950</Id>
+          <Value>いまは　そんなことをしている
+ᜀ場合᠀ばあいᤀじゃない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_H_ARD_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>1292108035</Id>
+          <Value>ん…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_H_ARD_02</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311376143</Id>
+          <Value>なんだろう　このＡＲダンジョン
+いつもと　ᜀ雰囲気᠀ふんいきᤀが
+ちがうみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_H_ARD_02_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1328022287</Id>
+          <Value>なんだろう　このＡＲダンジョン
+いつもと　ᜀ雰囲気᠀ふんいきᤀが
+ちがうみたい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_H_ARD_03</Key>
+      <Values>
+        <BtxtString>
+          <Id>1344537107</Id>
+          <Value>…このあたりでは　すこし
+ᜀ気᠀きᤀをつけたほうが　いいかもしれない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>C_WAIT_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360790028</Id>
+          <Value>ᜀ準備᠀じゅんびᤀが　できたら
+またᜀ来᠀きᤀましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>USE_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376518662</Id>
+          <Value>ᰊを
+ᜀ使᠀つかᤀった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>SHOW_ITEM</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393295877</Id>
+          <Value>ᰊを
+ᜀ見᠀みᤀせた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_CHAOS_GATE_CLOSE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1411252750</Id>
+          <Value>ここの　カオスゲートは
+ᜀ解除᠀かいじょᤀできたみたいだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>QUEST_Q_SUB_54</Key>
+      <Values>
+        <BtxtString>
+          <Id>1427243281</Id>
+          <Value>このクエスト　ノレる？　ノレない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>QUEST_YES_SUB_54</Key>
+      <Values>
+        <BtxtString>
+          <Id>1443627272</Id>
+          <Value>ᜀ超᠀ちょうᤀノレる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>QUEST_NO_SUB_54</Key>
+      <Values>
+        <BtxtString>
+          <Id>1460404489</Id>
+          <Value>ᜀ超᠀ちょうᤀノレない…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

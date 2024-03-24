@@ -1,0 +1,2428 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>239</NumberOfLabels>
+  <NumberOfStrings>239</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2359830</Id>
+          <Value>ᰏᜀ殿᠀どのᤀ！
+ᜀ少々᠀しょうしょうᤀ　たのまれて　くださらんか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>19268369</Id>
+          <Value>ᰏ
+バッテリモン　よんでるぞ！
+ハナシ　ᜀ聞᠀きᤀきにいったら　どうだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>33685760</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511817</Id>
+          <Value>バッテリモン
+たのみって　なに？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70386452</Id>
+          <Value>かたじけない　ᰏᜀ殿᠀どのᤀ！
+たのみというのは
+アプリドライヴの　ᜀ充電᠀じゅうでんᤀのことだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934927</Id>
+          <Value>アプリドライヴの　バッテリー？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>105513754</Id>
+          <Value>そう　バトルにかかせない　ものだが…
+ᜀ拙者᠀せっしゃᤀだけで　ᜀ回復᠀かいふくᤀにᜀ立᠀たᤀちまわるのは
+いささか　ᜀ手᠀てᤀいっぱいなのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>118620430</Id>
+          <Value>だ　ᜀ大丈夫᠀だいじょうぶᤀなの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138806043</Id>
+          <Value>ᜀ大丈夫᠀だいじょうぶᤀではない
+このままでは　ᜀ拙者᠀せっしゃᤀの　ᜀ充電᠀じゅうでんᤀのほうが
+ᜀ先᠀さきᤀに　なくなってしまう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154272530</Id>
+          <Value>いま　サイバーアリーナのᜀ外᠀そとᤀにも
+ᜀ充電᠀じゅうでんᤀできるトコロを
+さがしているのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>171967252</Id>
+          <Value>サイバーアリーナと　つなげれば
+いろんなᜀ場所᠀ばしょᤀで　アプリドライヴを
+ᜀ充電᠀じゅうでんᤀできるように　なるからな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>184680704</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>201982218</Id>
+          <Value>へえ　それはいいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>219677196</Id>
+          <Value>つなげれば　いいのか？
+それなら　カンタンだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239731486</Id>
+          <Value>うむ…　しかし
+ᜀ拙者᠀せっしゃᤀは　ᜀ現実世界᠀げんじつせかいᤀには　ᜀ明᠀あかᤀるくない
+どんなᜀ場所᠀ばしょᤀが　いいか　わからないのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252838158</Id>
+          <Value>バッテリモン　ᜀ光᠀ひかᤀるのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>269353229</Id>
+          <Value>くわしくない　ってことだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>288621330</Id>
+          <Value>つまりさ…　バッテリモン！
+ᜀ充電᠀じゅうでんᤀに　よさそうなトコロを
+オレが　さがしてきたらいいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>302645513</Id>
+          <Value>そのとおりである！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>320471563</Id>
+          <Value>ᜀ引᠀ひᤀきᜀ受᠀うᤀけてくれるか
+ᰏᜀ殿᠀どのᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>335675648</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>354157068</Id>
+          <Value>うーん　いまはちょっと
+ᜀ待᠀まᤀってもらってもいい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>372245017</Id>
+          <Value>ᜀ承知᠀しょうちᤀした！
+ᜀ貴殿᠀きでんᤀのᜀ協力᠀　きょうりょくᤀを　ᜀ待᠀まᤀっておるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>386007296</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>402784512</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>419561728</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>440140564</Id>
+          <Value>まかせてよ！　アプリドライヴを
+ᜀ回復᠀かいふくᤀできるトコロが　ᜀ増᠀ふᤀえれば
+オレたちも　ᜀ助᠀たすᤀかるしね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>454951691</Id>
+          <Value>ありがたい！
+よろしく　ᜀ頼᠀たのᤀんだぞ
+ᰏᜀ殿᠀どのᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>469893376</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>489161493</Id>
+          <Value>でもᰏ
+ᜀ充電᠀じゅうでんᤀに　よさそうなトコロなんて
+どこに　あるんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>507511576</Id>
+          <Value>このᜀ町᠀まちᤀには　アプリドライヴどころか
+ᜀ車᠀くるまᤀだって　ᜀ充電᠀じゅうでんᤀできる　トコロが
+あるじゃないか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>523633426</Id>
+          <Value>ガソリンスタンドの
+ᜀ充電機᠀じゅうでんきᤀをしらべにいこう！
+オレのᜀ家᠀いえᤀから　ᜀ東᠀ひがしᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>538706706</Id>
+          <Value>わかった！
+サイバーアリーナと　つなげにいくぞ
+ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>555352588</Id>
+          <Value>たのんだぞ
+ᰏᜀ殿᠀どのᤀ　オンモンᜀ殿᠀どのᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>570556672</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>587333888</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>607126290</Id>
+          <Value>サイバーアリーナのᜀ外᠀そとᤀで
+ᜀ充電᠀じゅうでんᤀに　よさそうなトコロを
+さがしておるのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>624165652</Id>
+          <Value>ᰏᜀ殿᠀どのᤀは
+ガソリンスタンドの　ᜀ充電機᠀じゅうでんきᤀを
+ᜀ調᠀しらᤀべてみて　くださるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>639632147</Id>
+          <Value>ᰏ！
+サイバーアリーナと　ガソリンスタンド
+つなげにいくぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>654442752</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>673973009</Id>
+          <Value>ᜀ充電機᠀じゅうでんきᤀは　ここだけど…
+ＡＲダンジョンに
+ロックが　かかってるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>689046024</Id>
+          <Value>ＡＲフィールドで
+しらべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>707527441</Id>
+          <Value>ᜀ充電機᠀じゅうでんきᤀは　ここだけど…
+ＡＲダンジョンに
+ロックが　かかってるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>723255821</Id>
+          <Value>ᜀ先᠀さきᤀに　ᜀ他᠀ほかᤀのところを
+しらべてみよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>738328832</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>757203728</Id>
+          <Value>あれ？
+すでに　ᜀ別᠀べつᤀのバッテリモンが
+スタンドにいるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>774374162</Id>
+          <Value>バッテリモン！
+オマエも　ᜀ充電᠀じゅうでんᤀするトコロ
+さがしにきたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>789577996</Id>
+          <Value>ᜀ充電᠀じゅうでんᤀをさせろ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>807272971</Id>
+          <Value>…ᜀ待᠀まᤀって　オンモン
+ᜀ様子᠀ようすᤀがおかしい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>826278681</Id>
+          <Value>ᜀ充電᠀じゅうでんᤀをさせろ　ᜀ充電᠀じゅうでんᤀをさせろ！
+１００％をこえて　２００％！
+５００％！　１０００％まで！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>842531602</Id>
+          <Value>そ　そんなに　ᜀ充電᠀じゅうでんᤀしたら
+ᜀ壊᠀こわᤀれちゃうよ！
+いま　ᜀ充電᠀じゅうでんᤀいらないし！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>860619542</Id>
+          <Value>それなら　バッテリーを　ᜀ使᠀つかᤀいきれば
+ᜀ拙者᠀せっしゃᤀが　ᜀ充電᠀じゅうでんᤀできる！
+いざいざ！　ᜀ尋常᠀じんじょうᤀに　バトルである！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>873595401</Id>
+          <Value>ᜀ来᠀くᤀる！
+オンモン　いける？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>890896908</Id>
+          <Value>バッチリだぞ　ᰏ！
+バッテリモン　ᜀ止᠀とᤀめる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>906100992</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>922878208</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>940835086</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>962724636</Id>
+          <Value>もうᜀ一度᠀いちどᤀ　バッテリーを　ᜀ使᠀つかᤀいᜀ切᠀きᤀれば
+もうᜀ一度᠀いちどᤀ　ᜀ拙者᠀せっしゃᤀが　ᜀ充電᠀じゅうでんᤀできる！
+いざいざ！　ᜀ尋常᠀じんじょうᤀに　バトルである！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>973472005</Id>
+          <Value>いくぞ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>989987072</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1007026437</Id>
+          <Value>う　うう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024721169</Id>
+          <Value>バッテリモン　ᜀ大丈夫᠀だいじょうぶᤀ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1042940434</Id>
+          <Value>ᜀ心᠀こころᤀが　ᜀ洗᠀あらᤀわれた　ようだ…
+ᜀ拙者᠀せっしゃᤀは　いったい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059980048</Id>
+          <Value>ᜀ充電᠀じゅうでんᤀさせろって
+いきなり　おそってきたんだよ！
+どうなっちゃってたの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1074004228</Id>
+          <Value>それは…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091830033</Id>
+          <Value>おそらく　「ウィルスᜀ化᠀かᤀ」であろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109525260</Id>
+          <Value>ウィルス…
+そういえば　ガッチモンも
+そんなこと　ᜀ言᠀いᤀってたね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126695440</Id>
+          <Value>アプモンは　ウィルスᜀ化᠀かᤀすると
+ᜀ悪᠀わるᤀさを　するようになるのだ
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143996951</Id>
+          <Value>ᜀ原因᠀げんいんᤀは　いろいろあるが
+ᜀ今回᠀こんかいᤀの　ᜀ原因᠀げんいんᤀは　バイラモンだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161954071</Id>
+          <Value>ヤツめ　ᜀ公園᠀こうえんᤀのᜀ方᠀ほうᤀから　やってきて
+そこの　ᜀ充電機᠀じゅうでんきᤀのᜀ中᠀なかᤀに
+いすわっているのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1177420310</Id>
+          <Value>ᜀ公園᠀こうえんᤀのᜀ方᠀ほうᤀから　バイラモンって…
+ミオのスマホにいた　バイラモンだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192886797</Id>
+          <Value>アイツ　こんなところでも
+メイワク　かけてるのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1212154644</Id>
+          <Value>アリーナの　バッテリモンのたのみで
+ガソリンスタンドのᜀ充電機᠀じゅうでんきᤀは
+ᜀ調᠀しらᤀべようと　していたところだし…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227358740</Id>
+          <Value>ᜀ充電機᠀じゅうでんきᤀの　ＡＲダンジョンに
+ᜀ行᠀いᤀってみよう　オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1241776387</Id>
+          <Value>おう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1258422528</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1275330820</Id>
+          <Value>…あれ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294730003</Id>
+          <Value>バッテリモン
+ᜀ充電機᠀じゅうでんきᤀの　ＡＲダンジョンに
+ロックが　かかってるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311638289</Id>
+          <Value>なんと…
+それは　おそらく　ᜀ中᠀なかᤀにはいった
+バイラモンが　ᜀ原因᠀げんいんᤀであろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1327497999</Id>
+          <Value>バイラモンの？
+どうしよう
+これじゃ　ᜀ中᠀なかᤀにはいれないよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1346241300</Id>
+          <Value>ᜀ心配᠀しんぱいᤀごᜀ無用᠀むようᤀ！
+アプモンが　ᜀ原因᠀げんいんᤀならば
+アプモンが　ᜀ解決᠀かいけつᤀすればよいのだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1360134664</Id>
+          <Value>ᰏᜀ殿᠀どのᤀに
+これを　わたそう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1377829389</Id>
+          <Value>バッテリモンの　かけらを
+100ᜀ個᠀こᤀ　ᜀ手᠀てᤀにいれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393951244</Id>
+          <Value>バッテリモンのかけらだ！
+でも　どうして？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1413481237</Id>
+          <Value>ロックを　ᜀ解除᠀かいじょᤀするならば
+ᜀ拙者᠀せっしゃᤀたちの　システムᜀ属性᠀ぞくせいᤀの
+アプモンの　ᜀ出番᠀でばんᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1431175961</Id>
+          <Value>システムの　アプモンチップをᜀ持᠀もᤀって
+ᜀ充電機᠀じゅうでんきᤀを　ᜀ調᠀しらᤀべれば
+ロックの　ᜀ解除᠀かいじょᤀに　ᜀ挑戦᠀ちょうせんᤀできるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1447297815</Id>
+          <Value>ᜀ手元᠀てもとᤀに　システムᜀ属性᠀ぞくせいᤀがいなければ
+かけらを　ᜀ集᠀あつᤀめて
+アプモンチップに　ᜀ変換᠀へんかんᤀするといい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463681809</Id>
+          <Value>ᜀ拙者᠀せっしゃᤀ　バッテリモンも
+システムᜀ属性᠀ぞくせいᤀの　アプモン！
+ᜀ必᠀かならᤀずや　ᜀ役᠀やくᤀにたつであろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1481114391</Id>
+          <Value>バッテリモンみたいに　システムᜀ属性᠀ぞくせいᤀの
+アプモンチップを　ᜀ持᠀もᤀって
+ᜀ充電機᠀じゅうでんきᤀを　ᜀ調᠀しらᤀべればいいんだね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1493827848</Id>
+          <Value>やってみよう　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1510080768</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1530397464</Id>
+          <Value>おみごと！
+バッテリモンを　ᜀ連᠀つᤀれているな！
+さあ　ᜀ充電機᠀じゅうでんきᤀを　ᜀ調᠀しらᤀべてみるがよい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1543635200</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1561592333</Id>
+          <Value>…　………
+うーん　うまく　いかないや</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579025167</Id>
+          <Value>ᰏ
+システムの　アプモンが　いれば
+うまくいくはずだぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>1594884368</Id>
+          <Value>うん　もういちど　やってみるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>1610744064</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>1630143251</Id>
+          <Value>よし
+アプモンに　てつだってもらって
+ここの　ロックを　ᜀ解除᠀かいじょᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>1649672989</Id>
+          <Value>こうしたものは　ᜀ拙者᠀せっしゃᤀたち
+システムᜀ属性᠀ぞくせいᤀの　アプモンのᜀ得意分野᠀とくいぶんやᤀ！
+ᜀ共᠀ともᤀに　ᜀ解決᠀かいけつᤀしようではないか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1661731083</Id>
+          <Value>うん！　やってみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1677852928</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1695285769</Id>
+          <Value>！
+ロックが　あいた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1714553366</Id>
+          <Value>うむ！　システムᜀ属性᠀ぞくせいᤀの　アプモンには
+このᜀ程度᠀ていどᤀ　ᜀ朝飯前᠀あさめしまえᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1732117272</Id>
+          <Value>アプモンは　それぞれᜀ得意分野᠀とくいぶんやᤀがある
+ᜀ手伝᠀てつだᤀえることも
+ᜀ属性᠀ぞくせいᤀによって　ちがうが…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>1748632339</Id>
+          <Value>なに　ᰏᜀ殿᠀どのᤀであれば
+いまに　ᜀ多᠀おおᤀくの　アプモンが
+ᜀ手伝᠀てつだᤀってくれるように　なるだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>1764754193</Id>
+          <Value>さあ　ᜀ奥᠀おくᤀには
+バイラモンが　ひそんでいるであろう
+ᜀ気᠀きᤀをつけてᜀ行᠀いᤀかれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>1780089611</Id>
+          <Value>まかせとけ！
+オンモン　つなぐぞ！
+いこう　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>1795424515</Id>
+          <Value>うん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>1812070656</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>1831731985</Id>
+          <Value>ᜀ奥᠀おくᤀには
+バイラモンが　ひそんでいるであろう
+ᜀ気᠀きᤀをつけてᜀ行᠀いᤀかれよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>1845625088</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>1862402304</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>1879441669</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>1899234064</Id>
+          <Value>まちがいない　あのとき
+ᜀ逃᠀にᤀげていった　バイラモンだ！
+ここでも　ᜀ悪᠀わるᤀさ　していたのか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>1913389322</Id>
+          <Value>バトル　つなぐぞ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>1929642243</Id>
+          <Value>うん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>1946288384</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>1963327749</Id>
+          <Value>…　………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>1981678095</Id>
+          <Value>バイラモン！
+ᜀ今度᠀こんどᤀこそ　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>1997275402</Id>
+          <Value>バトル　つなぐぞ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>2013528323</Id>
+          <Value>うん！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>2030174464</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>2047475977</Id>
+          <Value>～～＠☆＃×！！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>2064777487</Id>
+          <Value>あっ　アイツ　またᜀ逃᠀にᤀげるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>2081292555</Id>
+          <Value>ᜀ待᠀まᤀて！　バイラモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>2097283328</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>2114715912</Id>
+          <Value>ᜀ行᠀いᤀっちゃった…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>2133721874</Id>
+          <Value>ᰏ　ᜀ気᠀きᤀづいたか？
+バイラモンも　バッテリモンみたいに
+ウィルスᜀ化᠀かᤀしてたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>2149974801</Id>
+          <Value>うん
+バイラモンが　ウィルスを
+ばらまいてると　ᜀ思᠀おもᤀってたけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>2166096399</Id>
+          <Value>もしかして　それも
+ウィルスᜀ化᠀かᤀの　せいなのかもね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>2182086927</Id>
+          <Value>…オンモンには　わからないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>2201092883</Id>
+          <Value>それより　ᰏ！
+ᜀ充電機᠀じゅうでんきᤀを　しらべにきたのは
+サイバーアリーナと　つなぐためだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>2218394392</Id>
+          <Value>サイバーアリーナと　ᜀ充電機᠀じゅうでんきᤀつないだら
+ここでも　アプリドライヴ
+ᜀ充電᠀じゅうでんᤀできるんだろ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>2234123025</Id>
+          <Value>そうだった！　オンモン！
+ガソリンスタンドと
+サイバーアリーナを　つないでくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>2248540422</Id>
+          <Value>まかせとけ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>2265055488</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>2281832704</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>2301100820</Id>
+          <Value>これで
+ガソリンスタンドの　ᜀ充電機᠀じゅうでんきᤀが
+オンラインになったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>2317877783</Id>
+          <Value>よし！　それじゃあ
+バッテリモンᜀ達᠀たちᤀに　ᜀ報告᠀ほうこくᤀしにいこう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>2332557574</Id>
+          <Value>やったな　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>2351170322</Id>
+          <Value>うん！
+ガソリンスタンドの　バッテリモンに
+ᜀ会᠀あᤀいに　いこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_142</Key>
+      <Values>
+        <BtxtString>
+          <Id>2365718784</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_143</Key>
+      <Values>
+        <BtxtString>
+          <Id>2384724753</Id>
+          <Value>やったな　ᰏᜀ殿᠀どのᤀ
+さあ
+サイバーアリーナへ　ᜀ向᠀むᤀかうがよい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_144</Key>
+      <Values>
+        <BtxtString>
+          <Id>2399273216</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_145</Key>
+      <Values>
+        <BtxtString>
+          <Id>2419983125</Id>
+          <Value>ᜀ助᠀たすᤀかったぞ　ᰏᜀ殿᠀どのᤀ！
+これで　ガソリンスタンドでも
+バッテリーが　ᜀ回復᠀かいふくᤀできるようになる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_146</Key>
+      <Values>
+        <BtxtString>
+          <Id>2437546775</Id>
+          <Value>ガソリンスタンドの　バッテリモンが
+ぜひ　ᜀ手伝᠀てつだᤀわせてくれと　いってくれた
+ᜀ回復᠀かいふくᤀしたいときは　ᜀ話᠀はなᤀしかけるといい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_147</Key>
+      <Values>
+        <BtxtString>
+          <Id>2449867013</Id>
+          <Value>それから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_148</Key>
+      <Values>
+        <BtxtString>
+          <Id>2468348429</Id>
+          <Value>ᰏᜀ殿᠀どのᤀの　ᜀ家᠀いえᤀとも
+こっそり　つなげておいたぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_149</Key>
+      <Values>
+        <BtxtString>
+          <Id>2483683594</Id>
+          <Value>えっ　どういうこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_150</Key>
+      <Values>
+        <BtxtString>
+          <Id>2503738132</Id>
+          <Value>スタンドの　バッテリモンを
+ᰏᜀ殿᠀どのᤀの　ᜀ家᠀いえᤀで
+ᜀ休᠀やすᤀませてくれた　ᜀ礼᠀れいᤀのようなものだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_151</Key>
+      <Values>
+        <BtxtString>
+          <Id>2521301782</Id>
+          <Value>ᜀ拙者᠀せっしゃᤀたちが　ᜀ充電᠀じゅうでんᤀするより
+ᜀ時間᠀じかんᤀは　かかるが…
+そのᜀ間᠀かんᤀは　ベッドで　ᜀ休᠀やすᤀむとよい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_152</Key>
+      <Values>
+        <BtxtString>
+          <Id>2536768275</Id>
+          <Value>つまり　これからは
+オレのᜀ家᠀いえᤀの　ベッドでも
+バッテリーが　ᜀ回復᠀かいふくᤀできるんだね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_153</Key>
+      <Values>
+        <BtxtString>
+          <Id>2551710221</Id>
+          <Value>ᜀ助᠀たすᤀかるよ
+ありがとう　バッテリモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_154</Key>
+      <Values>
+        <BtxtString>
+          <Id>2569667090</Id>
+          <Value>ᜀ礼᠀れいᤀを　いうのは　こちらのほうだ
+ᰏᜀ殿᠀どのᤀ　ᜀ助᠀たすᤀかったぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_155</Key>
+      <Values>
+        <BtxtString>
+          <Id>2583822592</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_156</Key>
+      <Values>
+        <BtxtString>
+          <Id>2600599808</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_157</Key>
+      <Values>
+        <BtxtString>
+          <Id>2617377024</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_158</Key>
+      <Values>
+        <BtxtString>
+          <Id>2636514060</Id>
+          <Value>ᰏᜀ殿᠀どのᤀ！
+あらためて　このᜀ度᠀たびᤀは
+ᜀ世話᠀せわᤀになった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_159</Key>
+      <Values>
+        <BtxtString>
+          <Id>2654864148</Id>
+          <Value>これからは　ガソリンスタンドでも
+バッテリーが　ᜀ回復᠀かいふくᤀできるからな
+どんどん　ᜀ使᠀つかᤀってくれ！　さて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_160</Key>
+      <Values>
+        <BtxtString>
+          <Id>2669150485</Id>
+          <Value>バッテリーを　ᜀ回復᠀かいふくᤀしていかれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_161</Key>
+      <Values>
+        <BtxtString>
+          <Id>2684485888</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_162</Key>
+      <Values>
+        <BtxtString>
+          <Id>2701263104</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_163</Key>
+      <Values>
+        <BtxtString>
+          <Id>2720662284</Id>
+          <Value>おお　ガソリンスタンドの
+バッテリモンᜀ殿᠀どのᤀは
+ᜀ目᠀めᤀを　さましたのだな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_164</Key>
+      <Values>
+        <BtxtString>
+          <Id>2737308429</Id>
+          <Value>ガソリンスタンドのことは
+その　バッテリモンᜀ殿᠀どのᤀに
+きくのが　よかろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_165</Key>
+      <Values>
+        <BtxtString>
+          <Id>2753430287</Id>
+          <Value>ᰏᜀ殿᠀どのᤀ
+なにとぞ　よろしくᜀ頼᠀たのᤀんだぞ
+さて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_166</Key>
+      <Values>
+        <BtxtString>
+          <Id>2769813781</Id>
+          <Value>バッテリーを　ᜀ回復᠀かいふくᤀしていかれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_167</Key>
+      <Values>
+        <BtxtString>
+          <Id>2785149184</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_200</Key>
+      <Values>
+        <BtxtString>
+          <Id>2803499534</Id>
+          <Value>それにしても…
+ウィルスᜀ化᠀かᤀした　アプモンか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_201</Key>
+      <Values>
+        <BtxtString>
+          <Id>2821980953</Id>
+          <Value>そこで
+ᰏᜀ殿᠀どのᤀに
+ᜀ新᠀あたᤀらしいᜀ戦法᠀せんぽうᤀをᜀ教᠀おしᤀえようとᜀ思᠀おもᤀう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_202</Key>
+      <Values>
+        <BtxtString>
+          <Id>2835611908</Id>
+          <Value>やった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_203</Key>
+      <Values>
+        <BtxtString>
+          <Id>2856452889</Id>
+          <Value>ᰏᜀ殿᠀どのᤀ　ともなれば
+アプᜀ合体᠀がったいᤀと　アプモンᜀ強化᠀きょうかᤀについて
+ᜀ聞᠀きᤀいたことは　あるかもしれないな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_204</Key>
+      <Values>
+        <BtxtString>
+          <Id>2870739221</Id>
+          <Value>アプᜀ合体᠀がったいᤀと　アプモンᜀ強化᠀きょうかᤀ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_205</Key>
+      <Values>
+        <BtxtString>
+          <Id>2890269463</Id>
+          <Value>ᜀ左様᠀さようᤀ　まず　アプᜀ合体᠀がったいᤀだ
+これは　バトルᜀ中᠀ちゅうᤀに　アプリンクをすると
+ᜀ発生᠀はっせいᤀすることがある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_206</Key>
+      <Values>
+        <BtxtString>
+          <Id>2904031755</Id>
+          <Value>うん　そこまでは
+ᜀ聞᠀きᤀいたことがあるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_207</Key>
+      <Values>
+        <BtxtString>
+          <Id>2923823895</Id>
+          <Value>ᜀ一度᠀いちどᤀ　ᜀ見᠀みᤀたことがある　ᜀ組᠀くᤀみあわせは
+アプリドライヴメニューから
+アプᜀ合体᠀がったいᤀさせておくことができる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_208</Key>
+      <Values>
+        <BtxtString>
+          <Id>2939421459</Id>
+          <Value>そうすると　アプᜀ合体᠀がったいᤀしたまま
+アプリデッキに
+ᜀ編成᠀へんせいᤀできると　いうわけだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_209</Key>
+      <Values>
+        <BtxtString>
+          <Id>2953445642</Id>
+          <Value>へえ　それはいいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_210</Key>
+      <Values>
+        <BtxtString>
+          <Id>2972975889</Id>
+          <Value>ただし　アプᜀ合体前᠀がったいまえᤀに
+ᜀ戻᠀もどᤀすことはできん！
+よく　ᜀ考᠀かんがᤀえることだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_211</Key>
+      <Values>
+        <BtxtString>
+          <Id>2990801682</Id>
+          <Value>ᜀ次᠀つぎᤀに　アプモンᜀ強化᠀きょうかᤀ！
+アプモンを　ᜀ属性᠀ぞくせいᤀのᜀ力᠀ちからᤀで
+ᜀ強化᠀きょうかᤀすることが　できるのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_212</Key>
+      <Values>
+        <BtxtString>
+          <Id>3006923540</Id>
+          <Value>より　ᜀ強᠀つよᤀくしたい　アプモンを
+システムᜀ属性᠀ぞくせいᤀの　アプモンチップで
+ᜀ強化᠀きょうかᤀすると…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_213</Key>
+      <Values>
+        <BtxtString>
+          <Id>3024618267</Id>
+          <Value>システムᜀ属性᠀ぞくせいᤀの　「ᜀ属性値᠀ぞくせいちᤀ」がᜀ上᠀あᤀがり
+システムᜀ属性᠀ぞくせいᤀから　ᜀ受᠀うᤀける
+ダメージが　へるのだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_214</Key>
+      <Values>
+        <BtxtString>
+          <Id>3041264412</Id>
+          <Value>ᜀ属性値᠀ぞくせいちᤀは　アプモンの
+メジャーＶｅｒ．によって
+ᜀ最大値᠀さいだいちᤀが　ᜀ決᠀きᤀまるから　ᜀ注意᠀ちゅういᤀするとよい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_215</Key>
+      <Values>
+        <BtxtString>
+          <Id>3058172697</Id>
+          <Value>アプモンの
+ᜀ属性᠀ぞくせいᤀをᜀ強化᠀きょうかᤀする　ᜀ属性値᠀ぞくせいちᤀ…
+うまくᜀ使᠀つかᤀえば　すごいᜀ戦略᠀せんりゃくᤀになるね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_216</Key>
+      <Values>
+        <BtxtString>
+          <Id>3074294547</Id>
+          <Value>ただし　アプモンᜀ強化᠀きょうかᤀで
+ᜀ力᠀ちからᤀをᜀ借᠀かᤀりた　アプモンチップは
+ᜀ使᠀つかᤀえなくなってしまう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_217</Key>
+      <Values>
+        <BtxtString>
+          <Id>3089236498</Id>
+          <Value>デッキから　アプモンチップが
+なくなっては　バトルはできないだろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_218</Key>
+      <Values>
+        <BtxtString>
+          <Id>3106145042</Id>
+          <Value>どちらも
+バトルにᜀ充分᠀じゅうぶんᤀ　なれてから
+やってみるとよい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_219</Key>
+      <Values>
+        <BtxtString>
+          <Id>3121479949</Id>
+          <Value>ありがとう　バッテリモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_220</Key>
+      <Values>
+        <BtxtString>
+          <Id>3138519310</Id>
+          <Value>なに　これも　ᜀ礼᠀れいᤀのうちだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_221</Key>
+      <Values>
+        <BtxtString>
+          <Id>3157263117</Id>
+          <Value>ᜀ聞᠀きᤀけば　ᰏᜀ殿᠀どのᤀは
+トラブルの　ᜀ解決᠀かいけつᤀを
+ᜀ目指᠀めざᤀしているとか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_222</Key>
+      <Values>
+        <BtxtString>
+          <Id>3174695699</Id>
+          <Value>ᜀ先᠀さきᤀほど　バディとはぐれたとᜀ言᠀いᤀう
+アプリドライヴァーが
+サイバーアリーナに　ᜀ向᠀むᤀかっていったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_223</Key>
+      <Values>
+        <BtxtString>
+          <Id>3191472663</Id>
+          <Value>ᜀ今᠀いまᤀごろ　ᜀ学校᠀がっこうᤀのほうに　いるだろう…
+ᜀ見᠀みᤀかけたら　ᜀ手伝᠀てつだᤀってやってくれないか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_224</Key>
+      <Values>
+        <BtxtString>
+          <Id>3207856912</Id>
+          <Value>ではな　ᰏᜀ殿᠀どのᤀ
+ᜀ今回᠀こんかいᤀのことは　ありがとう
+あらためて　ᜀ感謝᠀かんしゃᤀするぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3222012172</Id>
+          <Value>へえ　それは　いいわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_018_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3241411346</Id>
+          <Value>つまり…　バッテリモン！
+ᜀ充電᠀じゅうでんᤀに　よさそうなトコロを
+ワタシが　さがしてきたらいいの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_027_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3258712851</Id>
+          <Value>まかせてよ！　アプリドライヴを
+ᜀ回復᠀かいふくᤀできるトコロが　ᜀ増᠀ふᤀえれば
+ワタシたちも　ᜀ助᠀たすᤀかるしね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_031_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3275490071</Id>
+          <Value>このᜀ町᠀まちᤀには　アプリドライヴどころか
+ᜀ車᠀くるまᤀだって　ᜀ充電᠀じゅうでんᤀできる　トコロが
+あるじゃない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3292136213</Id>
+          <Value>ガソリンスタンドの
+ᜀ充電機᠀じゅうでんきᤀを　しらべにいきましょ！
+ワタシのᜀ家᠀いえᤀから　ᜀ東᠀ひがしᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3307995921</Id>
+          <Value>ᜀ充電機᠀じゅうでんきᤀは　ここだけど…
+ＡＲダンジョンに
+ロックが　かかってるみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_042_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3323068937</Id>
+          <Value>ＡＲフィールドで
+しらべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_043_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3341550353</Id>
+          <Value>ᜀ充電機᠀じゅうでんきᤀは　ここだけど…
+ＡＲダンジョンに
+ロックが　かかってるみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_044_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3357409805</Id>
+          <Value>ᜀ先᠀さきᤀに　ᜀ他᠀ほかᤀのところを
+しらべてみましょう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_049_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3374187020</Id>
+          <Value>…ᜀ待᠀まᤀって　オンモン
+ᜀ様子᠀ようすᤀがおかしいわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_057_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3390308622</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_074_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3408396819</Id>
+          <Value>ᜀ充電機᠀じゅうでんきᤀの　ＡＲダンジョンに
+ᜀ行᠀いᤀってみましょ　オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_078_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3425436435</Id>
+          <Value>バッテリモン
+ᜀ充電機᠀じゅうでんきᤀの　ＡＲダンジョンに
+ロックが　かかってるみたいね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_098_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3442082580</Id>
+          <Value>よし
+アプモンに　てつだってもらって
+ここの　ロックを　ᜀ解除᠀かいじょᤀしましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_100_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3456893195</Id>
+          <Value>うん！　やってみるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_094_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3474194958</Id>
+          <Value>…　………
+うーん　うまく　いかないなー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_096_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3490709776</Id>
+          <Value>うん　もういちど　やってみるわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_114_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3509846800</Id>
+          <Value>まちがいないわ　あのとき
+ᜀ逃᠀にᤀげていった　バイラモンよ！
+ここでも　ᜀ悪᠀わるᤀさ　していたのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_119_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3525181968</Id>
+          <Value>バイラモン！
+ᜀ今度᠀こんどᤀこそ　ᜀ負᠀まᤀけないわよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_134_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3542483727</Id>
+          <Value>そうだった！　オンモン！
+ガソリンスタンドと
+サイバーアリーナを　つないで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_139_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3559260942</Id>
+          <Value>それじゃあ
+バッテリモンᜀ達᠀たちᤀに
+ᜀ報告᠀ほうこくᤀしにいきましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_209_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3574333707</Id>
+          <Value>へえ　それはいいわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_225</Key>
+      <Values>
+        <BtxtString>
+          <Id>3591635213</Id>
+          <Value>ᜀ助᠀たすᤀかったぞ　ᰏᜀ殿᠀どのᤀ！
+</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_226</Key>
+      <Values>
+        <BtxtString>
+          <Id>3609461517</Id>
+          <Value>うわあ　びっくりした！
+サイバーアリーナの
+バッテリモン　じゃないか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_226_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3626107660</Id>
+          <Value>きゃっ　びっくりした！
+サイバーアリーナの
+バッテリモン　じゃない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_227</Key>
+      <Values>
+        <BtxtString>
+          <Id>3645375252</Id>
+          <Value>ᜀ充電機᠀じゅうでんきᤀが　オンラインになった
+ᜀ気配᠀けはいᤀをᜀ感᠀かんᤀじて　やってきたのだ！
+いや　ᜀ実᠀じつᤀに　よくやってくれた！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_228</Key>
+      <Values>
+        <BtxtString>
+          <Id>3661234962</Id>
+          <Value>ガソリンスタンドの　バッテリモンにも
+ᜀ報告᠀ほうこくᤀしてやってくれ
+なにか　ᜀ話᠀はなしᤀが　あるようだったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_229</Key>
+      <Values>
+        <BtxtString>
+          <Id>3675521544</Id>
+          <Value>ᜀ話᠀はなしᤀがある？
+うん　わかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_230</Key>
+      <Values>
+        <BtxtString>
+          <Id>3693347346</Id>
+          <Value>それではな　ᰏᜀ殿᠀どのᤀ
+また　サイバーアリーナで　ᜀ会᠀あᤀおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_231</Key>
+      <Values>
+        <BtxtString>
+          <Id>3711042322</Id>
+          <Value>ガソリンスタンドの　バッテリモンから
+ᜀ話᠀はなしᤀが　あるんだったな…
+ᜀ会᠀あᤀいに　いこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_231_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3727688466</Id>
+          <Value>ガソリンスタンドの　バッテリモンから
+ᜀ話᠀はなしᤀが　あるんだった…
+ᜀ会᠀あᤀいに　いこう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_232</Key>
+      <Values>
+        <BtxtString>
+          <Id>3744072462</Id>
+          <Value>おお　ᰏᜀ殿᠀どのᤀ！
+ᜀ無事᠀ぶじᤀに　ᜀ戻᠀もどᤀられたか！
+なによりである！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_233</Key>
+      <Values>
+        <BtxtString>
+          <Id>3760980749</Id>
+          <Value>うん　ガソリンスタンドを
+オンラインに　してきたよ！
+ᜀ調子᠀ちょうしᤀは　どうかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_234</Key>
+      <Values>
+        <BtxtString>
+          <Id>3778151184</Id>
+          <Value>しっかり　つながっているぞ！
+これなら　サイバーアリーナと
+うまく　ᜀ連動᠀れんどうᤀができそうだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_235</Key>
+      <Values>
+        <BtxtString>
+          <Id>3795583766</Id>
+          <Value>これからは　ガソリンスタンドでも
+バッテリーが　ᜀ回復᠀かいふくᤀできるようになるぞ
+たくさん　ᜀ使᠀つかᤀってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_236</Key>
+      <Values>
+        <BtxtString>
+          <Id>3809608205</Id>
+          <Value>やった！
+ありがとう　バッテリモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_237</Key>
+      <Values>
+        <BtxtString>
+          <Id>3827958290</Id>
+          <Value>ᜀ礼᠀れいᤀを　いうのは　こちらのほうだ
+ᰏᜀ殿᠀どのᤀ　ᜀ助᠀たすᤀかったぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_238</Key>
+      <Values>
+        <BtxtString>
+          <Id>3845391120</Id>
+          <Value>…そういえば　バッテリモン
+オレたちに　ᜀ話᠀はなしᤀがあるって
+ᜀ聞᠀きᤀいたんだけど　なにかあった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_238_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>3862299408</Id>
+          <Value>…そういえば　バッテリモン
+ワタシたちに　ᜀ話᠀はなしᤀがあるって
+ᜀ聞᠀きᤀいたんだけど　なにかあった？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_239</Key>
+      <Values>
+        <BtxtString>
+          <Id>3878683406</Id>
+          <Value>そうであった　ᰏᜀ殿᠀どのᤀ
+ᜀ拙者᠀せっしゃᤀは　あれから
+いろいろと　ᜀ考᠀かんがᤀえたのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_240</Key>
+      <Values>
+        <BtxtString>
+          <Id>3896771351</Id>
+          <Value>アプモンが　ᜀ拙者᠀せっしゃᤀのように
+ウィルスᜀ化᠀かᤀすると　あっては
+このᜀ先᠀さきᤀの　バトル　ᜀ苦労᠀くろうᤀするかもしれん</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_241</Key>
+      <Values>
+        <BtxtString>
+          <Id>3912368917</Id>
+          <Value>おお　ᰏᜀ殿᠀どのᤀ
+ガソリンスタンドの　バッテリモンᜀ殿᠀どのᤀとは
+ᜀ話᠀はなᤀしてきたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_242</Key>
+      <Values>
+        <BtxtString>
+          <Id>3928359439</Id>
+          <Value>なにか　ᜀ話᠀はなしᤀがあるらしいぞ
+ᜀ聞᠀きᤀきにᜀ行᠀いᤀってやってくれ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_243</Key>
+      <Values>
+        <BtxtString>
+          <Id>3944612623</Id>
+          <Value>ᰏᜀ殿᠀どのᤀ
+なにとぞ　よろしくᜀ頼᠀たのᤀんだぞ
+さて…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_244</Key>
+      <Values>
+        <BtxtString>
+          <Id>3961651728</Id>
+          <Value>おお　ᰏᜀ殿᠀どのᤀ
+ᜀ今回᠀こんかいᤀは　ᜀ助᠀たすᤀかったぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_245</Key>
+      <Values>
+        <BtxtString>
+          <Id>3979477779</Id>
+          <Value>そうそう　ᜀ先᠀さきᤀほど
+バディと　はぐれたという
+ドライヴァーが　アリーナにᜀ来᠀きᤀたのだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_02_246</Key>
+      <Values>
+        <BtxtString>
+          <Id>3998090006</Id>
+          <Value>さっき　ᜀ校庭᠀こうていᤀのほうに　むかっていった
+ᰏᜀ殿᠀どのᤀなら　ᜀ助᠀たすᤀけられるはず…
+ᜀ見᠀みᤀかけたら　ᜀ手伝᠀てつだᤀってやってくれんか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

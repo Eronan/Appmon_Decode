@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>3670807</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「グローブᜀ杯᠀カップᤀ」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>20841245</Id>
+          <Value>「グローブᜀ杯᠀カップᤀ」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮS᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>38404883</Id>
+          <Value>ᜀ兵᠀へいᤀは　ᜀ神速᠀しんそくᤀを　ᜀ尊᠀たっとᤀぶ！
+ᜀ先手᠀せんてᤀを　ᜀ取᠀とᤀることが
+ᜀ勝負᠀しょうぶᤀの　ᜀ決᠀きᤀめᜀ手᠀てᤀさ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>56099610</Id>
+          <Value>キミは　ᜀ解剖᠀かいぼうᤀしがいが　ありそうだ
+ᜀ髪᠀かみᤀのᜀ毛᠀けᤀのᜀ先᠀さきᤀから　ᜀ足᠀あしᤀのᜀ爪᠀つめᤀのᜀ先᠀さきᤀまで
+じっくり　ᜀ調᠀しらᤀべさせてもらおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>70779667</Id>
+          <Value>あなたに　あこがれて　ここまでᜀ来᠀きᤀたの
+だから　こうして　バトルできて
+ᜀ本当᠀ほんとうᤀに　うれしい…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>85984018</Id>
+          <Value>はぁー…
+あっ　また　ためᜀ息᠀いきᤀ　ついちゃった
+はあぁー…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>106169112</Id>
+          <Value>ᜀ君᠀きみᤀが　ᜀ来᠀くᤀるって　ᜀ思᠀おもᤀってたよ！
+これは　ᜀ検索᠀けんさくᤀしたんじゃなくて
+ᜀ僕᠀ぼくᤀの　ᜀ予想᠀よそうᤀ…　ううん　ᜀ期待᠀きたいᤀかな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>118751755</Id>
+          <Value>よろしくお願いします！
+（仮テキスト）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>135528971</Id>
+          <Value>よろしくお願いします！
+（仮テキスト）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

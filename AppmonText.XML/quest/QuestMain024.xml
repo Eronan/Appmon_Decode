@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1310990</Id>
+          <Value>プロテクモンのᜀ目᠀めᤀをᜀ覚᠀さᤀませ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17039620</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39191318</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50594052</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72745750</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84148484</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106300182</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117702916</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139854614</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151257348</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173409046</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>184811780</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206963478</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218366212</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240517910</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>251920644</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274072342</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285475076</Id>
+          <Value>学校屋上</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307626774</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324403990</Id>
+          <Value>ᜀ解除᠀かいじょᤀコードを　ᜀ手᠀てᤀにいれたら
+ᜀ屋上᠀おくじょうᤀに　ᜀ向᠀むᤀかい　ウィルスᜀ化᠀かᤀした
+プロテクモンを　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

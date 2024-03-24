@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1573138</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀできないナゾをᜀ追᠀おᤀえ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826064</Id>
+          <Value>ニコタマ川・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38273815</Id>
+          <Value>ᜀ大事᠀だいじᤀなデータが　ᜀ圧縮᠀あっしゅくᤀできずに
+ᜀ困᠀こまᤀっているみたい
+アプモンが　ᜀ関係᠀かんけいᤀしてるか　ᜀ調᠀しらᤀべよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380496</Id>
+          <Value>ニコタマ川・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71828247</Id>
+          <Value>ᜀ大事᠀だいじᤀなデータが　ᜀ圧縮᠀あっしゅくᤀできずに
+ᜀ困᠀こまᤀっているみたい
+アプモンが　ᜀ関係᠀かんけいᤀしてるか　ᜀ調᠀しらᤀべよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934928</Id>
+          <Value>ニコタマ川・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105382679</Id>
+          <Value>ᜀ大事᠀だいじᤀなデータが　ᜀ圧縮᠀あっしゅくᤀできずに
+ᜀ困᠀こまᤀっているみたい
+アプモンが　ᜀ関係᠀かんけいᤀしてるか　ᜀ調᠀しらᤀべよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489360</Id>
+          <Value>ニコタマ川・カフェＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150673</Id>
+          <Value>ᜀ圧縮᠀あっしゅくᤀアプリの　ペコモンが
+ウィルスᜀ化᠀かᤀしていた！
+ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀしてあげよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650569</Id>
+          <Value>ニコタマ川・カフェ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146903</Id>
+          <Value>ペコモンが　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀったから
+もう　ᜀ圧縮᠀あっしゅくᤀが　できるはず！
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205001</Id>
+          <Value>ニコタマ川・カフェ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701335</Id>
+          <Value>ペコモンが　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀったから
+もう　ᜀ圧縮᠀あっしゅくᤀが　できるはず！
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759433</Id>
+          <Value>ニコタマ川・カフェ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255767</Id>
+          <Value>ペコモンが　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀったから
+もう　ᜀ圧縮᠀あっしゅくᤀが　できるはず！
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313865</Id>
+          <Value>ニコタマ川・カフェ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810199</Id>
+          <Value>ペコモンが　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀったから
+もう　ᜀ圧縮᠀あっしゅくᤀが　できるはず！
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868297</Id>
+          <Value>ニコタマ川・カフェ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364631</Id>
+          <Value>ペコモンが　ᜀ正気᠀しょうきᤀに　ᜀ戻᠀もどᤀったから
+もう　ᜀ圧縮᠀あっしゅくᤀが　できるはず！
+ᜀ現実᠀げんじつᤀに　ᜀ戻᠀もどᤀって　ᜀ確認᠀かくにんᤀしよう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>323617560</Id>
+          <Value>データは　ᜀ無事᠀ぶじᤀ　ᜀ圧縮᠀あっしゅくᤀできたみたい！
+ペコモンと　ポコモンは　ᜀ今᠀いまᤀも
+どこかで　ᜀ活躍᠀かつやくᤀしてるんだろうなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

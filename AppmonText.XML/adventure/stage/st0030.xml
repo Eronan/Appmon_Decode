@@ -1,0 +1,1374 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>130</NumberOfLabels>
+  <NumberOfStrings>130</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_023_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>524552</Id>
+          <Value>オレにかてるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_024_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>17301768</Id>
+          <Value>クリアしてみろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_025_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>34078984</Id>
+          <Value>やってみろコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_059_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>50725126</Id>
+          <Value>おかしいなー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_060_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>67633416</Id>
+          <Value>せっかくのオフ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>BALLOON_SUB_057_01</Key>
+      <Values>
+        <BtxtString>
+          <Id>84410632</Id>
+          <Value>ムニャ…　スー…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>103023116</Id>
+          <Value>ミハマᜀ団᠀だんᤀがᜀ一᠀いちᤀ　ᰏ！
+ᜀ調子᠀ちょうしᤀは　どうだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>122028822</Id>
+          <Value>その　ᜀ団員᠀だんいんᤀバッジが　あるかぎり
+ミハマᜀ団᠀だんᤀや　コソモンたちも
+かならず　おᜀ前᠀まえᤀさんの　ᜀ力᠀ちからᤀに　なるぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>138806036</Id>
+          <Value>ミハマᜀ団᠀だんᤀのᜀ掟᠀おきてᤀ　その４！
+「ᜀ仲間᠀なかまᤀを　ᜀ信頼᠀しんらいᤀすること」！
+ᜀ何᠀なにᤀか　あったら　たよってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>154141460</Id>
+          <Value>ᜀ見᠀みᤀどころ　いっぱい！
+ᜀ観光名所᠀かんこうめいしょᤀ　ミハマᜀ港᠀こうᤀへ
+ようこそ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>171180823</Id>
+          <Value>オレたちゃ　ᜀ仲間᠀なかまᤀだ
+さぁさ　いっしょに
+ᜀ記念写真᠀きねんしゃしんᤀでも　とろうじゃないか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>188482324</Id>
+          <Value>オレは　オマエが
+ᜀ試練᠀しれんᤀを　ᜀ受᠀うᤀけているときから
+ᜀ見᠀みᤀこみが　あるって　ᜀ思᠀おもᤀっていたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>203948561</Id>
+          <Value>これからの　オマエの　ᜀ活躍᠀かつやくᤀ
+ᜀ見逃᠀みのがᤀしたりしないからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>221905682</Id>
+          <Value>ミハマᜀ港᠀こうᤀは　ᜀ観光᠀かんこうᤀのᜀ町᠀まちᤀ
+ᜀ見᠀みᤀどころが　いろいろあって
+ᜀ楽᠀たのᤀしいだろー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>237765390</Id>
+          <Value>でも　ボクは
+ここからの　ᜀ景色᠀けしきᤀが
+ᜀ一番᠀いちばんᤀ　ᜀ好᠀すᤀきなんだー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>254804751</Id>
+          <Value>よう　ミハマᜀ団᠀だんᤀがᜀ一᠀いちᤀ　ᰏ！
+よくᜀ来᠀きᤀたな！
+リーダーなら　奥に　いるぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>273416985</Id>
+          <Value>オレはᜀ今日᠀きょうᤀも　ᜀ現実᠀げんじつᤀとARフィールドを
+ᜀ往復᠀おうふくᤀして　あやしいヤツが
+ᜀ近᠀ちかᤀづかないか　ᜀ見᠀みᤀはっているんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>288228113</Id>
+          <Value>ᜀ安心᠀あんしんᤀしろ
+オマエなら　ᜀ大歓迎᠀だいかんげいᤀだ！
+ゆっくり　していってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>304481037</Id>
+          <Value>ミハマᜀ港名物᠀こうめいぶつᤀ
+ミハマスペシャルクレープ！
+おいしいわよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>322306833</Id>
+          <Value>サクサクのᜀ歯᠀はᤀごたえが　たまらない
+「ガッチモナカ」を　クレープが
+やさしくつつんで　おいしいわよー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_052_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>338428435</Id>
+          <Value>また　クレープを　ᜀ焼᠀やᤀく　ᜀ機械᠀きかいᤀの
+ᜀ調子᠀ちょうしᤀが　おかしいのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_053_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>357040919</Id>
+          <Value>クレープは　ᜀ問題᠀もんだいᤀなく　ᜀ焼᠀やᤀけるんだけど
+「クックック」っていうᜀ声᠀こえᤀが　
+ᜀ機械᠀きかいᤀから　ᜀ聞᠀きᤀこえてくるの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_053_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>372376336</Id>
+          <Value>もしかして　アプモンのᜀ声᠀こえᤀ…？
+カオスＡＲフィールドが
+ᜀ広᠀ひろᤀがりはじめてるせいか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_053_HERO_CAR_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>389153552</Id>
+          <Value>もしかして　アプモンのᜀ声᠀こえᤀ…？
+カオスＡＲフィールドが
+ᜀ広᠀ひろᤀがりはじめてるせいね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>405275154</Id>
+          <Value>ボクは　おもしろい　アプモンの
+ウワサᜀ話᠀ばなしᤀを　ᜀ集᠀あつᤀめているんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>424018710</Id>
+          <Value>ᜀ今᠀いまᤀ　このあたりでは　ミハマᜀ団᠀だんᤀに
+ᜀ認᠀みとᤀめられたっていう
+ドライヴァーの　ᜀ話᠀はなしᤀで　ᜀ持᠀もᤀちきりみたい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>439485202</Id>
+          <Value>ᰏって　いうんだって
+やさしくて　バトルも　ᜀ強᠀つよᤀいって…
+ボクも　ᜀ会᠀あᤀってみたいなぁ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>455475983</Id>
+          <Value>うぉええぇぇ…
+ᜀ生᠀なまᤀザカナ　ソフトクリーム…
+う…　うぉ…　げぇぇ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>473170704</Id>
+          <Value>ᜀ生᠀なまᤀザカナ　ソフトクリームを
+ᜀ食᠀たᤀべた　カレが　グロッキーに…
+ᜀ心配᠀しんぱいᤀだわ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>489161489</Id>
+          <Value>オレには　カノジョなんていらない…
+タップモン　キミがいれば
+それで　いいんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>506725141</Id>
+          <Value>ᜀ気持᠀きもᤀちは　うれしいタップ
+でも　もっと　ᜀ現実᠀げんじつᤀを　ᜀ見᠀みᤀたほうが
+いいタップ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>521929229</Id>
+          <Value>カレシと　いっしょに
+ミハマᜀ港᠀こうᤀ　デートなの①</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>539755028</Id>
+          <Value>え？　カレシは　どこに　いるって？
+…ワタシの　ᜀ心᠀こころᤀのᜀ中᠀なかᤀに　いるのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_005_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>557974296</Id>
+          <Value>キャー！　さっきね
+スマホの　アプリを　ᜀ開᠀ひらᤀいたら
+ᜀ画面᠀がめんᤀのᜀ中᠀なかᤀに　ᜀ何᠀なにᤀかが　ᜀ映᠀うつᤀったの！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_006_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>573309458</Id>
+          <Value>カレシは　ᜀ心᠀こころᤀのᜀ中᠀なかᤀじゃなくて
+スマホのᜀ中᠀なかᤀに　いたんだわ①</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_006_HERO_CAR</Key>
+      <Values>
+        <BtxtString>
+          <Id>591266581</Id>
+          <Value>たぶん　アプモンだ…
+カオスゲートの　ᜀ影響᠀えいきょうᤀが
+ᜀ普通᠀ふつうᤀのᜀ人᠀ひとᤀにも　ᜀ出᠀でᤀはじめてるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_006_HERO_CAR_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>608043797</Id>
+          <Value>きっと　アプモンだわ…
+カオスゲートの　ᜀ影響᠀えいきょうᤀが
+ᜀ普通᠀ふつうᤀのᜀ人᠀ひとᤀにも　ᜀ出᠀でᤀはじめてるのね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>622854669</Id>
+          <Value>おっ　ᜀ生᠀なまᤀザカナチョコ
+ᜀ意外᠀いがいᤀと　イケるかも！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>640025363</Id>
+          <Value>マジで？
+オレの　ᜀ生᠀なまᤀザカナクッキー　やるから
+ちょっと　くわせてー</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_61_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>657720081</Id>
+          <Value>いらっしゃいませ
+ᜀ忘᠀わすᤀれᜀ物᠀ものᤀなど　ございましたら
+おᜀ気軽᠀きがるᤀに　おたずねください</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>675021585</Id>
+          <Value>デートに　ᜀ来᠀きᤀたのは　いいけど
+サイフに　おᜀ金᠀かねᤀが　なくってね…
+コンビニが　あって　ᜀ助᠀たすᤀかったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>690618897</Id>
+          <Value>ドライブに　ᜀ一番合᠀いちばんあᤀう
+おᜀ菓子᠀かしᤀって　どれだとᜀ思᠀おもᤀう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>708969235</Id>
+          <Value>ᜀ屋台᠀やたいᤀで　ᜀ売᠀うᤀってた
+ᜀ食᠀たᤀべᜀ物᠀ものᤀに　ᜀ比᠀くらᤀべると
+コンビニって　ᜀ良心的᠀りょうしんてきᤀよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>725091089</Id>
+          <Value>このᜀ旅行᠀りょこうᤀマガジンに
+ミハマᜀ港᠀こうᤀが　のってるぞ！
+ᜀ地元民᠀じもとみんᤀとして　うれしいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>739901966</Id>
+          <Value>ガーン…
+からあげ　ᜀ売᠀うᤀりᜀ切᠀きᤀれてる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_018_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>757203726</Id>
+          <Value>このタルトも　おいしそうだし
+こっちの　チーズケーキも
+すてがたい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>774767376</Id>
+          <Value>コーヒーって　けっきょく
+ᜀ体᠀からだᤀにいいのか　ᜀ悪᠀わるᤀいのか
+どっちなんだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>791151121</Id>
+          <Value>まあ　ᜀ体᠀からだᤀに　ᜀ悪᠀わるᤀいとしても
+ぼくは　ᜀ飲᠀のᤀむんだけどね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>807010831</Id>
+          <Value>ふむぅ…
+どのᜀ席᠀せきᤀに　ᜀ座᠀すわᤀろうかのう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>824705555</Id>
+          <Value>スマホを　ᜀ選᠀えらᤀぶとき
+どういうᜀ基準᠀きじゅんᤀで　ᜀ選᠀えらᤀんでる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>841482769</Id>
+          <Value>わたしは　ᜀ防水性᠀ぼうすいせいᤀ！
+よく　トイレに　ᜀ落᠀おᤀとしちゃうんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>861405977</Id>
+          <Value>いらっしゃいませ！　ᜀ当店᠀とうてんᤀの　スマホは
+ᜀ防水性᠀ぼうすいせいᤀの　ᜀ高᠀たかᤀさが　ウリ！
+ᜀ海᠀うみᤀに　ᜀ落᠀おᤀとしても　ᜀ大丈夫᠀だいじょうぶᤀです！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>875561746</Id>
+          <Value>うちで　あつかうスマホは
+ᜀ防水性᠀ぼうすいせいᤀの　ᜀ高᠀たかᤀいものが
+ᜀ多᠀おおᤀいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>893518616</Id>
+          <Value>でも　ソルティのᜀ言᠀いᤀう
+「ᜀ海᠀うみᤀに　ᜀ落᠀おᤀとしても　ᜀ大丈夫᠀だいじょうぶᤀ」は
+さすがに　ᜀ言᠀いᤀいすぎかな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_026_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>908854029</Id>
+          <Value>いらっしゃいませ～
+あなたに　ᜀ似合᠀にあᤀうᜀ服᠀ふくᤀ
+おᜀ探᠀さがᤀししますよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>925106959</Id>
+          <Value>コーディネートアプリによれば…
+ここは　ショートパンツが
+いいみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>942801427</Id>
+          <Value>たたんで　ᜀ置᠀おᤀかれてある　ᜀ服᠀ふくᤀって
+ちょっと　ᜀ手᠀てᤀに　ᜀ取᠀とᤀりにくいのよね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>959054607</Id>
+          <Value>このニットカーデ　かわいいけど
+サイズが　ᜀ合᠀あᤀわない！
+ダイエットしなきゃ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>974782991</Id>
+          <Value>いらっしゃい！
+じっくり　ᜀ選᠀えらᤀんでいってね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>992084494</Id>
+          <Value>ᜀ私服᠀しふくᤀが　ダサいって
+カレシに　ᜀ言᠀いᤀわれちゃったの</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>1009517326</Id>
+          <Value>でも　コーディネートアプリが
+あれば　もうカンペキ！
+ᜀ見返᠀みかえᤀしてやるんだから！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026163473</Id>
+          <Value>この　Ａラインワンピ
+ちょーかわいいー！
+あっ　でも　ちょっと　ᜀ高᠀たかᤀいな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043727121</Id>
+          <Value>ᜀ女性᠀じょせいᤀって　ᜀ服選᠀ふくえらᤀびに
+ᜀ時間᠀じかんᤀかけすぎじゃない？
+ᜀ待᠀まᤀちくたびれたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058800144</Id>
+          <Value>いらっしゃいませ
+ただいま　セールᜀ中᠀ちゅうᤀでーす！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075708435</Id>
+          <Value>セールしてると
+つい　たくさん　ᜀ買᠀かᤀっちゃうんだよなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092879119</Id>
+          <Value>うーん　こっちの
+シャツのほうが　かっこいいかな
+いや　でも　こっちも…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_S_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109787154</Id>
+          <Value>ᜀ服᠀ふくᤀの　センス　ないから
+カノジョに　ᜀ選᠀えらᤀんでもらってるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126040081</Id>
+          <Value>あらあら！　まあまあ！
+あなた　アプリドライヴァーさんね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141768712</Id>
+          <Value>うん　オレはᰏだよ
+キミは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_101_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158677001</Id>
+          <Value>うん　ワタシはᰏだよ
+アナタは？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176634128</Id>
+          <Value>ᰏちゃんね！
+ᜀ私᠀わたしᤀは　ショッピングのアプリ
+カイモンよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195770648</Id>
+          <Value>ドライヴァーさんたちの
+おᜀ買᠀かᤀいものを　ᜀ手伝᠀てつだᤀっているの
+ᜀ必要᠀ひつようᤀなᜀ物᠀ものᤀがあれば　ᜀ買᠀かᤀっていってね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_ST0000_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209401870</Id>
+          <Value>うん　ありがとう　カイモン！
+よろしくね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_BOARD_MIHAMA1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1228014351</Id>
+          <Value>インフォメーションボードには
+ミハマのᜀ観光᠀かんこうᤀスポットが
+ᜀ紹介᠀しょうかいᤀされている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_AED2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1245578003</Id>
+          <Value>ＡＥＤがある！
+ᜀ人命᠀じんめいᤀに　ᜀ関᠀かかᤀわるものだから
+ᜀ大事᠀だいじᤀに　ᜀ取᠀とᤀりᜀ扱᠀あつかᤀわないと！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_PLANT1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261175315</Id>
+          <Value>ᜀ植᠀うᤀえこみに　インフォメーションがある
+ときどき　ᜀ広告᠀こうこくᤀもながしてる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1280312090</Id>
+          <Value>ᜀ自動販売機᠀じどうはんばいきᤀがある…
+ウェブで　ᜀ商品᠀しょうひんᤀを　ᜀ管理᠀かんりᤀしているから
+ᜀ売᠀うᤀりきれているのを　ᜀ見᠀みᤀたことがない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1294861075</Id>
+          <Value>みかけると
+つい　チェックしてしまうけど
+ᜀ特᠀とくᤀとくᤀに　のどは　かわいてないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MIHAMA_SYMBOL1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1312293651</Id>
+          <Value>これが　ミハマᜀ港᠀こうᤀの　シンボル！
+どうやら　ᜀ世界᠀せかいᤀと　つながることを
+イメージ　してるみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_YATAI1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1329726233</Id>
+          <Value>ミハマのᜀ特産物᠀とくさんぶつᤀであるサカナをᜀ使᠀つかᤀった
+サカナスイーツなるものが
+ᜀ売᠀うᤀられている…　においが　すごい…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_YATAI2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1345323791</Id>
+          <Value>あっ　ここのᜀ屋台᠀やたいᤀは
+まともなものが　ᜀ売᠀うᤀっている！
+まともに　おいしそう！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1362231828</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ᜀ品᠀しなᤀぞろえは　それなり　ってところかな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1378615828</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ゲームの　おともに　しようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1395655188</Id>
+          <Value>おᜀ菓子᠀かしᤀや　カップめんが　ᜀ置᠀おᤀいてある
+ᜀ新商品᠀しんしょうひんᤀは　あるかなあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1412432405</Id>
+          <Value>ティッシュや　ᜀ洗剤᠀せんざいᤀなどの
+ᜀ生活用品᠀せいかつようひんᤀも　ᜀ置᠀おᤀいてある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE5</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429734166</Id>
+          <Value>アイスの　ᜀ冷蔵᠀れいぞうᤀケースが　ᜀ置᠀おᤀいてある
+ᜀ暑᠀あつᤀくなると
+つい　ᜀ食᠀たᤀべたくなるなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE6</Key>
+      <Values>
+        <BtxtString>
+          <Id>1444545037</Id>
+          <Value>よくᜀ冷᠀ひᤀえた
+ドリンクが　ᜀ並᠀ならᤀんでる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE7</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463026448</Id>
+          <Value>この　ドリンクケースには
+おᜀ酒᠀さけᤀが　ならんでる…
+ᜀ自分᠀じぶんᤀには　ᜀ用᠀ようᤀがないなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_MAGAZINE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479410444</Id>
+          <Value>ᜀ雑誌売᠀ざっしうᤀりᜀ場᠀ばᤀでは
+ゲームの　ᜀ雑誌᠀ざっしᤀを
+つい　さがしてしまう…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_CM1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1495532047</Id>
+          <Value>ᜀ新商品᠀しんしょうひんᤀの
+ᜀ広告᠀こうこくᤀが　ᜀ流᠀ながᤀれてる…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_CM2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1512571414</Id>
+          <Value>スマホアプリの　CMに
+アプリᜀ山᠀やまᤀ４７０が　ᜀ出演᠀しゅつえんᤀしてる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_STORE_MACHINE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1529610770</Id>
+          <Value>ATMや　コピーᜀ機᠀きᤀが　ᜀ置᠀おᤀいてある
+いざってᜀ時᠀ときᤀに　たよりになる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_SHELF1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1547305748</Id>
+          <Value>ᜀ雑貨᠀ざっかᤀが　オシャレに　ᜀ置᠀おᤀかれている
+こういうのを　ᜀ飾᠀かざᤀるのって
+センスが　いるだろうなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_BOARD1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564345110</Id>
+          <Value>オススメのメニューが　ᜀ表示᠀ひょうじᤀされている
+カフェラテと　カフェオレって
+ᜀ何᠀なにᤀが　ᜀ違᠀ちがᤀうんだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_CAKE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579287058</Id>
+          <Value>ショーケースには　ケーキがたくさん！
+ああ…　どれも　おいしそう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_TOPPING1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1596195347</Id>
+          <Value>ガムシロップや　サトウが
+オシャレな　ᜀ容器᠀ようきᤀに　はいっている</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_CAFE_DEVICE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1614152214</Id>
+          <Value>ᜀ電子᠀でんしᤀマネーで　ピッと　おᜀ会計᠀かいけいᤀ！
+…けど　ᜀ自分᠀じぶんᤀは　ᜀ持᠀もᤀっていない</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_APPAREL_ROOM1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1632240156</Id>
+          <Value>こういうおᜀ店᠀みせᤀで　ᜀ試着室᠀しちゃくしつᤀを　ᜀ使᠀つかᤀうときは
+ᜀ店員᠀てんいんᤀさんに　ᜀ声᠀こえᤀをかけてから　ᜀ使᠀つかᤀおう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_APPAREL_DRESS1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1646920210</Id>
+          <Value>ᜀ服᠀ふくᤀが　きれいに　たたまれている
+このたたみᜀ方᠀かたᤀ　どうやるんだろう？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_APPAREL_DRESS2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1663697426</Id>
+          <Value>このあたりのᜀ服᠀ふくᤀは　やけにᜀ高᠀たかᤀい
+ブランドᜀ物᠀ものᤀ　だからかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_APPAREL_DRESS3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1683489567</Id>
+          <Value>ᜀ値札᠀ねふだᤀのᜀ上᠀うえᤀに　ᜀ割引価格᠀わりびきかかくᤀが　ᜀ書᠀かᤀかれている
+おᜀ買᠀かᤀいᜀ得᠀どくᤀだからって
+ᜀ買᠀かᤀいᜀ過᠀すᤀぎは　ᜀ禁物᠀きんもつᤀ！　</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_APPAREL_DRESS4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1698038544</Id>
+          <Value>ワイシャツが　ᜀ並᠀ならᤀんでいる
+これを　かっこよく　ᜀ着᠀きᤀこなせるᜀ
+大人᠀おとなᤀに　なりたいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_APPAREL_DRESS5</Key>
+      <Values>
+        <BtxtString>
+          <Id>1714815762</Id>
+          <Value>ᜀ革᠀かわᤀのクツと　ᜀ革᠀かわᤀのカバン…
+おとうさんが　こういうのᜀ持᠀もᤀってたな
+…ボロボロのだけど</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MOBILE1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1732379413</Id>
+          <Value>ᜀ受付表᠀うけつけひょうᤀの　ᜀ発券機᠀はっけんきᤀだ
+ᜀ順番᠀じゅんばんᤀがᜀ来᠀くᤀると
+ソルティが　ᜀ呼᠀よᤀびにきてくれる</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MOBILE2</Key>
+      <Values>
+        <BtxtString>
+          <Id>1748632346</Id>
+          <Value>タブレットの　ᜀ最新機種᠀さいしんきしゅᤀが　ならんでる
+…これが　あったら
+もっと　たくさん　ゲームができる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MOBILE3</Key>
+      <Values>
+        <BtxtString>
+          <Id>1766982424</Id>
+          <Value>スマホの　ᜀ最新機種᠀さいしんきしゅᤀが　ならんでる
+ᜀ容量᠀ようりょうᤀアップに　ᜀ軽量化᠀けいりょうかᤀ…
+ᜀ見᠀みᤀてると　どんどん　ᜀ欲᠀ほᤀしくなる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_MOBILE4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1782055700</Id>
+          <Value>スマホや　タブレットのᜀ見本機᠀みほんきᤀや
+ᜀ周辺機器᠀しゅうへんききᤀなんかが
+たくさん　おいてある！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_DRINK4</Key>
+      <Values>
+        <BtxtString>
+          <Id>1801323289</Id>
+          <Value>ᜀ自動販売機᠀じどうはんばいきᤀが　おいてある
+おᜀ店᠀みせᤀにᜀ来᠀きᤀた　おᜀ客᠀きゃくᤀさんᜀ向᠀むᤀけに
+おᜀ水᠀みずᤀと　おᜀ茶᠀ちゃᤀは　ᜀ無料᠀むりょうᤀでᜀ出᠀でᤀてくる！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>1813905934</Id>
+          <Value>オマエ　ᜀ団員᠀だんいんᤀバッジは
+ᜀ持᠀もᤀってるコソ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>1831994126</Id>
+          <Value>…ᜀ持᠀もᤀってない　みたいだコソ
+それなら　ᜀ用᠀ようᤀは　ないコソ
+ᜀ出直᠀でなおᤀしてくるコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>1849295637</Id>
+          <Value>ᜀ裏口᠀うらくちᤀコミで
+オマエの　ウワサを　ᜀ聞᠀きᤀいたコソ
+リーダーに　みとめられたって　ᜀ話᠀はなしᤀコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>1864630803</Id>
+          <Value>こんな　ところまで
+ᜀ裏口᠀うらくちᤀコミが　ᜀ回᠀まわᤀってるんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_004_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1881408019</Id>
+          <Value>こんな　ところまで
+ᜀ裏口᠀うらくちᤀコミが　ᜀ回᠀まわᤀってるのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>1899627285</Id>
+          <Value>ᜀ団員᠀だんいんᤀバッジも　ᜀ持᠀もᤀってるみたいコソ
+それなら　ᰏ
+オマエも　オレたちの　ᜀ仲間᠀なかまᤀコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>1916666643</Id>
+          <Value>ここでは　ᜀ超・極秘᠀ちょうごくひᤀルートで
+ᜀ手᠀てᤀにいれた　アプモンのかけらを
+ᜀ団員᠀だんいんᤀに　ゆずっているコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>1930035718</Id>
+          <Value>ええっ
+どうやって？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>1949172496</Id>
+          <Value>ᜀ超・極秘᠀ちょうごくひᤀルートでコソ
+くわしいことも
+ᜀ超・極秘᠀ちょうごくひᤀ　でコソ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>1965687569</Id>
+          <Value>アプモンのかけらは
+そのとき　ᜀ手᠀てᤀにはいったᜀ分᠀ぶんᤀだけ
+ゆずっているコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>1982202635</Id>
+          <Value>ᜀ同᠀おなᤀじ　アプモンでも
+1ᜀ個᠀こᤀだったり
+90ᜀ個᠀こᤀだったり…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>1997931019</Id>
+          <Value>いくつ　はいってるか
+オタノシミ　なのでコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>2016543505</Id>
+          <Value>オタノシミの　かわりに
+かけらの　グレードに　ᜀ応᠀おうᤀじて
+おタカい　ｂｉｔを　もらってるコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>2031223305</Id>
+          <Value>あっ　ちゃんと
+ｂｉｔ　とるんだ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_013_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2048000521</Id>
+          <Value>あっ　ちゃんと
+ｂｉｔ　とるのね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>2068054809</Id>
+          <Value>モチロンで　コソ！
+ミハマᜀ団᠀だんᤀのᜀ掟᠀おきてᤀ　その２！
+「ほしいᜀ物᠀ものᤀには　ᜀ対価᠀たいかᤀを　ᜀ払᠀はらᤀうこと」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>2083652368</Id>
+          <Value>そういう　ワケなので　ᰏ
+ミハマᜀ団᠀だんᤀの　アプモンショップ
+ᜀ利用᠀りようᤀすると　いいコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>2099249681</Id>
+          <Value>ᜀ団員᠀だんいんᤀバッジは…
+うんうん　ちゃんと　あるみたいコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>2116551436</Id>
+          <Value>ミハマᜀ団員᠀だんいんᤀの　ᰏ
+アプモンショップ
+ᜀ利用᠀りようᤀしていくコソ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>2132279572</Id>
+          <Value>アプモンショップを　ᜀ利用᠀りようᤀしますか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_MOB_MIHAMA_KOSO_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>2148532492</Id>
+          <Value>また　ᜀ来᠀くᤀると　いいコソ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>OBJ_APPAREL_DRESS4_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>2168193809</Id>
+          <Value>ワイシャツが　ᜀ並᠀ならᤀんでいる
+…ナオトも　ᜀ大人᠀おとなᤀに　なったら
+こういうᜀ服᠀ふくᤀ　ᜀ着᠀きᤀるのかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

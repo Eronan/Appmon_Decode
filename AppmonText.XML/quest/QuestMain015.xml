@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>34</NumberOfLabels>
+  <NumberOfStrings>34</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048845</Id>
+          <Value>Ｅランクにᜀ昇格᠀しょうかくᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17170693</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38011667</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50725125</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71566099</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84279557</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105120531</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>117833989</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>138674963</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151388421</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172229395</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>184942853</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>205783827</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218497285</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239338259</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252051717</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>272892691</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285606149</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>306447123</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>319160581</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>340001555</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>352715013</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>373555987</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>386269445</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>407110419</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>419823877</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>440664851</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>453378309</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>474219283</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>486932741</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>507773715</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>520487173</Id>
+          <Value>ヒフミが丘</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>541328147</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>558105363</Id>
+          <Value>Ｆランクマスターの　ワカバに　ᜀ勝᠀かᤀって
+Ｅランクに　ᜀ昇格᠀しょうかくᤀした！
+ひとまず　ヒフミがᜀ丘᠀おかᤀに　ᜀ戻᠀もどᤀろう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

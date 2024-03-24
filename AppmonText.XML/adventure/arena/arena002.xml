@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>9</NumberOfLabels>
+  <NumberOfStrings>9</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>ARENA_START</Key>
+      <Values>
+        <BtxtString>
+          <Id>4064023</Id>
+          <Value>ᜀＷＥＬＣＯＭＥ᠀ウェルカムᤀ　サイバーアリーナ！
+「フリーᜀ大会᠀たいかいᤀ　ブロンズ」
+ᜀ開催᠀かいさいᤀするぜ～ッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_VICTORY</Key>
+      <Values>
+        <BtxtString>
+          <Id>21234461</Id>
+          <Value>「フリーᜀ大会᠀たいかいᤀ　ブロンズ」
+ᜀ勝᠀かᤀちぬいたのは　ᰏ！
+ᜀＣＯＮＧＲＡＴＵＬＡＴＩＯＮＳ᠀コングラッチュレーショーンᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_1</Key>
+      <Values>
+        <BtxtString>
+          <Id>36438803</Id>
+          <Value>よーし！
+このバトルに　ᜀ勝᠀かᤀったら
+ＳＮＳで　ᜀ勝利報告᠀しょうりほうこくᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_2</Key>
+      <Values>
+        <BtxtString>
+          <Id>55706394</Id>
+          <Value>よう　またᜀ会᠀あᤀったな！
+ᜀ校庭᠀こうていᤀの　ᜀ初᠀はじᤀめてのバトル　ᜀ覚᠀おぼᤀえてるか？
+どれくらい　ᜀ上達᠀じょうたつᤀしたか　ᜀ見᠀みᤀてやるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_3</Key>
+      <Values>
+        <BtxtString>
+          <Id>69599765</Id>
+          <Value>ᜀ対戦᠀たいせんᤀって　いつも　ドキドキしちゃう
+ᜀ勝᠀かᤀてるといいなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_4</Key>
+      <Values>
+        <BtxtString>
+          <Id>87950098</Id>
+          <Value>ᜀ対戦᠀たいせんᤀ　よろしくおねがいします
+バトルの　ᜀ前᠀まえᤀには　アイサツ
+なにごとにも　ᜀ礼儀᠀れいぎᤀあり　ってね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_5</Key>
+      <Values>
+        <BtxtString>
+          <Id>103285269</Id>
+          <Value>あーーーー！　ダメ！　ᜀ我慢᠀がまんᤀできない！
+バトルしよう！　はやくはやく！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_6</Key>
+      <Values>
+        <BtxtString>
+          <Id>119931660</Id>
+          <Value>ᜀ対戦᠀たいせんᤀ　よろしく！
+すてきな　ショータイムに
+してあげるからね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>ARENA_NPC_7</Key>
+      <Values>
+        <BtxtString>
+          <Id>138150676</Id>
+          <Value>アプモンが　ᜀ好᠀すᤀきって　ᜀ気持᠀きもᤀちだけで
+だいぶ　ᜀ強᠀つよᤀくなっちゃった　かも
+キミにも　みせてあげるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

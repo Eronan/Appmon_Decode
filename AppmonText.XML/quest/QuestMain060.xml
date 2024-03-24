@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>786697</Id>
+          <Value>マコトのᜀ苦悩᠀くのうᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17694989</Id>
+          <Value>サイバーアリーナから出よう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38142741</Id>
+          <Value>マコトが　Ａランクマスターだった！
+けど　ᜀ今᠀いまᤀは　バトルを　ᜀ申᠀もうᤀしこめる
+ᜀ雰囲気᠀ふんいきᤀではない…　そっとしておこう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51249421</Id>
+          <Value>ニコタマ川・南地区の川沿い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72483605</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84803853</Id>
+          <Value>ニコタマ川・南地区の川沿い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106038037</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118358285</Id>
+          <Value>ニコタマ川・南地区の川沿い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139592469</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151912717</Id>
+          <Value>ニコタマ川・南地区の川沿い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146901</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185467149</Id>
+          <Value>ニコタマ川・南地区の川沿い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701333</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219021581</Id>
+          <Value>ニコタマ川・南地区の川沿い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255765</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>ニコタマ川・南地区の川沿い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810197</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286130445</Id>
+          <Value>ニコタマ川・南地区の川沿い</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364629</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324141845</Id>
+          <Value>マコトの　ᜀ引退᠀いんたいᤀを　ᜀ止᠀とᤀめてほしいと
+ユカリᜀ先輩᠀せんぱいᤀから　おᜀ願᠀ねがᤀいされた
+ニコタマᜀ川᠀がわᤀにいる　マコトに　ᜀ会᠀あᤀおう</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

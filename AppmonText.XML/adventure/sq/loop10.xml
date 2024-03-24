@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>106</NumberOfLabels>
+  <NumberOfStrings>106</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>2491152</Id>
+          <Value>うおおおーーッ！　オマエ！
+リョウジさんに　ᜀ勝᠀かᤀったっていう
+ᰏだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>22151959</Id>
+          <Value>リョウジさんに　ミハマᜀ団᠀だんᤀの
+ᜀ仲間᠀なかまᤀとして　ᜀ認᠀みとᤀめられた　ᜀ経緯᠀けいいᤀは
+ᜀ裏口᠀うらくちᤀコミで　ガンガンᜀ回᠀まわᤀってるぜー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>37749522</Id>
+          <Value>うーん　なんて　ᜀ言᠀いᤀわれてるのか
+ᜀ気᠀きᤀになるけど　ᜀ悪᠀わるᤀいことは
+ᜀ言᠀いᤀわれてなさそうだし　まぁいいか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>52822799</Id>
+          <Value>そのᰏに！
+ちょっと　ᜀ協力᠀きょうりょくᤀして
+ほしいことが　あるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>68288782</Id>
+          <Value>えっ…　ᜀ何᠀なにᤀか　あったの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>90309407</Id>
+          <Value>あの　ミハマᜀ港᠀こうᤀでの　ᜀ大騒動᠀おおそうどうᤀ…
+ミハマᜀ団᠀だんᤀの　ᜀ力不足᠀ちからぶそくᤀや　ᜀ結束不足᠀けっそくぶそくᤀを
+ᜀ感᠀かんᤀじる　ᜀ結果᠀けっかᤀと　なったわけだ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>101187846</Id>
+          <Value>そこでだ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>122159894</Id>
+          <Value>オレは　ショットモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+「ミハマᜀ港᠀こうᤀ　ᜀ防衛᠀ぼうえいᤀシミュレータ」を
+ᜀ作᠀つくᤀってみたんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>135921940</Id>
+          <Value>ミハマᜀ港᠀こうᤀ　ᜀ防衛᠀ぼうえいᤀシミュレータ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>157025048</Id>
+          <Value>そう！　ミハマᜀ港᠀こうᤀを　ᜀ守᠀まもᤀるため！
+ᜀ暗躍᠀あんやくᤀする　ᜀ正義᠀せいぎᤀ　ミハマᜀ団᠀だんᤀよ
+ᜀ迫᠀せまᤀりくるᜀ敵᠀てきᤀを　ᜀ倒᠀たおᤀすのだ！　ビシィッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>167903489</Id>
+          <Value>…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>184680705</Id>
+          <Value>…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>205259536</Id>
+          <Value>アプモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+ᜀ敵᠀てきᤀを　ᜀ倒᠀たおᤀそう！　っていう
+ゲームみたいな　ものだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>219677451</Id>
+          <Value>ᰏには
+これの　テストプレイを
+してほしいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>238945045</Id>
+          <Value>ショットモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてるから
+ゲームᜀ属性᠀ぞくせいᤀの　アプモンでしか
+プレイできないんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>252576013</Id>
+          <Value>どうだ？　やってくれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>270402315</Id>
+          <Value>…ゲーマーとして
+そういうのは　ちょっと
+わくわくするな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>289276442</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+シミュレータに　ᜀ挑戦᠀ちょうせんᤀしてみようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>303431954</Id>
+          <Value>シミュレータに　ᜀ挑戦᠀ちょうせんᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>319422982</Id>
+          <Value>よし！
+やらせてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>338428688</Id>
+          <Value>いいᜀ返事᠀へんじᤀだぜ！
+レベルは　３ᜀ段階᠀だんかいᤀあるけど
+どうするんだ　ᰏ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2</Key>
+      <Values>
+        <BtxtString>
+          <Id>353632529</Id>
+          <Value>どのレベルに　ᜀ挑戦᠀ちょうせんᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A1</Key>
+      <Values>
+        <BtxtString>
+          <Id>369754378</Id>
+          <Value>レベル１（イージー）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>386793742</Id>
+          <Value>イージーモードで　よろしく！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>404488721</Id>
+          <Value>イージーモード～？
+よし　きた！　セッティングするぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A2</Key>
+      <Values>
+        <BtxtString>
+          <Id>420086026</Id>
+          <Value>レベル２（ノーマル）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>436863242</Id>
+          <Value>ノーマルモードかな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>454296075</Id>
+          <Value>ノーマルだな？
+よーし！　たのむぜ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A3</Key>
+      <Values>
+        <BtxtString>
+          <Id>470417673</Id>
+          <Value>レベル３（ハード）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>487457037</Id>
+          <Value>もちろん　ハードモードで！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>505283089</Id>
+          <Value>ハードモードだな！
+ᜀ準備᠀じゅんびᤀは　いいな？　いくぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>521929228</Id>
+          <Value>うおおおーーッ！　ᰏ！
+また　ᜀ来᠀きᤀてくれたのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>543294239</Id>
+          <Value>あの　ミハマᜀ港᠀こうᤀでの　ᜀ大騒動᠀おおそうどうᤀ…
+ミハマᜀ団᠀だんᤀの　ᜀ力不足᠀ちからぶそくᤀや　ᜀ結束不足᠀けっそくぶそくᤀを
+ᜀ感᠀かんᤀじる　ᜀ結果᠀けっかᤀと　なったわけだ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>558367510</Id>
+          <Value>そこで　ショットモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+ᜀ作᠀つくᤀったのが　この
+「ミハマᜀ港᠀こうᤀ　ᜀ防衛᠀ぼうえいᤀシミュレータ」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>574358288</Id>
+          <Value>アプモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+ᜀ敵᠀てきᤀを　ᜀ倒᠀たおᤀそう！　っていう
+ゲームみたいな　ものだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>592970520</Id>
+          <Value>ミハマᜀ港᠀こうᤀを　ᜀ守᠀まもᤀるため！
+ᜀ暗躍᠀あんやくᤀする　ᜀ正義᠀せいぎᤀ　ミハマᜀ団᠀だんᤀよ
+ᜀ迫᠀せまᤀりくるᜀ敵᠀てきᤀを　ᜀ倒᠀たおᤀすのだ！　ビシィッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>604111105</Id>
+          <Value>…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>622592779</Id>
+          <Value>コホン！　ᰏには
+これの　テストプレイを
+してほしいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>641598229</Id>
+          <Value>ショットモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてるから
+ゲームᜀ属性᠀ぞくせいᤀの　アプモンでしか
+プレイできないんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>655229197</Id>
+          <Value>どうだ？　やってくれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>673055499</Id>
+          <Value>…ゲーマーとして
+そういうのは　ちょっと
+わくわくするな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>691929626</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+シミュレータに　ᜀ挑戦᠀ちょうせんᤀしてみようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>706478604</Id>
+          <Value>うおおおーーッ！　ᰏ！
+また　ᜀ来᠀きᤀてくれたのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>727843615</Id>
+          <Value>あの　ミハマᜀ港᠀こうᤀでの　ᜀ大騒動᠀おおそうどうᤀ…
+ミハマᜀ団᠀だんᤀの　ᜀ力不足᠀ちからぶそくᤀや　ᜀ結束不足᠀けっそくぶそくᤀを
+ᜀ感᠀かんᤀじる　ᜀ結果᠀けっかᤀと　なったわけだ…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>742916886</Id>
+          <Value>そこで　ショットモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+ᜀ作᠀つくᤀったのが　この
+「ミハマᜀ港᠀こうᤀ　ᜀ防衛᠀ぼうえいᤀシミュレータ」！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>758907664</Id>
+          <Value>アプモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりて
+ᜀ敵᠀てきᤀを　ᜀ倒᠀たおᤀそう！　っていう
+ゲームみたいな　ものだな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>777519896</Id>
+          <Value>ミハマᜀ港᠀こうᤀを　ᜀ守᠀まもᤀるため！
+ᜀ暗躍᠀あんやくᤀする　ᜀ正義᠀せいぎᤀ　ミハマᜀ団᠀だんᤀよ
+ᜀ迫᠀せまᤀりくるᜀ敵᠀てきᤀを　ᜀ倒᠀たおᤀすのだ！　ビシィッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>788660481</Id>
+          <Value>…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>807142155</Id>
+          <Value>コホン！　ᰏには
+これの　テストプレイを
+してほしいんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>826147605</Id>
+          <Value>ショットモンの　ᜀ力᠀ちからᤀを　ᜀ借᠀かᤀりてるから
+ゲームᜀ属性᠀ぞくせいᤀの　アプモンでしか
+プレイできないんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>839778573</Id>
+          <Value>どうだ？　やってくれるか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>857604875</Id>
+          <Value>…ゲーマーとして
+そういうのは　ちょっと
+わくわくするな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>876479002</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+シミュレータに　ᜀ挑戦᠀ちょうせんᤀしてみようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>891027980</Id>
+          <Value>うおおおーーッ！　ᰏ！
+また　ᜀ来᠀きᤀてくれたのか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>909509398</Id>
+          <Value>もしかして…
+「ミハマᜀ港᠀こうᤀ　ᜀ防衛᠀ぼうえいᤀシミュレータ」を
+もう１ᜀ度᠀どᤀ　やってみたいとか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>926024470</Id>
+          <Value>ᰏ！
+それほどまでに　ミハマᜀ団᠀だんᤀの　ᜀ未来᠀みらいᤀを
+ᜀ考᠀かんがᤀえてくれているとは…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>941621780</Id>
+          <Value>いいぞ　いいぞ！
+ᜀ何度᠀なんどᤀでも　プレイ　していくといい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>960889623</Id>
+          <Value>もっとも　ᜀ今日᠀きょうᤀのおᜀ礼᠀れいᤀは　もうおしまい
+クリアしても　ᜀ渡᠀わたᤀせるものは
+ᜀ何᠀なにᤀも　ないんだけどな！　わはは！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>974651917</Id>
+          <Value>まだ　なんにも
+ᜀ言᠀いᤀってないんだけどなあ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>991953675</Id>
+          <Value>…でも　ゲーマーとして
+そういうのは　ちょっと
+わくわくするな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>1010696730</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+シミュレータに　ᜀ挑戦᠀ちょうせんᤀしてみようか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>1023541504</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1040843270</Id>
+          <Value>よし！
+やらせてよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1059848976</Id>
+          <Value>いいᜀ返事᠀へんじᤀだぜ！
+レベルは　３ᜀ段階᠀だんかいᤀあるけど
+どうするんだ　ᰏ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1075839509</Id>
+          <Value>どうした　ᰏ！
+オマエの　ᜀ実力᠀じつりょくᤀは　そんなものか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1093010191</Id>
+          <Value>まだまだ　ᰏの
+ᜀ本気᠀ほんきᤀを　ᜀ見᠀みᤀていないぞ！
+がんばってくれ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1111360278</Id>
+          <Value>「ミハマᜀ港᠀こうᤀ　ᜀ防衛᠀ぼうえいᤀシミュレータ」は
+いつでも　ᰏの　ᜀ挑戦᠀ちょうせんᤀを
+ᜀ待᠀まᤀっているからな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1125122568</Id>
+          <Value>うおおおーーッ！
+さすが　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1143997200</Id>
+          <Value>とはいえ　イージーモードだからな
+ᰏには　ᜀ朝飯前᠀あさめしまえᤀと
+ᜀ言᠀いᤀったところか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1161036561</Id>
+          <Value>へへっ　テストプレイに
+ᜀ付᠀つᤀきᜀ合᠀あᤀってくれて　ありがとう！
+おᜀ礼᠀れいᤀに　これ　やるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1174798598</Id>
+          <Value>ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1195508499</Id>
+          <Value>こっちこそ　ᜀ楽᠀たのᤀしかったよ！
+ᜀ明日᠀あしたᤀも　ᜀ来᠀きᤀてくれたら
+また　ᜀ何᠀なにᤀか　ᜀ用意᠀よういᤀしておくぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1210450701</Id>
+          <Value>それじゃあ　また　いつでも
+ᜀ来᠀きᤀてくれよな！
+ᜀ待᠀まᤀってるぜ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1226048009</Id>
+          <Value>うおおおーーッ！
+やってくれるぜ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1243742992</Id>
+          <Value>うんうん　ノーマルモードなら
+ᰏが
+できないわけには　いかないよな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1261699857</Id>
+          <Value>へへっ　テストプレイに
+ᜀ付᠀つᤀきᜀ合᠀あᤀってくれて　ありがとう！
+おᜀ礼᠀れいᤀに　これ　やるよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1275461894</Id>
+          <Value>ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1296171795</Id>
+          <Value>こっちこそ　ᜀ楽᠀たのᤀしかったよ！
+ᜀ明日᠀あしたᤀも　ᜀ来᠀きᤀてくれたら
+また　ᜀ何᠀なにᤀか　ᜀ用意᠀よういᤀしておくぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1311113997</Id>
+          <Value>それじゃあ　また　いつでも
+ᜀ来᠀きᤀてくれよな！
+ᜀ待᠀まᤀってるぜ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1325924616</Id>
+          <Value>うおおおーーッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1343095053</Id>
+          <Value>うおおおおおおーーーーッ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1362494224</Id>
+          <Value>ᜀ最高᠀さいこうᤀだぜ　ᰏ！
+ハードモードも　クリアするなんて
+さすがは　ミハマᜀ団᠀だんᤀのᜀ星᠀ほしᤀ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1376518408</Id>
+          <Value>ᜀ大᠀おおᤀげさだよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1393689098</Id>
+          <Value>いやいや　ᰏは
+やっぱり　さすがだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1413350162</Id>
+          <Value>そうそう　テストプレイに
+ᜀ付᠀つᤀきᜀ合᠀あᤀってくれて　ありがとうな！
+これは　ᜀ今日᠀きょうᤀの　おᜀ礼᠀れいᤀだぜ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1426456838</Id>
+          <Value>ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1447166739</Id>
+          <Value>こっちこそ　ᜀ楽᠀たのᤀしかったよ！
+ᜀ明日᠀あしたᤀも　ᜀ来᠀きᤀてくれたら
+また　ᜀ何᠀なにᤀか　ᜀ用意᠀よういᤀしておくぜ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1462108941</Id>
+          <Value>それじゃあ　また　いつでも
+ᜀ来᠀きᤀてくれよな！
+ᜀ待᠀まᤀってるぜ　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1479017236</Id>
+          <Value>うおおおーーッ！
+さすが　ᰏだぜ
+プレイスタイルも　ᜀ安定᠀あんていᤀしてるな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494352143</Id>
+          <Value>ᜀ楽᠀たのᤀしかったよ　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1511653903</Id>
+          <Value>こっちこそ　ᜀ楽᠀たのᤀしかったよ！
+ありがとう　ᰏ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1530659602</Id>
+          <Value>テストプレイの　おᜀ礼᠀れいᤀは…
+もう　ᜀ渡᠀わたᤀしたんだったな
+ᜀ今日᠀きょうᤀは　もう　ᜀ品切᠀しなぎᤀれだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1547436816</Id>
+          <Value>ᜀ明日᠀あしたᤀも　ᜀ来᠀きᤀてくれたら
+ᜀ何᠀なにᤀか　ᜀ用意᠀よういᤀしておくぜ！
+また　ᜀ来᠀きᤀてくれよな　ᰏ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_003_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564738323</Id>
+          <Value>うーん　ᜀ何᠀なにᤀを　ᜀ言᠀いᤀわれてるのか
+ᜀ気᠀きᤀになるけど　ᜀ悪᠀わるᤀいことは
+ᜀ言᠀いᤀわれてないみたいだし　まぁいいか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_017_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1579025163</Id>
+          <Value>…ゲーマーとして
+そういうのは　ちょっと
+わくわくするわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_018_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1597899290</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+シミュレータに　ᜀ挑戦᠀ちょうせんᤀしてみようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_019_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1611661834</Id>
+          <Value>よーし！
+やらせてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_076_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1628045575</Id>
+          <Value>ᜀ大᠀おおᤀげさね…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_083_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1645347087</Id>
+          <Value>ᜀ楽᠀たのᤀしかったわ　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_035_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1662911243</Id>
+          <Value>…ゲーマーとして
+そういうのは　ちょっと
+わくわくするわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_036_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1681785370</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+シミュレータに　ᜀ挑戦᠀ちょうせんᤀしてみようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_046_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1696465675</Id>
+          <Value>…ゲーマーとして
+そういうのは　ちょっと
+わくわくするわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_047_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1715339802</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+シミュレータに　ᜀ挑戦᠀ちょうせんᤀしてみようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_054_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1730020107</Id>
+          <Value>…ゲーマーとして
+そういうのは　ちょっと
+わくわくするわね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_055_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1748894234</Id>
+          <Value>ゲームᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀをᜀ借᠀かᤀりて
+シミュレータに　ᜀ挑戦᠀ちょうせんᤀしてみようかな？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_10_056_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1762656778</Id>
+          <Value>よーし！
+やらせてちょうだい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

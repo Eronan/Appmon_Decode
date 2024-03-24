@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1048844</Id>
+          <Value>ᜀ愛᠀いとᤀしのヒフミオレ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826063</Id>
+          <Value>ヒフミが丘・南地区の自販機広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>39453471</Id>
+          <Value>ヒフミオレが　ᜀ品切᠀しなぎᤀれで
+ᜀ男᠀おとこᤀのᜀ子᠀こᤀが　ᜀ落᠀おᤀちᜀ込᠀こᤀんでいる
+ᜀ自販機広場᠀じはんきひろばᤀの　ᜀ自販機᠀じはんきᤀをᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51511570</Id>
+          <Value>ヒフミが丘・自販機広場ＡＲダンジョン</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>71041810</Id>
+          <Value>セットモンが　イタズラしている
+ᜀ自販機᠀じはんきᤀを　ᜀ発見᠀はっけんᤀした！
+バトルにᜀ勝᠀かᤀって　やめさせよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934927</Id>
+          <Value>ヒフミが丘・南地区の自販機広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106824481</Id>
+          <Value>セットモンが　ᜀ自販機᠀じはんきᤀのᜀ設定᠀せっていᤀを
+ᜀ元᠀もとᤀにᜀ戻᠀もどᤀしてくれた！
+ᜀ自販機広場᠀じはんきひろばᤀの　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ報告᠀ほうこくᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489359</Id>
+          <Value>ヒフミが丘・南地区の自販機広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>140378913</Id>
+          <Value>セットモンが　ᜀ自販機᠀じはんきᤀのᜀ設定᠀せっていᤀを
+ᜀ元᠀もとᤀにᜀ戻᠀もどᤀしてくれた！
+ᜀ自販機広場᠀じはんきひろばᤀの　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ報告᠀ほうこくᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152043791</Id>
+          <Value>ヒフミが丘・南地区の自販機広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173933345</Id>
+          <Value>セットモンが　ᜀ自販機᠀じはんきᤀのᜀ設定᠀せっていᤀを
+ᜀ元᠀もとᤀにᜀ戻᠀もどᤀしてくれた！
+ᜀ自販機広場᠀じはんきひろばᤀの　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ報告᠀ほうこくᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598223</Id>
+          <Value>ヒフミが丘・南地区の自販機広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>207487777</Id>
+          <Value>セットモンが　ᜀ自販機᠀じはんきᤀのᜀ設定᠀せっていᤀを
+ᜀ元᠀もとᤀにᜀ戻᠀もどᤀしてくれた！
+ᜀ自販機広場᠀じはんきひろばᤀの　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ報告᠀ほうこくᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152655</Id>
+          <Value>ヒフミが丘・南地区の自販機広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>241042209</Id>
+          <Value>セットモンが　ᜀ自販機᠀じはんきᤀのᜀ設定᠀せっていᤀを
+ᜀ元᠀もとᤀにᜀ戻᠀もどᤀしてくれた！
+ᜀ自販機広場᠀じはんきひろばᤀの　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ報告᠀ほうこくᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252707087</Id>
+          <Value>ヒフミが丘・南地区の自販機広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>274596641</Id>
+          <Value>セットモンが　ᜀ自販機᠀じはんきᤀのᜀ設定᠀せっていᤀを
+ᜀ元᠀もとᤀにᜀ戻᠀もどᤀしてくれた！
+ᜀ自販機広場᠀じはんきひろばᤀの　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ報告᠀ほうこくᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286261519</Id>
+          <Value>ヒフミが丘・南地区の自販機広場</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>308151073</Id>
+          <Value>セットモンが　ᜀ自販機᠀じはんきᤀのᜀ設定᠀せっていᤀを
+ᜀ元᠀もとᤀにᜀ戻᠀もどᤀしてくれた！
+ᜀ自販機広場᠀じはんきひろばᤀの　ᜀ男᠀おとこᤀのᜀ子᠀こᤀに　ᜀ報告᠀ほうこくᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324272919</Id>
+          <Value>ヒフミオレの　ᜀ販売᠀はんばいᤀがᜀ再開᠀さいかいᤀされて
+ᜀ男᠀おとこᤀのᜀ子᠀こᤀも　おおよろこび！
+ᜀ味᠀あじᤀのᜀ好᠀このᤀみは　ᜀ人᠀ひとᤀそれぞれみたいだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>104</NumberOfLabels>
+  <NumberOfStrings>104</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>4195092</Id>
+          <Value>はっ！　ᜀ君᠀きみᤀは　もしかして
+ᜀ事務所᠀じむしょᤀから　ᜀ来᠀きᤀてくれたᜀ人᠀ひとᤀ？
+ᜀ待᠀まᤀってたよ　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>17957135</Id>
+          <Value>えっ　なんの　ᜀ話᠀はなしᤀですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>35258892</Id>
+          <Value>なんだ　ᜀ違᠀ちがᤀうのかあ…
+ᜀ困᠀こまᤀったなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987274</Id>
+          <Value>どうかしたんですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>70517521</Id>
+          <Value>うん　あのね
+ヨンゲンᜀ山᠀さんᤀの　ᜀ道標᠀みちしるべᤀを
+メンテナンスしに　ᜀ来᠀きᤀたんだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>87425809</Id>
+          <Value>いやあ　オレ　ᜀ忘᠀わすᤀれっぽくてさあ
+セキュリティの　パスワードを
+ᜀ忘᠀わすᤀれてきちゃったんだよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>102236436</Id>
+          <Value>ええっ　ᜀ一大事᠀いちだいじᤀじゃないですか！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>120193807</Id>
+          <Value>そうなんだよ
+ロックを　ᜀ解除᠀かいじょᤀしないと
+ᜀ仕事᠀しごとᤀが　できなくてネ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_009</Key>
+      <Values>
+        <BtxtString>
+          <Id>138543890</Id>
+          <Value>パスワードを　ᜀ確認᠀かくにんᤀするには
+ᜀ山᠀やまᤀを　ᜀ下᠀おᤀりて　ᜀ事務所᠀じむしょᤀに
+ᜀ戻᠀もどᤀらないと　いけなくてさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_010</Key>
+      <Values>
+        <BtxtString>
+          <Id>154141462</Id>
+          <Value>それが　ちっとも
+ᜀ覚᠀おぼᤀえられなくて…
+かれこれ　５ᜀ往復᠀おうふくᤀくらい　しちゃったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_011</Key>
+      <Values>
+        <BtxtString>
+          <Id>169607694</Id>
+          <Value>そんなに　やっても
+ᜀ覚᠀おぼᤀえられないんですか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_012</Key>
+      <Values>
+        <BtxtString>
+          <Id>187958039</Id>
+          <Value>うん
+オレって　ᜀ忘᠀わすᤀれっぽくてさあ
+メモᜀ禁止᠀きんしᤀっていうから　ᜀ大変᠀たいへんᤀなんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_013</Key>
+      <Values>
+        <BtxtString>
+          <Id>204079886</Id>
+          <Value>でも　さすがに
+ちょっと　ᜀ休᠀やすᤀもうかな…
+ああ　ほんと　ᜀ困᠀こまᤀったなあ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_014</Key>
+      <Values>
+        <BtxtString>
+          <Id>221250319</Id>
+          <Value>このᜀ人᠀ひとᤀ　ᜀ放᠀ほうᤀっておいたら
+いつまで　たっても
+ᜀ仕事᠀しごとᤀが　できないぞ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_015</Key>
+      <Values>
+        <BtxtString>
+          <Id>239993623</Id>
+          <Value>ロックの　ᜀ解除᠀かいじょᤀくらいなら
+システムᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀで
+ᜀ手伝᠀てつだᤀってあげても　いいとᜀ思᠀おもᤀうけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q1</Key>
+      <Values>
+        <BtxtString>
+          <Id>253624599</Id>
+          <Value>ロックのᜀ解除᠀かいじょᤀを　ᜀ手伝᠀てつだᤀってあげる？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_016</Key>
+      <Values>
+        <BtxtString>
+          <Id>271975187</Id>
+          <Value>あの…　オレ　もしかしたら
+ロックを　ᜀ解除᠀かいじょᤀする
+おᜀ手伝᠀てつだᤀいが　できるかもしれません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_017</Key>
+      <Values>
+        <BtxtString>
+          <Id>290063125</Id>
+          <Value>えっ　ᜀ本当᠀ほんとうᤀ？　なんだ　ᜀ君᠀きみᤀってば
+やっぱり　ᜀ事務᠀じむᤀᜀ所᠀しょᤀから
+ᜀ来᠀きᤀてくれたᜀ人᠀ひとᤀ　だったんじゃない！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_018</Key>
+      <Values>
+        <BtxtString>
+          <Id>305267475</Id>
+          <Value>セキュリティには　いくつか
+レベルが　あるけど…
+ᜀ君᠀きみᤀは　どこまで　ᜀ開᠀あᤀけてくれるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2</Key>
+      <Values>
+        <BtxtString>
+          <Id>320078097</Id>
+          <Value>どのレベルに　ᜀ挑戦᠀ちょうせんᤀする？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A1</Key>
+      <Values>
+        <BtxtString>
+          <Id>336199946</Id>
+          <Value>レベル１（カンタン）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_019</Key>
+      <Values>
+        <BtxtString>
+          <Id>353370636</Id>
+          <Value>じゃあ
+カンタンな　ところから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_020</Key>
+      <Values>
+        <BtxtString>
+          <Id>370934286</Id>
+          <Value>レベル１だね
+ᜀ助᠀たすᤀかるよ　おᜀ願᠀ねがᤀいね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A2</Key>
+      <Values>
+        <BtxtString>
+          <Id>386793739</Id>
+          <Value>レベル２（ᜀ普通᠀ふつうᤀ）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_021</Key>
+      <Values>
+        <BtxtString>
+          <Id>403833355</Id>
+          <Value>じゃあ
+ᜀ普通᠀ふつうᤀの　ヤツで…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_022</Key>
+      <Values>
+        <BtxtString>
+          <Id>421003789</Id>
+          <Value>レベル２かな！
+ありがとう　おᜀ願᠀ねがᤀいね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_GAME_Q2_A3</Key>
+      <Values>
+        <BtxtString>
+          <Id>436994315</Id>
+          <Value>レベル３（むずかしい）</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_023</Key>
+      <Values>
+        <BtxtString>
+          <Id>453902606</Id>
+          <Value>むずかしいので　いいですよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_024</Key>
+      <Values>
+        <BtxtString>
+          <Id>471466509</Id>
+          <Value>レベル３まで　いっちゃう？
+たのんだよ　よろしくね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_025</Key>
+      <Values>
+        <BtxtString>
+          <Id>487588361</Id>
+          <Value>やあ
+また　ᜀ会᠀あᤀったね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_026</Key>
+      <Values>
+        <BtxtString>
+          <Id>504889617</Id>
+          <Value>ᜀ今日᠀きょうᤀも　おᜀ仕事᠀しごとᤀですか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_027</Key>
+      <Values>
+        <BtxtString>
+          <Id>523240209</Id>
+          <Value>そうだよ
+おᜀ察᠀さっᤀしのとおり　ᜀ今日᠀きょうᤀも
+パスワードを　ᜀ忘᠀わすᤀれちゃったのさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_028</Key>
+      <Values>
+        <BtxtString>
+          <Id>537395463</Id>
+          <Value>また　ですか…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_029</Key>
+      <Values>
+        <BtxtString>
+          <Id>558236434</Id>
+          <Value>パスワードを　ᜀ確認᠀かくにんᤀするには
+ᜀ山᠀やまᤀを　ᜀ下᠀おᤀりて　ᜀ事務᠀じむᤀᜀ所᠀しょᤀに
+ᜀ戻᠀もどᤀらないと　いけなくてさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_030</Key>
+      <Values>
+        <BtxtString>
+          <Id>573571862</Id>
+          <Value>それが　ちっとも
+ᜀ覚᠀おぼᤀえられなくて…
+かれこれ　５ᜀ往復᠀おうふくᤀくらい　しちゃったよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_031</Key>
+      <Values>
+        <BtxtString>
+          <Id>589169169</Id>
+          <Value>そんなに　やっても
+まだ　ᜀ覚᠀おぼᤀえられないんですか！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_032</Key>
+      <Values>
+        <BtxtString>
+          <Id>607519508</Id>
+          <Value>やっぱり　このᜀ人᠀ひとᤀ　ᜀ放᠀ほうᤀっておいたら
+いつまで　たっても
+ᜀ仕事᠀しごとᤀが　できないぞ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_033</Key>
+      <Values>
+        <BtxtString>
+          <Id>625869591</Id>
+          <Value>ロックの　ᜀ解除᠀かいじょᤀくらいなら
+システムᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀで
+ᜀ手伝᠀てつだᤀってあげても　いいとᜀ思᠀おもᤀうけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_034</Key>
+      <Values>
+        <BtxtString>
+          <Id>638583305</Id>
+          <Value>やあ
+また　ᜀ会᠀あᤀったね～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_035</Key>
+      <Values>
+        <BtxtString>
+          <Id>656278028</Id>
+          <Value>そのᜀ後᠀ごᤀ　どうですか？
+ロックの　ᜀ解除᠀かいじょᤀは</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_036</Key>
+      <Values>
+        <BtxtString>
+          <Id>673055247</Id>
+          <Value>できないままだよ
+いやぁ　ᜀ困᠀こまᤀった　ᜀ困᠀こまᤀった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_037</Key>
+      <Values>
+        <BtxtString>
+          <Id>689832215</Id>
+          <Value>おᜀ仕事᠀しごとᤀ　ᜀ大丈夫᠀だいじょうぶᤀなんですか…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_038</Key>
+      <Values>
+        <BtxtString>
+          <Id>709231378</Id>
+          <Value>パスワードを　ᜀ確認᠀かくにんᤀするには
+ᜀ山᠀やまᤀを　ᜀ下᠀おᤀりて　ᜀ事務᠀じむᤀᜀ所᠀しょᤀに
+ᜀ戻᠀もどᤀらないと　いけなくてさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_039</Key>
+      <Values>
+        <BtxtString>
+          <Id>726008598</Id>
+          <Value>５ᜀ往復᠀おうふくᤀしても　ᜀ覚᠀おぼᤀえられなかったし
+それに　ᜀ疲᠀つかᤀれちゃったから
+ここで　しばらく　ᜀ休᠀やすᤀむことにしたよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_040</Key>
+      <Values>
+        <BtxtString>
+          <Id>738590981</Id>
+          <Value>ええー！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_041</Key>
+      <Values>
+        <BtxtString>
+          <Id>758514452</Id>
+          <Value>やっぱり　このᜀ人᠀ひとᤀ　ᜀ放᠀ほうᤀっておいたら
+いつまで　たっても
+ᜀ仕事᠀しごとᤀが　できないぞ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_042</Key>
+      <Values>
+        <BtxtString>
+          <Id>776864535</Id>
+          <Value>ロックの　ᜀ解除᠀かいじょᤀくらいなら
+システムᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀで
+ᜀ手伝᠀てつだᤀってあげても　いいとᜀ思᠀おもᤀうけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_043</Key>
+      <Values>
+        <BtxtString>
+          <Id>790495757</Id>
+          <Value>やあ　さっきは　ありがとう
+おかげで　ᜀ助᠀たすᤀかったよ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_044</Key>
+      <Values>
+        <BtxtString>
+          <Id>807010833</Id>
+          <Value>よかった！
+これで　おᜀ仕事᠀しごとᤀ　できますね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_045</Key>
+      <Values>
+        <BtxtString>
+          <Id>826540820</Id>
+          <Value>うん　それでさ　ᜀ君᠀きみᤀが
+ᜀ事務所᠀じむしょᤀのᜀ人᠀ひとᤀなら　もうᜀ少᠀すこᤀし
+ロックの　ᜀ解除᠀かいじょᤀを　していってよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_046</Key>
+      <Values>
+        <BtxtString>
+          <Id>840434189</Id>
+          <Value>えっ？　さっき
+ᜀ解除᠀かいじょᤀしたはずじゃ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_047</Key>
+      <Values>
+        <BtxtString>
+          <Id>860226325</Id>
+          <Value>それがさ～　パスワードᜀ認証᠀にんしょうᤀが
+ᜀ何回᠀なんかいᤀか　ᜀ必要᠀ひつようᤀなところとかさ
+なかなか　ᜀ進᠀すすᤀまないんだよね</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_048</Key>
+      <Values>
+        <BtxtString>
+          <Id>874775057</Id>
+          <Value>このᜀ人᠀ひとᤀ　いろいろと
+ᜀ大丈夫᠀だいじょうぶᤀ　なのかなあ…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_049</Key>
+      <Values>
+        <BtxtString>
+          <Id>894305047</Id>
+          <Value>ロックの　ᜀ解除᠀かいじょᤀくらいなら
+システムᜀ属性᠀ぞくせいᤀの　アプモンの　ᜀ力᠀ちからᤀで
+ᜀ手伝᠀てつだᤀってあげても　いいとᜀ思᠀おもᤀうけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_050</Key>
+      <Values>
+        <BtxtString>
+          <Id>907936269</Id>
+          <Value>ロックの　ᜀ解除᠀かいじょᤀなら
+ᜀ手伝᠀てつだᤀえますよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_051</Key>
+      <Values>
+        <BtxtString>
+          <Id>924582413</Id>
+          <Value>ᜀ本当᠀ほんとうᤀ？
+ᜀ助᠀たすᤀかるよ　ありがとう～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_052</Key>
+      <Values>
+        <BtxtString>
+          <Id>942801683</Id>
+          <Value>セキュリティには　いくつか
+レベルが　あるけど…
+ᜀ君᠀きみᤀは　どこまで　ᜀ開᠀あᤀけてくれるの？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_053</Key>
+      <Values>
+        <BtxtString>
+          <Id>957350411</Id>
+          <Value>うーん…
+やっぱり　わからない？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_054</Key>
+      <Values>
+        <BtxtString>
+          <Id>977142553</Id>
+          <Value>まあ　いいよ
+もう　しばらく　ᜀ休᠀やすᤀんだら
+ᜀ自分᠀じぶんᤀで　ᜀ調᠀しらᤀべにᜀ行᠀いᤀくから　ᜀ気᠀きᤀにしないで</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_055</Key>
+      <Values>
+        <BtxtString>
+          <Id>992870930</Id>
+          <Value>たぶん　あと　５ᜀ往復᠀おうふくᤀくらいで
+ᜀ解決᠀かいけつᤀすると　ᜀ思᠀おもᤀうからさ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_056</Key>
+      <Values>
+        <BtxtString>
+          <Id>1006895363</Id>
+          <Value>………</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_057</Key>
+      <Values>
+        <BtxtString>
+          <Id>1024852493</Id>
+          <Value>…あっ！
+ᜀ解除᠀かいじょᤀできたみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_058</Key>
+      <Values>
+        <BtxtString>
+          <Id>1041891854</Id>
+          <Value>よかった　これで
+おᜀ仕事᠀しごとᤀが　できますね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_059</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058406922</Id>
+          <Value>うん　ᜀ助᠀たすᤀかったよ
+ありがとうー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_060</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076232976</Id>
+          <Value>なんだ　なんだ
+ᜀ俺᠀おれᤀの　セキュリティのᜀ前᠀まえᤀで
+やかましいな！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_061</Key>
+      <Values>
+        <BtxtString>
+          <Id>1091305739</Id>
+          <Value>あっ　プロテクモン…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_062</Key>
+      <Values>
+        <BtxtString>
+          <Id>1110967055</Id>
+          <Value>…とᜀ思᠀おもᤀったら　こいつ　また
+パスワードを　ᜀ忘᠀わすᤀれたのか！
+まったく　ᜀ困᠀こまᤀったヤツだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_063</Key>
+      <Values>
+        <BtxtString>
+          <Id>1128399635</Id>
+          <Value>ᜀ君᠀きみᤀが　ᜀ手伝᠀てつだᤀってくれたのだな？
+ᜀ大変᠀たいへんᤀ　ᜀ世話᠀せわᤀになった…
+これを　ᜀ持᠀もᤀっていってくれ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_064</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141768461</Id>
+          <Value>ありがとう　プロテクモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_065</Key>
+      <Values>
+        <BtxtString>
+          <Id>1162478363</Id>
+          <Value>このᜀ職員᠀しょくいんᤀは　いつも　このᜀ調子᠀ちょうしᤀなのだ…
+ᜀ君᠀きみᤀが　よければ　また
+ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀにきてくれないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_066</Key>
+      <Values>
+        <BtxtString>
+          <Id>1178469140</Id>
+          <Value>ᜀ明日᠀あしたᤀの　メンテナンスᜀ担当᠀たんとうᤀも
+このᜀ男᠀おとこᤀ　だったはずだ…
+ᜀ気᠀きᤀがむいたら　よろしくな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_067</Key>
+      <Values>
+        <BtxtString>
+          <Id>1192624653</Id>
+          <Value>…おおー！
+ᜀ解除᠀かいじょᤀできたみたい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_068</Key>
+      <Values>
+        <BtxtString>
+          <Id>1209664014</Id>
+          <Value>よかった　これで
+おᜀ仕事᠀しごとᤀが　できますね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_069</Key>
+      <Values>
+        <BtxtString>
+          <Id>1227096591</Id>
+          <Value>うん　ᜀ君᠀きみᤀって　すごいね！
+ᜀ助᠀たすᤀかったよ　ありがとうー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_070</Key>
+      <Values>
+        <BtxtString>
+          <Id>1244791570</Id>
+          <Value>おいおい
+ᜀ俺᠀おれᤀの　セキュリティを　ᜀ破᠀やぶᤀって
+いったい　ᜀ何᠀なにᤀを　してるんだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_071</Key>
+      <Values>
+        <BtxtString>
+          <Id>1259077899</Id>
+          <Value>あっ　プロテクモン…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_072</Key>
+      <Values>
+        <BtxtString>
+          <Id>1278739215</Id>
+          <Value>…とᜀ思᠀おもᤀったら　こいつ　また
+パスワードを　ᜀ忘᠀わすᤀれたのか！
+まったく　ᜀ困᠀こまᤀったヤツだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_073</Key>
+      <Values>
+        <BtxtString>
+          <Id>1296171795</Id>
+          <Value>ᜀ君᠀きみᤀが　ᜀ手伝᠀てつだᤀってくれたのだな？
+ᜀ大変᠀たいへんᤀ　ᜀ世話᠀せわᤀになった…
+これを　ᜀ持᠀もᤀっていってくれ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_074</Key>
+      <Values>
+        <BtxtString>
+          <Id>1309540621</Id>
+          <Value>ありがとう　プロテクモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_075</Key>
+      <Values>
+        <BtxtString>
+          <Id>1330250523</Id>
+          <Value>このᜀ職員᠀しょくいんᤀは　いつも　このᜀ調子᠀ちょうしᤀなのだ…
+ᜀ君᠀きみᤀが　よければ　また
+ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀにきてくれないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_076</Key>
+      <Values>
+        <BtxtString>
+          <Id>1346241300</Id>
+          <Value>ᜀ明日᠀あしたᤀの　メンテナンスᜀ担当᠀たんとうᤀも
+このᜀ男᠀おとこᤀ　だったはずだ…
+ᜀ気᠀きᤀがむいたら　よろしくな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_077</Key>
+      <Values>
+        <BtxtString>
+          <Id>1361183251</Id>
+          <Value>うわー！　すごいね！
+レベル３まで　ᜀ解除᠀かいじょᤀしちゃった！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_078</Key>
+      <Values>
+        <BtxtString>
+          <Id>1379271446</Id>
+          <Value>こんなことが　できるなんて
+ᜀ君᠀きみᤀって　もしかして
+オレより　えらい　ᜀ職員᠀しょくいんᤀさんなの…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_079</Key>
+      <Values>
+        <BtxtString>
+          <Id>1394082317</Id>
+          <Value>とにかく　ᜀ助᠀たすᤀかったよ！
+ありがとうー！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_080</Key>
+      <Values>
+        <BtxtString>
+          <Id>1410990606</Id>
+          <Value>よかった　これで
+おᜀ仕事᠀しごとᤀが　できますね！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_081</Key>
+      <Values>
+        <BtxtString>
+          <Id>1429472014</Id>
+          <Value>このᜀ俺᠀おれᤀの　セキュリティを
+ここまで　ᜀ破᠀やぶᤀるとは…！
+いったい　なんの　ᜀ用᠀ようᤀだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_082</Key>
+      <Values>
+        <BtxtString>
+          <Id>1443627275</Id>
+          <Value>あっ　プロテクモン…！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_083</Key>
+      <Values>
+        <BtxtString>
+          <Id>1463550738</Id>
+          <Value>…とᜀ思᠀おもᤀったら　こいつか！
+また　パスワードを　ᜀ忘᠀わすᤀれたのか！
+いいᜀ加減᠀かげんᤀにしろ！　まったく！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_084</Key>
+      <Values>
+        <BtxtString>
+          <Id>1480721171</Id>
+          <Value>ᜀ君᠀きみᤀが　ᜀ手伝᠀てつだᤀってくれたのだな？
+ᜀ大変᠀たいへんᤀ　ᜀ世話᠀せわᤀになった…
+これを　ᜀ持᠀もᤀっていってくれ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_085</Key>
+      <Values>
+        <BtxtString>
+          <Id>1494089997</Id>
+          <Value>ありがとう　プロテクモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_086</Key>
+      <Values>
+        <BtxtString>
+          <Id>1514275606</Id>
+          <Value>いや　こちらこそ　ありがとう
+このᜀ職員᠀しょくいんᤀの　ᜀ覚᠀おぼᤀえのᜀ悪᠀わるᤀさには
+いつも　ᜀ困᠀こまᤀらされているのだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_087</Key>
+      <Values>
+        <BtxtString>
+          <Id>1531970324</Id>
+          <Value>ᜀ君᠀きみᤀのように　ᜀ助᠀たすᤀけてくれるᜀ人᠀ひとᤀが
+いるのなら　ᜀ実力᠀じつりょくᤀが　ᜀ出᠀だᤀせる
+ᜀ男᠀おとこᤀなのだとは　ᜀ思᠀おもᤀうがな…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_088</Key>
+      <Values>
+        <BtxtString>
+          <Id>1546125842</Id>
+          <Value>ᜀ君᠀きみᤀが　よければ　また
+ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀにきてくれないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_089</Key>
+      <Values>
+        <BtxtString>
+          <Id>1564345108</Id>
+          <Value>ᜀ明日᠀あしたᤀの　メンテナンスᜀ担当᠀たんとうᤀも
+このᜀ男᠀おとこᤀ　だったはずだ…
+ᜀ気᠀きᤀがむいたら　よろしくな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>1578500622</Id>
+          <Value>わあ！
+ありがとう　ᜀ助᠀たすᤀかったよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>1595539979</Id>
+          <Value>ᜀ役᠀やくᤀに　ᜀ立᠀たᤀてたなら
+よかったです！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>1613366032</Id>
+          <Value>むう　ᜀ君᠀きみᤀか
+また　ᜀ手伝᠀てつだᤀってくれたのだな
+いつも　ありがとう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>1632240411</Id>
+          <Value>このᜀ職員᠀しょくいんᤀは　いつも　このᜀ調子᠀ちょうしᤀなのだ…
+ᜀ君᠀きみᤀが　よければ　また
+ᜀ様子᠀ようすᤀを　ᜀ見᠀みᤀにきてくれないか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>1648231188</Id>
+          <Value>ᜀ明日᠀あしたᤀの　メンテナンスᜀ担当᠀たんとうᤀも
+このᜀ男᠀おとこᤀ　だったはずだ…
+ᜀ気᠀きᤀがむいたら　よろしくな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_014_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1664221967</Id>
+          <Value>このᜀ人᠀ひとᤀ　ᜀ放᠀ほうᤀっておいたら
+いつまで　たっても
+ᜀ仕事᠀しごとᤀが　できないわよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_016_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1681261331</Id>
+          <Value>あの…　ワタシ　もしかしたら
+ロックを　ᜀ解除᠀かいじょᤀする
+おᜀ手伝᠀てつだᤀいが　できるかもしれません</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_032_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1698038548</Id>
+          <Value>やっぱり　このᜀ人᠀ひとᤀ　ᜀ放᠀ほうᤀっておいたら
+いつまで　たっても
+ᜀ仕事᠀しごとᤀが　できないわよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_041_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1714815764</Id>
+          <Value>やっぱり　このᜀ人᠀ひとᤀ　ᜀ放᠀ほうᤀっておいたら
+いつまで　たっても
+ᜀ仕事᠀しごとᤀが　できないわよ…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_LOOP_09_048_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1730282000</Id>
+          <Value>このᜀ人᠀ひとᤀ　いろいろと
+ᜀ大丈夫᠀だいじょうぶᤀなのかしら…？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

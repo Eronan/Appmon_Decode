@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>71</NumberOfLabels>
+  <NumberOfStrings>71</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_090</Key>
+      <Values>
+        <BtxtString>
+          <Id>3015437</Id>
+          <Value>ᜀ町᠀まちᤀの　ᜀ北側᠀きたがわᤀで
+あやしい　ＡＲダンジョンは
+ᜀ見᠀みᤀつかったかい？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_091</Key>
+      <Values>
+        <BtxtString>
+          <Id>20185876</Id>
+          <Value>キミたちに　まかせてばかりで
+ᜀ申᠀もうᤀしわけないね…
+ボクも　アプリドライヴが　ᜀ使᠀つかᤀえれば…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_092</Key>
+      <Values>
+        <BtxtString>
+          <Id>35783438</Id>
+          <Value>どうしたのかしら？
+スマホが　ちっとも
+つながらなくなっちゃったのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_093</Key>
+      <Values>
+        <BtxtString>
+          <Id>51773962</Id>
+          <Value>ᜀ買᠀かᤀったばかりなのに
+ショックだわ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_094</Key>
+      <Values>
+        <BtxtString>
+          <Id>68420107</Id>
+          <Value>おい　オンモン
+もしかして　これって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_095</Key>
+      <Values>
+        <BtxtString>
+          <Id>85197329</Id>
+          <Value>うん
+ここから　イヤなニオイ　してるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_096</Key>
+      <Values>
+        <BtxtString>
+          <Id>103416592</Id>
+          <Value>それじゃあ
+ＡＲフィールドᜀ側᠀がわᤀに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_097</Key>
+      <Values>
+        <BtxtString>
+          <Id>119669518</Id>
+          <Value>どうしたのかしら？
+スマホが　ちっとも
+つながらなくなっちゃったのよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_098</Key>
+      <Values>
+        <BtxtString>
+          <Id>135660042</Id>
+          <Value>ᜀ買᠀かᤀったばかりなのに
+ショックだわ～</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_099</Key>
+      <Values>
+        <BtxtString>
+          <Id>155321106</Id>
+          <Value>ᜀ新᠀あたらᤀしいスマホを　ᜀ買᠀かᤀったのよ！
+ᜀ前᠀まえᤀのより　ᜀ使᠀つかᤀいやすくて
+ホント　ᜀ買᠀かᤀってよかったわ！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_100</Key>
+      <Values>
+        <BtxtString>
+          <Id>169476876</Id>
+          <Value>ᰏ！
+ここだ！　ここから
+イヤなニオイ　してるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_101</Key>
+      <Values>
+        <BtxtString>
+          <Id>186516235</Id>
+          <Value>よし　オンモン
+この　ＡＲダンジョンを
+ᜀ調᠀しらᤀべよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_102</Key>
+      <Values>
+        <BtxtString>
+          <Id>205259541</Id>
+          <Value>ᜀ右᠀みぎᤀへ　フリック！　ᜀ上᠀うえᤀへ　フリック！
+ᜀ文字᠀もじᤀを　ニュウリョック！
+フリック！　フリック～！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_103</Key>
+      <Values>
+        <BtxtString>
+          <Id>221774611</Id>
+          <Value>おᜀ前᠀まえᤀが　オヤビンって　ヤツなのか？
+それとも　３ᜀ悪᠀あくᤀモンのうちの
+１ᜀ体᠀たいᤀってことか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_104</Key>
+      <Values>
+        <BtxtString>
+          <Id>240648982</Id>
+          <Value>ᜀ何᠀なにᤀも　ᜀ聞᠀きᤀこえないフリック！
+ᜀ右᠀みぎᤀからᜀ左᠀ひだりᤀへ　ᜀ左᠀ひだりᤀからᜀ右᠀みぎᤀへ
+ᜀ聞᠀きᤀきᜀ流᠀ながᤀすフリック！　ᜀ知᠀しᤀらんフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_105</Key>
+      <Values>
+        <BtxtString>
+          <Id>254411534</Id>
+          <Value>こいつも　バトルで
+ᜀ止᠀とᤀめるしか　ないみたいだな
+ᜀ行᠀いᤀくぞ　オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_106</Key>
+      <Values>
+        <BtxtString>
+          <Id>268697859</Id>
+          <Value>おう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_107</Key>
+      <Values>
+        <BtxtString>
+          <Id>289276440</Id>
+          <Value>ᜀ右᠀みぎᤀへ　フリック！　ᜀ上᠀うえᤀへ　フリック！
+ジャマなᜀ用件᠀ようけんᤀは　ᜀ聞᠀きᤀきᜀ流᠀ながᤀすフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_108</Key>
+      <Values>
+        <BtxtString>
+          <Id>303300878</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_109</Key>
+      <Values>
+        <BtxtString>
+          <Id>321782542</Id>
+          <Value>ᜀ負᠀まᤀけたフリック！
+このダメージは　どこにも
+ᜀ受᠀うᤀけᜀ流᠀ながᤀせないフリック！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_110</Key>
+      <Values>
+        <BtxtString>
+          <Id>338035470</Id>
+          <Value>さあ　フリックモン
+オヤビンって　ᜀ誰᠀だれᤀなんだ？
+ᜀ答᠀こたᤀえろ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_111</Key>
+      <Values>
+        <BtxtString>
+          <Id>353632781</Id>
+          <Value>「ジャ」「ミ」「ン」「グ」
+「モ」「ン」</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_112</Key>
+      <Values>
+        <BtxtString>
+          <Id>371720972</Id>
+          <Value>ジャミングモン？
+そいつが　おᜀ前᠀まえᤀたちに
+ᜀ命令᠀めいれいᤀしたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_113</Key>
+      <Values>
+        <BtxtString>
+          <Id>390071071</Id>
+          <Value>しまったフリック！
+ᜀ質問᠀しつもんᤀのᜀ答᠀こたᤀえを　ᜀ正確᠀せいかくᤀに　ᜀ入力᠀にゅうりょくᤀして
+しまったフリック～！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_114</Key>
+      <Values>
+        <BtxtString>
+          <Id>402784512</Id>
+          <Value />
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_115</Key>
+      <Values>
+        <BtxtString>
+          <Id>420479496</Id>
+          <Value>アイツも
+ᜀ逃᠀にᤀげていったぞ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_116</Key>
+      <Values>
+        <BtxtString>
+          <Id>437649931</Id>
+          <Value>でも　フリックモンは
+オヤビンじゃなかったな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_117</Key>
+      <Values>
+        <BtxtString>
+          <Id>455344914</Id>
+          <Value>ああ　だけど
+オヤビンっていうのが
+ジャミングモンだってことが　わかった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_118</Key>
+      <Values>
+        <BtxtString>
+          <Id>472121872</Id>
+          <Value>あとは　ジャミングモンの
+ᜀ居場所᠀いばしょᤀを　ᜀ探᠀さがᤀすだけだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_119</Key>
+      <Values>
+        <BtxtString>
+          <Id>488112655</Id>
+          <Value>オンモン
+イヤなニオイ　もっとᜀ探᠀さがᤀす！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_120</Key>
+      <Values>
+        <BtxtString>
+          <Id>504234504</Id>
+          <Value>よし　たのんだぞ
+オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_121</Key>
+      <Values>
+        <BtxtString>
+          <Id>521011470</Id>
+          <Value>マコトから　アプリトークだ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_122</Key>
+      <Values>
+        <BtxtString>
+          <Id>538706450</Id>
+          <Value>ᰏ！
+おᜀ前᠀まえᤀ　ᜀ今᠀いまᤀ　どこに　いるんだ？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_123</Key>
+      <Values>
+        <BtxtString>
+          <Id>556663318</Id>
+          <Value>ᜀ橋᠀はしᤀを　ᜀ渡᠀わたᤀった
+ᜀ街路樹᠀がいろじゅᤀのある　ᜀ遊歩道᠀ゆうほどうᤀだよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_124</Key>
+      <Values>
+        <BtxtString>
+          <Id>573702681</Id>
+          <Value>そうか　ちょうどいいな
+ᜀ俺᠀おれᤀが　ᜀ駅前᠀えきまえᤀで　ᜀ聞᠀きᤀいたᜀ話᠀はなしᤀだけど…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_125</Key>
+      <Values>
+        <BtxtString>
+          <Id>590349070</Id>
+          <Value>そこの　ᜀ遊歩道᠀ゆうほどうᤀの
+ᜀ出口᠀でぐちᤀを　ᜀ出᠀でᤀたところに
+コンビニが　あるんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_126</Key>
+      <Values>
+        <BtxtString>
+          <Id>606995224</Id>
+          <Value>そこに　ある
+ᜀ自動販売機᠀じどうはんばいきᤀの　ᜀ操作᠀そうさᤀパネルが
+あやしいらしい</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_127</Key>
+      <Values>
+        <BtxtString>
+          <Id>622723352</Id>
+          <Value>ᜀ自動販売機᠀じどうはんばいきᤀの　ᜀ操作᠀そうさᤀパネル？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_128</Key>
+      <Values>
+        <BtxtString>
+          <Id>641467159</Id>
+          <Value>そのᜀ前᠀まえᤀで　ᜀ電波᠀でんぱᤀが　つながらなくなって
+アプリドライヴで　バトルが
+できなくなったヤツが　いたんだ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_129</Key>
+      <Values>
+        <BtxtString>
+          <Id>655360520</Id>
+          <Value>わかった
+ᜀ調᠀しらᤀべてみるよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_130</Key>
+      <Values>
+        <BtxtString>
+          <Id>674759442</Id>
+          <Value>それじゃあ　そっちは　まかせた
+こっちは　もうᜀ少᠀すこᤀし
+ᜀ情報᠀じょうほうᤀを　ᜀ集᠀あつᤀめておくから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>690488084</Id>
+          <Value>よし
+コンビニの　ᜀ自動販売機᠀じどうはんばいきᤀを
+ᜀ調᠀しらᤀべてみよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_131</Key>
+      <Values>
+        <BtxtString>
+          <Id>707265300</Id>
+          <Value>よし
+コンビニの　ᜀ自動販売機᠀じどうはんばいきᤀを
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_132</Key>
+      <Values>
+        <BtxtString>
+          <Id>722731533</Id>
+          <Value>あれ？
+こっちに　ᜀ来᠀きᤀちゃったのか</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_133</Key>
+      <Values>
+        <BtxtString>
+          <Id>740819476</Id>
+          <Value>コンビニの　ᜀ自動販売機᠀じどうはんばいきᤀは
+もう　ᜀ調᠀しらᤀべてみたのか？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_134</Key>
+      <Values>
+        <BtxtString>
+          <Id>755761672</Id>
+          <Value>そう！
+そうなんですよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_135</Key>
+      <Values>
+        <BtxtString>
+          <Id>775684888</Id>
+          <Value>ボクの　アプリドライヴが
+ᜀ自動販売機᠀じどうはんばいきᤀの　ᜀ操作᠀そうさᤀパネルで
+ᜀ選᠀えらᤀんでいたときから…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_136</Key>
+      <Values>
+        <BtxtString>
+          <Id>790364685</Id>
+          <Value>ᜀ電波᠀でんぱᤀが　つながらなく
+なっちゃったんですよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_137</Key>
+      <Values>
+        <BtxtString>
+          <Id>807010833</Id>
+          <Value>えっと…
+こいつが　さっき　ᜀ言᠀いᤀっていたヤツ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_138</Key>
+      <Values>
+        <BtxtString>
+          <Id>824312339</Id>
+          <Value>ねぇ　マコトさん
+ボクのᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてくださいよ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_139</Key>
+      <Values>
+        <BtxtString>
+          <Id>840958480</Id>
+          <Value>アプリドライヴが　つながらなくて
+どんなに　かなしんでいるか！！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_140</Key>
+      <Values>
+        <BtxtString>
+          <Id>859308817</Id>
+          <Value>あー　そんなワケで
+こいつの　ᜀ話᠀はなしᤀを　ᜀ聞᠀きᤀいてから
+もうᜀ少᠀すこᤀし　ᜀ調᠀しらᤀべてみるから</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_141</Key>
+      <Values>
+        <BtxtString>
+          <Id>874250773</Id>
+          <Value>ᰏは
+ᜀ自動販売機᠀じどうはんばいきᤀのほうを　たのむ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_142</Key>
+      <Values>
+        <BtxtString>
+          <Id>889848327</Id>
+          <Value>あ…
+うん　わかった</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_143</Key>
+      <Values>
+        <BtxtString>
+          <Id>907805202</Id>
+          <Value>それでですね
+ボクの　かなしみは　ᜀ海᠀うみᤀのように…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_144</Key>
+      <Values>
+        <BtxtString>
+          <Id>925237781</Id>
+          <Value>ほら　こっちは　いいから
+ᜀ自動販売機᠀じどうはんばいきᤀのほうを　たのむ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_145</Key>
+      <Values>
+        <BtxtString>
+          <Id>941228812</Id>
+          <Value>ᰏ！
+ここだ！　ここから
+イヤなニオイ　してるぞ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_146</Key>
+      <Values>
+        <BtxtString>
+          <Id>958267923</Id>
+          <Value>よし　オンモン
+この　ＡＲダンジョンを　ᜀ調᠀しらᤀべよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_094_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>974389771</Id>
+          <Value>ねぇ　オンモン
+もしかして　これって…</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_096_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>992609040</Id>
+          <Value>それじゃあ
+ＡＲフィールドᜀ側᠀がわᤀに　ᜀ行᠀いᤀって
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_101_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1008993035</Id>
+          <Value>それじゃ　オンモン
+この　ＡＲダンジョンを
+ᜀ調᠀しらᤀべてみましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_103_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1026687761</Id>
+          <Value>アナタが　オヤビンって　ヤツなの？
+それとも　３ᜀ悪᠀あくᤀモンのうちの
+１ᜀ体᠀たいᤀってこと？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_105_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1043202829</Id>
+          <Value>このᜀ子᠀こᤀも　バトルで
+ᜀ止᠀とᤀめるしか　ないみたいね
+ᜀ行᠀いᤀくわよ　オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_108_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1058275598</Id>
+          <Value>ᜀ今度᠀こんどᤀは　ᜀ負᠀まᤀけないわ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_110_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1076232973</Id>
+          <Value>さあ　フリックモン
+オヤビンって　ᜀ誰᠀だれᤀなの？
+ᜀ答᠀こたᤀえなさい！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_112_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1092879115</Id>
+          <Value>ジャミングモン？
+そいつが　アナタたちに
+ᜀ命令᠀めいれいᤀしたのね？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_117_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1109525264</Id>
+          <Value>ええ　だけど
+オヤビンっていうのが
+ジャミングモンだって　わかったわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_118_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1126433296</Id>
+          <Value>あとは　ジャミングモンの
+ᜀ居場所᠀いばしょᤀを　ᜀ探᠀さがᤀすだけよ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_120_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1141899785</Id>
+          <Value>うん　たのんだわね
+オンモン！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_129_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1158677000</Id>
+          <Value>わかった
+ᜀ調᠀しらᤀべてみるわ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>TEXT_SUB_12_146_G</Key>
+      <Values>
+        <BtxtString>
+          <Id>1176502804</Id>
+          <Value>よし　オンモン
+この　ＡＲダンジョンを　ᜀ調᠀しらᤀべましょ！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

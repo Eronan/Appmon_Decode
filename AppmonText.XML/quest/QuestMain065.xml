@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1179916</Id>
+          <Value>ヒフミがᜀ丘᠀おかᤀのᜀ危機᠀ききᤀ</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17826064</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38929178</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>51380496</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72483610</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84934928</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>106038042</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118489360</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139592474</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>152043792</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>173146906</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185598224</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206701338</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>219152656</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>240255770</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252707088</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273810202</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>286261520</Id>
+          <Value>ヒフミが丘・カオスＡＲフィールド</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307364634</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>324141850</Id>
+          <Value>カオスＡＲフィールドが　なんと
+ヒフミがᜀ丘᠀おかᤀ　ᜀ全体᠀ぜんたいᤀに　ᜀ広᠀ひろᤀがりはじめた！
+まずは　ᜀ状況᠀じょうきょうᤀを　ᜀ確認᠀かくにんᤀしよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>

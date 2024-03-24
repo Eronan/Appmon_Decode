@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BtxtFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumberOfLabels>20</NumberOfLabels>
+  <NumberOfStrings>20</NumberOfStrings>
+  <Labels>
+    <BtxtLabel>
+      <Key>TITLE</Key>
+      <Values>
+        <BtxtString>
+          <Id>1442066</Id>
+          <Value>ふじみᜀ坂交流戦᠀ざかこうりゅうせんᤀ！？</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>17432842</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_000</Key>
+      <Values>
+        <BtxtString>
+          <Id>38667033</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>50987274</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_001</Key>
+      <Values>
+        <BtxtString>
+          <Id>72221465</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>84541706</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_002</Key>
+      <Values>
+        <BtxtString>
+          <Id>105775897</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>118096138</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_003</Key>
+      <Values>
+        <BtxtString>
+          <Id>139330329</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>151650570</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_004</Key>
+      <Values>
+        <BtxtString>
+          <Id>172884761</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>185205002</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_005</Key>
+      <Values>
+        <BtxtString>
+          <Id>206439193</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>218759434</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_006</Key>
+      <Values>
+        <BtxtString>
+          <Id>239993625</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>252313866</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_007</Key>
+      <Values>
+        <BtxtString>
+          <Id>273548057</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>PLACE_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>285868298</Id>
+          <Value>交流祭で優勝しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_008</Key>
+      <Values>
+        <BtxtString>
+          <Id>307102489</Id>
+          <Value>ハルたち４ᜀ人᠀にんᤀと　ᜀ自分᠀じぶんᤀをふくめた４ᜀ人᠀にんᤀで
+ᜀ交流戦᠀こうりゅうせんᤀを　することに　なった！
+ハルたちと　いいバトルを　しよう！</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+    <BtxtLabel>
+      <Key>CAPTION_FINISHED</Key>
+      <Values>
+        <BtxtString>
+          <Id>322700051</Id>
+          <Value>ハルたちとの　ᜀ交流戦᠀こうりゅうせんᤀは
+とても　ᜀ楽᠀たのᤀしかった！
+また　こうやって　ᜀ戦᠀たたかᤀえるといいな</Value>
+        </BtxtString>
+      </Values>
+    </BtxtLabel>
+  </Labels>
+</BtxtFile>
