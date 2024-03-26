@@ -2,6 +2,7 @@
 
 using Appmon.Data.BTXT.Models;
 using System.Reflection.Emit;
+using System.Runtime.CompilerServices;
 using System.Text;
 
 internal sealed class BtxtAdapter() : IBtxtAdapter
@@ -58,7 +59,7 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
 
         // Get length of each string value
         var valueLengths = new Dictionary<BtxtString, int>();
-        int valuesProcessed = 0;
+        var valuesProcessed = 0;
         foreach (var value in labels.SelectMany(label => label.Values))
         {
             valuesProcessed++;
@@ -98,13 +99,16 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         writer.Write(btxtHeader);
 
         // Write label and string counts
-        writer.Write((ushort)btxtFile.NumberOfLabels);
-        writer.Write((ushort)btxtFile.NumberOfStrings);
+        writer.Write((ushort) btxtFile.NumberOfLabels);
+        writer.Write((ushort) btxtFile.NumberOfStrings);
 
-        // Write label metadata
+        // Write labels
         foreach (var label in btxtFile.Labels)
         {
-            writer.Write((uint)label.Values.Count());
+            // Write number of strings in label
+            writer.Write((uint) label.Values.Count);
+
+            // Write string IDs
             foreach (var value in label.Values)
             {
                 writer.Write(value.Id);
@@ -112,47 +116,40 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         }
 
         // Write label offsets
+        var currentOffset = (uint) 0;
         foreach (var label in btxtFile.Labels)
         {
-            var labelStartOffset = writer.BaseStream.Position;
-            foreach (var value in label.Values)
-            {
-                writer.Write((uint)0); // Placeholder for start offset
-                writer.Write((uint)0); // Placeholder for end offset
-            }
-
-            var labelEndOffset = writer.BaseStream.Position;
-
-            // Update start offsets
-            foreach (var value in label.Values)
-            {
-                writer.Seek((int) (labelStartOffset + (value.Id * 8)), SeekOrigin.Begin);
-                writer.Write((uint) (labelStartOffset + (value.Id * 8) + 4)); // Update start offset
-                writer.Seek(0, SeekOrigin.End);
-            }
-
-            // Write end offset
-            writer.Seek((int)labelEndOffset, SeekOrigin.Begin);
+            writer.Write(currentOffset);
+            currentOffset += (uint) label.Key.Length + 2;
         }
 
-        // Write string offsets and values
+        // Write string offsets
+        foreach (var value in btxtFile.Labels.SelectMany(label => label.Values))
+        {
+            writer.Write(currentOffset);
+            currentOffset += ((uint) value.Value.Length + 2) * 2; // UTF-16 encoding
+        }
+
+        // Write label keys
         foreach (var label in btxtFile.Labels)
         {
-            foreach (var value in label.Values)
-            {
-                var stringValueBytes = Encoding.Unicode.GetBytes(value.Value);
-                writer.Write((uint)0); // Placeholder for start offset
-                writer.Write((uint)stringValueBytes.Length); // Placeholder for end offset
-                var stringValueStartOffset = writer.BaseStream.Position;
-                writer.Write(stringValueBytes);
-                var stringValueEndOffset = writer.BaseStream.Position;
-                writer.Seek((int)(stringValueStartOffset - 8), SeekOrigin.Begin);
-                writer.Write((uint)stringValueStartOffset); // Update start offset
-                writer.Write((uint)stringValueEndOffset); // Update end offset
-                writer.Seek(0, SeekOrigin.End);
-            }
+            writer.Write(Encoding.ASCII.GetBytes(label.Key));
+            writer.Write(new byte[CalculatePadding(label.Key.Length)]);
         }
 
-        writer.Close();
+        // Write string values
+        foreach (var value in btxtFile.Labels.SelectMany(label => label.Values))
+        {
+            writer.Write(Encoding.Unicode.GetBytes(value.Value));
+            writer.Write(new byte[CalculatePadding(value.Value.Length) * 2]);
+        }
+
+        static int CalculatePadding(int trimmedLength)
+        {
+            var totalLength = trimmedLength + 1;
+            var mod6 = totalLength % 6;
+            var mod8 = totalLength % 8;
+            return mod6 == 0 || mod8 == 0 ? 1 : Math.Min(6 - mod6, 8 - mod8) + 1;
+        }
     }
 }
