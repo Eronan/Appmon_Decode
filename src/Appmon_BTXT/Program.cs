@@ -1,4 +1,6 @@
-﻿using System.Xml.Serialization;
+﻿using System.Text;
+using System.Xml;
+using System.Xml.Serialization;
 using Appmon.Data.BTXT;
 using Appmon.Data.BTXT.Models;
 
@@ -53,12 +55,13 @@ internal class Program
             var xmlSerializer = new XmlSerializer(typeof(BtxtFile));
             using var xmlWriter = new StringWriter();
             xmlSerializer.Serialize(xmlWriter, btxtFile);
-            File.WriteAllText(xmlLocation, xmlWriter.ToString());
+            File.WriteAllText(xmlLocation, xmlWriter.ToString(), Encoding.Unicode);
         }
         else
         {
             Console.WriteLine($"Reading XML File from '{xmlLocation}'");
             var xmlSerializer = new XmlSerializer(typeof(BtxtFile));
+            var xmlSerializerSettings = new XmlReaderSettings();
             using var xmlFileStream = new FileStream(xmlLocation, FileMode.Open);
 
             if (xmlSerializer.Deserialize(xmlFileStream) is not BtxtFile btxtFile)
