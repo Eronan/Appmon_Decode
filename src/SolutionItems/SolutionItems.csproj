@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.Build.NoTargets/3.7.0">
+	<ItemGroup>
+		<None Include="..\..\.gitignore" />
+		<None Include="..\..\.gitattributes" />
+		<None Include="..\..\.editorconfig" />
+		<None Include="..\..\AppmonText.XML\**" Link="xml\%(RecursiveDir)\%(Filename)%(Extension)"/>
+	</ItemGroup>
+</Project>
