@@ -79,7 +79,7 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         {
             var bytes = reader.ReadBytes(valueLengths[value]);
             var stringValue = Encoding.Unicode.GetString(bytes);
-            value.Value = stringValue.Trim('\0');
+            value.Value = SerializeEscapeCharacters(stringValue.Trim('\0'));
         }
 
         reader.Close();
@@ -129,6 +129,7 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         foreach (var value in btxtFile.Labels.SelectMany(label => label.Values))
         {
             // Account for \0 value between Appmon name and "mon" section.
+            value.Value = DeserializeEscapeCharacters(value.Value);
             var paddingSize = CalculatePadding(currentOffset, value.Value.Length, 2) * 2;
             writer.Write(currentOffset);
             currentOffset += (uint) ((value.Value.Length * 2) + paddingSize); // UTF-16 encoding
@@ -155,5 +156,16 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
             var nextEndOffset = currentEndOffset + length + nullCharacterLength;
             return (int) (nextEndOffset % 2) + nullCharacterLength;
         }
+    }
+
+    private static string SerializeEscapeCharacters(string readString)
+    {
+        return readString.Replace("\r", "\\r")
+            .Replace("\n", "\\n");
+    }
+    private static string DeserializeEscapeCharacters(string readString)
+    {
+        return readString.Replace("\\r", "\r")
+            .Replace("\\n", "\n");
     }
 }
