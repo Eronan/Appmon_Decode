@@ -2,7 +2,6 @@
 
 using Appmon.Data.BTXT.Models;
 using System.Reflection.Emit;
-using System.Runtime.CompilerServices;
 using System.Text;
 
 internal sealed class BtxtAdapter() : IBtxtAdapter
@@ -78,7 +77,9 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         // Populate values for all labels
         foreach (var value in labels.SelectMany(x => x.Values))
         {
-            value.Value = Encoding.Unicode.GetString(reader.ReadBytes(valueLengths[value])).Trim('\0');
+            var bytes = reader.ReadBytes(valueLengths[value]);
+            var stringValue = Encoding.Unicode.GetString(bytes);
+            value.Value = stringValue.Trim('\0');
         }
 
         reader.Close();
@@ -119,37 +120,40 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         var currentOffset = (uint) 0;
         foreach (var label in btxtFile.Labels)
         {
+            var paddingSize = CalculatePadding(currentOffset, label.Key.Length, 3);
             writer.Write(currentOffset);
-            currentOffset += (uint) label.Key.Length + 2;
+            currentOffset += (uint) (label.Key.Length + paddingSize);
         }
 
         // Write string offsets
         foreach (var value in btxtFile.Labels.SelectMany(label => label.Values))
         {
+            // Account for \0 value between Appmon name and "mon" section.
+            var paddingSize = CalculatePadding(currentOffset, value.Value.Length, 2) * 2;
             writer.Write(currentOffset);
-            currentOffset += ((uint) value.Value.Length + 2) * 2; // UTF-16 encoding
+            currentOffset += (uint) ((value.Value.Length * 2) + paddingSize); // UTF-16 encoding
         }
 
         // Write label keys
         foreach (var label in btxtFile.Labels)
         {
+            var paddingSize = CalculatePadding(writer.BaseStream.Position, label.Key.Length, 3);
             writer.Write(Encoding.ASCII.GetBytes(label.Key));
-            writer.Write(new byte[CalculatePadding(label.Key.Length)]);
+            writer.Write(new byte[paddingSize]);
         }
 
         // Write string values
         foreach (var value in btxtFile.Labels.SelectMany(label => label.Values))
         {
+            var paddingSize = CalculatePadding(writer.BaseStream.Position, value.Value.Length, 2) * 2;
             writer.Write(Encoding.Unicode.GetBytes(value.Value));
-            writer.Write(new byte[CalculatePadding(value.Value.Length) * 2]);
+            writer.Write(new byte[paddingSize]);
         }
 
-        static int CalculatePadding(int trimmedLength)
+        static int CalculatePadding(long currentEndOffset, int length, int nullCharacterLength)
         {
-            var totalLength = trimmedLength + 1;
-            var mod6 = totalLength % 6;
-            var mod8 = totalLength % 8;
-            return mod6 == 0 || mod8 == 0 ? 1 : Math.Min(6 - mod6, 8 - mod8) + 1;
+            var nextEndOffset = currentEndOffset + length + nullCharacterLength;
+            return (int) (nextEndOffset % 2) + nullCharacterLength;
         }
     }
 }
