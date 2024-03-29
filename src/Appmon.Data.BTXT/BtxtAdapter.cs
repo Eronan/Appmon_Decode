@@ -51,6 +51,8 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         foreach (var label in labels)
         {
             var endOffset = reader.ReadUInt32();
+            label.StartOffset = startOffset;
+            label.EndOffset = endOffset;
             var length = (int)endOffset - (int)startOffset;
             labelLengths.Add(label, length);
             startOffset = endOffset;
@@ -120,9 +122,8 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         var currentOffset = (uint) 0;
         foreach (var label in btxtFile.Labels)
         {
-            var paddingSize = CalculatePadding(currentOffset, label.Key.Length, 3);
             writer.Write(currentOffset);
-            currentOffset += (uint) (label.Key.Length + paddingSize);
+            currentOffset = label.EndOffset;
         }
 
         // Write string offsets

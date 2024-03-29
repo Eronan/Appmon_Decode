@@ -72,6 +72,7 @@ internal class Program
             }
             xmlFileStream.Close();
 
+            Console.WriteLine($"Finished reading XML File, now writing file to '{btxtLocation}'...");
             using var btxtFileStream = new FileStream(btxtLocation, FileMode.Create);
             fileAdapter.WriteBtxtFileToStream(btxtFile, btxtFileStream);
             btxtFileStream.Close();
