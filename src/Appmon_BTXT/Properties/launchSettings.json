@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Appmon_BTXT": {
+      "commandName": "Project",
+      "commandLineArgs": "-o W -b \"D:\\Ere\\Nothing Important\\Other\\3DS\\Appli Mon\\LayeredFS\\RomFS\\data\\text\\AppmonLibraryCaption.btxt\" -x \"D:\\Ere\\source\\repos\\Appmon_BTXT\\AppmonText.XML\\AppmonLibraryCaption.xml\""
+    }
+  }
+}
