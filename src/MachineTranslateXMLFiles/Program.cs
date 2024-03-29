@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.Text;
+
+internal class Program
 {
     private const string FileLocation = @"";
 
@@ -6,7 +8,7 @@
         {"アドモン", "Addmon"},
         {"エイドモン", "Aidmon"},
         {"オクショモン", "Auctiomon"},
-        {"バッテリモン", "Batterimon (Appmon)"},
+        {"バッテリモン", "Batterimon"},
         {"ビューティモン", "Beautymon"},
         {"バイオモン", "Biomon"},
         {"ブックモン", "Bookmon"},
@@ -16,7 +18,7 @@
         {"カレンダモン", "Calendamon"},
         {"コールモン", "Callmon"},
         {"キャメラモン", "Cameramon"},
-        {"カードモン", "Cardmon (Appmon)"},
+        {"カードモン", "Cardmon"},
         {"カリスモン", "Charismon"},
         {"コーチモン", "Coachmon"},
         {"コメットモン", "Cometmon"},
@@ -48,7 +50,7 @@
         {"エンタモン", "Entermon"},
         {"フェイクモン", "Fakemon"},
         {"フリックモン", "Flickmon"},
-        {"ガイアモン", "Gaiamon (Appmon)"},
+        {"ガイアモン", "Gaiamon"},
         {"ガシャモン", "Gashamon"},
         {"ガッチモン", "Gatchmon"},
         {"ゲンゴーモン", "Gengomon"},
@@ -56,7 +58,7 @@
         {"ゴミモン", "Gomimon"},
         {"ゴシップモン", "Gossipmon"},
         {"ググモン", "Gugumon"},
-        {"ハックモン", "Hackmon (Appmon)"},
+        {"ハックモン", "Hackmon"},
         {"ハデスモン", "Hadesmon"},
         {"ジャミングモン", "Jammingmon"},
         {"ジェットモン", "Jetmon"},
@@ -82,7 +84,7 @@
         {"マネーモン", "Moneymon"},
         {"マッスルモン", "Musclemon"},
         {"ミュージモン", "Musimon"},
-        {"ナビモン", "Navimon (Appmon)"},
+        {"ナビモン", "Navimon"},
         {"ニュースモン", "Newsmon"},
         {"オフモン", "Offmon"},
         {"オンモン", "Onmon"},
@@ -92,7 +94,7 @@
         {"ペコモン", "Pekomon"},
         {"ペロリモン", "Perorimon"},
         {"ピーポモン", "Pipomon"},
-        {"ポコモン", "Pokomon (Appmon)"},
+        {"ポコモン", "Pokomon"},
         {"ポセイドモン", "Poseidomon"},
         {"プロテクモン", "Protecmon"},
         {"パズルモン", "Puzzlemon"},
@@ -145,12 +147,11 @@
     private async static Task Main(string[] args)
     {
         var allText = await File.ReadAllTextAsync(FileLocation);
-
         foreach (var appmonKeyValue in appmonDictionary)
         {
             allText = allText.Replace(appmonKeyValue.Key, appmonKeyValue.Value);
         }
 
-        await File.WriteAllTextAsync(FileLocation, allText);
+        await File.WriteAllTextAsync(FileLocation, allText, Encoding.Unicode);
     }
 }
