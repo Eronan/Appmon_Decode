@@ -46,15 +46,12 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         }
 
         // Get length of label Keys
-        var labelLengths = new Dictionary<BtxtLabel, int>();
         var startOffset = reader.ReadUInt32();
         foreach (var label in labels)
         {
             var endOffset = reader.ReadUInt32();
             label.StartOffset = startOffset;
             label.EndOffset = endOffset;
-            var length = (int)endOffset - (int)startOffset;
-            labelLengths.Add(label, length);
             startOffset = endOffset;
         }
 
@@ -73,7 +70,8 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         // Populate label keys
         foreach (var label in labels)
         {
-            label.Key = Encoding.ASCII.GetString(reader.ReadBytes(labelLengths[label])).Trim('\0');
+            var length = (int) (label.EndOffset - label.StartOffset);
+            label.Key = Encoding.ASCII.GetString(reader.ReadBytes(length)).Trim('\0');
         }
 
         // Populate values for all labels
@@ -139,7 +137,7 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         // Write label keys
         foreach (var label in btxtFile.Labels)
         {
-            var paddingSize = CalculatePadding(writer.BaseStream.Position, label.Key.Length, 3);
+            var paddingSize = label.EndOffset - label.StartOffset - label.Key.Length;
             writer.Write(Encoding.ASCII.GetBytes(label.Key));
             writer.Write(new byte[paddingSize]);
         }

@@ -47,7 +47,7 @@ internal class Program
         var fileAdapter = IBtxtAdapterExtensions.GetDefaultBtxtAdapter();
         if (operation == Operation.Read)
         {
-            Console.WriteLine($"Reading BTXT File from '{xmlLocation}'...");
+            Console.WriteLine($"Reading BTXT File from '{btxtLocation}'...");
             using var fileStream = new FileStream(btxtLocation, FileMode.Open);
             var btxtFile = fileAdapter.ReadBtxtFileFromStream(fileStream);
 
