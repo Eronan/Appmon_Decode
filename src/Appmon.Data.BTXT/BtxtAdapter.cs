@@ -79,6 +79,7 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         {
             var bytes = reader.ReadBytes(valueLengths[value]);
             var stringValue = Encoding.Unicode.GetString(bytes);
+            value.LeadingNullPadding = stringValue.TakeWhile(c => c == '\0').Count();
             value.Value = SerializeEscapeCharacters(stringValue.Trim('\0'));
         }
 
@@ -131,7 +132,7 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
             value.Value = DeserializeEscapeCharacters(value.Value);
             var paddingSize = CalculatePadding(currentOffset, value.Value.Length, 2) * 2;
             writer.Write(currentOffset);
-            currentOffset += (uint) ((value.Value.Length * 2) + paddingSize); // UTF-16 encoding
+            currentOffset += (uint) (value.LeadingNullPadding + (value.Value.Length * 2) + paddingSize); // UTF-16 encoding
         }
 
         // Write label keys
@@ -145,6 +146,8 @@ internal sealed class BtxtAdapter() : IBtxtAdapter
         // Write string values
         foreach (var value in btxtFile.Labels.SelectMany(label => label.Values))
         {
+            // Write leading null characters
+            writer.Write(new byte[value.LeadingNullPadding]);
             var paddingSize = CalculatePadding(writer.BaseStream.Position, value.Value.Length, 2) * 2;
             writer.Write(Encoding.Unicode.GetBytes(value.Value));
             writer.Write(new byte[paddingSize]);
