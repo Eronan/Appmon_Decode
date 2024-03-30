@@ -163,11 +163,21 @@ internal class Program
         { "レイ", "Rei" },
         { "アストラ", "Astra" },
         { "エリ", "Eri" },
-        { "おばさん", "Aunt" },
         { "ミハマ団", "Mihagang" },
+        { "ソルティＬ", "Salty L" },
+        { "ソルティＲ", "Salty R" },
         { "ソルティ", "Salty" },
-        { "ソルティＬ", "Salty L" }
-        { "ソルティＲ", "Salty R" }
+        { "じはんき", "Dispenser" },
+        { "ばんなむ", "Bandai" },
+        { "システム", "System" },
+        { "じはんき", "Vendor" },
+        { "スタッフ", "Staff" },
+        { "おじいさん", "Old Man" },
+        { "先生", "Teacher" },
+        { "おにいさん", "Brother" },
+        { "おねえさん", "Sister" },
+        { "おばさん", "Aunt" },
+        { "クラスメイト", "Classmate" }
     };
 
     private async static Task Main(string[] args)
@@ -176,6 +186,11 @@ internal class Program
         foreach (var appmonKeyValue in appmonDictionary)
         {
             allText = allText.Replace(appmonKeyValue.Key, appmonKeyValue.Value);
+        }
+
+        foreach (var characterName in CharacterNames)
+        {
+            allText = allText.Replace(characterName.Key, characterName.Value);
         }
 
         await File.WriteAllTextAsync(FileLocation, allText, Encoding.Unicode);
