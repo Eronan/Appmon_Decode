@@ -144,6 +144,32 @@ internal class Program
         {"ヤドモン", "Yadomon"}
     };
 
+    private static Dictionary<string, string> CharacterNames = new()
+    {
+        { "カズキ", "Kazuki" },
+        { "イツキ", "Itsuki" },
+        { "おかあさん", "Mum" },
+        { "ナオト", "Naoto" },
+        { "ミオ", "Mio" },
+        { "マコト", "Makoto" },
+        { "ユカリ", "Yukari" },
+        { "オウジ", "Ouji" },
+        { "カゲフミ", "Kagefumi" },
+        { "カヨ", "Kayo" },
+        { "リョウジ", "Ryouji" },
+        { "ワカバ", "Wakaba" },
+        { "ハル", "Haru" },
+        { "アイ", "Ai" },
+        { "レイ", "Rei" },
+        { "アストラ", "Astra" },
+        { "エリ", "Eri" },
+        { "おばさん", "Aunt" },
+        { "ミハマ団", "Mihagang" },
+        { "ソルティ", "Salty" },
+        { "ソルティＬ", "Salty L" }
+        { "ソルティＲ", "Salty R" }
+    };
+
     private async static Task Main(string[] args)
     {
         var allText = await File.ReadAllTextAsync(FileLocation);
